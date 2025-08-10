@@ -2,8 +2,7 @@ name: AI & Robotics Daily
 
 on:
   schedule:
-    # 每天 01:30 UTC 运行（北京时间 09:30；美西 18:30（夏令时））
-    - cron: "30 1 * * *"
+    - cron: "30 1 * * *"   # 每天 01:30 UTC
   workflow_dispatch: {}
 
 permissions:
@@ -12,9 +11,18 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Show git status (before)
+        run: |
+          git status
+          ls -la
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -23,23 +31,31 @@ jobs:
 
       - name: Install deps
         run: |
+          python -V
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements.txt --no-cache-dir
+          python -c "import feedparser,requests; import dateutil; print('deps ok')"
 
       - name: Generate daily report
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}   # 可选：用于读取 repo topics
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}   # 可选
         run: |
           python ai_robotics_daily.py
+          echo "---- after generate ----"
+          ls -la
+          head -n 20 AI_ROBOTICS_DAILY.md || true
 
       - name: Commit & push
         run: |
-          if ! git diff --quiet AI_ROBOTICS_DAILY.md; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add AI_ROBOTICS_DAILY.md
-            git commit -m "chore: update AI & Robotics daily"
-            git push
-          else
-            echo "No changes."
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: update AI & Robotics daily [skip ci]" || echo "nothing to commit"
+          git push
+
+      # 如 main 是保护分支，可改推送到 gh-pages 或 daily 分支：
+      # - name: Push to 'daily' branch
+      #   if: always()
+      #   run: |
+      #     git checkout -B daily
+      #     git push -u origin daily --force
