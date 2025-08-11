@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-08-11 03:19 UTC）
+# AI & 机器人 技术热点日报（2025-08-11 09:50 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
-| 2025-08-10 12:30 | [SEW-EURODRIVE supports heavy industry gearing with fast turnaround](https://www.therobotreport.com/sew-eurodrive-supports-heavy-industry-gearing-fast-turnaround/) | www.therobotreport.com |
-| 2025-08-09 13:00 | [Guozi Robotics provides a range of automation for TZ Group greenfield factory](https://www.therobotreport.com/guozi-robotics-provides-range-automation-tz-group-greenfield-factory/) | www.therobotreport.com |
-| 2025-08-09 12:30 | [DigiKey, onsemi discuss the intersection of robotics and physical AI](https://www.therobotreport.com/digikey-onsemi-discuss-the-intersection-of-robotics-and-physical-ai/) | www.therobotreport.com |
-| 2025-08-08 16:52 | [ShengShu Technology launches Vidar multi-view physical AI training model](https://www.therobotreport.com/shengshu-technology-launches-vidar-multi-view-physical-ai-training-model/) | www.therobotreport.com |
-| 2025-08-08 15:30 | [Video Friday: Unitree’s A2 Quadruped Goes Exploring](https://spectrum.ieee.org/video-friday-exploration-robots) | spectrum.ieee.org |
-| 2025-08-08 13:41 | [Unitree launches A2 quadruped equipped with front and rear lidar](https://www.therobotreport.com/unitree-launches-a2-quadruped-equipped-with-front-and-rear-lidar/) | www.therobotreport.com |
-| 2025-08-08 12:00 | [We’re testing a new, AI-powered Google Finance.](https://blog.google/products/search/google-finance-ai/) | blog.google |
-| 2025-08-08 05:30 | [Orbbec touts Pulsar ME450 as a multi-pattern 3D lidar](https://www.therobotreport.com/orbbec-touts-pulsar-me450-as-a-multi-pattern-3d-lidar/) | www.therobotreport.com |
-| 2025-08-07 18:29 | [Can iRobot bounce back? Deep concerns overshadow $127M Q2](https://www.therobotreport.com/can-irobot-bounce-back-deep-concerns-overshadow-127m-q2/) | www.therobotreport.com |
-| 2025-08-07 17:46 | [Amtenbrink deploys Teqram’s EasyGrinder to cut 1,500 parts a day](https://www.therobotreport.com/amtenbrink-deploys-teqrams-easygrinder-cuts-1500-parts-day/) | www.therobotreport.com |
-| 2025-08-07 16:00 | [See our new ChromeOS wallpapers starring Jupiter’s UV auroras](https://blog.google/products/chromebooks/chromeos-wallpapers-jupiter-auroras/) | blog.google |
-| 2025-08-07 15:34 | [The AI model Perch, updated today, uses audio to help protect endangered species.](https://blog.google/technology/google-deepmind/perch-ai-model/) | blog.google |
-| 2025-08-07 14:30 | [The latest AI news we announced in July](https://blog.google/technology/ai/google-ai-updates-july-2025/) | blog.google |
-| 2025-08-07 14:21 | [Lyft partners with Baidu to deploy autonomous vehicles in Europe](https://www.therobotreport.com/lyft-baidu-partner-deploy-autonomous-vehicles-europe/) | www.therobotreport.com |
-| 2025-08-07 13:00 | [FORT Robotics adds $18.9M to Series B funding for robotic safety](https://www.therobotreport.com/fort-robotics-adds-18-9m-series-b-funding-robotic-safety/) | www.therobotreport.com |
-| 2025-08-07 10:00 | [GPT-5 and the new era of work](https://openai.com/index/gpt-5-new-era-of-work) | openai.com |
-| 2025-08-07 10:00 | [Introducing GPT-5 for developers](https://openai.com/index/introducing-gpt-5-for-developers) | openai.com |
-| 2025-08-07 00:00 | [Introducing GPT-5](https://openai.com/index/introducing-gpt-5) | openai.com |
-| 2025-08-07 00:00 | [From hard refusals to safe-completions: toward output-centric safety training](https://openai.com/index/gpt-5-safe-completions) | openai.com |
-| 2025-08-07 00:00 | [GPT-5 System Card](https://openai.com/index/gpt-5-system-card) | openai.com |
-| 2025-08-06 20:33 | [PrismaX launches teleop platform for robotic arms](https://www.therobotreport.com/prismax-launches-teleop-platform-for-robotic-arms/) | www.therobotreport.com |
-| 2025-08-06 16:00 | [New Gemini app tools to help students learn, understand and study even better](https://blog.google/products/gemini/new-gemini-tools-students-august-2025/) | blog.google |
-| 2025-08-06 14:10 | [Learn at RoboBusiness how Sim2Real is training robots for the real world](https://www.therobotreport.com/learn-how-sim2real-training-robots-real-world-robobusiness/) | www.therobotreport.com |
-| 2025-08-06 12:30 | [Optimized components expand motion possibilities for humanoid robots](https://www.therobotreport.com/optimized-components-expand-motion-possibilities-for-humanoid-robots/) | www.therobotreport.com |
-| 2025-08-06 01:00 | [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/) | blog.google |
-| 2025-08-06 00:00 | [Providing ChatGPT to the Entire U.S. Federal Workforce](https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce) | openai.com |
-| 2025-08-05 21:46 | [Agility Robotics, Boston Dynamics see leadership changes](https://www.therobotreport.com/agility-robotics-boston-dynamics-see-leadership-changes/) | www.therobotreport.com |
-| 2025-08-05 19:35 | [LimX Dynamics launches LimX Oli full-size humanoid robot](https://www.therobotreport.com/limx-dynamics-launches-limx-oli-full-size-humanoid-robot/) | www.therobotreport.com |
-| 2025-08-05 00:00 | [Estimating worst case frontier risks of open weight LLMs](https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms) | openai.com |
-| 2025-08-05 00:00 | [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss) | openai.com |
-| 2025-08-05 00:00 | [gpt-oss-120b & gpt-oss-20b Model Card](https://openai.com/index/gpt-oss-model-card) | openai.com |
-| 2025-08-05 00:00 | [Open Weights and AI for All](https://openai.com/global-affairs/open-weights-and-ai-for-all) | openai.com |
-| 2025-08-04 19:00 | [How we’re using AI to help track and predict cyclones](https://blog.google/technology/google-deepmind/weather-lab-ai-cyclone-prediction-tracking/) | blog.google |
-| 2025-08-04 16:00 | [Rethinking how we measure AI intelligence](https://blog.google/technology/ai/kaggle-game-arena/) | blog.google |
-| 2025-08-04 13:00 | [How we’re making data centers more flexible to benefit power grids](https://blog.google/inside-google/infrastructure/how-were-making-data-centers-more-flexible-to-benefit-power-grids/) | blog.google |
-| 2025-08-04 00:00 | [What we’re optimizing ChatGPT for](https://openai.com/index/how-we're-optimizing-chatgpt) | openai.com |
-| 2025-08-01 17:00 | [Video Friday: Dance With CHILD](https://spectrum.ieee.org/video-friday-child-humanoid-robot) | spectrum.ieee.org |
-| 2025-08-01 11:00 | [Try Deep Think in the Gemini app](https://blog.google/products/gemini/gemini-2-5-deep-think/) | blog.google |
-| 2025-08-01 00:00 | [Figma uses AI to transform digital design](https://openai.com/index/figma-david-kossnick) | openai.com |
-| 2025-07-31 00:00 | [Introducing Stargate Norway](https://openai.com/index/introducing-stargate-norway) | openai.com |
-| 2025-07-30 14:00 | [Google Earth AI: Our state-of-the-art geospatial AI models](https://blog.google/technology/ai/google-earth-ai/) | blog.google |
-| 2025-07-30 00:00 | [Three lessons for creating a sustainable AI advantage](https://openai.com/index/intercom) | openai.com |
-| 2025-07-29 16:00 | [The inside story of building NotebookLM](https://blog.google/technology/ai/developing-notebooklm/) | blog.google |
-| 2025-07-29 16:00 | [New ways to learn and explore with AI Mode in Search](https://blog.google/products/search/ai-mode-updates-back-to-school/) | blog.google |
-| 2025-07-29 15:05 | [Can AI save nurses millions of hours of paperwork?](https://blog.google/products/google-cloud/hca-healthcare-nurse-handoff-app/) | blog.google |
-| 2025-07-29 10:00 | [Introducing study mode in ChatGPT](https://openai.com/index/chatgpt-study-mode) | openai.com |
-| 2025-07-26 13:00 | [Robots That Learn to Fear Like Humans Survive Better](https://spectrum.ieee.org/robot-risk-assessment-fear) | spectrum.ieee.org |
-| 2025-07-25 16:00 | [Video Friday: Skyfall Takes on Mars With Swarm Helicopter Concept](https://spectrum.ieee.org/video-friday-skyfall-mars-helicopter) | spectrum.ieee.org |
-| 2025-07-24 16:00 | [Try on styles with AI, jump on great prices and more](https://blog.google/products/shopping/back-to-school-ai-updates-try-on-price-alerts/) | blog.google |
-| 2025-07-24 16:00 | [Web Guide: An experimental AI-organized search results page](https://blog.google/products/search/web-guide-labs/) | blog.google |
-| 2025-07-24 00:00 | [Resolving digital threats 100x faster with OpenAI](https://openai.com/index/outtake) | openai.com |
-| 2025-07-23 19:00 | [Listen to a conversation about the newest AI capabilities in Search.](https://blog.google/products/search/release-notes-podcast-search/) | blog.google |
-| 2025-07-23 16:54 | [Google DeepMind’s new AI model helps historians interpret ancient texts.](https://blog.google/technology/google-deepmind/aeneas/) | blog.google |
-| 2025-07-23 16:00 | [Transform your photos into videos and remix your pics in Google Photos](https://blog.google/products/photos/photo-to-video-remix-create-tab/) | blog.google |
-| 2025-07-23 12:00 | [Startups can apply now for the Google for Startups Gemini Founders Forum.](https://blog.google/outreach-initiatives/entrepreneurs/apply-google-for-startups-gemini-founders-fund/) | blog.google |
-| 2025-07-23 00:00 | [Announcing OpenAI DevDay 2025](https://openai.com/index/announcing-devday-2025) | openai.com |
-| 2025-07-23 00:00 | [Model ML is helping financial firms rebuild with AI from the ground up](https://openai.com/index/model-ml-chaz-englander) | openai.com |
-| 2025-07-22 10:00 | [Pioneering an AI clinical copilot with Penda Health](https://openai.com/index/ai-clinical-copilot-penda-health) | openai.com |
-| 2025-07-22 00:00 | [OpenAI’s new economic analysis](https://openai.com/global-affairs/new-economic-analysis) | openai.com |
-| 2025-07-22 00:00 | [Stargate advances with 4.5 GW partnership with Oracle](https://openai.com/index/stargate-advances-with-partnership-with-oracle) | openai.com |
+| 2025-08-11 04:00 | [InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization](https://arxiv.org/abs/2508.05731) | export.arxiv.org |
+| 2025-08-11 04:00 | [A Framework for Inherently Safer AGI through Language-Mediated Active Inference](https://arxiv.org/abs/2508.05766) | export.arxiv.org |
+| 2025-08-11 04:00 | [Whither symbols in the era of advanced neural networks?](https://arxiv.org/abs/2508.05776) | export.arxiv.org |
+| 2025-08-11 04:00 | [Holistic Explainable AI (H-XAI): Extending Transparency Beyond Developers in AI-Driven Decision Making](https://arxiv.org/abs/2508.05792) | export.arxiv.org |
+| 2025-08-11 04:00 | [Safety of Embodied Navigation: A Survey](https://arxiv.org/abs/2508.05855) | export.arxiv.org |
+| 2025-08-11 04:00 | [Planning Agents on an Ego-Trip: Leveraging Hybrid Ego-Graph Ensembles for Improved Tool Retrieval in Enterprise Task Planning](https://arxiv.org/abs/2508.05888) | export.arxiv.org |
+| 2025-08-11 04:00 | [Mediator-Guided Multi-Agent Collaboration among Open-Source Models for Medical Decision-Making](https://arxiv.org/abs/2508.05996) | export.arxiv.org |
+| 2025-08-11 04:00 | [Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning](https://arxiv.org/abs/2508.06042) | export.arxiv.org |
+| 2025-08-11 04:00 | [LLMs for Resource Allocation: A Participatory Budgeting Approach to Inferring Preferences](https://arxiv.org/abs/2508.06060) | export.arxiv.org |
+| 2025-08-11 04:00 | [Don't Forget Imagination!](https://arxiv.org/abs/2508.06062) | export.arxiv.org |
+| 2025-08-11 04:00 | [A Generic Complete Anytime Beam Search for Optimal Decision Tree](https://arxiv.org/abs/2508.06064) | export.arxiv.org |
+| 2025-08-11 04:00 | [ME$^3$-BEV: Mamba-Enhanced Deep Reinforcement Learning for End-to-End Autonomous Driving with BEV-Perception](https://arxiv.org/abs/2508.06074) | export.arxiv.org |
+| 2025-08-11 04:00 | [Aggregate-Combine-Readout GNNs Are More Expressive Than Logic C2](https://arxiv.org/abs/2508.06091) | export.arxiv.org |
+| 2025-08-11 04:00 | [PanelTR: Zero-Shot Table Reasoning Framework Through Multi-Agent Scientific Discussion](https://arxiv.org/abs/2508.06110) | export.arxiv.org |
+| 2025-08-11 04:00 | [SKATE, a Scalable Tournament Eval: Weaker LLMs differentiate between stronger ones using verifiable challenges](https://arxiv.org/abs/2508.06111) | export.arxiv.org |
+| 2025-08-11 04:00 | [Study of Robust Features in Formulating Guidance for Heuristic Algorithms for Solving the Vehicle Routing Problem](https://arxiv.org/abs/2508.06129) | export.arxiv.org |
+| 2025-08-11 04:00 | [Retrieval Augmented Large Language Model System for Comprehensive Drug Contraindications](https://arxiv.org/abs/2508.06145) | export.arxiv.org |
+| 2025-08-11 04:00 | [Overconfidence in LLM-as-a-Judge: Diagnosis and Confidence-Driven Solution](https://arxiv.org/abs/2508.06225) | export.arxiv.org |
+| 2025-08-11 04:00 | [GeoLaux: A Benchmark for Evaluating MLLMs' Geometry Performance on Long-Step Problems Requiring Auxiliary Lines](https://arxiv.org/abs/2508.06226) | export.arxiv.org |
+| 2025-08-11 04:00 | [Learning Logical Rules using Minimum Message Length](https://arxiv.org/abs/2508.06230) | export.arxiv.org |
+| 2025-08-11 04:00 | [Symmetry breaking for inductive logic programming](https://arxiv.org/abs/2508.06263) | export.arxiv.org |
+| 2025-08-11 04:00 | [LLM Robustness Leaderboard v1 --Technical report](https://arxiv.org/abs/2508.06296) | export.arxiv.org |
+| 2025-08-11 04:00 | [A "good regulator theorem" for embodied agents](https://arxiv.org/abs/2508.06326) | export.arxiv.org |
+| 2025-08-11 04:00 | [AntiCheatPT: A Transformer-Based Approach to Cheat Detection in Competitive Computer Games](https://arxiv.org/abs/2508.06348) | export.arxiv.org |
+| 2025-08-11 04:00 | [From Explainable to Explanatory Artificial Intelligence: Toward a New Paradigm for Human-Centered Explanations through Generative AI](https://arxiv.org/abs/2508.06352) | export.arxiv.org |
+| 2025-08-11 04:00 | [Automated Creation of the Legal Knowledge Graph Addressing Legislation on Violence Against Women: Resource, Methodology and Lessons Learned](https://arxiv.org/abs/2508.06368) | export.arxiv.org |
+| 2025-08-11 04:00 | [The Fair Game: Auditing & Debiasing AI Algorithms Over Time](https://arxiv.org/abs/2508.06443) | export.arxiv.org |
+| 2025-08-11 04:00 | [What Voting Rules Actually Do: A Data-Driven Analysis of Multi-Winner Voting](https://arxiv.org/abs/2508.06454) | export.arxiv.org |
+| 2025-08-11 04:00 | [Epidemic Control on a Large-Scale-Agent-Based Epidemiology Model using Deep Deterministic Policy Gradient](https://arxiv.org/abs/2304.04475) | export.arxiv.org |
+| 2025-08-11 04:00 | [SHACL Validation in the Presence of Ontologies: Semantics and Rewriting Techniques](https://arxiv.org/abs/2507.12286) | export.arxiv.org |
+| 2025-08-11 04:00 | [AttriLens-Mol: Attribute Guided Reinforcement Learning for Molecular Property Prediction with Large Language Models](https://arxiv.org/abs/2508.04748) | export.arxiv.org |
+| 2025-08-11 04:00 | [Automated Visualization Makeovers with LLMs](https://arxiv.org/abs/2508.05637) | export.arxiv.org |
+| 2025-08-11 04:00 | [Request-Only Optimization for Recommendation Systems](https://arxiv.org/abs/2508.05640) | export.arxiv.org |
+| 2025-08-11 04:00 | [Query-Aware Graph Neural Networks for Enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2508.05647) | export.arxiv.org |
+| 2025-08-11 04:00 | [AquiLLM: a RAG Tool for Capturing Tacit Knowledge in Research Groups](https://arxiv.org/abs/2508.05648) | export.arxiv.org |
+| 2025-08-11 04:00 | [OmniBench-RAG: A Multi-Domain Evaluation Platform for Retrieval-Augmented Generation Tools](https://arxiv.org/abs/2508.05650) | export.arxiv.org |
+| 2025-08-11 04:00 | [Lessons from A Large Language Model-based Outdoor Trail Recommendation Chatbot with Retrieval Augmented Generation](https://arxiv.org/abs/2508.05652) | export.arxiv.org |
+| 2025-08-11 04:00 | [Modeling Interactive Narrative Systems: A Formal Approach](https://arxiv.org/abs/2508.05653) | export.arxiv.org |
+| 2025-08-11 04:00 | [Comparison of Information Retrieval Techniques Applied to IT Support Tickets](https://arxiv.org/abs/2508.05654) | export.arxiv.org |
+| 2025-08-11 04:00 | [Beyond Single Labels: Improving Conversational Recommendation through LLM-Powered Data Augmentation](https://arxiv.org/abs/2508.05657) | export.arxiv.org |
+| 2025-08-11 04:00 | [GPU-Accelerated Barrier-Rate Guided MPPI Control for Tractor-Trailer Systems](https://arxiv.org/abs/2508.05773) | export.arxiv.org |
+| 2025-08-11 04:00 | [Integrating Vision Foundation Models with Reinforcement Learning for Enhanced Object Interaction](https://arxiv.org/abs/2508.05838) | export.arxiv.org |
+| 2025-08-11 04:00 | [Modular Vacuum-Based Fixturing System for Adaptive Disassembly Workspace Integration](https://arxiv.org/abs/2508.05936) | export.arxiv.org |
+| 2025-08-11 04:00 | [Affordance-Guided Dual-Armed Disassembly Teleoperation for Mating Parts](https://arxiv.org/abs/2508.05937) | export.arxiv.org |
+| 2025-08-11 04:00 | [Latent Policy Barrier: Learning Robust Visuomotor Policies by Staying In-Distribution](https://arxiv.org/abs/2508.05941) | export.arxiv.org |
+| 2025-08-11 04:00 | [Social and Telepresence Robots for Accessibility and Inclusion in Small Museums](https://arxiv.org/abs/2508.05946) | export.arxiv.org |
+| 2025-08-11 04:00 | [Dynamical Trajectory Planning of Disturbance Consciousness for Air-Land Bimodal Unmanned Aerial Vehicles](https://arxiv.org/abs/2508.05972) | export.arxiv.org |
+| 2025-08-11 04:00 | [ReNiL: Relative Neural Inertial Locator with Any-Scale Bayesian Inference](https://arxiv.org/abs/2508.06053) | export.arxiv.org |
+| 2025-08-11 04:00 | [Incremental Language Understanding for Online Motion Planning of Robot Manipulators](https://arxiv.org/abs/2508.06095) | export.arxiv.org |
+| 2025-08-11 04:00 | [Bounding Distributional Shifts in World Modeling through Novelty Detection](https://arxiv.org/abs/2508.06096) | export.arxiv.org |
+| 2025-08-11 04:00 | [Beyond Constant Parameters: Hyper Prediction Models and HyperMPC](https://arxiv.org/abs/2508.06181) | export.arxiv.org |
+| 2025-08-11 04:00 | [Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning in Multimodal Large Language Model](https://arxiv.org/abs/2508.06206) | export.arxiv.org |
+| 2025-08-11 04:00 | [Computer Vision-based Adaptive Control for Back Exoskeleton Performance Optimization](https://arxiv.org/abs/2508.06207) | export.arxiv.org |
+| 2025-08-11 04:00 | [REBot: Reflexive Evasion Robot for Instantaneous Dynamic Obstacle Avoidance](https://arxiv.org/abs/2508.06229) | export.arxiv.org |
+| 2025-08-11 04:00 | [ADPro: a Test-time Adaptive Diffusion Policy for Robot Manipulation via Manifold and Initial Noise Constraints](https://arxiv.org/abs/2508.06266) | export.arxiv.org |
+| 2025-08-11 04:00 | [EcBot: Data-Driven Energy Consumption Open-Source MATLAB Library for Manipulators](https://arxiv.org/abs/2508.06276) | export.arxiv.org |
+| 2025-08-11 04:00 | [Mitigating Undesired Conditions in Flexible Production with Product-Process-Resource Asset Knowledge Graphs](https://arxiv.org/abs/2508.06278) | export.arxiv.org |
+| 2025-08-11 04:00 | [Situationally-aware Path Planning Exploiting 3D Scene Graphs](https://arxiv.org/abs/2508.06283) | export.arxiv.org |
+| 2025-08-11 04:00 | [Real-Time 3D Vision-Language Embedding Mapping](https://arxiv.org/abs/2508.06291) | export.arxiv.org |
+| 2025-08-11 04:00 | [Evaluating Robot Program Performance with Power Consumption Driven Metrics in Lightweight Industrial Robots](https://arxiv.org/abs/2508.06295) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
