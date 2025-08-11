@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-08-10 04:57 UTC）
+# AI & 机器人 技术热点日报（2025-08-11 03:19 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2025-08-10 12:30 | [SEW-EURODRIVE supports heavy industry gearing with fast turnaround](https://www.therobotreport.com/sew-eurodrive-supports-heavy-industry-gearing-fast-turnaround/) | www.therobotreport.com |
 | 2025-08-09 13:00 | [Guozi Robotics provides a range of automation for TZ Group greenfield factory](https://www.therobotreport.com/guozi-robotics-provides-range-automation-tz-group-greenfield-factory/) | www.therobotreport.com |
 | 2025-08-09 12:30 | [DigiKey, onsemi discuss the intersection of robotics and physical AI](https://www.therobotreport.com/digikey-onsemi-discuss-the-intersection-of-robotics-and-physical-ai/) | www.therobotreport.com |
 | 2025-08-08 16:52 | [ShengShu Technology launches Vidar multi-view physical AI training model](https://www.therobotreport.com/shengshu-technology-launches-vidar-multi-view-physical-ai-training-model/) | www.therobotreport.com |
@@ -37,7 +38,6 @@
 | 2025-08-06 00:00 | [Providing ChatGPT to the Entire U.S. Federal Workforce](https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce) | openai.com |
 | 2025-08-05 21:46 | [Agility Robotics, Boston Dynamics see leadership changes](https://www.therobotreport.com/agility-robotics-boston-dynamics-see-leadership-changes/) | www.therobotreport.com |
 | 2025-08-05 19:35 | [LimX Dynamics launches LimX Oli full-size humanoid robot](https://www.therobotreport.com/limx-dynamics-launches-limx-oli-full-size-humanoid-robot/) | www.therobotreport.com |
-| 2025-08-05 17:18 | [Cosmic and ABB use robotics to rebuild LA homes after wildfires](https://www.therobotreport.com/cosmic-abb-use-robotics-rebuild-la-homes-after-wildfires/) | www.therobotreport.com |
 | 2025-08-05 00:00 | [Estimating worst case frontier risks of open weight LLMs](https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms) | openai.com |
 | 2025-08-05 00:00 | [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss) | openai.com |
 | 2025-08-05 00:00 | [gpt-oss-120b & gpt-oss-20b Model Card](https://openai.com/index/gpt-oss-model-card) | openai.com |
@@ -95,57 +95,6 @@
 
     
       GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
-| 2 | [login?return_to=%2Fexo-explore%2Fexo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:819554665,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fexo-explore%2Fexo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:819554665,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        exo-explore /
-
-      exo  
-
-    
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
-| 3 | [login?return_to=%2Fsinaptik-ai%2Fpandas-ai" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:631258918,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fsinaptik-ai%2Fpandas-ai" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:631258918,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        sinaptik-ai /
-
-      pandas-ai  
-
-    
-      Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. |
-| 4 | [login?return_to=%2Fdatawhalechina%2Fself-llm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:719367888,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fdatawhalechina%2Fself-llm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:719367888,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        datawhalechina /
-
-      self-llm  
-
-    
-      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -205,6 +154,23 @@
 
     
       LLM inference in C/C++ |
+| 4 | [login?return_to=%2Fbrowserbase%2Fstagehand" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:776908852,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fbrowserbase%2Fstagehand" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:776908852,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        browserbase /
+
+      stagehand  
+
+    
+      The AI Browser Automation Framework |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
