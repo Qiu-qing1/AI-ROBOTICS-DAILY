@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-08-11 09:50 UTC）
+# AI & 机器人 技术热点日报（2025-08-12 00:56 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,10 @@
 
 |---|---|---|
 
+| 2025-08-11 20:35 | [Hear Google DeepMind CEO Demis Hassabis discuss how world model capabilities are helping AI understand reality.](https://blog.google/technology/google-deepmind/ai-release-notes-podcast-demis-hassabis/) | blog.google |
+| 2025-08-11 18:17 | [ABB, Regal Rexnord partner on 7th axis](https://www.therobotreport.com/abb-regal-rexnord-partner-on-7th-axis/) | www.therobotreport.com |
+| 2025-08-11 17:56 | [Apple announces $100B American Manufacturing program](https://www.therobotreport.com/apple-announces-100b-american-manufacturing-program/) | www.therobotreport.com |
+| 2025-08-11 15:48 | [Learn about the state of the robotics industry at RoboBusiness](https://www.therobotreport.com/learn-about-the-state-of-the-robotics-industry-at-robobusiness/) | www.therobotreport.com |
 | 2025-08-11 04:00 | [InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization](https://arxiv.org/abs/2508.05731) | export.arxiv.org |
 | 2025-08-11 04:00 | [A Framework for Inherently Safer AGI through Language-Mediated Active Inference](https://arxiv.org/abs/2508.05766) | export.arxiv.org |
 | 2025-08-11 04:00 | [Whither symbols in the era of advanced neural networks?](https://arxiv.org/abs/2508.05776) | export.arxiv.org |
@@ -66,10 +70,6 @@
 | 2025-08-11 04:00 | [REBot: Reflexive Evasion Robot for Instantaneous Dynamic Obstacle Avoidance](https://arxiv.org/abs/2508.06229) | export.arxiv.org |
 | 2025-08-11 04:00 | [ADPro: a Test-time Adaptive Diffusion Policy for Robot Manipulation via Manifold and Initial Noise Constraints](https://arxiv.org/abs/2508.06266) | export.arxiv.org |
 | 2025-08-11 04:00 | [EcBot: Data-Driven Energy Consumption Open-Source MATLAB Library for Manipulators](https://arxiv.org/abs/2508.06276) | export.arxiv.org |
-| 2025-08-11 04:00 | [Mitigating Undesired Conditions in Flexible Production with Product-Process-Resource Asset Knowledge Graphs](https://arxiv.org/abs/2508.06278) | export.arxiv.org |
-| 2025-08-11 04:00 | [Situationally-aware Path Planning Exploiting 3D Scene Graphs](https://arxiv.org/abs/2508.06283) | export.arxiv.org |
-| 2025-08-11 04:00 | [Real-Time 3D Vision-Language Embedding Mapping](https://arxiv.org/abs/2508.06291) | export.arxiv.org |
-| 2025-08-11 04:00 | [Evaluating Robot Program Performance with Power Consumption Driven Metrics in Lightweight Industrial Robots](https://arxiv.org/abs/2508.06295) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -95,6 +95,87 @@
 
     
       GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| 2 | [sponsors/patchy631](https://github.com/sponsors/patchy631) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        patchy631 /
+
+      ai-engineering-hub  
+
+    
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| 3 | [login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:655806940,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:655806940,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        microsoft /
+
+      generative-ai-for-beginners  
+
+    
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| 4 | [login?return_to=%2Fmidday-ai%2Fmidday" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:693262773,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmidday-ai%2Fmidday" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:693262773,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        midday-ai /
+
+      midday  
+
+    
+      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview &amp; your own Assistant made for Freelancers |
+| 5 | [login?return_to=%2Fmendableai%2Ffirecrawl" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:787076358,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmendableai%2Ffirecrawl" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:787076358,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        mendableai /
+
+      firecrawl  
+
+    
+      🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
