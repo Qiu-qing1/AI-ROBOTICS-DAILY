@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-08-12 00:56 UTC）
+# AI & 机器人 技术热点日报（2025-08-12 03:03 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
