@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-08-20 02:52 UTC）
+# AI & 机器人 技术热点日报（2025-08-21 02:52 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
-| 2025-08-19 20:37 | [AMR experts weigh in on global challenges and opportunities for the industry](https://www.therobotreport.com/amr-experts-weigh-global-challenges-opportunities-industry/) | www.therobotreport.com |
-| 2025-08-19 18:06 | [Torc collaborates with Edge Case to commercialize autonomous trucks](https://www.therobotreport.com/torc-collaborates-with-edge-case-to-commercialize-autonomous-long-haul-trucks/) | www.therobotreport.com |
-| 2025-08-19 17:05 | [Beyond manufacturing: AI-Powered robotics and the long tail of commercial innovation](https://www.therobotreport.com/beyond-manufacturing-ai-powered-robotics-long-tail-commercial-innovation/) | www.therobotreport.com |
-| 2025-08-19 14:00 | [Smart Glasses Help Train General-Purpose Robots](https://spectrum.ieee.org/smart-glasses-robot-training) | spectrum.ieee.org |
-| 2025-08-19 11:55 | [Automated Warehouse Week to help navigate transformative technologies](https://www.therobotreport.com/automated-warehouse-week-help-navigate-transformative-technologies/) | www.therobotreport.com |
-| 2025-08-19 04:00 | [Finite Automata Extraction: Low-data World Model Learning as Programs from Gameplay Video](https://arxiv.org/abs/2508.11836) | export.arxiv.org |
-| 2025-08-19 04:00 | [EvoCut: Strengthening Integer Programs via Evolution-Guided Language Models](https://arxiv.org/abs/2508.11850) | export.arxiv.org |
-| 2025-08-19 04:00 | [LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework](https://arxiv.org/abs/2508.11860) | export.arxiv.org |
-| 2025-08-19 04:00 | [QuarkMed Medical Foundation Model Technical Report](https://arxiv.org/abs/2508.11894) | export.arxiv.org |
-| 2025-08-19 04:00 | [CHBench: A Cognitive Hierarchy Benchmark for Evaluating Strategic Reasoning Capability of LLMs](https://arxiv.org/abs/2508.11944) | export.arxiv.org |
-| 2025-08-19 04:00 | [Data Mixing Optimization for Supervised Fine-Tuning of Large Language Models](https://arxiv.org/abs/2508.11953) | export.arxiv.org |
-| 2025-08-19 04:00 | [UniCast: A Unified Multimodal Prompting Framework for Time Series Forecasting](https://arxiv.org/abs/2508.11954) | export.arxiv.org |
-| 2025-08-19 04:00 | [Rigorous Feature Importance Scores based on Shapley Value and Banzhaf Index](https://arxiv.org/abs/2508.11959) | export.arxiv.org |
-| 2025-08-19 04:00 | [Chart-CoCa: Self-Improving Chart Understanding of Vision LMs via Code-Driven Synthesis and Candidate-Conditioned Answering](https://arxiv.org/abs/2508.11975) | export.arxiv.org |
-| 2025-08-19 04:00 | [FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction](https://arxiv.org/abs/2508.11987) | export.arxiv.org |
-| 2025-08-19 04:00 | [Modeling Relational Logic Circuits for And-Inverter Graph Convolutional Network](https://arxiv.org/abs/2508.11991) | export.arxiv.org |
-| 2025-08-19 04:00 | [AgentCDM: Enhancing Multi-Agent Collaborative Decision-Making via ACH-Inspired Structured Reasoning](https://arxiv.org/abs/2508.11995) | export.arxiv.org |
-| 2025-08-19 04:00 | [AI Models for Depressive Disorder Detection and Diagnosis: A Review](https://arxiv.org/abs/2508.12022) | export.arxiv.org |
-| 2025-08-19 04:00 | [Bongard-RWR+: Real-World Representations of Fine-Grained Concepts in Bongard Problems](https://arxiv.org/abs/2508.12026) | export.arxiv.org |
-| 2025-08-19 04:00 | [Active inference for action-unaware agents](https://arxiv.org/abs/2508.12027) | export.arxiv.org |
-| 2025-08-19 04:00 | [MAPF-World: Action World Model for Multi-Agent Path Finding](https://arxiv.org/abs/2508.12087) | export.arxiv.org |
-| 2025-08-19 04:00 | [Overcoming Knowledge Discrepancies: Structuring Reasoning Threads through Knowledge Balancing in Interactive Scenarios](https://arxiv.org/abs/2508.12100) | export.arxiv.org |
-| 2025-08-19 04:00 | [MOVER: Multimodal Optimal Transport with Volume-based Embedding Regularization](https://arxiv.org/abs/2508.12149) | export.arxiv.org |
-| 2025-08-19 04:00 | [RLNVR: Reinforcement Learning from Non-Verified Real-World Rewards](https://arxiv.org/abs/2508.12165) | export.arxiv.org |
-| 2025-08-19 04:00 | [Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting](https://arxiv.org/abs/2508.12260) | export.arxiv.org |
-| 2025-08-19 04:00 | [RadarQA: Multi-modal Quality Analysis of Weather Radar Forecasts](https://arxiv.org/abs/2508.12291) | export.arxiv.org |
-| 2025-08-19 04:00 | [Wisdom of the Crowd: Reinforcement Learning from Coevolutionary Collective Feedback](https://arxiv.org/abs/2508.12338) | export.arxiv.org |
-| 2025-08-19 04:00 | [Hierarchical knowledge guided fault intensity diagnosis of complex industrial systems](https://arxiv.org/abs/2508.12375) | export.arxiv.org |
-| 2025-08-19 04:00 | [GraphCogent: Overcoming LLMs' Working Memory Constraints via Multi-Agent Collaboration in Complex Graph Understanding](https://arxiv.org/abs/2508.12379) | export.arxiv.org |
-| 2025-08-19 04:00 | [Non-Iterative Symbolic-Aided Chain-of-Thought for Logical Reasoning](https://arxiv.org/abs/2508.12425) | export.arxiv.org |
-| 2025-08-19 04:00 | [GALA: Can Graph-Augmented Large Language Model Agentic Workflows Elevate Root Cause Analysis?](https://arxiv.org/abs/2508.12472) | export.arxiv.org |
-| 2025-08-19 04:00 | [The Yokai Learning Environment: Tracking Beliefs Over Space and Time](https://arxiv.org/abs/2508.12480) | export.arxiv.org |
-| 2025-08-19 04:00 | [Advanced DOA Regulation with a Whale-Optimized Fractional Order Fuzzy PID Framework](https://arxiv.org/abs/2508.12487) | export.arxiv.org |
-| 2025-08-19 04:00 | [Root Cause Analysis of Hydrogen Bond Separation in Spatio-Temporal Molecular Dynamics using Causal Models](https://arxiv.org/abs/2508.12500) | export.arxiv.org |
-| 2025-08-19 04:00 | [Help or Hurdle? Rethinking Model Context Protocol-Augmented Large Language Models](https://arxiv.org/abs/2508.12566) | export.arxiv.org |
-| 2025-08-19 04:00 | [An LLM + ASP Workflow for Joint Entity-Relation Extraction](https://arxiv.org/abs/2508.12611) | export.arxiv.org |
-| 2025-08-19 04:00 | [Cognitive Structure Generation: From Educational Priors to Policy Optimization](https://arxiv.org/abs/2508.12647) | export.arxiv.org |
-| 2025-08-19 04:00 | [The Maximum Coverage Model and Recommendation System for UAV Vertiports Location Planning](https://arxiv.org/abs/2508.12651) | export.arxiv.org |
-| 2025-08-19 04:00 | [GridCodex: A RAG-Driven AI Framework for Power Grid Code Reasoning and Compliance](https://arxiv.org/abs/2508.12682) | export.arxiv.org |
-| 2025-08-19 04:00 | [EGOILLUSION: Benchmarking Hallucinations in Egocentric Video Understanding](https://arxiv.org/abs/2508.12687) | export.arxiv.org |
-| 2025-08-19 04:00 | [GTool: Graph Enhanced Tool Planning with Large Language Model](https://arxiv.org/abs/2508.12725) | export.arxiv.org |
-| 2025-08-19 04:00 | [Beyond Ethical Alignment: Evaluating LLMs as Artificial Moral Assistants](https://arxiv.org/abs/2508.12754) | export.arxiv.org |
-| 2025-08-19 04:00 | [HeroBench: A Benchmark for Long-Horizon Planning and Structured Reasoning in Virtual Worlds](https://arxiv.org/abs/2508.12782) | export.arxiv.org |
-| 2025-08-19 04:00 | [Reinforcement Learning with Rubric Anchors](https://arxiv.org/abs/2508.12790) | export.arxiv.org |
-| 2025-08-19 04:00 | [[Social] Allostasis: Or, How I Learned To Stop Worrying and Love The Noise](https://arxiv.org/abs/2508.12791) | export.arxiv.org |
-| 2025-08-19 04:00 | [Using Natural Language for Human-Robot Collaboration in the Real World](https://arxiv.org/abs/2508.11759) | export.arxiv.org |
-| 2025-08-19 04:00 | [Anticipatory and Adaptive Footstep Streaming for Teleoperated Bipedal Robots](https://arxiv.org/abs/2508.11802) | export.arxiv.org |
-| 2025-08-19 04:00 | [LocoMamba: Vision-Driven Locomotion via End-to-End Deep Reinforcement Learning with Mamba](https://arxiv.org/abs/2508.11849) | export.arxiv.org |
-| 2025-08-19 04:00 | [Data Shift of Object Detection in Autonomous Driving](https://arxiv.org/abs/2508.11868) | export.arxiv.org |
-| 2025-08-19 04:00 | [Bioinspired underwater soft robots: from biology to robotics and back](https://arxiv.org/abs/2508.11883) | export.arxiv.org |
-| 2025-08-19 04:00 | [From Screen to Stage: Kid Cosmo, A Life-Like, Torque-Controlled Humanoid for Entertainment Robotics](https://arxiv.org/abs/2508.11884) | export.arxiv.org |
-| 2025-08-19 04:00 | [Contact-Rich and Deformable Foot Modeling for Locomotion Control of the Human Musculoskeletal System](https://arxiv.org/abs/2508.11885) | export.arxiv.org |
-| 2025-08-19 04:00 | [Saliency-Based Attention Shifting: A Framework for Improving Driver Situational Awareness of Out-of-Label Hazards](https://arxiv.org/abs/2508.11887) | export.arxiv.org |
-| 2025-08-19 04:00 | [Integrating Symbolic RL Planning into a BDI-based Autonomous UAV Framework: System Integration and SIL Validation](https://arxiv.org/abs/2508.11890) | export.arxiv.org |
-| 2025-08-19 04:00 | [OmniD: Generalizable Robot Manipulation Policy via Image-Based BEV Representation](https://arxiv.org/abs/2508.11898) | export.arxiv.org |
-| 2025-08-19 04:00 | [Control of Legged Robots using Model Predictive Optimized Path Integral](https://arxiv.org/abs/2508.11917) | export.arxiv.org |
-| 2025-08-19 04:00 | [ExploreVLM: Closed-Loop Robot Exploration Task Planning with Vision-Language Models](https://arxiv.org/abs/2508.11918) | export.arxiv.org |
-| 2025-08-19 04:00 | [No More Blind Spots: Learning Vision-Based Omnidirectional Bipedal Locomotion for Challenging Terrain](https://arxiv.org/abs/2508.11929) | export.arxiv.org |
-| 2025-08-19 04:00 | [Toward General Physical Intelligence for Resilient Agile Manufacturing Automation](https://arxiv.org/abs/2508.11960) | export.arxiv.org |
-| 2025-08-19 04:00 | [Fully Spiking Actor-Critic Neural Network for Robotic Manipulation](https://arxiv.org/abs/2508.12038) | export.arxiv.org |
+| 2025-08-20 22:00 | [Hear how a decade-long bet on AI and hardware led to the new Pixel 10.](https://blog.google/products/pixel/made-by-google-podcast-pixel-history/) | blog.google |
+| 2025-08-20 19:31 | [Kodiak Robotics to use NXP processors in autonomous trucks](https://www.therobotreport.com/kodiak-robotics-to-use-nxp-processors-in-autonomous-trucks/) | www.therobotreport.com |
+| 2025-08-20 17:00 | [Mixi reimagines communication with ChatGPT](https://openai.com/index/mixi) | openai.com |
+| 2025-08-20 16:31 | [FieldAI raises $405M to scale ‘physics first’ foundation models for robots](https://www.therobotreport.com/fieldai-raises-405m-scales-physics-first-foundation-models-robots/) | www.therobotreport.com |
+| 2025-08-20 16:00 | [Intuitive Surgical GM Iman Jeddi to share at RoboBusiness how the company keeps innovating](https://www.therobotreport.com/intuitive-surgical-gm-iman-jeddi-share-how-company-keeps-innovating-robobusiness/) | www.therobotreport.com |
+| 2025-08-20 16:00 | [Edit images in Google Photos by simply asking](https://blog.google/products/photos/ai-photo-editing-google-photos/) | blog.google |
+| 2025-08-20 16:00 | [9 ways AI makes Pixel 10 our most helpful phone yet](https://blog.google/products/pixel/google-pixel-10-ai-features-updates/) | blog.google |
+| 2025-08-20 14:49 | [Inaugural World Humanoid Robot Games step into the spotlight](https://www.therobotreport.com/inaugural-world-humanoid-robot-games-step-into-the-spotlight/) | www.therobotreport.com |
+| 2025-08-20 14:00 | [Stephen Curry is bringing his elite athlete insights to Google products](https://blog.google/inside-google/company-announcements/google-stephen-curry-partnership/) | blog.google |
+| 2025-08-20 13:00 | [What I Learned From a Janky Drone](https://spectrum.ieee.org/stem-education-in-africa) | spectrum.ieee.org |
+| 2025-08-20 04:00 | [Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167) | export.arxiv.org |
+| 2025-08-20 04:00 | [Cognitive Workspace: Active Memory Management for LLMs -- An Empirical Study of Functional Infinite Context](https://arxiv.org/abs/2508.13171) | export.arxiv.org |
+| 2025-08-20 04:00 | [AlphaEval: A Comprehensive and Efficient Evaluation Framework for Formula Alpha Mining](https://arxiv.org/abs/2508.13174) | export.arxiv.org |
+| 2025-08-20 04:00 | [Fitting Ontologies and Constraints to Relational Structures](https://arxiv.org/abs/2508.13176) | export.arxiv.org |
+| 2025-08-20 04:00 | [A Hardware-oriented Approach for Efficient Active Inference Computation and Deployment](https://arxiv.org/abs/2508.13177) | export.arxiv.org |
+| 2025-08-20 04:00 | [The Interpretability Analysis of the Model Can Bring Improvements to the Text-to-SQL Task](https://arxiv.org/abs/2508.13178) | export.arxiv.org |
+| 2025-08-20 04:00 | [Search-Time Data Contamination](https://arxiv.org/abs/2508.13180) | export.arxiv.org |
+| 2025-08-20 04:00 | [QuickMerge++: Fast Token Merging with Autoregressive Prior](https://arxiv.org/abs/2508.13204) | export.arxiv.org |
+| 2025-08-20 04:00 | [AI sustains higher strategic tension than humans in chess](https://arxiv.org/abs/2508.13213) | export.arxiv.org |
+| 2025-08-20 04:00 | [Explicit v.s. Implicit Memory: Exploring Multi-hop Complex Reasoning Over Personalized Information](https://arxiv.org/abs/2508.13250) | export.arxiv.org |
+| 2025-08-20 04:00 | ["DIVE" into Hydrogen Storage Materials Discovery with AI Agents](https://arxiv.org/abs/2508.13251) | export.arxiv.org |
+| 2025-08-20 04:00 | [CardAIc-Agents: A Multimodal Framework with Hierarchical Adaptation for Cardiac Care Support](https://arxiv.org/abs/2508.13256) | export.arxiv.org |
+| 2025-08-20 04:00 | [Towards Unified Multimodal Financial Forecasting: Integrating Sentiment Embeddings and Market Indicators via Cross-Modal Attention](https://arxiv.org/abs/2508.13327) | export.arxiv.org |
+| 2025-08-20 04:00 | [HiFo-Prompt: Prompting with Hindsight and Foresight for LLM-based Automatic Heuristic Design](https://arxiv.org/abs/2508.13333) | export.arxiv.org |
+| 2025-08-20 04:00 | [LOOP: A Plug-and-Play Neuro-Symbolic Framework for Enhancing Planning in Autonomous Systems](https://arxiv.org/abs/2508.13371) | export.arxiv.org |
+| 2025-08-20 04:00 | [SPANER: Shared Prompt Aligner for Multimodal Semantic Representation](https://arxiv.org/abs/2508.13387) | export.arxiv.org |
+| 2025-08-20 04:00 | [TASER: Table Agents for Schema-guided Extraction and Recommendation](https://arxiv.org/abs/2508.13404) | export.arxiv.org |
+| 2025-08-20 04:00 | [Virtuous Machines: Towards Artificial General Science](https://arxiv.org/abs/2508.13421) | export.arxiv.org |
+| 2025-08-20 04:00 | [STPFormer: A State-of-the-Art Pattern-Aware Spatio-Temporal Transformer for Traffic Forecasting](https://arxiv.org/abs/2508.13433) | export.arxiv.org |
+| 2025-08-20 04:00 | [Discrete Optimization of Min-Max Violation and its Applications Across Computational Sciences](https://arxiv.org/abs/2508.13437) | export.arxiv.org |
+| 2025-08-20 04:00 | [LM Agents May Fail to Act on Their Own Risk Knowledge](https://arxiv.org/abs/2508.13465) | export.arxiv.org |
+| 2025-08-20 04:00 | [CrafterDojo: A Suite of Foundation Models for Building Open-Ended Embodied Agents in Crafter](https://arxiv.org/abs/2508.13530) | export.arxiv.org |
+| 2025-08-20 04:00 | [Toward Better EHR Reasoning in LLMs: Reinforcement Learning with Expert Attention Guidance](https://arxiv.org/abs/2508.13579) | export.arxiv.org |
+| 2025-08-20 04:00 | [Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation](https://arxiv.org/abs/2508.13587) | export.arxiv.org |
+| 2025-08-20 04:00 | [V2P: From Background Suppression to Center Peaking for Robust GUI Grounding Task](https://arxiv.org/abs/2508.13634) | export.arxiv.org |
+| 2025-08-20 04:00 | [Interactive Query Answering on Knowledge Graphs with Soft Entity Constraints](https://arxiv.org/abs/2508.13663) | export.arxiv.org |
+| 2025-08-20 04:00 | [ITL-LIME: Instance-Based Transfer Learning for Enhancing Local Explanations in Low-Resource Data Settings](https://arxiv.org/abs/2508.13672) | export.arxiv.org |
+| 2025-08-20 04:00 | [Knowledge Graph Completion for Action Prediction on Situational Graphs -- A Case Study on Household Tasks](https://arxiv.org/abs/2508.13675) | export.arxiv.org |
+| 2025-08-20 04:00 | [MHSNet:An MoE-based Hierarchical Semantic Representation Network for Accurate Duplicate Resume Detection with Large Language Model](https://arxiv.org/abs/2508.13676) | export.arxiv.org |
+| 2025-08-20 04:00 | [Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning Abilities of Large Language Models](https://arxiv.org/abs/2508.13678) | export.arxiv.org |
+| 2025-08-20 04:00 | [The DeepLog Neurosymbolic Machine](https://arxiv.org/abs/2508.13697) | export.arxiv.org |
+| 2025-08-20 04:00 | [CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning](https://arxiv.org/abs/2508.13721) | export.arxiv.org |
+| 2025-08-20 04:00 | [Expertise-aware Multi-LLM Recruitment and Collaboration for Medical Decision-Making](https://arxiv.org/abs/2508.13754) | export.arxiv.org |
+| 2025-08-20 04:00 | [Quantifier Instantiations: To Mimic or To Revolt?](https://arxiv.org/abs/2508.13811) | export.arxiv.org |
+| 2025-08-20 04:00 | [Revisiting RAG Ensemble: A Theoretical and Mechanistic Analysis of Multi-RAG System Collaboration](https://arxiv.org/abs/2508.13828) | export.arxiv.org |
+| 2025-08-20 04:00 | [Improved Generalized Planning with LLMs through Strategy Refinement and Reflection](https://arxiv.org/abs/2508.13876) | export.arxiv.org |
+| 2025-08-20 04:00 | [Structured Agentic Workflows for Financial Time-Series Modeling with LLMs and Reflective Feedback](https://arxiv.org/abs/2508.13915) | export.arxiv.org |
+| 2025-08-20 04:00 | [The Collaboration Paradox: Why Generative AI Requires Both Strategic Intelligence and Operational Stability in Supply Chain Management](https://arxiv.org/abs/2508.13942) | export.arxiv.org |
+| 2025-08-20 04:00 | [ChronoLLM: Customizing Language Models for Physics-Based Simulation Code Generation](https://arxiv.org/abs/2508.13975) | export.arxiv.org |
+| 2025-08-20 04:00 | [A Biased Random Key Genetic Algorithm for Solving the Longest Run Subsequence Problem](https://arxiv.org/abs/2508.14020) | export.arxiv.org |
+| 2025-08-20 04:00 | [Diff-MSM: Differentiable MusculoSkeletal Model for Simultaneous Identification of Human Muscle and Bone Parameters](https://arxiv.org/abs/2508.13303) | export.arxiv.org |
+| 2025-08-20 04:00 | [A Surveillance Based Interactive Robot](https://arxiv.org/abs/2508.13319) | export.arxiv.org |
+| 2025-08-20 04:00 | [Incremental Generalized Hybrid A*](https://arxiv.org/abs/2508.13392) | export.arxiv.org |
+| 2025-08-20 04:00 | [Accelerating Signal-Temporal-Logic-Based Task and Motion Planning of Bipedal Navigation using Benders Decomposition](https://arxiv.org/abs/2508.13407) | export.arxiv.org |
+| 2025-08-20 04:00 | [Switch4EAI: Leveraging Console Game Platform for Benchmarking Robotic Athletics](https://arxiv.org/abs/2508.13444) | export.arxiv.org |
+| 2025-08-20 04:00 | [CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models](https://arxiv.org/abs/2508.13446) | export.arxiv.org |
+| 2025-08-20 04:00 | [Modeling and Control of AWOISV: A Filtered Tube-Based MPC Approach for Simultaneous Tracking of Lateral Position and Heading Angle](https://arxiv.org/abs/2508.13457) | export.arxiv.org |
+| 2025-08-20 04:00 | [Multi-Robot Navigation in Social Mini-Games: Definitions, Taxonomy, and Algorithms](https://arxiv.org/abs/2508.13459) | export.arxiv.org |
+| 2025-08-20 04:00 | [ROVER: Robust Loop Closure Verification with Trajectory Prior in Repetitive Environments](https://arxiv.org/abs/2508.13488) | export.arxiv.org |
+| 2025-08-20 04:00 | [Unified Hierarchical MPC in Task Executing for Modular Manipulators across Diverse Morphologies](https://arxiv.org/abs/2508.13513) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,7 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Femcie-co%2Fparlant" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:758197374,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Femcie-co%2Fparlant" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:758197374,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2Fsimstudioai%2Fsim" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:912559512,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fsimstudioai%2Fsim" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:912559512,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -89,13 +89,13 @@
 
 
       
-        emcie-co /
+        simstudioai /
 
-      parlant  
+      sim  
 
     
-      LLM agents built for control. Designed for real-world use. Deployed in minutes. |
-| 2 | [login?return_to=%2Fcoleam00%2FArchon" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:929121414,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcoleam00%2FArchon" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:929121414,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
+| 2 | [login?return_to=%2Fmoeru-ai%2Fairi" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:896924279,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmoeru-ai%2Fairi" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:896924279,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -106,13 +106,13 @@
 
 
       
-        coleam00 /
+        moeru-ai /
 
-      Archon  
+      airi  
 
     
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
-| 3 | [login?return_to=%2FLMCache%2FLMCache" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:807305060,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FLMCache%2FLMCache" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:807305060,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| 3 | [login?return_to=%2Fn8n-io%2Fself-hosted-ai-starter-kit" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:762303728,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fn8n-io%2Fself-hosted-ai-starter-kit" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:762303728,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -123,13 +123,13 @@
 
 
       
-        LMCache /
+        n8n-io /
 
-      LMCache  
+      self-hosted-ai-starter-kit  
 
     
-      Supercharge Your LLM with the Fastest KV Cache Layer |
-| 4 | [login?return_to=%2FOpenBB-finance%2FOpenBB" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:323048702,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FOpenBB-finance%2FOpenBB" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:323048702,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. |
+| 4 | [login?return_to=%2FMotiaDev%2Fmotia" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:911303109,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FMotiaDev%2Fmotia" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:911303109,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -140,13 +140,13 @@
 
 
       
-        OpenBB-finance /
+        MotiaDev /
 
-      OpenBB  
+      motia  
 
     
-      Financial data platform for analysts, quants and AI agents. |
-| 5 | [login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management. |
+| 5 | [login?return_to=%2Frasbt%2FLLMs-from-scratch" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:669879380,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Frasbt%2FLLMs-from-scratch" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:669879380,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -157,12 +157,12 @@
 
 
       
-        Shubhamsaboo /
+        rasbt /
 
-      awesome-llm-apps  
+      LLMs-from-scratch  
 
     
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -188,24 +188,7 @@
 
     
       Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
-| 2 | [login?return_to=%2Fbytedance%2FUI-TARS-desktop" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:918932603,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fbytedance%2FUI-TARS-desktop" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:918932603,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop  
-
-    
-      The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra. |
-| 3 | [login?return_to=%2Fdtyq%2Fmagic" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:983763510,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fdtyq%2Fmagic" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:983763510,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fdtyq%2Fmagic" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:983763510,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fdtyq%2Fmagic" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:983763510,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -222,7 +205,7 @@
 
     
       Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system) |
-| 4 | [login?return_to=%2Fnomic-ai%2Fgpt4all" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:619959033,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fnomic-ai%2Fgpt4all" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:619959033,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 3 | [login?return_to=%2Fbytedance%2FUI-TARS-desktop" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:918932603,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fbytedance%2FUI-TARS-desktop" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:918932603,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -233,12 +216,63 @@
 
 
       
-        nomic-ai /
+        bytedance /
 
-      gpt4all  
+      UI-TARS-desktop  
 
     
-      GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+      The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra. |
+| 4 | [login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps  
+
+    
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| 5 | [login?return_to=%2Fmoeru-ai%2Fairi" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:896924279,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmoeru-ai%2Fairi" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:896924279,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        moeru-ai /
+
+      airi  
+
+    
+      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| 6 | [login?return_to=%2Fchroma-core%2Fchroma" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:546206616,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fchroma-core%2Fchroma" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:546206616,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        chroma-core /
+
+      chroma  
+
+    
+      Open-source search and retrieval database for AI applications. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
