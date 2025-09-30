@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-09-29 02:48 UTC）
+# AI & 机器人 技术热点日报（2025-09-30 02:41 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
-| 2025-09-28 12:30 | [Oxford Robotics Institute director discusses the truth about AI and robotics](https://www.therobotreport.com/oxford-robotics-institute-director-discusses-truth-about-ai-robotics/) | www.therobotreport.com |
-| 2025-09-27 12:30 | [It’s time to recreate China’s robotics strategy in the U.S.](https://www.therobotreport.com/its-time-to-recreate-chinas-robotics-strategy-u-s/) | www.therobotreport.com |
-| 2025-09-26 23:53 | [Robots, mergers, and acquisitions with Peter Finn](https://www.therobotreport.com/robots-mergers-and-acquitions-with-peter-finn/) | www.therobotreport.com |
-| 2025-09-26 20:45 | [ABB Robotics adds generative AI assistant to RobotStudio Suite](https://www.therobotreport.com/abb-robotics-adds-generative-ai-assistant-robotstudio-suite/) | www.therobotreport.com |
-| 2025-09-26 19:21 | [Industry experts react to U.S. robotics tariff proposal](https://www.therobotreport.com/industry-experts-react-u-s-robotics-tariff-proposal/) | www.therobotreport.com |
-| 2025-09-26 15:30 | [Video Friday: Gemini Robotics Improves Motor Skills](https://spectrum.ieee.org/video-friday-google-gemini-robotics) | spectrum.ieee.org |
-| 2025-09-26 15:05 | [Gemini Robotics 1.5 enables agentic experiences, explains Google DeepMind](https://www.therobotreport.com/gemini-robotics-1-5-enables-agentic-experiences-explains-google-deepmind/) | www.therobotreport.com |
-| 2025-09-26 10:40 | [Golf champ Bryson DeChambeau is partnering with Google Cloud to explore AI and sports performance.](https://blog.google/products/google-cloud/bryson-dechambeau/) | blog.google |
-| 2025-09-26 06:00 | [Partnering with AARP to help keep older adults safe online](https://openai.com/index/aarp-partnership-older-adults-online-safety) | openai.com |
-| 2025-09-25 18:05 | [IFR: industrial robot deployments have doubled in 10 years](https://www.therobotreport.com/ifr-industrial-robot-deployments-have-doubled-in-10-years/) | www.therobotreport.com |
-| 2025-09-25 17:26 | [IEEE study group publishes framework for humanoid standards](https://www.therobotreport.com/ieee-study-group-publishes-framework-for-humanoid-standards/) | www.therobotreport.com |
-| 2025-09-25 14:26 | [How robotics startups can avoid costly IP mistakes](https://www.therobotreport.com/how-robotics-startups-can-avoid-costly-ip-mistakes/) | www.therobotreport.com |
-| 2025-09-25 13:36 | [Exploit Allows for Takeover of Fleets of Unitree Robots](https://spectrum.ieee.org/unitree-robot-exploit) | spectrum.ieee.org |
-| 2025-09-25 11:00 | [More ways to work with your team and tools in ChatGPT](https://openai.com/index/more-ways-to-work-with-your-team) | openai.com |
-| 2025-09-25 09:00 | [Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval) | openai.com |
-| 2025-09-25 00:00 | [Introducing ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse) | openai.com |
-| 2025-09-24 20:15 | [AMP acquires Portsmouth recycling operations from RDS of Virginia](https://www.therobotreport.com/amp-robotics-acquires-portsmouth-recycling-operations-from-rds-of-virginia/) | www.therobotreport.com |
-| 2025-09-24 17:36 | [Drone startup Guardian Agriculture shuts down](https://www.therobotreport.com/drone-startup-guardian-agriculture-shuts-down/) | www.therobotreport.com |
-| 2025-09-24 17:00 | [Transforming the manufacturing industry with ChatGPT](https://openai.com/index/eneos-materials) | openai.com |
-| 2025-09-24 16:00 | [Google AI Pro and Ultra subscribers now get Gemini CLI and Gemini Code Assist with higher limits.](https://blog.google/technology/developers/gemini-cli-code-assist-higher-limits/) | blog.google |
-| 2025-09-24 16:00 | [5 ways to get real-time help by going Live with Search](https://blog.google/products/search/search-live-tips/) | blog.google |
-| 2025-09-24 15:00 | [We’re making public data more usable for AI developers with the Data Commons MCP Server.](https://blog.google/technology/developers/ai-agents-datacommons/) | blog.google |
-| 2025-09-24 14:15 | [CreateMe innovates with robotic assembly, adhesion tech for the garment industry](https://www.therobotreport.com/createme-innovates-robotic-assembly-adhesion-tech-garment-industry/) | www.therobotreport.com |
-| 2025-09-24 14:00 | [Robot Navigates Tough Terrain With New 3D Mapping Technique](https://spectrum.ieee.org/robot-navigation-3d-mapping) | spectrum.ieee.org |
-| 2025-09-24 10:00 | [How Veo is helping the Fukuda Art Museum create “Moving Paintings”](https://blog.google/outreach-initiatives/arts-culture/how-veo-is-helping-the-fukuda-art-museum-create-moving-paintings/) | blog.google |
-| 2025-09-24 08:00 | [Meet 25 startups using AI to improve public services](https://blog.google/outreach-initiatives/entrepreneurs/google-startups-growth-academy-ai-govtech/) | blog.google |
-| 2025-09-24 04:00 | [SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’](https://openai.com/global-affairs/openai-for-germany) | openai.com |
-| 2025-09-23 21:02 | [Auterion raises $130M to build drone swarms for defense](https://www.therobotreport.com/auterion-raises-130m-build-drone-swarms-defense/) | www.therobotreport.com |
-| 2025-09-23 20:00 | [Mixboard is a new way to visualize your ideas from Google Labs.](https://blog.google/technology/google-labs/mixboard/) | blog.google |
-| 2025-09-23 19:00 | [Google AI Plus — our newest AI plan — is now available in 40 more countries.](https://blog.google/products/google-one/google-ai-plus-expands/) | blog.google |
-| 2025-09-23 17:52 | [OmniCore EyeMotion lets robots adapt to complex environments in real time, says ABB](https://www.therobotreport.com/omnicore-eyemotion-enables-robots-adapt-complex-environments-real-time-says-abb/) | www.therobotreport.com |
-| 2025-09-23 17:40 | [Try AI Mode in Spanish today.](https://blog.google/products/search/ai-mode-spanish/) | blog.google |
-| 2025-09-23 17:00 | [Android users can now use conversational editing in Google Photos.](https://blog.google/products/photos/android-conversational-editing-google-photos/) | blog.google |
-| 2025-09-23 16:00 | [Join the 5-day AI Agents Intensive course with Google and Kaggle.](https://blog.google/technology/developers/ai-agents-intensive/) | blog.google |
-| 2025-09-23 15:31 | [ANYbotics earns strategic investment from Climate Investment](https://www.therobotreport.com/anybotics-earns-strategic-investment-from-climate-investment/) | www.therobotreport.com |
-| 2025-09-23 14:00 | [OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites](https://openai.com/index/five-new-stargate-sites) | openai.com |
-| 2025-09-23 13:00 | [New ways Google Play is built entirely around you](https://blog.google/products/google-play/curation-update-september-2025/) | blog.google |
-| 2025-09-22 17:17 | [CNA is transforming its newsroom with AI](https://openai.com/index/cna-walter-fernandez) | openai.com |
-| 2025-09-22 11:30 | [American-made innovation](https://openai.com/global-affairs/american-made-innovation) | openai.com |
-| 2025-09-22 10:00 | [Creating a safe, observable AI infrastructure for 1 million classrooms](https://openai.com/index/schoolai) | openai.com |
-| 2025-09-22 08:45 | [OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems](https://openai.com/index/openai-nvidia-systems-partnership) | openai.com |
-| 2025-09-19 16:00 | [3 ways to use photo-to-video in Gemini](https://blog.google/products/gemini/gemini-photo-to-video-tips/) | blog.google |
-| 2025-09-19 15:30 | [Video Friday: A Billion Dollars for Humanoid Robots](https://spectrum.ieee.org/video-friday-billion-humanoid-robots) | spectrum.ieee.org |
-| 2025-09-19 13:30 | [How the U.S. Patent and Trademark Office can help America maintain its AI leadership](https://blog.google/outreach-initiatives/public-policy/uspto-ai-policy-recommendations/) | blog.google |
-| 2025-09-18 04:00 | [We’re investing in connectivity, products and skills for Africa’s AI future](https://blog.google/around-the-globe/google-africa/africas-ai-future/) | blog.google |
-| 2025-09-17 17:30 | [Gemini achieved gold-medal performance at the International Collegiate Programming Contest World Finals.](https://blog.google/technology/google-deepmind/gemini-gold-icpc/) | blog.google |
-| 2025-09-17 14:30 | [Investing in America 2025](https://blog.google/inside-google/company-announcements/investing-in-america-2025/) | blog.google |
-| 2025-09-17 09:00 | [AI on Screen premiere: “Sweetwater” short film explores new AI narratives](https://blog.google/technology/ai/sweetwater-film/) | blog.google |
-| 2025-09-17 00:00 | [Detecting and reducing scheming in AI models](https://openai.com/index/detecting-and-reducing-scheming-in-ai-models) | openai.com |
-| 2025-09-16 17:05 | [Learn Your Way uses AI to transform textbook materials into interactive guides.](https://blog.google/outreach-initiatives/education/learn-your-way/) | blog.google |
-| 2025-09-16 14:30 | [Introducing Stargate UK](https://openai.com/index/introducing-stargate-uk) | openai.com |
-| 2025-09-16 06:00 | [Building towards age prediction](https://openai.com/index/building-towards-age-prediction) | openai.com |
-| 2025-09-16 06:00 | [Teen safety, freedom, and privacy](https://openai.com/index/teen-safety-freedom-and-privacy) | openai.com |
-| 2025-09-15 18:52 | [Listen to a discussion on how AI can power scientific breakthroughs.](https://blog.google/technology/google-deepmind/ai-release-notes-science/) | blog.google |
-| 2025-09-15 10:00 | [Introducing upgrades to Codex](https://openai.com/index/introducing-upgrades-to-codex) | openai.com |
-| 2025-09-15 03:00 | [How people are using ChatGPT](https://openai.com/index/how-people-are-using-chatgpt) | openai.com |
-| 2025-09-15 00:00 | [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex) | openai.com |
-| 2025-09-12 17:04 | [Video Friday: A Soft Robot Companion](https://spectrum.ieee.org/video-friday-soft-robot-companion) | spectrum.ieee.org |
-| 2025-09-12 16:00 | [10 examples of our new native image editing in the Gemini app](https://blog.google/products/gemini/gemini-nano-banana-examples/) | blog.google |
-| 2025-09-12 12:00 | [Working with US CAISI and UK AISI to build more secure AI systems](https://openai.com/index/us-caisi-uk-aisi-ai-update) | openai.com |
+| 2025-09-29 19:09 | [NVIDIA launches Newton physics engine and GR00T AI at CoRL 2025](https://www.therobotreport.com/nvidia-launches-newton-physics-engine-gr00t-ai-corl-2025/) | www.therobotreport.com |
+| 2025-09-29 18:21 | [Einride completes autonomous border crossing and customs passing](https://www.therobotreport.com/einride-completes-autonomous-border-crossing-and-customs-passing/) | www.therobotreport.com |
+| 2025-09-29 16:40 | [Kollmorgen offers pre-configured Essentials motion system](https://www.therobotreport.com/kollmorgen-offers-pre-configured-essentials-motion-system/) | www.therobotreport.com |
+| 2025-09-29 13:30 | [Improving support with every interaction at OpenAI](https://openai.com/index/openai-support-model) | openai.com |
+| 2025-09-29 13:30 | [Driving sales productivity and customer success at OpenAI](https://openai.com/index/openai-gtm-assistant) | openai.com |
+| 2025-09-29 13:30 | [Converting inbound leads into customers at OpenAI](https://openai.com/index/openai-inbound-sales-assistant) | openai.com |
+| 2025-09-29 13:30 | [Building OpenAI with OpenAI](https://openai.com/index/building-openai-with-openai) | openai.com |
+| 2025-09-29 13:30 | [Turning contracts into searchable data at OpenAI](https://openai.com/index/openai-contract-data-agent) | openai.com |
+| 2025-09-29 13:30 | [Empowering teams to unlock insights faster at OpenAI](https://openai.com/index/openai-research-assistant) | openai.com |
+| 2025-09-29 13:00 | [Simbe for Merchants suite offers retailers chain-wide visibility](https://www.therobotreport.com/simbe-for-merchants-suite-offers-retailers-chain-wide-visibility/) | www.therobotreport.com |
+| 2025-09-29 04:00 | [Towards mitigating information leakage when evaluating safety monitors](https://arxiv.org/abs/2509.21344) | export.arxiv.org |
+| 2025-09-29 04:00 | [Correct Reasoning Paths Visit Shared Decision Pivots](https://arxiv.org/abs/2509.21549) | export.arxiv.org |
+| 2025-09-29 04:00 | [AutoClimDS: Climate Data Science Agentic AI -- A Knowledge Graph is All You Need](https://arxiv.org/abs/2509.21553) | export.arxiv.org |
+| 2025-09-29 04:00 | [EEG-Based Consumer Behaviour Prediction: An Exploration from Classical Machine Learning to Graph Neural Networks](https://arxiv.org/abs/2509.21567) | export.arxiv.org |
+| 2025-09-29 04:00 | [GeoEvolve: Automating Geospatial Model Discovery via Multi-Agent Large Language Models](https://arxiv.org/abs/2509.21593) | export.arxiv.org |
+| 2025-09-29 04:00 | [Automated and Interpretable Survival Analysis from Multimodal Data](https://arxiv.org/abs/2509.21600) | export.arxiv.org |
+| 2025-09-29 04:00 | [Semantic F1 Scores: Fair Evaluation Under Fuzzy Class Boundaries](https://arxiv.org/abs/2509.21633) | export.arxiv.org |
+| 2025-09-29 04:00 | [Can AI Perceive Physical Danger and Intervene?](https://arxiv.org/abs/2509.21651) | export.arxiv.org |
+| 2025-09-29 04:00 | [Align2Speak: Improving TTS for Low Resource Languages via ASR-Guided Online Preference Optimization](https://arxiv.org/abs/2509.21718) | export.arxiv.org |
+| 2025-09-29 04:00 | [Retrieval-of-Thought: Efficient Reasoning via Reusing Thoughts](https://arxiv.org/abs/2509.21743) | export.arxiv.org |
+| 2025-09-29 04:00 | [Lifelong Learning with Behavior Consolidation for Vehicle Routing](https://arxiv.org/abs/2509.21765) | export.arxiv.org |
+| 2025-09-29 04:00 | [UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios](https://arxiv.org/abs/2509.21766) | export.arxiv.org |
+| 2025-09-29 04:00 | [Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety](https://arxiv.org/abs/2509.21782) | export.arxiv.org |
+| 2025-09-29 04:00 | [D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://arxiv.org/abs/2509.21799) | export.arxiv.org |
+| 2025-09-29 04:00 | [ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration](https://arxiv.org/abs/2509.21823) | export.arxiv.org |
+| 2025-09-29 04:00 | [DS-STAR: Data Science Agent via Iterative Planning and Verification](https://arxiv.org/abs/2509.21825) | export.arxiv.org |
+| 2025-09-29 04:00 | [Axiomatic Choice and the Decision-Evaluation Paradox](https://arxiv.org/abs/2509.21836) | export.arxiv.org |
+| 2025-09-29 04:00 | [DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for Autonomous Travel Planning Agents](https://arxiv.org/abs/2509.21842) | export.arxiv.org |
+| 2025-09-29 04:00 | [Reimagining Agent-based Modeling with Large Language Model Agents via Shachi](https://arxiv.org/abs/2509.21862) | export.arxiv.org |
+| 2025-09-29 04:00 | [TRACE: Learning to Compute on Graphs](https://arxiv.org/abs/2509.21886) | export.arxiv.org |
+| 2025-09-29 04:00 | [GenesisGeo: Technical Report](https://arxiv.org/abs/2509.21896) | export.arxiv.org |
+| 2025-09-29 04:00 | [DyRo-MCTS: A Robust Monte Carlo Tree Search Approach to Dynamic Job Shop Scheduling](https://arxiv.org/abs/2509.21902) | export.arxiv.org |
+| 2025-09-29 04:00 | [Outlier Detection in Plantar Pressure: Human-Centered Comparison of Statistical Parametric Mapping and Explainable Machine Learning](https://arxiv.org/abs/2509.21943) | export.arxiv.org |
+| 2025-09-29 04:00 | [CoBel-World: Harnessing LLM Reasoning to Build a Collaborative Belief World for Optimizing Embodied Multi-Agent Collaboration](https://arxiv.org/abs/2509.21981) | export.arxiv.org |
+| 2025-09-29 04:00 | [RISK: A Framework for GUI Agents in E-commerce Risk Management](https://arxiv.org/abs/2509.21982) | export.arxiv.org |
+| 2025-09-29 04:00 | [Bilinear relational structure fixes reversal curse and enables consistent model editing](https://arxiv.org/abs/2509.21993) | export.arxiv.org |
+| 2025-09-29 04:00 | [GSM-Agent: Understanding Agentic Reasoning Using Controllable Environments](https://arxiv.org/abs/2509.21998) | export.arxiv.org |
+| 2025-09-29 04:00 | [The Thinking Spectrum: An Emperical Study of Tunable Reasoning in LLMs through Model Merging](https://arxiv.org/abs/2509.22034) | export.arxiv.org |
+| 2025-09-29 04:00 | [A2R: An Asymmetric Two-Stage Reasoning Framework for Parallel Reasoning](https://arxiv.org/abs/2509.22044) | export.arxiv.org |
+| 2025-09-29 04:00 | [Generalizing Multi-Objective Search via Objective-Aggregation Functions](https://arxiv.org/abs/2509.22085) | export.arxiv.org |
+| 2025-09-29 04:00 | [Ground-Truthing AI Energy Consumption: Validating CodeCarbon Against External Measurements](https://arxiv.org/abs/2509.22092) | export.arxiv.org |
+| 2025-09-29 04:00 | [Log2Plan: An Adaptive GUI Automation Framework Integrated with Task Mining Approach](https://arxiv.org/abs/2509.22137) | export.arxiv.org |
+| 2025-09-29 04:00 | [Clinical Uncertainty Impacts Machine Learning Evaluations](https://arxiv.org/abs/2509.22242) | export.arxiv.org |
+| 2025-09-29 04:00 | [Evaluating LLMs for Combinatorial Optimization: One-Phase and Two-Phase Heuristics for 2D Bin-Packing](https://arxiv.org/abs/2509.22255) | export.arxiv.org |
+| 2025-09-29 04:00 | [InfiMed-Foundation: Pioneering Advanced Multimodal Medical Models with Compute-Efficient Pre-Training and Multi-Stage Fine-Tuning](https://arxiv.org/abs/2509.22261) | export.arxiv.org |
+| 2025-09-29 04:00 | [Structured Sparse Transition Matrices to Enable State Tracking in State-Space Models](https://arxiv.org/abs/2509.22284) | export.arxiv.org |
+| 2025-09-29 04:00 | [Large Language Models as Nondeterministic Causal Models](https://arxiv.org/abs/2509.22297) | export.arxiv.org |
+| 2025-09-29 04:00 | [PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning](https://arxiv.org/abs/2509.22315) | export.arxiv.org |
+| 2025-09-29 04:00 | [Do LLM Agents Know How to Ground, Recover, and Assess? A Benchmark for Epistemic Competence in Information-Seeking Agents](https://arxiv.org/abs/2509.22391) | export.arxiv.org |
+| 2025-09-29 04:00 | [EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer](https://arxiv.org/abs/2509.22407) | export.arxiv.org |
+| 2025-09-29 04:00 | [Language-in-the-Loop Culvert Inspection on the Erie Canal](https://arxiv.org/abs/2509.21370) | export.arxiv.org |
+| 2025-09-29 04:00 | [Developing a Mono-Actuated Compliant GeoGami Robot](https://arxiv.org/abs/2509.21445) | export.arxiv.org |
+| 2025-09-29 04:00 | [Wall Inspector: Quadrotor Control in Wall-proximity Through Model Compensation](https://arxiv.org/abs/2509.21496) | export.arxiv.org |
+| 2025-09-29 04:00 | [DroneFL: Federated Learning for Multi-UAV Visual Target Tracking](https://arxiv.org/abs/2509.21523) | export.arxiv.org |
+| 2025-09-29 04:00 | [Plan2Evolve: LLM Self-Evolution for Improved Planning Capability via Automated Domain Generation](https://arxiv.org/abs/2509.21543) | export.arxiv.org |
+| 2025-09-29 04:00 | [PL-VIWO2: A Lightweight, Fast and Robust Visual-Inertial-Wheel Odometry Using Points and Lines](https://arxiv.org/abs/2509.21563) | export.arxiv.org |
+| 2025-09-29 04:00 | [Autonomous UAV-Quadruped Docking in Complex Terrains via Active Posture Alignment and Constraint-Aware Control](https://arxiv.org/abs/2509.21571) | export.arxiv.org |
+| 2025-09-29 04:00 | [Real-Time Indoor Object SLAM with LLM-Enhanced Priors](https://arxiv.org/abs/2509.21602) | export.arxiv.org |
+| 2025-09-29 04:00 | [Generating Stable Placements via Physics-guided Diffusion Models](https://arxiv.org/abs/2509.21664) | export.arxiv.org |
+| 2025-09-29 04:00 | [Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation](https://arxiv.org/abs/2509.21690) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,7 +78,24 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Fcommaai%2Fopenpilot" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:74627617,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcommaai%2Fopenpilot" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:74627617,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2Fharry0703%2FMoneyPrinterTurbo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:770153867,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:770153867,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo  
+
+    
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| 2 | [login?return_to=%2Fcommaai%2Fopenpilot" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:74627617,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcommaai%2Fopenpilot" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:74627617,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -95,7 +112,7 @@
 
     
       openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
-| 2 | [login?return_to=%2Frasbt%2FLLMs-from-scratch" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:669879380,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Frasbt%2FLLMs-from-scratch" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:669879380,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 3 | [login?return_to=%2Fsnarktank%2Fai-dev-tasks" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:969192787,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fsnarktank%2Fai-dev-tasks" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:969192787,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -106,13 +123,13 @@
 
 
       
-        rasbt /
+        snarktank /
 
-      LLMs-from-scratch  
+      ai-dev-tasks  
 
     
-      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
-| 3 | [login?return_to=%2Fhumanlayer%2Fhumanlayer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:838542536,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fhumanlayer%2Fhumanlayer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:838542536,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      A simple task management system for managing AI dev agents |
+| 4 | [login?return_to=%2Fhumanlayer%2Fhumanlayer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:838542536,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fhumanlayer%2Fhumanlayer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:838542536,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -129,24 +146,7 @@
 
     
       The best way to get AI coding agents to solve hard problems in complex codebases. |
-| 4 | [login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps  
-
-    
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
-| 5 | [login?return_to=%2Fmicrosoft%2Fqlib" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:287463830,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmicrosoft%2Fqlib" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:287463830,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 5 | [login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:895508656,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:895508656,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -159,11 +159,28 @@
       
         microsoft /
 
-      qlib  
+      ai-agents-for-beginners  
 
     
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process. |
-| 6 | [sponsors/sst](https://github.com/sponsors/sst) | Sponsor
+      12 Lessons to Get Started Building AI Agents |
+| 6 | [login?return_to=%2Fonyx-dot-app%2Fonyx" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633262635,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fonyx-dot-app%2Fonyx" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633262635,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        onyx-dot-app /
+
+      onyx  
+
+    
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| 7 | [sponsors/sst](https://github.com/sponsors/sst) | Sponsor
     
   
 
@@ -193,57 +210,6 @@
 
     
       AI coding agent, built for the terminal. |
-| 7 | [login?return_to=%2Fharry0703%2FMoneyPrinterTurbo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:770153867,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:770153867,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo  
-
-    
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| 8 | [login?return_to=%2Fonyx-dot-app%2Fonyx" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633262635,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fonyx-dot-app%2Fonyx" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633262635,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        onyx-dot-app /
-
-      onyx  
-
-    
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM |
-| 9 | [login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:895508656,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:895508656,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners  
-
-    
-      12 Lessons to Get Started Building AI Agents |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -303,6 +269,23 @@
 
     
       AI-Powered Python &amp; Python-Powered AI (Python-Use) |
+| 4 | [login?return_to=%2Fharry0703%2FMoneyPrinterTurbo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:770153867,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:770153867,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo  
+
+    
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
