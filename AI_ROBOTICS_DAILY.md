@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-10-09 02:44 UTC）
+# AI & 机器人 技术热点日报（2025-10-10 02:44 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
-| 2025-10-08 21:28 | [Ati Motors releases Sherpa Mecha dual-armed mobile manipulator for manufacturing](https://www.therobotreport.com/ati-motors-releases-sherpa-mecha-dual-armed-mobile-manipulator-manufacturing/) | www.therobotreport.com |
-| 2025-10-08 18:26 | [Supporting the future of medical robotics with smarter motor solutions](https://www.therobotreport.com/supporting-the-future-of-medical-robotics-with-smarter-motor-solutions/) | www.therobotreport.com |
-| 2025-10-08 17:30 | [Teaming up with LA28, Team USA and NBCUniversal for the LA28 Olympic and Paralympic Games](https://blog.google/inside-google/company-announcements/team-usa-la28-nbc-partnerships/) | blog.google |
-| 2025-10-08 17:15 | [Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.](https://blog.google/inside-google/infrastructure/google-ai-infrastructure-investment-belgium/) | blog.google |
-| 2025-10-08 16:14 | [Microbot Medical closes stock sale with $29.2M raised](https://www.therobotreport.com/microbot-medical-closes-stock-sale-29-2m-raised/) | www.therobotreport.com |
-| 2025-10-08 15:00 | [The latest AI news we announced in September](https://blog.google/technology/ai/google-ai-updates-september-2025/) | blog.google |
-| 2025-10-08 14:25 | [YUAN Unveils Next-Gen AI Robotics Powered by NVIDIA for Land, Sea & Air](https://www.therobotreport.com/yuan-unveils-next-gen-ai-robotics-powered-by-nvidia-for-land-sea-air/) | www.therobotreport.com |
-| 2025-10-08 14:08 | [ABB Group to sell ABB Robotics to SoftBank for $5.375B](https://www.therobotreport.com/abb-group-sells-abb-robotics-softbank-5-3b/) | www.therobotreport.com |
-| 2025-10-08 08:00 | [Growing impact and scale with ChatGPT](https://openai.com/index/hibob) | openai.com |
-| 2025-10-08 04:00 | [Rule Encoding and Compliance in Large Language Models: An Information-Theoretic Analysis](https://arxiv.org/abs/2510.05106) | export.arxiv.org |
-| 2025-10-08 04:00 | [Structured Cognition for Behavioral Intelligence in Large Language Model Agents: Preliminary Study](https://arxiv.org/abs/2510.05107) | export.arxiv.org |
-| 2025-10-08 04:00 | [Optimization Modeling via Semantic Anchored Alignment](https://arxiv.org/abs/2510.05115) | export.arxiv.org |
-| 2025-10-08 04:00 | [Structuring Reasoning for Complex Rules Beyond Flat Representations](https://arxiv.org/abs/2510.05134) | export.arxiv.org |
-| 2025-10-08 04:00 | [An Algorithmic Information-Theoretic Perspective on the Symbol Grounding Problem](https://arxiv.org/abs/2510.05153) | export.arxiv.org |
-| 2025-10-08 04:00 | [Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework](https://arxiv.org/abs/2510.05158) | export.arxiv.org |
-| 2025-10-08 04:00 | [Representation Potentials of Foundation Models for Multimodal Alignment: A Survey](https://arxiv.org/abs/2510.05184) | export.arxiv.org |
-| 2025-10-08 04:00 | [Real-time Framework for Interoperable Semantic-driven Internet-of-Things in Smart Agriculture](https://arxiv.org/abs/2510.05187) | export.arxiv.org |
-| 2025-10-08 04:00 | [Plug-and-Play Dramaturge: A Divide-and-Conquer Approach for Iterative Narrative Script Refinement via Collaborative LLM Agents](https://arxiv.org/abs/2510.05188) | export.arxiv.org |
-| 2025-10-08 04:00 | [Graph-based LLM over Semi-Structured Population Data for Dynamic Policy Response](https://arxiv.org/abs/2510.05196) | export.arxiv.org |
-| 2025-10-08 04:00 | [Efficient Prediction of Pass@k Scaling in Large Language Models](https://arxiv.org/abs/2510.05197) | export.arxiv.org |
-| 2025-10-08 04:00 | [Beyond Monolithic Rewards: A Hybrid and Multi-Aspect Reward Optimization for MLLM Alignment](https://arxiv.org/abs/2510.05283) | export.arxiv.org |
-| 2025-10-08 04:00 | [BIRD-INTERACT: Re-imagining Text-to-SQL Evaluation for Large Language Models via Lens of Dynamic Interactions](https://arxiv.org/abs/2510.05318) | export.arxiv.org |
-| 2025-10-08 04:00 | [Biomedical reasoning in action: Multi-agent System for Auditable Biomedical Evidence Synthesis](https://arxiv.org/abs/2510.05335) | export.arxiv.org |
-| 2025-10-08 04:00 | [Integrating Bayesian methods with neural network--based model predictive control: a review](https://arxiv.org/abs/2510.05338) | export.arxiv.org |
-| 2025-10-08 04:00 | [MHA-RAG: Improving Efficiency, Accuracy, and Consistency by Encoding Exemplars as Soft Prompts](https://arxiv.org/abs/2510.05363) | export.arxiv.org |
-| 2025-10-08 04:00 | [What Do You Mean? Exploring How Humans and AI Interact with Symbols and Meanings in Their Interactions](https://arxiv.org/abs/2510.05378) | export.arxiv.org |
-| 2025-10-08 04:00 | [Teacher-Student Guided Inverse Modeling for Steel Final Hardness Estimation](https://arxiv.org/abs/2510.05402) | export.arxiv.org |
-| 2025-10-08 04:00 | [AInstein: Assessing the Feasibility of AI-Generated Approaches to Research Problems](https://arxiv.org/abs/2510.05432) | export.arxiv.org |
-| 2025-10-08 04:00 | [NASP-T: A Fuzzy Neuro-Symbolic Transformer for Logic-Constrained Aviation Safety Report Classification](https://arxiv.org/abs/2510.05451) | export.arxiv.org |
-| 2025-10-08 04:00 | [Do Code Models Suffer from the Dunning-Kruger Effect?](https://arxiv.org/abs/2510.05457) | export.arxiv.org |
-| 2025-10-08 04:00 | [VAL-Bench: Measuring Value Alignment in Language Models](https://arxiv.org/abs/2510.05465) | export.arxiv.org |
-| 2025-10-08 04:00 | [Vul-R2: A Reasoning LLM for Automated Vulnerability Repair](https://arxiv.org/abs/2510.05480) | export.arxiv.org |
-| 2025-10-08 04:00 | [Decade-long Emission Forecasting with an Ensemble Model in Taiwan](https://arxiv.org/abs/2510.05548) | export.arxiv.org |
-| 2025-10-08 04:00 | [MetaVLA: Unified Meta Co-training For Efficient Embodied Adaption](https://arxiv.org/abs/2510.05580) | export.arxiv.org |
-| 2025-10-08 04:00 | [In-the-Flow Agentic System Optimization for Effective Planning and Tool Use](https://arxiv.org/abs/2510.05592) | export.arxiv.org |
-| 2025-10-08 04:00 | [From Agentification to Self-Evolving Agentic AI for Wireless Networks: Concepts, Approaches, and Future Research Directions](https://arxiv.org/abs/2510.05596) | export.arxiv.org |
-| 2025-10-08 04:00 | [Large Language Model-Based Uncertainty-Adjusted Label Extraction for Artificial Intelligence Model Development in Upper Extremity Radiography](https://arxiv.org/abs/2510.05664) | export.arxiv.org |
-| 2025-10-08 04:00 | [D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI](https://arxiv.org/abs/2510.05684) | export.arxiv.org |
-| 2025-10-08 04:00 | [Joint Communication Scheduling and Velocity Control for Multi-UAV-Assisted Post-Disaster Monitoring: An Attention-Based In-Context Learning Approach](https://arxiv.org/abs/2510.05698) | export.arxiv.org |
-| 2025-10-08 04:00 | [Syn-Diag: An LLM-based Synergistic Framework for Generalizable Few-shot Fault Diagnosis on the Edge](https://arxiv.org/abs/2510.05733) | export.arxiv.org |
-| 2025-10-08 04:00 | [Artificially intelligent agents in the social and behavioral sciences: A history and outlook](https://arxiv.org/abs/2510.05743) | export.arxiv.org |
-| 2025-10-08 04:00 | [ARM: Discovering Agentic Reasoning Modules for Generalizable Multi-Agent Systems](https://arxiv.org/abs/2510.05746) | export.arxiv.org |
-| 2025-10-08 04:00 | [Uncertainty assessment in satellite-based greenhouse gas emissions estimates using emulated atmospheric transport](https://arxiv.org/abs/2510.05751) | export.arxiv.org |
-| 2025-10-08 04:00 | [Early Multimodal Prediction of Cross-Lingual Meme Virality on Reddit: A Time-Window Analysis](https://arxiv.org/abs/2510.05761) | export.arxiv.org |
-| 2025-10-08 04:00 | [RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases](https://arxiv.org/abs/2510.05764) | export.arxiv.org |
-| 2025-10-08 04:00 | [ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming](https://arxiv.org/abs/2510.05774) | export.arxiv.org |
-| 2025-10-08 04:00 | [The Safety Challenge of World Models for Embodied AI Agents: A Review](https://arxiv.org/abs/2510.05865) | export.arxiv.org |
-| 2025-10-08 04:00 | [Towards Label-Free Biological Reasoning Synthetic Dataset Creation via Uncertainty Filtering](https://arxiv.org/abs/2510.05871) | export.arxiv.org |
-| 2025-10-08 04:00 | [Optimizing for Persuasion Improves LLM Generalization: Evidence from Quality-Diversity Evolution of Debate Strategies](https://arxiv.org/abs/2510.05909) | export.arxiv.org |
-| 2025-10-08 04:00 | [VER: Vision Expert Transformer for Robot Learning via Foundation Distillation and Dynamic Routing](https://arxiv.org/abs/2510.05213) | export.arxiv.org |
-| 2025-10-08 04:00 | [Adaptive Dynamics Planning for Robot Navigation](https://arxiv.org/abs/2510.05330) | export.arxiv.org |
-| 2025-10-08 04:00 | [A multi-modal tactile fingertip design for robotic hands to enhance dexterous manipulation](https://arxiv.org/abs/2510.05382) | export.arxiv.org |
-| 2025-10-08 04:00 | [Towards Online Robot Interaction Adaptation to Human Upper-limb Mobility Impairments in Return-to-Work Scenarios](https://arxiv.org/abs/2510.05425) | export.arxiv.org |
-| 2025-10-08 04:00 | [Active Semantic Perception](https://arxiv.org/abs/2510.05430) | export.arxiv.org |
-| 2025-10-08 04:00 | [AD-NODE: Adaptive Dynamics Learning with Neural ODEs for Mobile Robots Control](https://arxiv.org/abs/2510.05443) | export.arxiv.org |
-| 2025-10-08 04:00 | [Correlation-Aware Dual-View Pose and Velocity Estimation for Dynamic Robotic Manipulation](https://arxiv.org/abs/2510.05536) | export.arxiv.org |
-| 2025-10-08 04:00 | [ARRC: Advanced Reasoning Robot Control - Knowledge-Driven Autonomous Manipulation Using Retrieval-Augmented Generation](https://arxiv.org/abs/2510.05547) | export.arxiv.org |
-| 2025-10-08 04:00 | [GO-Flock: Goal-Oriented Flocking in 3D Unknown Environments with Depth Maps](https://arxiv.org/abs/2510.05553) | export.arxiv.org |
-| 2025-10-08 04:00 | [DeLTa: Demonstration and Language-Guided Novel Transparent Object Manipulation](https://arxiv.org/abs/2510.05662) | export.arxiv.org |
-| 2025-10-08 04:00 | [Verifier-free Test-Time Sampling for Vision Language Action Models](https://arxiv.org/abs/2510.05681) | export.arxiv.org |
+| 2025-10-09 19:53 | [Lucid Bots brings embodied AI to commercial painting](https://www.therobotreport.com/lucid-bots-brings-embodied-ai-commercial-painting/) | www.therobotreport.com |
+| 2025-10-09 18:21 | [Figure AI designs Figure 03 humanoid for AI, home use, and scaling](https://www.therobotreport.com/figure-ai-designs-figure-03-humanoid-ai-home-use-scaling/) | www.therobotreport.com |
+| 2025-10-09 18:00 | [1,001 real-world gen AI use cases from the world's leading organizations](https://blog.google/products/google-cloud/gen-ai-business-use-cases/) | blog.google |
+| 2025-10-09 14:35 | [Fundamental XR launches Fundamental Touch for wireless haptics](https://www.therobotreport.com/fundamental-xr-launches-fundamental-touch-for-wireless-haptics/) | www.therobotreport.com |
+| 2025-10-09 13:00 | [Defining and evaluating political bias in LLMs](https://openai.com/index/defining-and-evaluating-political-bias-in-llms) | openai.com |
+| 2025-10-09 12:00 | [Gemini Enterprise: The new front door for Google AI in your workplace](https://blog.google/products/google-cloud/gemini-enterprise-sundar-pichai/) | blog.google |
+| 2025-10-09 12:00 | [4 ways Gemini Enterprise makes work easier for everyone](https://blog.google/products/google-cloud/4-ways-gemini-enterprise-makes-work-easier-for-everyone/) | blog.google |
+| 2025-10-09 04:00 | [AlphaApollo: Orchestrating Foundation Models and Professional Tools into a Self-Evolving System for Deep Agentic Reasoning](https://arxiv.org/abs/2510.06261) | export.arxiv.org |
+| 2025-10-09 04:00 | [Bridging Reasoning to Learning: Unmasking Illusions using Complexity Out of Distribution Generalization](https://arxiv.org/abs/2510.06274) | export.arxiv.org |
+| 2025-10-09 04:00 | [BuilderBench -- A benchmark for generalist agents](https://arxiv.org/abs/2510.06288) | export.arxiv.org |
+| 2025-10-09 04:00 | [Requirements for Game-Based Learning Design Framework for Information System Integration in the Context of Post-Merger Integration](https://arxiv.org/abs/2510.06302) | export.arxiv.org |
+| 2025-10-09 04:00 | [Belief-Calibrated Multi-Agent Consensus Seeking for Complex NLP Tasks](https://arxiv.org/abs/2510.06307) | export.arxiv.org |
+| 2025-10-09 04:00 | [Off-Trajectory Reasoning: Can LLMs Collaborate on Reasoning Trajectory?](https://arxiv.org/abs/2510.06410) | export.arxiv.org |
+| 2025-10-09 04:00 | [Flavonoid Fusion: Creating a Knowledge Graph to Unveil the Interplay Between Food and Health](https://arxiv.org/abs/2510.06433) | export.arxiv.org |
+| 2025-10-09 04:00 | [PuzzlePlex: Benchmarking Foundation Models on Reasoning and Planning with Puzzles](https://arxiv.org/abs/2510.06475) | export.arxiv.org |
+| 2025-10-09 04:00 | [Beneficial Reasoning Behaviors in Agentic Search and Effective Post-training to Obtain Them](https://arxiv.org/abs/2510.06534) | export.arxiv.org |
+| 2025-10-09 04:00 | [Auto-Prompt Ensemble for LLM Judge](https://arxiv.org/abs/2510.06538) | export.arxiv.org |
+| 2025-10-09 04:00 | [WebDART: Dynamic Decomposition and Re-planning for Complex Web Tasks](https://arxiv.org/abs/2510.06587) | export.arxiv.org |
+| 2025-10-09 04:00 | [Fine-Grained Emotion Recognition via In-Context Learning](https://arxiv.org/abs/2510.06600) | export.arxiv.org |
+| 2025-10-09 04:00 | [Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support](https://arxiv.org/abs/2510.06674) | export.arxiv.org |
+| 2025-10-09 04:00 | [Inefficiencies of Meta Agents for Agent Design](https://arxiv.org/abs/2510.06711) | export.arxiv.org |
+| 2025-10-09 04:00 | [MultiCNKG: Integrating Cognitive Neuroscience, Gene, and Disease Knowledge Graphs Using Large Language Models](https://arxiv.org/abs/2510.06742) | export.arxiv.org |
+| 2025-10-09 04:00 | [Verifying Memoryless Sequential Decision-making of Large Language Models](https://arxiv.org/abs/2510.06756) | export.arxiv.org |
+| 2025-10-09 04:00 | [Evolving and Executing Research Plans via Double-Loop Multi-Agent Collaboration](https://arxiv.org/abs/2510.06761) | export.arxiv.org |
+| 2025-10-09 04:00 | [Autoformalizer with Tool Feedback](https://arxiv.org/abs/2510.06857) | export.arxiv.org |
+| 2025-10-09 04:00 | [TGPR: Tree-Guided Policy Refinement for Robust Self-Debugging of LLMs](https://arxiv.org/abs/2510.06878) | export.arxiv.org |
+| 2025-10-09 04:00 | [LLM-Assisted Modeling of Semantic Web-Enabled Multi-Agents Systems with AJAN](https://arxiv.org/abs/2510.06911) | export.arxiv.org |
+| 2025-10-09 04:00 | [Revisiting the Uniform Information Density Hypothesis in LLM Reasoning Traces](https://arxiv.org/abs/2510.06953) | export.arxiv.org |
+| 2025-10-09 04:00 | [Tool-Augmented Policy Optimization: Synergizing Reasoning and Adaptive Tool Use with Reinforcement Learning](https://arxiv.org/abs/2510.07038) | export.arxiv.org |
+| 2025-10-09 04:00 | [Prompt Optimization Across Multiple Agents for Representing Diverse Human Populations](https://arxiv.org/abs/2510.07064) | export.arxiv.org |
+| 2025-10-09 04:00 | [Inductive Learning for Possibilistic Logic Programs Under Stable Models](https://arxiv.org/abs/2510.07069) | export.arxiv.org |
+| 2025-10-09 04:00 | [VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems](https://arxiv.org/abs/2510.07073) | export.arxiv.org |
+| 2025-10-09 04:00 | [The Cognitive Bandwidth Bottleneck: Shifting Long-Horizon Agent from Planning with Actions to Planning with Schemas](https://arxiv.org/abs/2510.07091) | export.arxiv.org |
+| 2025-10-09 04:00 | [The Contingencies of Physical Embodiment Allow for Open-Endedness and Care](https://arxiv.org/abs/2510.07117) | export.arxiv.org |
+| 2025-10-09 04:00 | [Integrating Domain Knowledge into Process Discovery Using Large Language Models](https://arxiv.org/abs/2510.07161) | export.arxiv.org |
+| 2025-10-09 04:00 | [NewtonBench: Benchmarking Generalizable Scientific Law Discovery in LLM Agents](https://arxiv.org/abs/2510.07172) | export.arxiv.org |
+| 2025-10-09 04:00 | [Multi-Objective Multi-Agent Path Finding with Lexicographic Cost Preferences](https://arxiv.org/abs/2510.07276) | export.arxiv.org |
+| 2025-10-09 04:00 | [Agentic generative AI for media content discovery at the national football league](https://arxiv.org/abs/2510.07297) | export.arxiv.org |
+| 2025-10-09 04:00 | [DeepXPalm: Tilt and Position Rendering using Palm-worn Haptic Display and CNN-based Tactile Pattern Recognition](https://arxiv.org/abs/2204.03521) | export.arxiv.org |
+| 2025-10-09 04:00 | [TiltXter: CNN-based Electro-tactile Rendering of Tilt Angle for Telemanipulation of Pasteur Pipettes](https://arxiv.org/abs/2409.15838) | export.arxiv.org |
+| 2025-10-09 04:00 | [AgentBuilder: Exploring Scaffolds for Prototyping User Experiences of Interface Agents](https://arxiv.org/abs/2510.04452) | export.arxiv.org |
+| 2025-10-09 04:00 | [WeatherArchive-Bench: Benchmarking Retrieval-Augmented Reasoning for Historical Weather Archives](https://arxiv.org/abs/2510.05336) | export.arxiv.org |
+| 2025-10-09 04:00 | [A Multimodal GUI Architecture for Interfacing with LLM-Based Conversational Assistants](https://arxiv.org/abs/2510.06223) | export.arxiv.org |
+| 2025-10-09 04:00 | [Exploring Human-AI Collaboration Using Mental Models of Early Adopters of Multi-Agent Generative AI Tools](https://arxiv.org/abs/2510.06224) | export.arxiv.org |
+| 2025-10-09 04:00 | [Generalized Multi-agent Social Simulation Framework](https://arxiv.org/abs/2510.06225) | export.arxiv.org |
+| 2025-10-09 04:00 | [Stacked Regression using Off-the-shelf, Stimulus-tuned and Fine-tuned Neural Networks for Predicting fMRI Brain Responses to Movies (Algonauts 2025 Report)](https://arxiv.org/abs/2510.06235) | export.arxiv.org |
+| 2025-10-09 04:00 | [Uncertainty Quantification In Surface Landmines and UXO Classification Using MC Dropout](https://arxiv.org/abs/2510.06238) | export.arxiv.org |
+| 2025-10-09 04:00 | [Vi-TacMan: Articulated Object Manipulation via Vision and Touch](https://arxiv.org/abs/2510.06339) | export.arxiv.org |
+| 2025-10-09 04:00 | [A Formal gatekeeper Framework for Safe Dual Control with Active Exploration](https://arxiv.org/abs/2510.06351) | export.arxiv.org |
+| 2025-10-09 04:00 | [Constrained Natural Language Action Planning for Resilient Embodied Systems](https://arxiv.org/abs/2510.06357) | export.arxiv.org |
+| 2025-10-09 04:00 | [Active Next-Best-View Optimization for Risk-Averse Path Planning](https://arxiv.org/abs/2510.06481) | export.arxiv.org |
+| 2025-10-09 04:00 | [What You Don't Know Can Hurt You: How Well do Latent Safety Filters Understand Partially Observable Safety Constraints?](https://arxiv.org/abs/2510.06492) | export.arxiv.org |
+| 2025-10-09 04:00 | [Real-Time Glass Detection and Reprojection using Sensor Fusion Onboard Aerial Robots](https://arxiv.org/abs/2510.06518) | export.arxiv.org |
+| 2025-10-09 04:00 | [RAISE: A self-driving laboratory for interfacial property formulation discovery](https://arxiv.org/abs/2510.06546) | export.arxiv.org |
+| 2025-10-09 04:00 | [Safe Obstacle-Free Guidance of Space Manipulators in Debris Removal Missions via Deep Reinforcement Learning](https://arxiv.org/abs/2510.06566) | export.arxiv.org |
+| 2025-10-09 04:00 | [Assist-As-Needed: Adaptive Multimodal Robotic Assistance for Medication Management in Dementia Care](https://arxiv.org/abs/2510.06633) | export.arxiv.org |
+| 2025-10-09 04:00 | [RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training](https://arxiv.org/abs/2510.06710) | export.arxiv.org |
+| 2025-10-09 04:00 | [SanDRA: Safe Large-Language-Model-Based Decision Making for Automated Vehicles Using Reachability Analysis](https://arxiv.org/abs/2510.06717) | export.arxiv.org |
+| 2025-10-09 04:00 | [UniFField: A Generalizable Unified Neural Feature Field for Visual, Semantic, and Spatial Uncertainties in Any Scene](https://arxiv.org/abs/2510.06754) | export.arxiv.org |
+| 2025-10-09 04:00 | [Distributed 3D Source Seeking via SO(3) Geometric Control of Robot Swarms](https://arxiv.org/abs/2510.06836) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -95,7 +95,7 @@
 
     
       The AI Browser Automation Framework |
-| 2 | [sponsors/trycua](https://github.com/sponsors/trycua) | Sponsor
+| 2 | [sponsors/FlowiseAI](https://github.com/sponsors/FlowiseAI) | Sponsor
     
   
 
@@ -119,29 +119,12 @@
 
 
       
-        trycua /
+        FlowiseAI /
 
-      cua  
-
-    
-      Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
-| 3 | [login?return_to=%2Fdyad-sh%2Fdyad" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:964395174,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fdyad-sh%2Fdyad" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:964395174,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        dyad-sh /
-
-      dyad  
+      Flowise  
 
     
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+      Build AI Agents, Visually |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -150,7 +133,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Ftile-ai%2Ftilelang" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:867004514,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ftile-ai%2Ftilelang" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:867004514,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2Fgoogle%2Ftunix" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:959501623,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle%2Ftunix" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:959501623,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -161,12 +144,12 @@
 
 
       
-        tile-ai /
+        google /
 
-      tilelang  
+      tunix  
 
     
-       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels |
+      A JAX-native LLM Post-Training Library |
 | 2 | [login?return_to=%2Fkestra-io%2Fkestra" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:204164353,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fkestra-io%2Fkestra" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:204164353,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -214,7 +197,7 @@
 
     
       Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
-| 4 | [login?return_to=%2Fdyad-sh%2Fdyad" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:964395174,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fdyad-sh%2Fdyad" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:964395174,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 4 | [login?return_to=%2Ftile-ai%2Ftilelang" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:867004514,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ftile-ai%2Ftilelang" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:867004514,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -225,12 +208,29 @@
 
 
       
-        dyad-sh /
+        tile-ai /
 
-      dyad  
+      tilelang  
 
     
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels |
+| 5 | [login?return_to=%2Fmicrosoft%2Fagent-framework" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:974445592,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmicrosoft%2Fagent-framework" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:974445592,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        microsoft /
+
+      agent-framework  
+
+    
+      A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
