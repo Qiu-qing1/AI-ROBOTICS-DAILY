@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-10-26 02:53 UTC）
+# AI & 机器人 技术热点日报（2025-10-27 03:05 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,8 @@
 
 |---|---|---|
 
+| 2025-10-26 15:00 | [Introducing vibe coding in Google AI Studio](https://blog.google/technology/developers/introducing-vibe-coding-in-google-ai-studio/) | blog.google |
+| 2025-10-26 13:00 | [AutoStore adds 7 new features to its ASRS](https://www.therobotreport.com/autostore-adds-7-new-features-to-its-asrs/) | www.therobotreport.com |
 | 2025-10-25 12:30 | [Leju raises $200M for humanoid production as Unitree unveils H2](https://www.therobotreport.com/leju-raises-200m-humanoid-production-unitree-unveils-h2-robot/) | www.therobotreport.com |
 | 2025-10-25 12:25 | [Bonsai Robotics launches Amiga robots at FIRA 2025](https://www.therobotreport.com/bonsai-robotics-launches-amiga-flex-robots-fira-2025/) | www.therobotreport.com |
 | 2025-10-24 20:01 | [Seneca brings in $60M to develop fire suppression drones](https://www.therobotreport.com/seneca-brings-in-60m-to-develop-fire-suppression-drones/) | www.therobotreport.com |
@@ -34,7 +36,6 @@
 | 2025-10-22 13:00 | [The CMA’s designation of Google’s mobile ecosystem](https://blog.google/around-the-globe/google-europe/united-kingdom/cmas-designation-of-googles-mobile-ecosystem/) | blog.google |
 | 2025-10-22 00:00 | [AI in Japan—OpenAI’s Japan Economic Blueprint](https://openai.com/index/japan-economic-blueprint) | openai.com |
 | 2025-10-21 17:00 | [Continue your ChatGPT experience beyond WhatsApp](https://openai.com/index/chatgpt-whatsapp-transition) | openai.com |
-| 2025-10-21 16:44 | [Draganfly and Palladyne partner to develop drone swarms for defense](https://www.therobotreport.com/draganfly-palladyne-partner-develop-drone-swarms-defense/) | www.therobotreport.com |
 | 2025-10-21 13:00 | [Start learning all things AI on the new Google Skills](https://blog.google/outreach-initiatives/education/google-skills/) | blog.google |
 | 2025-10-21 00:00 | [Introducing ChatGPT Atlas, the browser with ChatGPT built in](https://openai.com/index/introducing-chatgpt-atlas) | openai.com |
 | 2025-10-18 15:00 | [Leveling up your developer experience in Google AI Studio](https://blog.google/technology/developers/ai-studio-updates-more-control/) | blog.google |
@@ -69,7 +70,6 @@
 | 2025-10-06 13:00 | [How we’re securing the AI frontier](https://blog.google/technology/safety-security/ai-security-frontier-strategy-tools/) | blog.google |
 | 2025-10-06 10:50 | [Codex is now generally available](https://openai.com/index/codex-now-generally-available) | openai.com |
 | 2025-10-06 10:00 | [Introducing apps in ChatGPT and the new Apps SDK](https://openai.com/index/introducing-apps-in-chatgpt) | openai.com |
-| 2025-10-06 06:00 | [AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs](https://openai.com/index/openai-amd-strategic-partnership) | openai.com |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,7 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2FTheRobotStudio%2FSO-ARM100" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:798981945,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FTheRobotStudio%2FSO-ARM100" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:798981945,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2Fyeongpin%2Fcursor-free-vip" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:915198910,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fyeongpin%2Fcursor-free-vip" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:915198910,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -89,13 +89,13 @@
 
 
       
-        TheRobotStudio /
+        yeongpin /
 
-      SO-ARM100  
+      cursor-free-vip  
 
     
-      Standard Open Arm 100 |
-| 2 | [login?return_to=%2Fubicloud%2Fubicloud" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:590158156,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fubicloud%2Fubicloud" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:590158156,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      [Support 0.49.x]（Reset Cursor AI MachineID &amp; Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
+| 2 | [login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -106,13 +106,13 @@
 
 
       
-        ubicloud /
+        Shubhamsaboo /
 
-      ubicloud  
+      awesome-llm-apps  
 
     
-      Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
-| 3 | [login?return_to=%2FOpenMind%2FOM1" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:914053359,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FOpenMind%2FOM1" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:914053359,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| 3 | [login?return_to=%2Fmicrosoft%2Fagent-lightning" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1004147641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmicrosoft%2Fagent-lightning" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1004147641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -123,12 +123,12 @@
 
 
       
-        OpenMind /
+        microsoft /
 
-      OM1  
+      agent-lightning  
 
     
-      Modular AI runtime for robots |
+      The absolute trainer to light up AI agents. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -154,7 +154,20 @@
 
     
       Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
-| 2 | [login?return_to=%2FThinkInAIXYZ%2Fdeepchat" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:932490533,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FThinkInAIXYZ%2Fdeepchat" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:932490533,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [sponsors/louislam](https://github.com/sponsors/louislam) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
 
 
   
@@ -165,12 +178,12 @@
 
 
       
-        ThinkInAIXYZ /
+        louislam /
 
-      deepchat  
+      uptime-kuma  
 
     
-      🐬DeepChat - A smart assistant that connects powerful AI to your personal world |
+      A fancy self-hosted monitoring tool |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
