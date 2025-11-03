@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-11-02 02:58 UTC）
+# AI & 机器人 技术热点日报（2025-11-03 03:01 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,8 @@
 
 |---|---|---|
 
+| 2025-11-02 14:00 | [Spider-Inspired Microbots Could Replace Invasive Gut Diagnostics](https://spectrum.ieee.org/magnetic-pill-sized-robot-cartwheel) | spectrum.ieee.org |
+| 2025-11-02 13:30 | [Why automation is the medicine that hospitals and the healthcare system needs](https://www.therobotreport.com/why-automation-medicine-hospitals-healthcare-system-needs/) | www.therobotreport.com |
 | 2025-11-01 15:32 | [Bats inspire WPI researchers to develop drones using echolocation](https://www.therobotreport.com/wpi-researchers-create-bat-inspired-search-rescue-drones/) | www.therobotreport.com |
 | 2025-11-01 12:27 | [TU Delft algorithm to enables drones to work together to transport heavy payloads](https://www.therobotreport.com/tu-delft-algorithm-lets-drones-work-together-transport-heavy-payloads/) | www.therobotreport.com |
 | 2025-10-31 20:10 | [Remedy Robotics, Mission Thrombectomy extend N1 System to blood clot removal](https://www.therobotreport.com/remedy-robotics-mission-thrombectomy-extend-n1-system-blood-clot-removal/) | www.therobotreport.com |
@@ -37,10 +39,9 @@
 | 2025-10-28 17:00 | [Knowledge preservation powered by ChatGPT](https://openai.com/index/dai-nippon-printing) | openai.com |
 | 2025-10-28 15:12 | [Free-Floating Robots Find Ocean’s Carbon Storage Is Struggling](https://spectrum.ieee.org/ocean-robots-mbari-bgc-argo) | spectrum.ieee.org |
 | 2025-10-28 10:00 | [Doppel’s AI defense system stops attacks before they spread](https://openai.com/index/doppel) | openai.com |
-| 2025-10-28 06:00 | [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership) | openai.com |
 | 2025-10-28 06:00 | [Built to benefit everyone](https://openai.com/index/built-to-benefit-everyone) | openai.com |
+| 2025-10-28 06:00 | [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership) | openai.com |
 | 2025-10-27 19:53 | [FIRA USA 2025 agricultural robotics event recap](https://www.therobotreport.com/fira-usa-2025-agricultural-robotics-event-recap/) | www.therobotreport.com |
-| 2025-10-27 18:08 | [Nauticus Robotics aims for deep-sea rare mineral exploration with $250M line of credit](https://www.therobotreport.com/nauticus-robotics-aims-deep-sea-rare-mineral-exploration-250m-credit-line/) | www.therobotreport.com |
 | 2025-10-27 17:45 | [Google Beam is working with the USO to support military families.](https://blog.google/feed/google-beam-uso-partnership/) | blog.google |
 | 2025-10-27 12:00 | [Seizing the AI opportunity](https://openai.com/global-affairs/seizing-the-ai-opportunity) | openai.com |
 | 2025-10-27 10:00 | [Addendum to GPT-5 System Card: Sensitive conversations](https://openai.com/index/gpt-5-system-card-sensitive-conversations) | openai.com |
@@ -51,8 +52,8 @@
 | 2025-10-23 15:00 | [New updates and more access to Google Earth AI](https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/) | blog.google |
 | 2025-10-23 10:00 | [OpenAI acquires Software Applications Incorporated, maker of Sky](https://openai.com/index/openai-acquires-software-applications-incorporated) | openai.com |
 | 2025-10-23 09:00 | [Consensus accelerates research with GPT-5 and Responses API](https://openai.com/index/consensus) | openai.com |
-| 2025-10-23 00:00 | [Work smarter with your company knowledge in ChatGPT](https://openai.com/index/introducing-company-knowledge) | openai.com |
 | 2025-10-23 00:00 | [AI in South Korea—OpenAI’s Economic Blueprint](https://openai.com/index/south-korea-economic-blueprint) | openai.com |
+| 2025-10-23 00:00 | [Work smarter with your company knowledge in ChatGPT](https://openai.com/index/introducing-company-knowledge) | openai.com |
 | 2025-10-22 16:00 | [The next chapter for UK sovereign AI](https://openai.com/index/the-next-chapter-for-uk-sovereign-ai) | openai.com |
 | 2025-10-22 13:00 | [The CMA’s designation of Google’s mobile ecosystem](https://blog.google/around-the-globe/google-europe/united-kingdom/cmas-designation-of-googles-mobile-ecosystem/) | blog.google |
 | 2025-10-22 00:00 | [AI in Japan—OpenAI’s Japan Economic Blueprint](https://openai.com/index/japan-economic-blueprint) | openai.com |
@@ -69,7 +70,6 @@
 | 2025-10-15 12:00 | [How a Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/) | blog.google |
 | 2025-10-15 00:00 | [Plex Coffee delivers fast service and personal connections with ChatGPT Business](https://openai.com/index/plex-coffee) | openai.com |
 | 2025-10-14 17:00 | [10 ways you can ask Google Photos to edit your photos for you](https://blog.google/products/photos/how-to-tips-editing-prompts/) | blog.google |
-| 2025-10-14 10:00 | [Expert Council on Well-Being and AI](https://openai.com/index/expert-council-on-well-being-and-ai) | openai.com |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,7 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Fget-convex%2Fchef" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:958172562,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fget-convex%2Fchef" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:958172562,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2Fmicrosoft%2Fagent-lightning" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1004147641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmicrosoft%2Fagent-lightning" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1004147641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -89,64 +89,13 @@
 
 
       
-        get-convex /
+        microsoft /
 
-      chef  
-
-    
-      The only AI app builder that knows backend |
-| 2 | [login?return_to=%2FTencent%2FWeKnora" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1024118326,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FTencent%2FWeKnora" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1024118326,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        Tencent /
-
-      WeKnora  
+      agent-lightning  
 
     
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
-| 3 | [login?return_to=%2FYunaiV%2Fruoyi-vue-pro" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:332357698,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FYunaiV%2Fruoyi-vue-pro" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:332357698,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        YunaiV /
-
-      ruoyi-vue-pro  
-
-    
-      🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue &amp; Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| 4 | [login?return_to=%2Fpathwaycom%2Fllm-app" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:668195240,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fpathwaycom%2Fllm-app" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:668195240,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        pathwaycom /
-
-      llm-app  
-
-    
-      Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more. |
-| 5 | [sponsors/lingodotdev](https://github.com/sponsors/lingodotdev) | Sponsor
+      The absolute trainer to light up AI agents. |
+| 2 | [sponsors/sst](https://github.com/sponsors/sst) | Sponsor
     
   
 
@@ -170,12 +119,59 @@
 
 
       
-        lingodotdev /
+        sst /
 
-      lingo.dev  
+      opencode  
 
     
-      ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: |
+      The AI coding agent built for the terminal. |
+| 3 | [login?return_to=%2Fmoondevonyt%2Fmoon-dev-ai-agents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:910803661,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmoondevonyt%2Fmoon-dev-ai-agents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:910803661,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        moondevonyt /
+
+      moon-dev-ai-agents  
+
+    
+      autonomous ai agents for trading in python |
+| 4 | [sponsors/Fosowl](https://github.com/sponsors/Fosowl) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        Fosowl /
+
+      agenticSeek  
+
+    
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account) |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -218,7 +214,20 @@
 
     
       [Support 0.49.x]（Reset Cursor AI MachineID &amp; Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
-| 3 | [login?return_to=%2Fallenai%2Folmocr" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:858798469,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fallenai%2Folmocr" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:858798469,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 3 | [sponsors/patchy631](https://github.com/sponsors/patchy631) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
 
 
   
@@ -229,12 +238,12 @@
 
 
       
-        allenai /
+        patchy631 /
 
-      olmocr  
+      ai-engineering-hub  
 
     
-      Toolkit for linearizing PDFs for LLM datasets/training |
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 | 4 | [login?return_to=%2Fget-convex%2Fchef" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:958172562,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fget-convex%2Fchef" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:958172562,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -252,42 +261,7 @@
 
     
       The only AI app builder that knows backend |
-| 5 | [login?return_to=%2FTheRobotStudio%2FSO-ARM100" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:798981945,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FTheRobotStudio%2FSO-ARM100" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:798981945,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        TheRobotStudio /
-
-      SO-ARM100  
-
-    
-      Standard Open Arm 100 |
-| 6 | [login?return_to=%2Flangchain-ai%2Fdeepagents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1027384981,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Flangchain-ai%2Fdeepagents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1027384981,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | - |
-| 7 | [login?return_to=%2Fmem0ai%2Fmem0" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:656099147,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmem0ai%2Fmem0" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:656099147,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        mem0ai /
-
-      mem0  
-
-    
-      Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management. |
-| 8 | [login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 5 | [login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -304,6 +278,57 @@
 
     
       Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| 6 | [login?return_to=%2Fallenai%2Folmocr" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:858798469,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fallenai%2Folmocr" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:858798469,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        allenai /
+
+      olmocr  
+
+    
+      Toolkit for linearizing PDFs for LLM datasets/training |
+| 7 | [login?return_to=%2Fvanna-ai%2Fvanna" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:640317662,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fvanna-ai%2Fvanna" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:640317662,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        vanna-ai /
+
+      vanna  
+
+    
+      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄. |
+| 8 | [login?return_to=%2Fmem0ai%2Fmem0" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:656099147,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmem0ai%2Fmem0" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:656099147,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        mem0ai /
+
+      mem0  
+
+    
+      Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
