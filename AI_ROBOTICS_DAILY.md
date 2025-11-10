@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-11-09 02:56 UTC）
+# AI & 机器人 技术热点日报（2025-11-10 03:04 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2025-11-09 13:30 | [Is physical world AI the future of autonomous machines?](https://www.therobotreport.com/physical-world-ai-future-autonomous-machines/) | www.therobotreport.com |
 | 2025-11-08 13:34 | [Holman Robotics launches to offer automation management services](https://www.therobotreport.com/holman-robotics-launches-offers-automation-management-services/) | www.therobotreport.com |
 | 2025-11-07 20:10 | [Expert roundtable to examine the future of warehouse automation](https://www.therobotreport.com/experts-roundtable-examine-future-warehouse-automation/) | www.therobotreport.com |
 | 2025-11-07 19:00 | [Google is investing in Oklahoma’s workforce and talent pipeline.](https://blog.google/inside-google/company-announcements/oklahoma-workforce-talent-pipeline/) | blog.google |
@@ -28,8 +29,8 @@
 | 2025-11-06 17:00 | [AI and learning: A new chapter for students and educators](https://blog.google/outreach-initiatives/education/ai-and-learning/) | blog.google |
 | 2025-11-06 13:58 | [Teradyne Robotics lays off another 14% of workforce](https://www.therobotreport.com/teradyne-robotics-lays-off-another-14-of-workforce/) | www.therobotreport.com |
 | 2025-11-06 09:30 | [From Pilot to Practice: How BBVA Is Scaling AI Across the Organization](https://openai.com/index/bbva-2025) | openai.com |
-| 2025-11-06 00:00 | [AI progress and recommendations](https://openai.com/index/ai-progress-and-recommendations) | openai.com |
 | 2025-11-06 00:00 | [Introducing the Teen Safety Blueprint](https://openai.com/index/introducing-the-teen-safety-blueprint) | openai.com |
+| 2025-11-06 00:00 | [AI progress and recommendations](https://openai.com/index/ai-progress-and-recommendations) | openai.com |
 | 2025-11-05 21:30 | [How CRED is tapping AI to deliver premium customer experiences](https://openai.com/index/cred-swamy-seetharaman) | openai.com |
 | 2025-11-05 20:49 | [PickNik expands support for Franka Research 3 robot on MoveIt Pro](https://www.therobotreport.com/picknik-expands-support-for-franka-research-3-robot-on-moveit-pro/) | www.therobotreport.com |
 | 2025-11-05 17:00 | [Improving Structured Outputs in the Gemini API](https://blog.google/technology/developers/gemini-api-structured-outputs/) | blog.google |
@@ -42,7 +43,6 @@
 | 2025-11-04 20:52 | [How ODW Logistics is Innovating with Automation](https://www.therobotreport.com/how-odw-logistics-is-innovating-with-automation/) | www.therobotreport.com |
 | 2025-11-04 17:00 | [The latest AI news we announced in October](https://blog.google/technology/ai/google-ai-updates-october-2025/) | blog.google |
 | 2025-11-04 16:00 | [Robotic Fish Zips Through Water With Flexible Electromagnetic Fin](https://spectrum.ieee.org/underwater-robot-electromagnetic-fin) | spectrum.ieee.org |
-| 2025-11-04 15:56 | [2026 RBR50 Robotics Innovation Awards open for nominations](https://www.therobotreport.com/2026-rbr50-robotics-innovation-awards-open-for-nominations/) | www.therobotreport.com |
 | 2025-11-04 15:00 | [This Professor’s Open-Source Robots Make STEM More Inclusive](https://spectrum.ieee.org/berry-hands-on-robotics-education) | spectrum.ieee.org |
 | 2025-11-04 13:00 | [A Challenge to Roboticists: My Humanoid Olympics](https://spectrum.ieee.org/humanoid-robot-olympics) | spectrum.ieee.org |
 | 2025-11-04 10:00 | [Brazil’s AI moment is here](https://openai.com/global-affairs/brazil-ai-moment-is-here) | openai.com |
@@ -63,12 +63,12 @@
 | 2025-10-28 17:00 | [Knowledge preservation powered by ChatGPT](https://openai.com/index/dai-nippon-printing) | openai.com |
 | 2025-10-28 15:12 | [Free-Floating Robots Find Ocean’s Carbon Storage Is Struggling](https://spectrum.ieee.org/ocean-robots-mbari-bgc-argo) | spectrum.ieee.org |
 | 2025-10-28 10:00 | [Doppel’s AI defense system stops attacks before they spread](https://openai.com/index/doppel) | openai.com |
-| 2025-10-28 06:00 | [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership) | openai.com |
 | 2025-10-28 06:00 | [Built to benefit everyone](https://openai.com/index/built-to-benefit-everyone) | openai.com |
+| 2025-10-28 06:00 | [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership) | openai.com |
 | 2025-10-27 17:45 | [Google Beam is working with the USO to support military families.](https://blog.google/feed/google-beam-uso-partnership/) | blog.google |
 | 2025-10-27 12:00 | [Seizing the AI opportunity](https://openai.com/global-affairs/seizing-the-ai-opportunity) | openai.com |
-| 2025-10-27 10:00 | [Addendum to GPT-5 System Card: Sensitive conversations](https://openai.com/index/gpt-5-system-card-sensitive-conversations) | openai.com |
 | 2025-10-27 10:00 | [Strengthening ChatGPT’s responses in sensitive conversations](https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations) | openai.com |
+| 2025-10-27 10:00 | [Addendum to GPT-5 System Card: Sensitive conversations](https://openai.com/index/gpt-5-system-card-sensitive-conversations) | openai.com |
 | 2025-10-27 00:00 | [A law and tax firm redefines efficiency with ChatGPT Business](https://openai.com/index/steuerrecht) | openai.com |
 
 
@@ -95,7 +95,7 @@
 
     
       ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
-| 2 | [login?return_to=%2Fnocobase%2Fnocobase" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:306829688,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fnocobase%2Fnocobase" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:306829688,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fgoogle%2Fadk-go" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:978236277,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle%2Fadk-go" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:978236277,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -106,13 +106,13 @@
 
 
       
-        nocobase /
+        google /
 
-      nocobase  
+      adk-go  
 
     
-      NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions. |
-| 3 | [login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| 3 | [login?return_to=%2Fsimstudioai%2Fsim" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:912559512,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fsimstudioai%2Fsim" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:912559512,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -123,12 +123,12 @@
 
 
       
-        Shubhamsaboo /
+        simstudioai /
 
-      awesome-llm-apps  
+      sim  
 
     
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+      Open-source platform to build and deploy AI agent workflows. |
 | 4 | [login?return_to=%2Fairweave-ai%2Fairweave" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:907754163,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fairweave-ai%2Fairweave" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:907754163,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -146,6 +146,40 @@
 
     
       Context retrieval for AI agents across apps and databases |
+| 5 | [login?return_to=%2FMoonshotAI%2FKimi-K2" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1013143108,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FMoonshotAI%2FKimi-K2" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1013143108,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        MoonshotAI /
+
+      Kimi-K2  
+
+    
+      Kimi K2 is the large language model series developed by Moonshot AI team |
+| 6 | [login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps  
+
+    
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -239,7 +273,24 @@
 
     
       Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖 |
-| 6 | [login?return_to=%2Fmindsdb%2Fmindsdb" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:143328315,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmindsdb%2Fmindsdb" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:143328315,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 6 | [login?return_to=%2Fairweave-ai%2Fairweave" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:907754163,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fairweave-ai%2Fairweave" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:907754163,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        airweave-ai /
+
+      airweave  
+
+    
+      Context retrieval for AI agents across apps and databases |
+| 7 | [login?return_to=%2Fmindsdb%2Fmindsdb" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:143328315,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmindsdb%2Fmindsdb" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:143328315,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -256,7 +307,7 @@
 
     
       Federated query engine for AI - The only MCP Server you'll ever need |
-| 7 | [login?return_to=%2Fkvcache-ai%2Fktransformers" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:833984877,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fkvcache-ai%2Fktransformers" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:833984877,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 8 | [login?return_to=%2Fkvcache-ai%2Fktransformers" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:833984877,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fkvcache-ai%2Fktransformers" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:833984877,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -273,36 +324,6 @@
 
     
       A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations |
-| 8 | [sponsors/topoteretes](https://github.com/sponsors/topoteretes) | Sponsor
-    
-  
-
-
-
-      
-            
-    
-
-    
-
-        
-          Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        topoteretes /
-
-      cognee  
-
-    
-      Memory for AI Agents in 6 lines of code |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
