@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-11-16 03:02 UTC）
+# AI & 机器人 技术热点日报（2025-11-17 02:58 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2025-11-16 13:38 | [Micropolis builds the future of robotics in Dubai](https://www.therobotreport.com/micropolis-builds-future-robotics-dubai/) | www.therobotreport.com |
 | 2025-11-15 22:02 | [Beyond the robot: Shaping the future of autonomous operations](https://www.therobotreport.com/beyond-robot-shaping-future-autonomous-operations/) | www.therobotreport.com |
 | 2025-11-15 14:00 | [Students Compete—and Cooperate—in FIRST Global Robotics Challenge](https://spectrum.ieee.org/first-global-robotics-challenge) | spectrum.ieee.org |
 | 2025-11-15 13:00 | [A2RL autonomous racecars take to the track in Abu Dhabi](https://www.therobotreport.com/a2rl-autonomous-racecars-take-track-abu-dhabi/) | www.therobotreport.com |
@@ -23,16 +24,16 @@
 | 2025-11-13 15:41 | [Drone maker Neros closes Series B round to expand industrial capacity](https://www.therobotreport.com/drone-maker-neros-raises-75m-expand-industrial-capacity/) | www.therobotreport.com |
 | 2025-11-13 10:00 | [Understanding neural networks through sparse circuits](https://openai.com/index/understanding-neural-networks-through-sparse-circuits) | openai.com |
 | 2025-11-13 08:00 | [Google Pixel and Golden Goose partner to  bring AI to global ateliers](https://blog.google/products/pixel/google-pixel-and-golden-goose-partner-to-bring-ai-to-global-ateliers/) | blog.google |
-| 2025-11-13 00:00 | [Introducing GPT-5.1 for developers](https://openai.com/index/gpt-5-1-for-developers) | openai.com |
-| 2025-11-13 00:00 | [How Philips Is scaling AI literacy across 70,000 employees](https://openai.com/index/philips) | openai.com |
 | 2025-11-13 00:00 | [Piloting group chats in ChatGPT](https://openai.com/index/group-chats-in-chatgpt) | openai.com |
+| 2025-11-13 00:00 | [How Philips Is scaling AI literacy across 70,000 employees](https://openai.com/index/philips) | openai.com |
+| 2025-11-13 00:00 | [Introducing GPT-5.1 for developers](https://openai.com/index/gpt-5-1-for-developers) | openai.com |
 | 2025-11-12 18:45 | [Veteran leads Isembard efforts to reshore U.S. manufacturing](https://www.therobotreport.com/veteran-leads-isembard-efforts-reshore-u-s-manufacturing/) | www.therobotreport.com |
 | 2025-11-12 15:16 | [Terranova gets seed funding to deploy terraforming robots](https://www.therobotreport.com/terranova-gets-seed-funding-deploy-terraforming-robots/) | www.therobotreport.com |
 | 2025-11-12 15:04 | [Foxglove raises $40M to scale its data platform for roboticists](https://www.therobotreport.com/foxglove-raises-40m-scale-data-platform-roboticists/) | www.therobotreport.com |
 | 2025-11-12 11:00 | [Neuro drives national retail wins with ChatGPT Business](https://openai.com/index/neurogum) | openai.com |
 | 2025-11-12 06:00 | [Fighting the New York Times’ invasion of user privacy](https://openai.com/index/fighting-nyt-user-privacy-invasion) | openai.com |
-| 2025-11-12 00:00 | [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1) | openai.com |
 | 2025-11-12 00:00 | [GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1) | openai.com |
+| 2025-11-12 00:00 | [GPT-5.1: A smarter, more conversational ChatGPT](https://openai.com/index/gpt-5-1) | openai.com |
 | 2025-11-11 20:12 | [HistoSonics raises $250M for commercial expansion of Edison system](https://www.therobotreport.com/histosonics-brings-250m-commercial-expansion-edison-system/) | www.therobotreport.com |
 | 2025-11-11 19:28 | [Designing space robots: Harmonic Drive shares history, looks ahead](https://www.therobotreport.com/designing-space-robots-harmonic-drive-shares-history-looks-ahead/) | www.therobotreport.com |
 | 2025-11-11 19:00 | [Private AI Compute: our next step in building private and helpful AI](https://blog.google/technology/ai/google-private-ai-compute/) | blog.google |
@@ -40,7 +41,6 @@
 | 2025-11-11 15:00 | [XTEND secures U.S. DoW contract for autonomous drones](https://www.therobotreport.com/xtend-secures-u-s-dept-war-contract-autonomous-drones/) | www.therobotreport.com |
 | 2025-11-11 13:24 | [The power of STEM: Shaping the next generation](https://www.therobotreport.com/power-stem-shaping-next-generation/) | www.therobotreport.com |
 | 2025-11-11 09:00 | [Our latest commitments in AI and learning](https://blog.google/outreach-initiatives/education/ai-learning-commitments/) | blog.google |
-| 2025-11-10 21:26 | [This time, iRobot needs help cleaning up a mess](https://www.therobotreport.com/this-time-irobot-needs-help-cleaning-up-a-mess/) | www.therobotreport.com |
 | 2025-11-10 09:00 | [How AI is giving Northern Ireland teachers time back](https://blog.google/technology/google-deepmind/ai-classroom-northern-ireland/) | blog.google |
 | 2025-11-10 02:00 | [Free ChatGPT for transitioning U.S. servicemembers and veterans](https://openai.com/index/chatgpt-for-veterans) | openai.com |
 | 2025-11-07 19:00 | [Google is investing in Oklahoma’s workforce and talent pipeline.](https://blog.google/inside-google/company-announcements/oklahoma-workforce-talent-pipeline/) | blog.google |
@@ -51,8 +51,8 @@
 | 2025-11-06 17:00 | [Google Finance adds AI features for research, earnings and more](https://blog.google/products/search/new-google-finance-ai-deep-search/) | blog.google |
 | 2025-11-06 17:00 | [AI and learning: A new chapter for students and educators](https://blog.google/outreach-initiatives/education/ai-and-learning/) | blog.google |
 | 2025-11-06 09:30 | [From Pilot to Practice: How BBVA Is Scaling AI Across the Organization](https://openai.com/index/bbva-2025) | openai.com |
-| 2025-11-06 00:00 | [AI progress and recommendations](https://openai.com/index/ai-progress-and-recommendations) | openai.com |
 | 2025-11-06 00:00 | [Introducing the Teen Safety Blueprint](https://openai.com/index/introducing-the-teen-safety-blueprint) | openai.com |
+| 2025-11-06 00:00 | [AI progress and recommendations](https://openai.com/index/ai-progress-and-recommendations) | openai.com |
 | 2025-11-05 21:30 | [How CRED is tapping AI to deliver premium customer experiences](https://openai.com/index/cred-swamy-seetharaman) | openai.com |
 | 2025-11-05 17:00 | [Improving Structured Outputs in the Gemini API](https://blog.google/technology/developers/gemini-api-structured-outputs/) | blog.google |
 | 2025-11-05 15:00 | [How Chime is redefining marketing through AI](https://openai.com/index/chime-vineet-mehra) | openai.com |
