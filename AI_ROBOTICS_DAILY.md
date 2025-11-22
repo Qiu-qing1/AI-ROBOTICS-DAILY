@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-11-21 02:53 UTC）
+# AI & 机器人 技术热点日报（2025-11-22 02:47 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
-| 2025-11-20 23:00 | [Foxconn, Intrinsic building flexible robots for U.S. factories](https://www.therobotreport.com/foxconn-intrinsic-building-flexible-robots-for-us-factories/) | www.therobotreport.com |
-| 2025-11-20 20:30 | [Develop a deeper understanding with interactive images in Gemini.](https://blog.google/outreach-initiatives/education/gemini-interactive-images/) | blog.google |
-| 2025-11-20 20:26 | [Bedrock Robotics announces autonomous excavation milestone](https://www.therobotreport.com/bedrock-robotics-announces-autonomous-excavation-milestone/) | www.therobotreport.com |
-| 2025-11-20 18:03 | [SOSV hosting virtual matchmaking to connect robotics startups & investors](https://www.therobotreport.com/sosv-virtual-matchmaking-robotics-startups-investors/) | www.therobotreport.com |
-| 2025-11-20 16:31 | [PI releases H-815 hexapod robot for industrial applications](https://www.therobotreport.com/pi-releases-h-815-hexapod-robot-industrial-applications/) | www.therobotreport.com |
-| 2025-11-20 15:00 | [How we’re bringing AI image verification to the Gemini app](https://blog.google/technology/ai/ai-image-verification-gemini-app/) | blog.google |
-| 2025-11-20 15:00 | [Build with Nano Banana Pro, our Gemini 3 Pro Image model](https://blog.google/technology/developers/gemini-3-pro-image-developers/) | blog.google |
-| 2025-11-20 15:00 | [Introducing Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/) | blog.google |
-| 2025-11-20 14:50 | [OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain](https://openai.com/index/openai-and-foxconn-collaborate) | openai.com |
-| 2025-11-20 14:00 | [How Westinghouse is reenergizing nuclear power with — and for — AI](https://blog.google/products/google-cloud/westinghouse/) | blog.google |
-| 2025-11-20 13:30 | [Viam software to enable UR cobots for industrial applications](https://www.therobotreport.com/viam-partners-universal-robots-create-industrial-automation-systems/) | www.therobotreport.com |
-| 2025-11-20 06:00 | [Helping 1,000 small businesses build with AI](https://openai.com/index/small-business-ai-jam) | openai.com |
-| 2025-11-20 05:00 | [Imagine in Space: Exploring the Frontier of Spatial Intelligence and Reasoning Efficiency in Vision Language Models](https://arxiv.org/abs/2511.13782) | export.arxiv.org |
-| 2025-11-20 05:00 | [KANGURA: Kolmogorov-Arnold Network-Based Geometry-Aware Learning with Unified Representation Attention for 3D Modeling of Complex Structures](https://arxiv.org/abs/2511.13798) | export.arxiv.org |
-| 2025-11-20 05:00 | [When AI Does Science: Evaluating the Autonomous AI Scientist KOSMOS in Radiation Biology](https://arxiv.org/abs/2511.13825) | export.arxiv.org |
-| 2025-11-20 05:00 | [Causal computations in Semi Markovian Structural Causal Models using divide and conquer](https://arxiv.org/abs/2511.13852) | export.arxiv.org |
-| 2025-11-20 05:00 | [Jailbreaking Large Vision Language Models in Intelligent Transportation Systems](https://arxiv.org/abs/2511.13892) | export.arxiv.org |
-| 2025-11-20 05:00 | [CORGI: Efficient Pattern Matching With Quadratic Guarantees](https://arxiv.org/abs/2511.13942) | export.arxiv.org |
-| 2025-11-20 05:00 | [Scene Graph-Guided Generative AI Framework for Synthesizing and Evaluating Industrial Hazard Scenarios](https://arxiv.org/abs/2511.13970) | export.arxiv.org |
-| 2025-11-20 05:00 | [Artificial Intelligence Agents in Music Analysis: An Integrative Perspective Based on Two Use Cases](https://arxiv.org/abs/2511.13987) | export.arxiv.org |
-| 2025-11-20 05:00 | [ALEX:A Light Editing-knowledge Extractor](https://arxiv.org/abs/2511.14018) | export.arxiv.org |
-| 2025-11-20 05:00 | [Syn-STARTS: Synthesized START Triage Scenario Generation Framework for Scalable LLM Evaluation](https://arxiv.org/abs/2511.14023) | export.arxiv.org |
-| 2025-11-20 05:00 | [AISAC: An Integrated multi-agent System for Transparent, Retrieval-Grounded Scientific Assistance](https://arxiv.org/abs/2511.14043) | export.arxiv.org |
-| 2025-11-20 05:00 | [Making Evidence Actionable in Adaptive Learning](https://arxiv.org/abs/2511.14052) | export.arxiv.org |
-| 2025-11-20 05:00 | [Collaborative QA using Interacting LLMs. Impact of Network Structure, Node Capability and Distributed Data](https://arxiv.org/abs/2511.14098) | export.arxiv.org |
-| 2025-11-20 05:00 | [APD-Agents: A Large Language Model-Driven Multi-Agents Collaborative Framework for Automated Page Design](https://arxiv.org/abs/2511.14101) | export.arxiv.org |
-| 2025-11-20 05:00 | [PRISM: Prompt-Refined In-Context System Modelling for Financial Retrieval](https://arxiv.org/abs/2511.14130) | export.arxiv.org |
-| 2025-11-20 05:00 | [Run, Ruminate, and Regulate: A Dual-process Thinking System for Vision-and-Language Navigation](https://arxiv.org/abs/2511.14131) | export.arxiv.org |
-| 2025-11-20 05:00 | [Beyond Accuracy: A Multi-Dimensional Framework for Evaluating Enterprise Agentic AI Systems](https://arxiv.org/abs/2511.14136) | export.arxiv.org |
-| 2025-11-20 05:00 | [HFL-FlowLLM: Large Language Models for Network Traffic Flow Classification in Heterogeneous Federated Learning](https://arxiv.org/abs/2511.14199) | export.arxiv.org |
-| 2025-11-20 05:00 | [Do Large Language Models (LLMs) Understand Chronology?](https://arxiv.org/abs/2511.14214) | export.arxiv.org |
-| 2025-11-20 05:00 | [Listen Like a Teacher: Mitigating Whisper Hallucinations using Adaptive Layer Attention and Knowledge Distillation](https://arxiv.org/abs/2511.14219) | export.arxiv.org |
-| 2025-11-20 05:00 | [DevPiolt: Operation Recommendation for IoT Devices at Xiaomi Home](https://arxiv.org/abs/2511.14227) | export.arxiv.org |
-| 2025-11-20 05:00 | [Enhancing Regional Airbnb Trend Forecasting Using LLM-Based Embeddings of Accessibility and Human Mobility](https://arxiv.org/abs/2511.14248) | export.arxiv.org |
-| 2025-11-20 05:00 | [PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models](https://arxiv.org/abs/2511.14256) | export.arxiv.org |
-| 2025-11-20 05:00 | [DataSage: Multi-agent Collaboration for Insight Discovery with External Knowledge Retrieval, Multi-role Debating, and Multi-path Reasoning](https://arxiv.org/abs/2511.14299) | export.arxiv.org |
-| 2025-11-20 05:00 | [When Words Change the Model: Sensitivity of LLMs for Constraint Programming Modelling](https://arxiv.org/abs/2511.14334) | export.arxiv.org |
-| 2025-11-20 05:00 | [Operationalizing Pluralistic Values in Large Language Model Alignment Reveals Trade-offs in Safety, Inclusivity, and Model Behavior](https://arxiv.org/abs/2511.14476) | export.arxiv.org |
-| 2025-11-20 05:00 | [A Neuro-Symbolic Framework for Reasoning under Perceptual Uncertainty: Bridging Continuous Perception and Discrete Symbolic Planning](https://arxiv.org/abs/2511.14533) | export.arxiv.org |
-| 2025-11-20 05:00 | [Rate-Distortion Guided Knowledge Graph Construction from Lecture Notes Using Gromov-Wasserstein Optimal Transport](https://arxiv.org/abs/2511.14595) | export.arxiv.org |
-| 2025-11-20 05:00 | [AutoTool: Efficient Tool Selection for Large Language Model Agents](https://arxiv.org/abs/2511.14650) | export.arxiv.org |
-| 2025-11-20 05:00 | [SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://arxiv.org/abs/2511.14670) | export.arxiv.org |
-| 2025-11-20 05:00 | [Heterogeneous Multi-Agent Proximal Policy Optimization for Power Distribution System Restoration](https://arxiv.org/abs/2511.14730) | export.arxiv.org |
-| 2025-11-20 05:00 | [From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow](https://arxiv.org/abs/2509.12443) | export.arxiv.org |
-| 2025-11-20 05:00 | [Signature vs. Substance: Evaluating the Balance of Adversarial Resistance and Linguistic Quality in Watermarking Large Language Models](https://arxiv.org/abs/2511.13722) | export.arxiv.org |
-| 2025-11-20 05:00 | [Preparation Meets Opportunity: Enhancing Data Preprocessing for ML Training With Seneca](https://arxiv.org/abs/2511.13724) | export.arxiv.org |
-| 2025-11-20 05:00 | [AI Kill Switch for malicious web-based LLM agent](https://arxiv.org/abs/2511.13725) | export.arxiv.org |
-| 2025-11-20 05:00 | [Refine Thought: A Test-Time Inference Method for Embedding Model Reasoning](https://arxiv.org/abs/2511.13726) | export.arxiv.org |
-| 2025-11-20 05:00 | [DualLaguerreNet: A Decoupled Spectral Filter GNN and the Uncovering of the Flexibility-Stability Trade-off](https://arxiv.org/abs/2511.13729) | export.arxiv.org |
-| 2025-11-20 05:00 | [Subject-Independent Imagined Speech Detection via Cross-Subject Generalization and Calibration](https://arxiv.org/abs/2511.13739) | export.arxiv.org |
-| 2025-11-20 05:00 | [Review of Passenger Flow Modelling Approaches Based on a Bibliometric Analysis](https://arxiv.org/abs/2511.13742) | export.arxiv.org |
-| 2025-11-20 05:00 | [nuCarla: A nuScenes-Style Bird's-Eye View Perception Dataset for CARLA Simulation](https://arxiv.org/abs/2511.13744) | export.arxiv.org |
-| 2025-11-20 05:00 | [Z-Merge: Multi-Agent Reinforcement Learning for On-Ramp Merging with Zone-Specific V2X Traffic Information](https://arxiv.org/abs/2511.14910) | export.arxiv.org |
-| 2025-11-20 05:00 | [A visual study of ICP variants for Lidar Odometry](https://arxiv.org/abs/2511.14919) | export.arxiv.org |
-| 2025-11-20 05:00 | [SVBRD-LLM: Self-Verifying Behavioral Rule Discovery for Autonomous Vehicle Identification](https://arxiv.org/abs/2511.14977) | export.arxiv.org |
-| 2025-11-20 05:00 | [An Alignment-Based Approach to Learning Motions from Demonstrations](https://arxiv.org/abs/2511.14988) | export.arxiv.org |
-| 2025-11-20 05:00 | [Communication-Aware Asynchronous Distributed Trajectory Optimization for UAV Swarm](https://arxiv.org/abs/2511.14994) | export.arxiv.org |
-| 2025-11-20 05:00 | [Lie Group Control Architectures for UAVs: a Comparison of SE2(3)-Based Approaches in Simulation and Hardware](https://arxiv.org/abs/2511.15023) | export.arxiv.org |
-| 2025-11-20 05:00 | [Painted Heart Beats](https://arxiv.org/abs/2511.15105) | export.arxiv.org |
-| 2025-11-20 05:00 | [Eq.Bot: Enhance Robotic Manipulation Learning via Group Equivariant Canonicalization](https://arxiv.org/abs/2511.15194) | export.arxiv.org |
+| 2025-11-21 20:21 | [Teleop, not autonomy, is the path for 1X’s NEO humanoid](https://www.therobotreport.com/teleop-not-autonomy-the-path-for-1x-neo-humanoid/) | www.therobotreport.com |
+| 2025-11-21 19:01 | [Waymo is starting robotaxi testing in three more cities](https://www.therobotreport.com/waymo-starts-robotaxi-testing-three-more-cities/) | www.therobotreport.com |
+| 2025-11-21 16:20 | [Video Friday: Watch Robots Throw, Catch, and Hit a Baseball](https://spectrum.ieee.org/video-friday-baseball-robot) | spectrum.ieee.org |
+| 2025-11-21 16:00 | [16 Google AI tips for stress-free holiday hosting in 2025](https://blog.google/products/pixel/google-holiday-hosting-tips-2024/) | blog.google |
+| 2025-11-21 15:27 | [Armstrong Robotics wants to create general purpose kitchen robots, starting with dishwashing](https://www.therobotreport.com/armstrong-robotics-creating-general-purpose-kitchen-robots-starting-dishwashing/) | www.therobotreport.com |
+| 2025-11-21 05:00 | [The Illusion of Procedural Reasoning: Measuring Long-Horizon FSM Execution in LLMs](https://arxiv.org/abs/2511.14777) | export.arxiv.org |
+| 2025-11-21 05:00 | [Learning Interestingness in Automated Mathematical Theory Formation](https://arxiv.org/abs/2511.14778) | export.arxiv.org |
+| 2025-11-21 05:00 | [Ask WhAI:Probing Belief Formation in Role-Primed LLM Agents](https://arxiv.org/abs/2511.14780) | export.arxiv.org |
+| 2025-11-21 05:00 | [Subnational Geocoding of Global Disasters Using Large Language Models](https://arxiv.org/abs/2511.14788) | export.arxiv.org |
+| 2025-11-21 05:00 | [Project Rachel: Can an AI Become a Scholarly Author?](https://arxiv.org/abs/2511.14819) | export.arxiv.org |
+| 2025-11-21 05:00 | [Uncertainty-Aware Measurement of Scenario Suite Representativeness for Autonomous Systems](https://arxiv.org/abs/2511.14853) | export.arxiv.org |
+| 2025-11-21 05:00 | [Task Specific Sharpness Aware O-RAN Resource Management using Multi Agent Reinforcement Learning](https://arxiv.org/abs/2511.15002) | export.arxiv.org |
+| 2025-11-21 05:00 | [Learning Human-Like RL Agents Through Trajectory Optimization With Action Quantization](https://arxiv.org/abs/2511.15055) | export.arxiv.org |
+| 2025-11-21 05:00 | [Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering](https://arxiv.org/abs/2511.15061) | export.arxiv.org |
+| 2025-11-21 05:00 | [ProRAC: A Neuro-symbolic Method for Reasoning about Actions with LLM-based Progression](https://arxiv.org/abs/2511.15069) | export.arxiv.org |
+| 2025-11-21 05:00 | [Knowledge-Informed Automatic Feature Extraction via Collaborative Large Language Model Agents](https://arxiv.org/abs/2511.15074) | export.arxiv.org |
+| 2025-11-21 05:00 | [SafeRBench: A Comprehensive Benchmark for Safety Assessment in Large Reasoning Models](https://arxiv.org/abs/2511.15169) | export.arxiv.org |
+| 2025-11-21 05:00 | [HISE-KT: Synergizing Heterogeneous Information Networks and LLMs for Explainable Knowledge Tracing with Meta-Path Optimization](https://arxiv.org/abs/2511.15191) | export.arxiv.org |
+| 2025-11-21 05:00 | [As If We've Met Before: LLMs Exhibit Certainty in Recognizing Seen Files](https://arxiv.org/abs/2511.15192) | export.arxiv.org |
+| 2025-11-21 05:00 | [SOLID: a Framework of Synergizing Optimization and LLMs for Intelligent Decision-Making](https://arxiv.org/abs/2511.15202) | export.arxiv.org |
+| 2025-11-21 05:00 | [Efficiency Will Not Lead to Sustainable Reasoning AI](https://arxiv.org/abs/2511.15259) | export.arxiv.org |
+| 2025-11-21 05:00 | [Realist and Pluralist Conceptions of Intelligence and Their Implications on AI Research](https://arxiv.org/abs/2511.15282) | export.arxiv.org |
+| 2025-11-21 05:00 | [Octopus: Agentic Multimodal Reasoning with Six-Capability Orchestration](https://arxiv.org/abs/2511.15351) | export.arxiv.org |
+| 2025-11-21 05:00 | [Terra Nova: A Comprehensive Challenge Environment for Intelligent Agents](https://arxiv.org/abs/2511.15378) | export.arxiv.org |
+| 2025-11-21 05:00 | [IPR-1: Interactive Physical Reasoner](https://arxiv.org/abs/2511.15407) | export.arxiv.org |
+| 2025-11-21 05:00 | [Know Your Intent: An Autonomous Multi-Perspective LLM Agent Framework for DeFi User Transaction Intent Mining](https://arxiv.org/abs/2511.15456) | export.arxiv.org |
+| 2025-11-21 05:00 | [Exploring the use of AI authors and reviewers at Agents4Science](https://arxiv.org/abs/2511.15534) | export.arxiv.org |
+| 2025-11-21 05:00 | [What Does It Take to Be a Good AI Research Agent? Studying the Role of Ideation Diversity](https://arxiv.org/abs/2511.15593) | export.arxiv.org |
+| 2025-11-21 05:00 | [ESA: Energy-Based Shot Assembly Optimization for Automatic Video Editing](https://arxiv.org/abs/2511.02505) | export.arxiv.org |
+| 2025-11-21 05:00 | [TacEleven: generative tactic discovery for football open play](https://arxiv.org/abs/2511.13326) | export.arxiv.org |
+| 2025-11-21 05:00 | [Membership Inference Attack against Large Language Model-based Recommendation Systems: A New Distillation-based Paradigm](https://arxiv.org/abs/2511.14763) | export.arxiv.org |
+| 2025-11-21 05:00 | [Image-Seeking Intent Prediction for Cross-Device Product Search](https://arxiv.org/abs/2511.14764) | export.arxiv.org |
+| 2025-11-21 05:00 | [Optimizing Agricultural Research: A RAG-Based Approach to Mycorrhizal Fungi Information](https://arxiv.org/abs/2511.14765) | export.arxiv.org |
+| 2025-11-21 05:00 | [An LLM-Powered Agent for Real-Time Analysis of the Vietnamese IT Job Market](https://arxiv.org/abs/2511.14767) | export.arxiv.org |
+| 2025-11-21 05:00 | [Causally-Informed Reinforcement Learning for Adaptive Emotion-Aware Social Media Recommendation](https://arxiv.org/abs/2511.14768) | export.arxiv.org |
+| 2025-11-21 05:00 | [Cluster-based Adaptive Retrieval: Dynamic Context Selection for RAG Applications](https://arxiv.org/abs/2511.14769) | export.arxiv.org |
+| 2025-11-21 05:00 | [ExplainRec: Towards Explainable Multi-Modal Zero-Shot Recommendation with Preference Attribution and Large Language Models](https://arxiv.org/abs/2511.14770) | export.arxiv.org |
+| 2025-11-21 05:00 | [Test-time Scaling of LLMs: A Survey from A Subproblem Structure Perspective](https://arxiv.org/abs/2511.14772) | export.arxiv.org |
+| 2025-11-21 05:00 | [LiveCLKTBench: Towards Reliable Evaluation of Cross-Lingual Knowledge Transfer in Multilingual LLMs](https://arxiv.org/abs/2511.14774) | export.arxiv.org |
+| 2025-11-21 05:00 | [Quantifying the Role of OpenFold Components in Protein Structure Prediction](https://arxiv.org/abs/2511.14781) | export.arxiv.org |
+| 2025-11-21 05:00 | [Enabling Predictive Maintenance in District Heating Substations: A Labelled Dataset and Fault Detection Evaluation Framework based on Service Data](https://arxiv.org/abs/2511.14791) | export.arxiv.org |
+| 2025-11-21 05:00 | [Application of Graph Based Vision Transformers Architectures for Accurate Temperature Prediction in Fiber Specklegram Sensors](https://arxiv.org/abs/2511.14792) | export.arxiv.org |
+| 2025-11-21 05:00 | [irace-evo: Automatic Algorithm Configuration Extended With LLM-Based Code Evolution](https://arxiv.org/abs/2511.14794) | export.arxiv.org |
+| 2025-11-21 05:00 | [Opinion Mining and Analysis Using Hybrid Deep Neural Networks](https://arxiv.org/abs/2511.14796) | export.arxiv.org |
+| 2025-11-21 05:00 | [Evaluating Generative AI for CS1 Code Grading: Direct vs Reverse Methods](https://arxiv.org/abs/2511.14798) | export.arxiv.org |
+| 2025-11-21 05:00 | [Gimballed Rotor Mechanism for Omnidirectional Quadrotors](https://arxiv.org/abs/2511.15909) | export.arxiv.org |
+| 2025-11-21 05:00 | [I've Changed My Mind: Robots Adapting to Changing Human Goals during Collaboration](https://arxiv.org/abs/2511.15914) | export.arxiv.org |
+| 2025-11-21 05:00 | [The Role of Consequential and Functional Sound in Human-Robot Interaction: Toward Audio Augmented Reality Interfaces](https://arxiv.org/abs/2511.15956) | export.arxiv.org |
+| 2025-11-21 05:00 | [PushingBots: Collaborative Pushing via Neural Accelerated Combinatorial Hybrid Optimization](https://arxiv.org/abs/2511.15995) | export.arxiv.org |
+| 2025-11-21 05:00 | [Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud](https://arxiv.org/abs/2511.16048) | export.arxiv.org |
+| 2025-11-21 05:00 | [Bi-AQUA: Bilateral Control-Based Imitation Learning for Underwater Robot Arms via Lighting-Aware Action Chunking with Transformers](https://arxiv.org/abs/2511.16050) | export.arxiv.org |
+| 2025-11-21 05:00 | [MagBotSim: Physics-Based Simulation and Reinforcement Learning Environments for Magnetic Robotics](https://arxiv.org/abs/2511.16158) | export.arxiv.org |
+| 2025-11-21 05:00 | [PIPHEN: Physical Interaction Prediction with Hamiltonian Energy Networks](https://arxiv.org/abs/2511.16200) | export.arxiv.org |
+| 2025-11-21 05:00 | [DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks](https://arxiv.org/abs/2511.16223) | export.arxiv.org |
+| 2025-11-21 05:00 | [FT-NCFM: An Influence-Aware Data Distillation Framework for Efficient VLA Models](https://arxiv.org/abs/2511.16233) | export.arxiv.org |
+| 2025-11-21 05:00 | [How Robot Dogs See the Unseeable](https://arxiv.org/abs/2511.16262) | export.arxiv.org |
+| 2025-11-21 05:00 | [Funabot-Upper: McKibben Actuated Haptic Suit Inducing Kinesthetic Perceptions in Trunk, Shoulder, Elbow, and Wrist](https://arxiv.org/abs/2511.16265) | export.arxiv.org |
+| 2025-11-21 05:00 | [InEKFormer: A Hybrid State Estimator for Humanoid Robots](https://arxiv.org/abs/2511.16306) | export.arxiv.org |
+| 2025-11-21 05:00 | [Safe and Optimal Variable Impedance Control via Certified Reinforcement Learning](https://arxiv.org/abs/2511.16330) | export.arxiv.org |
+| 2025-11-21 05:00 | [Flow-Aided Flight Through Dynamic Clutters From Point To Motion](https://arxiv.org/abs/2511.16372) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
