@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-11-23 03:12 UTC）
+# AI & 机器人 技术热点日报（2025-11-24 03:09 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2025-11-23 13:30 | [How miniaturization is making robots smarter and more autonomous](https://www.therobotreport.com/how-miniaturization-making-robots-smarter-more-autonomous/) | www.therobotreport.com |
 | 2025-11-22 15:14 | [Forterra brings in $238M to scale AI platforms for defense applications](https://www.therobotreport.com/forterra-raises-238m-scale-ai-platforms-defense-applications/) | www.therobotreport.com |
 | 2025-11-22 13:30 | [Kristian Kassow: A pioneer in the cobot industry speaks](https://www.therobotreport.com/kristian-kassow-pioneer-cobot-industry-speaks/) | www.therobotreport.com |
 | 2025-11-21 20:21 | [Teleop, not autonomy, is the path for 1X’s NEO humanoid](https://www.therobotreport.com/teleop-not-autonomy-the-path-for-1x-neo-humanoid/) | www.therobotreport.com |
@@ -38,7 +39,6 @@
 | 2025-11-19 12:00 | [Strengthening our safety ecosystem with external testing](https://openai.com/index/strengthening-safety-with-external-testing) | openai.com |
 | 2025-11-19 11:00 | [How evals drive the next chapter in AI for businesses](https://openai.com/index/evals-drive-next-chapter-of-ai) | openai.com |
 | 2025-11-19 09:00 | [At our Research@ Poland event we shared how AI is helping us solve big challenges.](https://blog.google/technology/research/ai-collaboration-poland-2025/) | blog.google |
-| 2025-11-19 06:28 | [Agile Robots launches Agile ONE industrial humanoid](https://www.therobotreport.com/agile-robots-launches-agile-one-industrial-humanoid/) | www.therobotreport.com |
 | 2025-11-19 06:00 | [OpenAI and Target team up on new AI-powered experiences](https://openai.com/index/target-partnership) | openai.com |
 | 2025-11-19 02:30 | [Google DeepMind is opening a new AI research lab in Singapore to advance AI in Asia Pacific.](https://blog.google/around-the-globe/google-asia/google-deepmind-is-opening-a-new-ai-research-lab-in-singapore-to-advance-ai-in-asia-pacific/) | blog.google |
 | 2025-11-19 00:00 | [GPT-5.1-Codex-Max System Card](https://openai.com/index/gpt-5-1-codex-max-system-card) | openai.com |
@@ -94,7 +94,7 @@
       TrendRadar  
 
     
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点 |
+      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点 |
 | 2 | [login?return_to=%2Fgoogle%2Fadk-go" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:978236277,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle%2Fadk-go" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:978236277,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -255,7 +255,7 @@
       TrendRadar  
 
     
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点 |
+      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点 |
 | 5 | [login?return_to=%2Fkvcache-ai%2Fktransformers" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:833984877,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fkvcache-ai%2Fktransformers" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:833984877,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
