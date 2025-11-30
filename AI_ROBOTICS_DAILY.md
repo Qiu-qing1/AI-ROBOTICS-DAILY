@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-11-29 02:53 UTC）
+# AI & 机器人 技术热点日报（2025-11-30 03:11 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,8 @@
 
 |---|---|---|
 
+| 2025-11-29 16:30 | [Video Friday: Disney’s Robotic Olaf Makes His Debut](https://spectrum.ieee.org/video-friday-disney-robot-olaf) | spectrum.ieee.org |
+| 2025-11-29 15:00 | [ARM Institute earns $87M agreement with the Air Force Research Lab](https://www.therobotreport.com/arm-institute-earns-87m-agreement-air-force-research-lab/) | www.therobotreport.com |
 | 2025-11-28 14:30 | [Surgical robotics market to double by 2029](https://www.therobotreport.com/surgical-robotics-market-to-double-by-2029-report/) | www.therobotreport.com |
 | 2025-11-28 13:30 | [Advantech integrates compute with D3 Embedded sensing for mobile robots](https://www.therobotreport.com/advantech-integrates-compute-with-d3-embedded-sensing-for-mobile-robots/) | www.therobotreport.com |
 | 2025-11-27 13:00 | [For This Engineer, Taking Deep Dives Is Part of the Job](https://spectrum.ieee.org/levi-unema-underwater-robotics-exploration) | spectrum.ieee.org |
@@ -40,7 +42,6 @@
 | 2025-11-21 19:01 | [Waymo is starting robotaxi testing in three more cities](https://www.therobotreport.com/waymo-starts-robotaxi-testing-three-more-cities/) | www.therobotreport.com |
 | 2025-11-21 16:20 | [Video Friday: Watch Robots Throw, Catch, and Hit a Baseball](https://spectrum.ieee.org/video-friday-baseball-robot) | spectrum.ieee.org |
 | 2025-11-21 16:00 | [16 Google AI tips for stress-free holiday hosting in 2025](https://blog.google/products/pixel/google-holiday-hosting-tips-2024/) | blog.google |
-| 2025-11-21 15:27 | [Armstrong Robotics wants to create general purpose kitchen robots, starting with dishwashing](https://www.therobotreport.com/armstrong-robotics-creating-general-purpose-kitchen-robots-starting-dishwashing/) | www.therobotreport.com |
 | 2025-11-20 20:30 | [Develop a deeper understanding with interactive images in Gemini.](https://blog.google/outreach-initiatives/education/gemini-interactive-images/) | blog.google |
 | 2025-11-20 15:00 | [How we’re bringing AI image verification to the Gemini app](https://blog.google/technology/ai/ai-image-verification-gemini-app/) | blog.google |
 | 2025-11-20 15:00 | [Build with Nano Banana Pro, our Gemini 3 Pro Image model](https://blog.google/technology/developers/gemini-3-pro-image-developers/) | blog.google |
@@ -69,7 +70,6 @@
 | 2025-11-17 10:00 | [OpenAI named Emerging Leader in Generative AI](https://openai.com/index/gartner-2025-emerging-leader) | openai.com |
 | 2025-11-17 08:30 | [Google is committing $2.25 million to support AI-ready data in Africa.](https://blog.google/technology/ai/ai-ready-data-in-africa/) | blog.google |
 | 2025-11-15 14:00 | [Students Compete—and Cooperate—in FIRST Global Robotics Challenge](https://spectrum.ieee.org/first-global-robotics-challenge) | spectrum.ieee.org |
-| 2025-11-14 20:24 | [This Soft Robot Is 100% Edible, Including the Battery](https://spectrum.ieee.org/soft-edible-robot) | spectrum.ieee.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
