@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-11-30 03:11 UTC）
+# AI & 机器人 技术热点日报（2025-12-01 03:23 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2025-11-30 15:00 | [Popular AI models aren’t ready to safely run robots, say CMU researchers](https://www.therobotreport.com/popular-ai-models-arent-ready-safely-run-robots-say-cmu-researchers/) | www.therobotreport.com |
 | 2025-11-29 16:30 | [Video Friday: Disney’s Robotic Olaf Makes His Debut](https://spectrum.ieee.org/video-friday-disney-robot-olaf) | spectrum.ieee.org |
 | 2025-11-29 15:00 | [ARM Institute earns $87M agreement with the Air Force Research Lab](https://www.therobotreport.com/arm-institute-earns-87m-agreement-air-force-research-lab/) | www.therobotreport.com |
 | 2025-11-28 14:30 | [Surgical robotics market to double by 2029](https://www.therobotreport.com/surgical-robotics-market-to-double-by-2029-report/) | www.therobotreport.com |
@@ -39,7 +40,6 @@
 | 2025-11-22 15:14 | [Forterra brings in $238M to scale AI platforms for defense applications](https://www.therobotreport.com/forterra-raises-238m-scale-ai-platforms-defense-applications/) | www.therobotreport.com |
 | 2025-11-22 13:30 | [Kristian Kassow: A pioneer in the cobot industry speaks](https://www.therobotreport.com/kristian-kassow-pioneer-cobot-industry-speaks/) | www.therobotreport.com |
 | 2025-11-21 20:21 | [Teleop, not autonomy, is the path for 1X’s NEO humanoid](https://www.therobotreport.com/teleop-not-autonomy-the-path-for-1x-neo-humanoid/) | www.therobotreport.com |
-| 2025-11-21 19:01 | [Waymo is starting robotaxi testing in three more cities](https://www.therobotreport.com/waymo-starts-robotaxi-testing-three-more-cities/) | www.therobotreport.com |
 | 2025-11-21 16:20 | [Video Friday: Watch Robots Throw, Catch, and Hit a Baseball](https://spectrum.ieee.org/video-friday-baseball-robot) | spectrum.ieee.org |
 | 2025-11-21 16:00 | [16 Google AI tips for stress-free holiday hosting in 2025](https://blog.google/products/pixel/google-holiday-hosting-tips-2024/) | blog.google |
 | 2025-11-20 20:30 | [Develop a deeper understanding with interactive images in Gemini.](https://blog.google/outreach-initiatives/education/gemini-interactive-images/) | blog.google |
