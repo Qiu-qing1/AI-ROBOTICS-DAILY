@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-12-03 03:00 UTC）
+# AI & 机器人 技术热点日报（2025-12-04 03:04 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
-| 2025-12-02 20:51 | [SoftBank and Yaskawa to collaborate on physical AI for the office](https://www.therobotreport.com/softbank-yaskawa-electric-collaborate-physical-ai-office/) | www.therobotreport.com |
-| 2025-12-02 19:00 | [Use Circle to Search and Google Lens to spot scam messages.](https://blog.google/products/search/scam-detection-circle-to-search-lens/) | blog.google |
-| 2025-12-02 18:53 | [U.S. backs Zipline with $150M for drone delivery in Africa](https://www.therobotreport.com/us-backs-zipline-with-150m-for-drone-delivery-in-africa/) | www.therobotreport.com |
-| 2025-12-02 12:00 | [Humanoid says its first bipedal robot can start walking just 48 hours after assembly](https://www.therobotreport.com/humanoid-sayss-first-bipedal-robot-can-start-walking-just-48-hours-after-assembly/) | www.therobotreport.com |
-| 2025-12-02 05:01 | [AILOS Robotics introduces drive technology to make robots lighter, more agile, and safer](https://www.therobotreport.com/ailos-robotics-introduces-drive-technology-making-robots-lighter-more-agile-safer/) | www.therobotreport.com |
-| 2025-12-02 05:00 | [Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions](https://arxiv.org/abs/2512.00097) | export.arxiv.org |
-| 2025-12-02 05:00 | [Chunking Strategies for Multimodal AI Systems](https://arxiv.org/abs/2512.00185) | export.arxiv.org |
-| 2025-12-02 05:00 | [A Rosetta Stone for AI Benchmarks](https://arxiv.org/abs/2512.00193) | export.arxiv.org |
-| 2025-12-02 05:00 | [Reasoning Under Pressure: How do Training Incentives Influence Chain-of-Thought Monitorability?](https://arxiv.org/abs/2512.00218) | export.arxiv.org |
-| 2025-12-02 05:00 | [Trification: A Comprehensive Tree-based Strategy Planner and Structural Verification for Fact-Checking](https://arxiv.org/abs/2512.00267) | export.arxiv.org |
-| 2025-12-02 05:00 | [ChartPoint: Guiding MLLMs with Grounding Reflection for Chart Reasoning](https://arxiv.org/abs/2512.00305) | export.arxiv.org |
-| 2025-12-02 05:00 | [RL-Struct: A Lightweight Reinforcement Learning Framework for Reliable Structured Output in LLMs](https://arxiv.org/abs/2512.00319) | export.arxiv.org |
-| 2025-12-02 05:00 | [CogEvo-Edu: Cognitive Evolution Educational Multi-Agent Collaborative System](https://arxiv.org/abs/2512.00331) | export.arxiv.org |
-| 2025-12-02 05:00 | [Echo-N1: Affective RL Frontier](https://arxiv.org/abs/2512.00344) | export.arxiv.org |
-| 2025-12-02 05:00 | [Debate with Images: Detecting Deceptive Behaviors in Multimodal Large Language Models](https://arxiv.org/abs/2512.00349) | export.arxiv.org |
-| 2025-12-02 05:00 | [GreenPlanner: Practical Floorplan Layout Generation via an Energy-Aware and Function-Feasible Generative Framework](https://arxiv.org/abs/2512.00406) | export.arxiv.org |
-| 2025-12-02 05:00 | [Mind the data gap: Missingness Still Shapes Large Language Model Prognoses](https://arxiv.org/abs/2512.00479) | export.arxiv.org |
-| 2025-12-02 05:00 | [Clinical-R1: Empowering Large Language Models for Faithful and Comprehensive Reasoning with Clinical Objective Relative Policy Optimization](https://arxiv.org/abs/2512.00601) | export.arxiv.org |
-| 2025-12-02 05:00 | [EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients](https://arxiv.org/abs/2512.00670) | export.arxiv.org |
-| 2025-12-02 05:00 | [Model of human cognition](https://arxiv.org/abs/2512.00683) | export.arxiv.org |
-| 2025-12-02 05:00 | [When Human Preferences Flip: An Instance-Dependent Robust Loss for RLHF](https://arxiv.org/abs/2512.00709) | export.arxiv.org |
-| 2025-12-02 05:00 | [SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs](https://arxiv.org/abs/2512.00722) | export.arxiv.org |
-| 2025-12-02 05:00 | [Probing the "Psyche'' of Large Reasoning Models: Understanding Through a Human Lens](https://arxiv.org/abs/2512.00729) | export.arxiv.org |
-| 2025-12-02 05:00 | [MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents](https://arxiv.org/abs/2512.00756) | export.arxiv.org |
-| 2025-12-02 05:00 | [BioPro: On Difference-Aware Gender Fairness for Vision-Language Models](https://arxiv.org/abs/2512.00807) | export.arxiv.org |
-| 2025-12-02 05:00 | [Med-CMR: A Fine-Grained Benchmark Integrating Visual Evidence and Clinical Logic for Medical Complex Multimodal Reasoning](https://arxiv.org/abs/2512.00818) | export.arxiv.org |
-| 2025-12-02 05:00 | [SemAgent: Semantic-Driven Agentic AI Empowered Trajectory Prediction in Vehicular Networks](https://arxiv.org/abs/2512.00834) | export.arxiv.org |
-| 2025-12-02 05:00 | [Assessing model error in counterfactual worlds](https://arxiv.org/abs/2512.00836) | export.arxiv.org |
-| 2025-12-02 05:00 | [ARCADIA: Scalable Causal Discovery for Corporate Bankruptcy Analysis Using Agentic AI](https://arxiv.org/abs/2512.00839) | export.arxiv.org |
-| 2025-12-02 05:00 | [One Swallow Does Not Make a Summer: Understanding Semantic Structures in Embedding Spaces](https://arxiv.org/abs/2512.00852) | export.arxiv.org |
-| 2025-12-02 05:00 | [Hybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing](https://arxiv.org/abs/2512.00881) | export.arxiv.org |
-| 2025-12-02 05:00 | [Minimal neuron ablation triggers catastrophic collapse in the language core of Large Vision-Language Models](https://arxiv.org/abs/2512.00918) | export.arxiv.org |
-| 2025-12-02 05:00 | [Integrating Causal Foundation Model in Prescriptive Maintenance Framework for Optimizing Production Line OEE](https://arxiv.org/abs/2512.00969) | export.arxiv.org |
-| 2025-12-02 05:00 | [IndiMathBench: Autoformalizing Mathematical Reasoning Problems with a Human Touch](https://arxiv.org/abs/2512.00997) | export.arxiv.org |
-| 2025-12-02 05:00 | [ChartAnchor: Chart Grounding with Structural-Semantic Fidelity](https://arxiv.org/abs/2512.01017) | export.arxiv.org |
-| 2025-12-02 05:00 | [Evaluating Legal Reasoning Traces with Legal Issue Tree Rubrics](https://arxiv.org/abs/2512.01020) | export.arxiv.org |
-| 2025-12-02 05:00 | [Med-CRAFT: Automated Construction of Interpretable and Multi-Hop Video Workloads via Knowledge Graph Traversal](https://arxiv.org/abs/2512.01045) | export.arxiv.org |
-| 2025-12-02 05:00 | [Shielded Controller Units for RL with Operational Constraints Applied to Remote Microgrids](https://arxiv.org/abs/2512.01046) | export.arxiv.org |
-| 2025-12-02 05:00 | [Automating the Refinement of Reinforcement Learning Specifications](https://arxiv.org/abs/2512.01047) | export.arxiv.org |
-| 2025-12-02 05:00 | [SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://arxiv.org/abs/2512.01078) | export.arxiv.org |
-| 2025-12-02 05:00 | [Testing the Machine Consciousness Hypothesis](https://arxiv.org/abs/2512.01081) | export.arxiv.org |
-| 2025-12-02 05:00 | [CodeDistiller: Automatically Generating Code Libraries for Scientific Coding Agents](https://arxiv.org/abs/2512.01089) | export.arxiv.org |
-| 2025-12-02 05:00 | [Energy-Aware Data-Driven Model Selection in LLM-Orchestrated AI Systems](https://arxiv.org/abs/2512.01099) | export.arxiv.org |
-| 2025-12-02 05:00 | [Foundation Priors](https://arxiv.org/abs/2512.01107) | export.arxiv.org |
-| 2025-12-02 05:00 | [A Benchmark of Causal vs Correlation AI for Predictive Maintenance](https://arxiv.org/abs/2512.01149) | export.arxiv.org |
-| 2025-12-02 05:00 | [DREAMer-VXS: A Latent World Model for Sample-Efficient AGV Exploration in Stochastic, Unobserved Environments](https://arxiv.org/abs/2512.00005) | export.arxiv.org |
-| 2025-12-02 05:00 | [A Comprehensive Survey on Surgical Digital Twin](https://arxiv.org/abs/2512.00019) | export.arxiv.org |
-| 2025-12-02 05:00 | [Foundation Models for Trajectory Planning in Autonomous Driving: A Review of Progress and Open Challenges](https://arxiv.org/abs/2512.00021) | export.arxiv.org |
-| 2025-12-02 05:00 | [XFlowMP: Task-Conditioned Motion Fields for Generative Robot Planning with Schrodinger Bridges](https://arxiv.org/abs/2512.00022) | export.arxiv.org |
-| 2025-12-02 05:00 | [Learning from Watching: Scalable Extraction of Manipulation Trajectories from Human Videos](https://arxiv.org/abs/2512.00024) | export.arxiv.org |
-| 2025-12-02 05:00 | [A Survey on Improving Human Robot Collaboration through Vision-and-Language Navigation](https://arxiv.org/abs/2512.00027) | export.arxiv.org |
-| 2025-12-02 05:00 | [Perturbation-mitigated USV Navigation with Distributionally Robust Reinforcement Learning](https://arxiv.org/abs/2512.00030) | export.arxiv.org |
-| 2025-12-02 05:00 | [Intelligent Systems and Robotics: Revolutionizing Engineering Industries](https://arxiv.org/abs/2512.00033) | export.arxiv.org |
-| 2025-12-02 05:00 | [Design And Control of A Robotic Arm For Industrial Applications](https://arxiv.org/abs/2512.00034) | export.arxiv.org |
-| 2025-12-02 05:00 | [ICD-Net: Inertial Covariance Displacement Network for Drone Visual-Inertial SLAM](https://arxiv.org/abs/2512.00037) | export.arxiv.org |
-| 2025-12-02 05:00 | [VISTAv2: World Imagination for Indoor Vision-and-Language Navigation](https://arxiv.org/abs/2512.00041) | export.arxiv.org |
-| 2025-12-02 05:00 | [Causal Reinforcement Learning based Agent-Patient Interaction with Clinical Domain Knowledge](https://arxiv.org/abs/2512.00048) | export.arxiv.org |
-| 2025-12-02 05:00 | [Socially aware navigation for mobile robots: a survey on deep reinforcement learning approaches](https://arxiv.org/abs/2512.00049) | export.arxiv.org |
-| 2025-12-02 05:00 | [Reinforcement Learning from Implicit Neural Feedback for Human-Aligned Robot Control](https://arxiv.org/abs/2512.00050) | export.arxiv.org |
-| 2025-12-02 05:00 | [Modeling and Control of Magnetic Forces between Microrobots](https://arxiv.org/abs/2512.00051) | export.arxiv.org |
+| 2025-12-03 21:07 | [Waymo laying groundwork to bring robotaxis to 4 more cities](https://www.therobotreport.com/waymo-laying-groundwork-to-bring-robotaxis-to-4-more-cities/) | www.therobotreport.com |
+| 2025-12-03 19:00 | [MIT’s AI Robotics Lab Director Is Building People-Centered Robots](https://spectrum.ieee.org/mits-ai-robotics-lab-director) | spectrum.ieee.org |
+| 2025-12-03 16:00 | [Look back on your 2025 with Google Photos Recap](https://blog.google/products/photos/google-photos-2025-recap/) | blog.google |
+| 2025-12-03 15:18 | [Ubicept replaces blurry CMOS with sharp SPAD imaging](https://www.therobotreport.com/ubicept-replaces-blurry-cmos-with-sharp-spad-imaging/) | www.therobotreport.com |
+| 2025-12-03 12:01 | [EY rolls out physical AI platform, opens EY.ai Lab, and names global robotics lead](https://www.therobotreport.com/ey-rolls-out-physical-ai-platform-opens-ey-ai-lab-appoints-global-robotics-lead/) | www.therobotreport.com |
+| 2025-12-03 12:00 | [We’re announcing new health AI funding, while a new report signals a turning point for health in Europe.](https://blog.google/technology/health/ai-health-fund-eu/) | blog.google |
+| 2025-12-03 10:00 | [How confessions can keep language models honest](https://openai.com/index/how-confessions-can-keep-language-models-honest) | openai.com |
+| 2025-12-03 10:00 | [OpenAI to acquire Neptune](https://openai.com/index/openai-to-acquire-neptune) | openai.com |
+| 2025-12-03 08:00 | [Announcing the initial People-First AI Fund grantees](https://openai.com/index/people-first-ai-fund-grantees) | openai.com |
+| 2025-12-03 05:00 | [The 4/$\delta$ Bound: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080) | export.arxiv.org |
+| 2025-12-03 05:00 | [Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code](https://arxiv.org/abs/2512.02170) | export.arxiv.org |
+| 2025-12-03 05:00 | [From monoliths to modules: Decomposing transducers for efficient world modelling](https://arxiv.org/abs/2512.02193) | export.arxiv.org |
+| 2025-12-03 05:00 | [STRIDE: A Systematic Framework for Selecting AI Modalities - Agentic AI, AI Assistants, or LLM Calls](https://arxiv.org/abs/2512.02228) | export.arxiv.org |
+| 2025-12-03 05:00 | [Benchmarking LLM Agents for Wealth-Management Workflows](https://arxiv.org/abs/2512.02230) | export.arxiv.org |
+| 2025-12-03 05:00 | [TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?](https://arxiv.org/abs/2512.02261) | export.arxiv.org |
+| 2025-12-03 05:00 | [Bridging the Gap: Toward Cognitive Autonomy in Artificial Intelligence](https://arxiv.org/abs/2512.02280) | export.arxiv.org |
+| 2025-12-03 05:00 | [DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses](https://arxiv.org/abs/2512.02282) | export.arxiv.org |
+| 2025-12-03 05:00 | [Model Recovery at the Edge under Resource Constraints for Physical AI](https://arxiv.org/abs/2512.02283) | export.arxiv.org |
+| 2025-12-03 05:00 | [Breast Cell Segmentation Under Extreme Data Constraints: Quantum Enhancement Meets Adaptive Loss Stabilization](https://arxiv.org/abs/2512.02302) | export.arxiv.org |
+| 2025-12-03 05:00 | [OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning](https://arxiv.org/abs/2512.02306) | export.arxiv.org |
+| 2025-12-03 05:00 | [Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning: A Cognitive Science Perspective](https://arxiv.org/abs/2512.02340) | export.arxiv.org |
+| 2025-12-03 05:00 | [Beyond Playtesting: A Generative Multi-Agent Simulation System for Massively Multiplayer Online Games](https://arxiv.org/abs/2512.02358) | export.arxiv.org |
+| 2025-12-03 05:00 | [Synthetic Error Injection Fails to Elicit Self-Correction In Language Models](https://arxiv.org/abs/2512.02389) | export.arxiv.org |
+| 2025-12-03 05:00 | [Semantic Trading: Agentic AI for Clustering and Relationship Discovery in Prediction Markets](https://arxiv.org/abs/2512.02436) | export.arxiv.org |
+| 2025-12-03 05:00 | [Guided Self-Evolving LLMs with Minimal Human Supervision](https://arxiv.org/abs/2512.02472) | export.arxiv.org |
+| 2025-12-03 05:00 | [COPE: Chain-Of-Thought Prediction Engine for Open-Source Large Language Model Based Stroke Outcome Prediction from Clinical Notes](https://arxiv.org/abs/2512.02499) | export.arxiv.org |
+| 2025-12-03 05:00 | [Aetheria: A multimodal interpretable content safety framework based on multi-agent debate and collaboration](https://arxiv.org/abs/2512.02530) | export.arxiv.org |
+| 2025-12-03 05:00 | [Empathy Level Prediction in Multi-Modal Scenario with Supervisory Documentation Assistance](https://arxiv.org/abs/2512.02558) | export.arxiv.org |
+| 2025-12-03 05:00 | [PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://arxiv.org/abs/2512.02589) | export.arxiv.org |
+| 2025-12-03 05:00 | [IACT: A Self-Organizing Recursive Model for General AI Agents: A Technical White Paper on the Architecture Behind kragent.ai](https://arxiv.org/abs/2512.02605) | export.arxiv.org |
+| 2025-12-03 05:00 | [Target-specific Adaptation and Consistent Degradation Alignment for Cross-Domain Remaining Useful Life Prediction](https://arxiv.org/abs/2512.02610) | export.arxiv.org |
+| 2025-12-03 05:00 | [Zero-Shot Instruction Following in RL via Structured LTL Representations](https://arxiv.org/abs/2512.02633) | export.arxiv.org |
+| 2025-12-03 05:00 | [Exploring Depth Generalization in Large Language Models for Solving Recursive Logic Tasks](https://arxiv.org/abs/2512.02677) | export.arxiv.org |
+| 2025-12-03 05:00 | [Learning What to Attend First: Modality-Importance-Guided Reasoning for Reliable Multimodal Emotion Understanding](https://arxiv.org/abs/2512.02699) | export.arxiv.org |
+| 2025-12-03 05:00 | [Training Data Attribution for Image Generation using Ontology-Aligned Knowledge Graphs](https://arxiv.org/abs/2512.02713) | export.arxiv.org |
+| 2025-12-03 05:00 | [Menta: A Small Language Model for On-Device Mental Health Prediction](https://arxiv.org/abs/2512.02716) | export.arxiv.org |
+| 2025-12-03 05:00 | [StockMem: An Event-Reflection Memory Framework for Stock Forecasting](https://arxiv.org/abs/2512.02720) | export.arxiv.org |
+| 2025-12-03 05:00 | [AuditCopilot: Leveraging LLMs for Fraud Detection in Double-Entry Bookkeeping](https://arxiv.org/abs/2512.02726) | export.arxiv.org |
+| 2025-12-03 05:00 | [Self-Improving AI Agents through Self-Play](https://arxiv.org/abs/2512.02731) | export.arxiv.org |
+| 2025-12-03 05:00 | [A Framework for Causal Concept-based Model Explanations](https://arxiv.org/abs/2512.02735) | export.arxiv.org |
+| 2025-12-03 05:00 | [Enhancing Automated Paper Reproduction via Prompt-Free Collaborative Agents](https://arxiv.org/abs/2512.02812) | export.arxiv.org |
+| 2025-12-03 05:00 | [Radiologist Copilot: An Agentic Assistant with Orchestrated Tools for Radiology Reporting with Quality Control](https://arxiv.org/abs/2512.02814) | export.arxiv.org |
+| 2025-12-03 05:00 | [The future of AI in critical mineral exploration](https://arxiv.org/abs/2512.02879) | export.arxiv.org |
+| 2025-12-03 05:00 | [Martingale Score: An Unsupervised Metric for Bayesian Rationality in LLM Reasoning](https://arxiv.org/abs/2512.02914) | export.arxiv.org |
+| 2025-12-03 05:00 | [Invasive Context Engineering to Control Large Language Models](https://arxiv.org/abs/2512.03001) | export.arxiv.org |
+| 2025-12-03 05:00 | [From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?](https://arxiv.org/abs/2512.03005) | export.arxiv.org |
+| 2025-12-03 05:00 | [Graphing the Truth: Structured Visualizations for Automated Hallucination Detection in LLMs](https://arxiv.org/abs/2512.00663) | export.arxiv.org |
+| 2025-12-03 05:00 | [Do Large Language Models Walk Their Talk? Measuring the Gap Between Implicit Associations, Self-Report, and Behavioral Altruism](https://arxiv.org/abs/2512.01568) | export.arxiv.org |
+| 2025-12-03 05:00 | [DySTAN: Joint Modeling of Sedentary Activity and Social Context from Smartphone Sensors](https://arxiv.org/abs/2512.02025) | export.arxiv.org |
+| 2025-12-03 05:00 | [Reinforcement Learning for Robotic Safe Control with Force Sensing](https://arxiv.org/abs/2512.02022) | export.arxiv.org |
+| 2025-12-03 05:00 | [Robust Geospatial Coordination of Multi-Agent Communications Networks Under Attrition](https://arxiv.org/abs/2512.02079) | export.arxiv.org |
+| 2025-12-03 05:00 | [VIGS-SLAM: Visual Inertial Gaussian Splatting SLAM](https://arxiv.org/abs/2512.02293) | export.arxiv.org |
+| 2025-12-03 05:00 | [Vehicle Dynamics Embedded World Models for Autonomous Driving](https://arxiv.org/abs/2512.02417) | export.arxiv.org |
+| 2025-12-03 05:00 | [AID: Agent Intent from Diffusion for Multi-Agent Informative Path Planning](https://arxiv.org/abs/2512.02535) | export.arxiv.org |
+| 2025-12-03 05:00 | [Robotic capabilities framework: A boundary object and intermediate-level knowledge artifact for co-designing robotic processes](https://arxiv.org/abs/2512.02549) | export.arxiv.org |
+| 2025-12-03 05:00 | [SAM2Grasp: Resolve Multi-modal Grasping via Prompt-conditioned Temporal Action Prediction](https://arxiv.org/abs/2512.02609) | export.arxiv.org |
+| 2025-12-03 05:00 | [RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning](https://arxiv.org/abs/2512.02729) | export.arxiv.org |
+| 2025-12-03 05:00 | [CogDrive: Cognition-Driven Multimodal Prediction-Planning Fusion for Safe Autonomy](https://arxiv.org/abs/2512.02777) | export.arxiv.org |
+| 2025-12-03 05:00 | [Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols](https://arxiv.org/abs/2512.02787) | export.arxiv.org |
+| 2025-12-03 05:00 | [Phase-Adaptive LLM Framework with Multi-Stage Validation for Construction Robot Task Allocation: A Systematic Benchmark Against Traditional Optimization Algorithms](https://arxiv.org/abs/2512.02810) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -272,7 +272,7 @@
       ktransformers  
 
     
-      A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations |
+      A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations |
 | 6 | [sponsors/topoteretes](https://github.com/sponsors/topoteretes) | Sponsor
     
   
