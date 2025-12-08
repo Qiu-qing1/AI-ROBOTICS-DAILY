@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-12-07 03:12 UTC）
+# AI & 机器人 技术热点日报（2025-12-08 03:06 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2025-12-07 13:30 | [ARM Institute issues final project call for defense systems](https://www.therobotreport.com/arm-institute-issues-final-project-call-defense-systems/) | www.therobotreport.com |
 | 2025-12-06 16:57 | [How robots learn to handle the heat with synthetic data](https://www.therobotreport.com/synthetic-data-helps-robots-learn-handle-heat/) | www.therobotreport.com |
 | 2025-12-06 13:30 | [Hyundai Motor Group unveils its first mass-produced mobility robot platform](https://www.therobotreport.com/hyundai-motor-group-unveils-first-mass-produced-mobility-robot-platform/) | www.therobotreport.com |
 | 2025-12-05 22:13 | [Civ Robotics provides CivNav AI navigation for solar construction systems](https://www.therobotreport.com/civ-robotics-provides-civnav-ai-navigation-solar-construction-systems/) | www.therobotreport.com |
@@ -37,7 +38,6 @@
 | 2025-12-02 18:53 | [U.S. backs Zipline with $150M for drone delivery in Africa](https://www.therobotreport.com/us-backs-zipline-with-150m-for-drone-delivery-in-africa/) | www.therobotreport.com |
 | 2025-12-02 12:00 | [Humanoid says its first bipedal robot can start walking just 48 hours after assembly](https://www.therobotreport.com/humanoid-sayss-first-bipedal-robot-can-start-walking-just-48-hours-after-assembly/) | www.therobotreport.com |
 | 2025-12-02 05:01 | [AILOS Robotics introduces drive technology to make robots lighter, more agile, and safer](https://www.therobotreport.com/ailos-robotics-introduces-drive-technology-making-robots-lighter-more-agile-safer/) | www.therobotreport.com |
-| 2025-12-01 22:33 | [iRobot debt acquired by contract manufacturer as bankruptcy looms](https://www.therobotreport.com/irobot-debt-acquired-by-contract-manufacturer-as-bankruptcy-looms/) | www.therobotreport.com |
 | 2025-12-01 22:00 | [Inside Mirakl's agentic commerce vision](https://openai.com/index/mirakl) | openai.com |
 | 2025-12-01 20:00 | [Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.](https://blog.google/products/search/gemini-3-ai-mode-more-countries/) | blog.google |
 | 2025-12-01 12:00 | [Funding grants for new research into AI and mental health](https://openai.com/index/ai-mental-health-research-grants) | openai.com |
@@ -95,24 +95,7 @@
 
     
       Open-Source Frontier Voice AI |
-| 2 | [login?return_to=%2FRosettaCommons%2Ffoundry" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1037755418,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FRosettaCommons%2Ffoundry" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1037755418,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        RosettaCommons /
-
-      foundry  
-
-    
-      Central repository for biomolecular foundation models with shared trainers and pipeline components |
-| 3 | [sponsors/patchy631](https://github.com/sponsors/patchy631) | Sponsor
+| 2 | [sponsors/patchy631](https://github.com/sponsors/patchy631) | Sponsor
     
   
 
@@ -142,6 +125,40 @@
 
     
       In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| 3 | [login?return_to=%2Fashishpatel26%2F500-AI-Agents-Projects" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:906251482,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fashishpatel26%2F500-AI-Agents-Projects" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:906251482,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        ashishpatel26 /
+
+      500-AI-Agents-Projects  
+
+    
+      The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
+| 4 | [login?return_to=%2Factivepieces%2Factivepieces" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:573661753,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Factivepieces%2Factivepieces" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:573661753,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        activepieces /
+
+      activepieces  
+
+    
+      AI Agents &amp; MCPs &amp; AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows &amp; AI Agents • MCPs for AI Agents |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -180,7 +197,24 @@
 
     
       The ultimate training toolkit for finetuning diffusion models |
-| 2 | [login?return_to=%2Faliasrobotics%2Fcai" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:957859485,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Faliasrobotics%2Fcai" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:957859485,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fhumanlayer%2Fhumanlayer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:838542536,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fhumanlayer%2Fhumanlayer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:838542536,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        humanlayer /
+
+      humanlayer  
+
+    
+      The best way to get AI coding agents to solve hard problems in complex codebases. |
+| 3 | [login?return_to=%2Faliasrobotics%2Fcai" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:957859485,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Faliasrobotics%2Fcai" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:957859485,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
