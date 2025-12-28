@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2025-12-27 03:07 UTC）
+# AI & 机器人 技术热点日报（2025-12-28 03:21 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,48 +10,9 @@
 
 |---|---|---|
 
+| 2025-12-27 15:00 | [Researchers create programmable, autonomous robots smaller than a grain of rice](https://www.therobotreport.com/researchers-create-programmable-autonomous-robots-smaller-than-a-grain-of-rice/) | www.therobotreport.com |
 | 2025-12-26 18:30 | [Video Friday: Holiday Robot Helpers Send Season’s Greetings](https://spectrum.ieee.org/holiday-robot-videos) | spectrum.ieee.org |
 | 2025-12-26 13:20 | [Primech AI to debut Hytron bathroom cleaning robot at CES 2026](https://www.therobotreport.com/primech-ai-launch-hytron-bathroom-cleaning-robot-ces/) | www.therobotreport.com |
-| 2025-12-26 05:00 | [BitRL-Light: 1-bit LLM Agents with Deep Reinforcement Learning for Energy-Efficient Smart Home Lighting Optimization](https://arxiv.org/abs/2512.20623) | export.arxiv.org |
-| 2025-12-26 05:00 | [Quantum-Inspired Multi Agent Reinforcement Learning for Exploration Exploitation Optimization in UAV-Assisted 6G Network Deployment](https://arxiv.org/abs/2512.20624) | export.arxiv.org |
-| 2025-12-26 05:00 | [MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation](https://arxiv.org/abs/2512.20626) | export.arxiv.org |
-| 2025-12-26 05:00 | [Proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025)](https://arxiv.org/abs/2512.20628) | export.arxiv.org |
-| 2025-12-26 05:00 | [MicroProbe: Efficient Reliability Assessment for Foundation Models with Minimal Data](https://arxiv.org/abs/2512.20630) | export.arxiv.org |
-| 2025-12-26 05:00 | [Erkang-Diagnosis-1.1 Technical Report](https://arxiv.org/abs/2512.20632) | export.arxiv.org |
-| 2025-12-26 05:00 | [Reasoning Relay: Evaluating Stability and Interchangeability of Large Language Models in Mathematical Reasoning](https://arxiv.org/abs/2512.20647) | export.arxiv.org |
-| 2025-12-26 05:00 | [AIAuditTrack: A Framework for AI Security system](https://arxiv.org/abs/2512.20649) | export.arxiv.org |
-| 2025-12-26 05:00 | [Mixture of Attention Schemes (MoAS): Learning to Route Between MHA, GQA, and MQA](https://arxiv.org/abs/2512.20650) | export.arxiv.org |
-| 2025-12-26 05:00 | [Memory Bear AI A Breakthrough from Memory to Cognition Toward Artificial General Intelligence](https://arxiv.org/abs/2512.20651) | export.arxiv.org |
-| 2025-12-26 05:00 | [AI-Driven Decision-Making System for Hiring Process](https://arxiv.org/abs/2512.20652) | export.arxiv.org |
-| 2025-12-26 05:00 | [From Fake Focus to Real Precision: Confusion-Driven Adversarial Attention Learning in Transformers](https://arxiv.org/abs/2512.20661) | export.arxiv.org |
-| 2025-12-26 05:00 | [Quantifying Laziness, Decoding Suboptimality, and Context Degradation in Large Language Models](https://arxiv.org/abs/2512.20662) | export.arxiv.org |
-| 2025-12-26 05:00 | [Eidoku: A Neuro-Symbolic Verification Gate for LLM Reasoning via Structural Constraint Satisfaction](https://arxiv.org/abs/2512.20664) | export.arxiv.org |
-| 2025-12-26 05:00 | [Bridging the AI Trustworthiness Gap between Functions and Norms](https://arxiv.org/abs/2512.20671) | export.arxiv.org |
-| 2025-12-26 05:00 | [From Pilots to Practices: A Scoping Review of GenAI-Enabled Personalization in Computer Science Education](https://arxiv.org/abs/2512.20714) | export.arxiv.org |
-| 2025-12-26 05:00 | [From artificial to organic: Rethinking the roots of intelligence for digital health](https://arxiv.org/abs/2512.20723) | export.arxiv.org |
-| 2025-12-26 05:00 | [AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent](https://arxiv.org/abs/2512.20745) | export.arxiv.org |
-| 2025-12-26 05:00 | [A Benchmark for Evaluating Outcome-Driven Constraint Violations in Autonomous AI Agents](https://arxiv.org/abs/2512.20798) | export.arxiv.org |
-| 2025-12-26 05:00 | [Safety Alignment of LMs via Non-cooperative Games](https://arxiv.org/abs/2512.20806) | export.arxiv.org |
-| 2025-12-26 05:00 | [Context-Sensitive Abstractions for Reinforcement Learning with Parameterized Actions](https://arxiv.org/abs/2512.20831) | export.arxiv.org |
-| 2025-12-26 05:00 | [MAR:Multi-Agent Reflexion Improves Reasoning Abilities in LLMs](https://arxiv.org/abs/2512.20845) | export.arxiv.org |
-| 2025-12-26 05:00 | [The Silent Scholar Problem: A Probabilistic Framework for Breaking Epistemic Asymmetry in LLM Agents](https://arxiv.org/abs/2512.20884) | export.arxiv.org |
-| 2025-12-26 05:00 | [A Blockchain-Monitored Agentic AI Architecture for Trusted Perception-Reasoning-Action Pipelines](https://arxiv.org/abs/2512.20985) | export.arxiv.org |
-| 2025-12-26 05:00 | [FinAgent: An Agentic AI Framework Integrating Personal Finance and Nutrition Planning](https://arxiv.org/abs/2512.20991) | export.arxiv.org |
-| 2025-12-26 05:00 | [TrafficSimAgent: A Hierarchical Agent Framework for Autonomous Traffic Simulation with MCP Control](https://arxiv.org/abs/2512.20996) | export.arxiv.org |
-| 2025-12-26 05:00 | [Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation](https://arxiv.org/abs/2512.21066) | export.arxiv.org |
-| 2025-12-26 05:00 | [LLM Personas as a Substitute for Field Experiments in Method Benchmarking](https://arxiv.org/abs/2512.21080) | export.arxiv.org |
-| 2025-12-26 05:00 | [Beyond Context: Large Language Models Failure to Grasp Users Intent](https://arxiv.org/abs/2512.21110) | export.arxiv.org |
-| 2025-12-26 05:00 | [A Real-World Evaluation of LLM Medication Safety Reviews in NHS Primary Care](https://arxiv.org/abs/2512.21127) | export.arxiv.org |
-| 2025-12-26 05:00 | [RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic](https://arxiv.org/abs/2512.21220) | export.arxiv.org |
-| 2025-12-26 05:00 | [Inspection Planning Primitives with Implicit Models](https://arxiv.org/abs/2510.07611) | export.arxiv.org |
-| 2025-12-26 05:00 | [Cooperation Through Indirect Reciprocity in Child-Robot Interactions](https://arxiv.org/abs/2512.20621) | export.arxiv.org |
-| 2025-12-26 05:00 | [Parameter-Efficient Neural CDEs via Implicit Function Jacobians](https://arxiv.org/abs/2512.20625) | export.arxiv.org |
-| 2025-12-26 05:00 | [Efficient Asynchronous Federated Evaluation with Strategy Similarity Awareness for Intent-Based Networking in Industrial Internet of Things](https://arxiv.org/abs/2512.20627) | export.arxiv.org |
-| 2025-12-26 05:00 | [Learning Evolving Latent Strategies for Multi-Agent Language Systems without Model Fine-Tuning](https://arxiv.org/abs/2512.20629) | export.arxiv.org |
-| 2025-12-26 05:00 | [Zero-Training Temporal Drift Detection for Transformer Sentiment Models: A Comprehensive Analysis on Authentic Social Media Streams](https://arxiv.org/abs/2512.20631) | export.arxiv.org |
-| 2025-12-26 05:00 | [Enhancing Lung Cancer Treatment Outcome Prediction through Semantic Feature Engineering Using Large Language Models](https://arxiv.org/abs/2512.20633) | export.arxiv.org |
-| 2025-12-26 05:00 | [Real Time Detection and Quantitative Analysis of Spurious Forgetting in Continual Learning](https://arxiv.org/abs/2512.20634) | export.arxiv.org |
-| 2025-12-26 05:00 | [Data-Free Pruning of Self-Attention Layers in LLMs](https://arxiv.org/abs/2512.20636) | export.arxiv.org |
 | 2025-12-24 15:31 | [Comau introduces MyCo cobot products](https://www.therobotreport.com/comau-introduces-myco-collaborative-robot-products/) | www.therobotreport.com |
 | 2025-12-24 14:00 | [The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025) | spectrum.ieee.org |
 | 2025-12-24 13:00 | [Drones Compete to Spot and Extinguish Brushfires](https://spectrum.ieee.org/wildfire-drones) | spectrum.ieee.org |
@@ -70,6 +31,45 @@
 | 2025-12-19 16:00 | [40 of our most helpful AI tips from 2025](https://blog.google/technology/ai/ai-tips-2025/) | blog.google |
 | 2025-12-19 14:00 | [5 ways AI agents will transform the way we work in 2026](https://blog.google/products/google-cloud/ai-business-trends-report-2026/) | blog.google |
 | 2025-12-19 13:45 | [LimX Dynamics unveils TRON 2 shape-shifting limbed robot](https://www.therobotreport.com/limx-dynamics-just-unveiled-tron-2-shape-shifting-robot/) | www.therobotreport.com |
+| 2025-12-18 21:28 | [RealMan Robotics open-sources its RealSource robot dataset](https://www.therobotreport.com/realman-robotics-open-sources-realsource-robot-dataset/) | www.therobotreport.com |
+| 2025-12-18 17:00 | [You can now verify Google AI-generated videos in the Gemini app.](https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/) | blog.google |
+| 2025-12-18 16:00 | [Inside Kaggle's AI Agents intensive course with Google](https://blog.google/technology/developers/ai-agents-intensive-recap/) | blog.google |
+| 2025-12-18 15:54 | [Flexxbotics continues expansion, opening office at Newlab in Detroit](https://www.therobotreport.com/newlab-detroit-opens-flexxbotics-expands/) | www.therobotreport.com |
+| 2025-12-18 13:14 | [CMR Surgical receives FDA clearance for Versius Plus surgical robot](https://www.therobotreport.com/cmr-surgical-receives-fda-clearance-for-versius-plus-surgical-robot/) | www.therobotreport.com |
+| 2025-12-18 12:00 | [Evaluating chain-of-thought monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability) | openai.com |
+| 2025-12-18 11:00 | [Deepening our collaboration with the U.S. Department of Energy](https://openai.com/index/us-department-of-energy-collaboration) | openai.com |
+| 2025-12-18 11:00 | [AI literacy resources for teens and parents](https://openai.com/index/ai-literacy-resources-for-teens-and-parents) | openai.com |
+| 2025-12-18 11:00 | [Updating our Model Spec with teen protections](https://openai.com/index/updating-model-spec-with-teen-protections) | openai.com |
+| 2025-12-18 00:00 | [Watch a podcast discussion about Gemini 3 and the future of Search.](https://blog.google/technology/ai/release-notes-podcast-search/) | blog.google |
+| 2025-12-18 00:00 | [Introducing GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex) | openai.com |
+| 2025-12-18 00:00 | [Introducing GPT-5.2-Codex](https://openai.com/index/gpt-5-2-codex) | openai.com |
+| 2025-12-18 00:00 | [Addendum to GPT-5.2 System Card: GPT-5.2-Codex](https://openai.com/index/gpt-5-2-codex-system-card) | openai.com |
+| 2025-12-17 20:55 | [Wisk Aero completes first flight of Generation 6 autonomous aircraft](https://www.therobotreport.com/wisk-aero-completes-first-flight-of-generation-6-autonomous-aircraft/) | www.therobotreport.com |
+| 2025-12-17 16:00 | [Gemini 3 Flash: frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/) | blog.google |
+| 2025-12-17 06:00 | [Introducing OpenAI Academy for News Organizations](https://openai.com/index/openai-academy-for-news-organizations) | openai.com |
+| 2025-12-17 00:00 | [Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt) | openai.com |
+| 2025-12-16 20:12 | [iRobot’s Cofounder Weighs In on Company’s Bankruptcy](https://spectrum.ieee.org/irobot-bankruptcy-colin-angle-amazon) | spectrum.ieee.org |
+| 2025-12-16 09:00 | [Evaluating AI’s ability to perform scientific research tasks](https://openai.com/index/frontierscience) | openai.com |
+| 2025-12-16 08:00 | [Measuring AI’s capability to accelerate biological research](https://openai.com/index/accelerating-biological-research-in-the-wet-lab) | openai.com |
+| 2025-12-16 00:00 | [The new ChatGPT Images is here](https://openai.com/index/new-chatgpt-images-is-here) | openai.com |
+| 2025-12-15 17:00 | [We’re publishing an AI playbook to help others with sustainability reporting.](https://blog.google/outreach-initiatives/sustainability/ai-playbook-sustainability-reporting/) | blog.google |
+| 2025-12-12 17:00 | [Video Friday: Robot Dog Shows Off Its Muscles](https://spectrum.ieee.org/musculoskeletal-robot-dog) | spectrum.ieee.org |
+| 2025-12-12 17:00 | [You can now have more fluid and expressive conversations when you go Live with Search.](https://blog.google/products/search/live-audio-gemini-model-update/) | blog.google |
+| 2025-12-12 17:00 | [Bringing state-of-the-art Gemini translation capabilities to Google Translate](https://blog.google/products/search/gemini-capabilities-translation-upgrades/) | blog.google |
+| 2025-12-12 00:00 | [BNY builds “AI for everyone, everywhere” with OpenAI](https://openai.com/index/bny) | openai.com |
+| 2025-12-12 00:00 | [How We Used Codex to Ship Sora for Android in 28 Days](https://openai.com/index/shipping-sora-for-android-with-codex) | openai.com |
+| 2025-12-12 00:00 | [BBVA and OpenAI collaborate to transform global banking](https://openai.com/index/bbva-collaboration-expansion) | openai.com |
+| 2025-12-11 21:30 | [Gradient Canvas: Celebrating over a decade of artistic collaborations with AI](https://blog.google/technology/ai/google-gradient-canvas-ai-art/) | blog.google |
+| 2025-12-11 18:30 | [4 highlights from Google Beam in 2025](https://blog.google/technology/research/google-beam-2025-moments/) | blog.google |
+| 2025-12-11 15:00 | [Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm) | spectrum.ieee.org |
+| 2025-12-11 10:00 | [Advancing science and math with GPT-5.2](https://openai.com/index/gpt-5-2-for-science-and-math) | openai.com |
+| 2025-12-11 00:00 | [Update to GPT-5 System Card: GPT-5.2](https://openai.com/index/gpt-5-system-card-update-gpt-5-2) | openai.com |
+| 2025-12-11 00:00 | [Increasing revenue 300% by bringing AI to SMBs](https://openai.com/index/podium) | openai.com |
+| 2025-12-11 00:00 | [Introducing GPT-5.2](https://openai.com/index/introducing-gpt-5-2) | openai.com |
+| 2025-12-11 00:00 | [The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora](https://openai.com/index/disney-sora-agreement) | openai.com |
+| 2025-12-11 00:00 | [Ten years](https://openai.com/index/ten-years) | openai.com |
+| 2025-12-10 17:15 | [These developers are changing lives with Gemma 3n](https://blog.google/technology/developers/developers-changing-lives-with-gemma-3n/) | blog.google |
+| 2025-12-10 12:00 | [Strengthening cyber resilience as AI capabilities advance](https://openai.com/index/strengthening-cyber-resilience) | openai.com |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,7 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Fapurvsinghgautam%2Frobin" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:962685604,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fapurvsinghgautam%2Frobin" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:962685604,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793375104,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -89,12 +89,12 @@
 
 
       
-        apurvsinghgautam /
+        Shubhamsaboo /
 
-      robin  
+      awesome-llm-apps  
 
     
-      AI-Powered Dark Web OSINT Tool |
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -120,24 +120,7 @@
 
     
       Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
-| 2 | [login?return_to=%2Fsgl-project%2Fmini-sglang" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1048705942,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fsgl-project%2Fmini-sglang" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1048705942,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        sgl-project /
-
-      mini-sglang  
-
-    
-      A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. |
-| 3 | [login?return_to=%2Fcocoindex-io%2Fcocoindex" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:942312530,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcocoindex-io%2Fcocoindex" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:942312530,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fcocoindex-io%2Fcocoindex" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:942312530,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcocoindex-io%2Fcocoindex" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:942312530,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -154,6 +137,23 @@
 
     
       Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it! |
+| 3 | [login?return_to=%2Fsgl-project%2Fmini-sglang" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1048705942,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fsgl-project%2Fmini-sglang" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1048705942,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        sgl-project /
+
+      mini-sglang  
+
+    
+      A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. |
 | 4 | [login?return_to=%2Fresemble-ai%2Fchatterbox" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:971241545,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fresemble-ai%2Fchatterbox" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:971241545,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
