@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-01-04 03:24 UTC）
+# AI & 机器人 技术热点日报（2026-01-05 03:27 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2026-01-04 14:27 | [How drone journalism is reshaping reporting](https://www.therobotreport.com/how-drone-journalism-is-reshaping-reporting/) | www.therobotreport.com |
 | 2026-01-03 14:00 | [Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/) | www.therobotreport.com |
 | 2026-01-03 13:45 | [Kilter introduces AX-1 precision weeding robot](https://www.therobotreport.com/kilter-introduces-ax-1-precision-weed-killing-robot/) | www.therobotreport.com |
 | 2026-01-02 18:00 | [Video Friday: Watch Scuttle Evolve](https://spectrum.ieee.org/video-friday-robot-farming) | spectrum.ieee.org |
@@ -33,7 +34,6 @@
 | 2025-12-24 15:31 | [Comau introduces MyCo cobot products](https://www.therobotreport.com/comau-introduces-myco-collaborative-robot-products/) | www.therobotreport.com |
 | 2025-12-24 14:00 | [The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025) | spectrum.ieee.org |
 | 2025-12-24 13:00 | [Drones Compete to Spot and Extinguish Brushfires](https://spectrum.ieee.org/wildfire-drones) | spectrum.ieee.org |
-| 2025-12-23 19:56 | [Robotics in review: Editors look back at 2025](https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/) | www.therobotreport.com |
 | 2025-12-23 17:00 | [Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/) | blog.google |
 | 2025-12-22 17:00 | [60 of our biggest AI announcements in 2025](https://blog.google/technology/ai/google-ai-news-recap-2025/) | blog.google |
 | 2025-12-22 00:00 | [Continuously hardening ChatGPT Atlas against prompt injection](https://openai.com/index/hardening-atlas-against-prompt-injection) | openai.com |
@@ -78,24 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Fpathwaycom%2Fpathway" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:571186647,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fpathwaycom%2Fpathway" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:571186647,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        pathwaycom /
-
-      pathway  
-
-    
-      Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
-| 2 | [sponsors/OpenBB-finance](https://github.com/sponsors/OpenBB-finance) | Sponsor
+| 1 | [sponsors/OpenBB-finance](https://github.com/sponsors/OpenBB-finance) | Sponsor
     
   
 
@@ -125,6 +108,23 @@
 
     
       Financial data platform for analysts, quants and AI agents. |
+| 2 | [login?return_to=%2Fvirattt%2Fai-hedge-fund" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:896144595,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:896144595,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund  
+
+    
+      An AI Hedge Fund Team |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -197,23 +197,6 @@
 
     
       Personal AI Infrastructure for upgrading humans. |
-| 4 | [login?return_to=%2Fgitroomhq%2Fpostiz-app" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:664013991,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgitroomhq%2Fpostiz-app" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:664013991,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        gitroomhq /
-
-      postiz-app  
-
-    
-      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
