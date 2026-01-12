@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-01-11 03:24 UTC）
+# AI & 机器人 技术热点日报（2026-01-12 03:22 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2026-01-11 15:05 | [Wing is bringing drone delivery to 150 more Walmart stores](https://www.therobotreport.com/wing-brings-drone-delivery-to-150-more-walmart-stores/) | www.therobotreport.com |
 | 2026-01-10 13:30 | [Why AIC is the only path to certifiable robotics](https://www.therobotreport.com/why-aic-is-the-only-path-to-certifiable-robotics/) | www.therobotreport.com |
 | 2026-01-09 21:54 | [Kodiak plans to scale autonomous trucking hardware and sensors with Bosch](https://www.therobotreport.com/kodiak-plans-scale-autonomous-trucking-hardware-sensors-bosch/) | www.therobotreport.com |
 | 2026-01-09 18:00 | [Video Friday: Robots Are Everywhere at CES 2026](https://spectrum.ieee.org/robots-ces-2026) | spectrum.ieee.org |
@@ -31,7 +32,6 @@
 | 2026-01-07 00:00 | [Introducing ChatGPT Health](https://openai.com/index/introducing-chatgpt-health) | openai.com |
 | 2026-01-06 23:00 | [Orbbec releases two new Gemini stereo cameras for robotics](https://www.therobotreport.com/orbbec-releases-two-new-gemini-stereo-cameras-for-robotics/) | www.therobotreport.com |
 | 2026-01-06 19:25 | [Amazon acquires Rightbot, adds to Robotics Delivery and Packaging Innovation team](https://www.therobotreport.com/amazon-acquires-rightbot-adds-robotics-delivery-packaging-innovation-team/) | www.therobotreport.com |
-| 2026-01-06 18:05 | [AGIBOT launches Genie Sim 3.0 robot simulation platform](https://www.therobotreport.com/agibot-launches-genie-sim-3-0-robot-simulation-platform/) | www.therobotreport.com |
 | 2026-01-02 18:00 | [Video Friday: Watch Scuttle Evolve](https://spectrum.ieee.org/video-friday-robot-farming) | spectrum.ieee.org |
 | 2026-01-02 10:00 | [Announcing OpenAI Grove Cohort 2](https://openai.com/index/openai-grove) | openai.com |
 | 2026-01-01 15:00 | [Tech to Track in 2026](https://spectrum.ieee.org/tech-in-2026) | spectrum.ieee.org |
@@ -78,7 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2FNevaMind-AI%2FmemU" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1028070615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FNevaMind-AI%2FmemU" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1028070615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2Ffrankbria%2Fralph-claude-code" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1045721921,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ffrankbria%2Fralph-claude-code" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1045721921,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -89,12 +89,12 @@
 
 
       
-        NevaMind-AI /
+        frankbria /
 
-      memU  
+      ralph-claude-code  
 
     
-      Memory infrastructure for LLMs and AI agents |
+      Autonomous AI development loop for Claude Code with intelligent exit detection |
 | 2 | [login?return_to=%2Fbytedance%2FUI-TARS-desktop" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:918932603,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fbytedance%2FUI-TARS-desktop" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:918932603,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -112,6 +112,23 @@
 
     
       The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| 3 | [login?return_to=%2Fsimstudioai%2Fsim" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:912559512,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fsimstudioai%2Fsim" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:912559512,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        simstudioai /
+
+      sim  
+
+    
+      Open-source platform to build and deploy AI agent workflows. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
