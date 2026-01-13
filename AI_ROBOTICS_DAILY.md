@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-01-12 03:22 UTC）
+# AI & 机器人 技术热点日报（2026-01-13 03:13 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
-| 2026-01-11 15:05 | [Wing is bringing drone delivery to 150 more Walmart stores](https://www.therobotreport.com/wing-brings-drone-delivery-to-150-more-walmart-stores/) | www.therobotreport.com |
-| 2026-01-10 13:30 | [Why AIC is the only path to certifiable robotics](https://www.therobotreport.com/why-aic-is-the-only-path-to-certifiable-robotics/) | www.therobotreport.com |
-| 2026-01-09 21:54 | [Kodiak plans to scale autonomous trucking hardware and sensors with Bosch](https://www.therobotreport.com/kodiak-plans-scale-autonomous-trucking-hardware-sensors-bosch/) | www.therobotreport.com |
-| 2026-01-09 18:00 | [Video Friday: Robots Are Everywhere at CES 2026](https://spectrum.ieee.org/robots-ces-2026) | spectrum.ieee.org |
-| 2026-01-09 14:38 | [Buildroid AI expands simulation-first robotics platform to U.S. sites](https://www.therobotreport.com/buildroid-ai-expands-simulation-first-robotics-platform-u-s-sites/) | www.therobotreport.com |
-| 2026-01-09 13:30 | [Humanoid takes seven-month path to HMND 01 Alpha](https://www.therobotreport.com/humanoid-takes-seven-month-path-to-hmnd-01-alpha/) | www.therobotreport.com |
-| 2026-01-09 11:00 | [OpenAI and SoftBank Group partner with SB Energy](https://openai.com/index/stargate-sb-energy-partnership) | openai.com |
-| 2026-01-09 00:00 | [Datadog uses Codex for system-level code review](https://openai.com/index/datadog) | openai.com |
-| 2026-01-08 20:00 | [Neocis’ Yomi platform completes over 100,000 osteotomies](https://www.therobotreport.com/neocis-yomi-platform-completes-over-100000-osteotomies/) | www.therobotreport.com |
-| 2026-01-08 19:31 | [Doosan Bobcat unveils RX3 autonomous concept loader](https://www.therobotreport.com/doosen-bobcat-unveils-latest-rx3-concept-loader/) | www.therobotreport.com |
-| 2026-01-08 15:46 | [Qualcomm introduces general-purpose architecture for robotics](https://www.therobotreport.com/qualcomm-introduces-general-purpose-architecture-for-robotics/) | www.therobotreport.com |
-| 2026-01-08 14:29 | [Lyte brings in $107M to build perception systems for AI-enabled robots](https://www.therobotreport.com/lyte-brings-in-107m-to-build-perception-systems-for-ai-enabled-robots/) | www.therobotreport.com |
-| 2026-01-08 13:00 | [Netomi’s lessons for scaling agentic systems into the enterprise](https://openai.com/index/netomi) | openai.com |
-| 2026-01-08 12:00 | [OpenAI for Healthcare](https://openai.com/index/openai-for-healthcare) | openai.com |
-| 2026-01-07 16:56 | [ATDev develops Reflex to bring robotics and AI to rehabilitation](https://www.therobotreport.com/atdev-develops-reflex-to-bring-robotics-and-ai-to-rehabilitation/) | www.therobotreport.com |
-| 2026-01-07 15:41 | [Mobileye to acquire Mentee Robotics for $900M in bid to dominate physical AI](https://www.therobotreport.com/mobileye-to-acquire-mentee-robotics-for-900m-bid-dominate-physical-ai/) | www.therobotreport.com |
-| 2026-01-07 13:30 | [Universal Robots partners with Robotiq and Siemens for smart palletizing](https://www.therobotreport.com/universal-robots-partners-with-robotiq-and-siemens-for-smart-palletizing/) | www.therobotreport.com |
-| 2026-01-07 13:00 | [Oshkosh acquires core technology developed by Canvas](https://www.therobotreport.com/oshkosh-acquires-core-technology-developed-by-canvas/) | www.therobotreport.com |
-| 2026-01-07 10:00 | [How Tolan builds voice-first AI with GPT-5.1](https://openai.com/index/tolan) | openai.com |
-| 2026-01-07 00:00 | [Introducing ChatGPT Health](https://openai.com/index/introducing-chatgpt-health) | openai.com |
-| 2026-01-06 23:00 | [Orbbec releases two new Gemini stereo cameras for robotics](https://www.therobotreport.com/orbbec-releases-two-new-gemini-stereo-cameras-for-robotics/) | www.therobotreport.com |
-| 2026-01-06 19:25 | [Amazon acquires Rightbot, adds to Robotics Delivery and Packaging Innovation team](https://www.therobotreport.com/amazon-acquires-rightbot-adds-robotics-delivery-packaging-innovation-team/) | www.therobotreport.com |
-| 2026-01-02 18:00 | [Video Friday: Watch Scuttle Evolve](https://spectrum.ieee.org/video-friday-robot-farming) | spectrum.ieee.org |
-| 2026-01-02 10:00 | [Announcing OpenAI Grove Cohort 2](https://openai.com/index/openai-grove) | openai.com |
-| 2026-01-01 15:00 | [Tech to Track in 2026](https://spectrum.ieee.org/tech-in-2026) | spectrum.ieee.org |
-| 2025-12-31 13:00 | [Teams of Robots Compete to Save Lives on the Battlefield](https://spectrum.ieee.org/darpa-triage-challenge-robots) | spectrum.ieee.org |
-| 2025-12-29 18:15 | [The latest AI news we announced in December](https://blog.google/innovation-and-ai/products/google-ai-updates-december-2025/) | blog.google |
-| 2025-12-28 13:00 | [First Air Taxi Service to Launch in Dubai in 2026](https://spectrum.ieee.org/joby-air-taxi) | spectrum.ieee.org |
-| 2025-12-26 18:30 | [Video Friday: Holiday Robot Helpers Send Season’s Greetings](https://spectrum.ieee.org/holiday-robot-videos) | spectrum.ieee.org |
-| 2025-12-24 14:00 | [The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025) | spectrum.ieee.org |
-| 2025-12-24 13:00 | [Drones Compete to Spot and Extinguish Brushfires](https://spectrum.ieee.org/wildfire-drones) | spectrum.ieee.org |
-| 2025-12-23 17:00 | [Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/innovation-and-ai/products/2025-research-breakthroughs/) | blog.google |
-| 2025-12-22 00:00 | [Continuously hardening ChatGPT Atlas against prompt injection](https://openai.com/index/hardening-atlas-against-prompt-injection) | openai.com |
-| 2025-12-22 00:00 | [One in a million: celebrating the customers shaping AI’s future](https://openai.com/index/one-in-a-million-customers) | openai.com |
-| 2025-12-19 16:30 | [Video Friday: Happy Robot Holidays](https://spectrum.ieee.org/happy-holidays-robot) | spectrum.ieee.org |
-| 2025-12-18 12:00 | [Evaluating chain-of-thought monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability) | openai.com |
-| 2025-12-18 11:00 | [AI literacy resources for teens and parents](https://openai.com/index/ai-literacy-resources-for-teens-and-parents) | openai.com |
-| 2025-12-18 11:00 | [Deepening our collaboration with the U.S. Department of Energy](https://openai.com/index/us-department-of-energy-collaboration) | openai.com |
-| 2025-12-18 11:00 | [Updating our Model Spec with teen protections](https://openai.com/index/updating-model-spec-with-teen-protections) | openai.com |
-| 2025-12-18 00:00 | [Watch a podcast discussion about Gemini 3 and the future of Search.](https://blog.google/innovation-and-ai/products/release-notes-podcast-search/) | blog.google |
-| 2025-12-18 00:00 | [Addendum to GPT-5.2 System Card: GPT-5.2-Codex](https://openai.com/index/gpt-5-2-codex-system-card) | openai.com |
-| 2025-12-18 00:00 | [Introducing GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex) | openai.com |
-| 2025-12-18 00:00 | [Introducing GPT-5.2-Codex](https://openai.com/index/gpt-5-2-codex) | openai.com |
-| 2025-12-17 16:00 | [Gemini 3 Flash: frontier intelligence built for speed](https://blog.google/products-and-platforms/products/gemini/gemini-3-flash/) | blog.google |
-| 2025-12-17 06:00 | [Introducing OpenAI Academy for News Organizations](https://openai.com/index/openai-academy-for-news-organizations) | openai.com |
-| 2025-12-17 00:00 | [Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt) | openai.com |
-| 2025-12-16 20:12 | [iRobot’s Cofounder Weighs In on Company’s Bankruptcy](https://spectrum.ieee.org/irobot-bankruptcy-colin-angle-amazon) | spectrum.ieee.org |
-| 2025-12-16 09:00 | [Evaluating AI’s ability to perform scientific research tasks](https://openai.com/index/frontierscience) | openai.com |
-| 2025-12-16 08:00 | [Measuring AI’s capability to accelerate biological research](https://openai.com/index/accelerating-biological-research-in-the-wet-lab) | openai.com |
-| 2025-12-16 00:00 | [The new ChatGPT Images is here](https://openai.com/index/new-chatgpt-images-is-here) | openai.com |
-| 2025-12-12 17:00 | [Video Friday: Robot Dog Shows Off Its Muscles](https://spectrum.ieee.org/musculoskeletal-robot-dog) | spectrum.ieee.org |
-| 2025-12-12 00:00 | [BNY builds “AI for everyone, everywhere” with OpenAI](https://openai.com/index/bny) | openai.com |
-| 2025-12-12 00:00 | [BBVA and OpenAI collaborate to transform global banking](https://openai.com/index/bbva-collaboration-expansion) | openai.com |
-| 2025-12-12 00:00 | [How We Used Codex to Ship Sora for Android in 28 Days](https://openai.com/index/shipping-sora-for-android-with-codex) | openai.com |
-| 2025-12-11 15:00 | [Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds](https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm) | spectrum.ieee.org |
-| 2025-12-11 10:00 | [Advancing science and math with GPT-5.2](https://openai.com/index/gpt-5-2-for-science-and-math) | openai.com |
-| 2025-12-11 00:00 | [Increasing revenue 300% by bringing AI to SMBs](https://openai.com/index/podium) | openai.com |
-| 2025-12-11 00:00 | [Introducing GPT-5.2](https://openai.com/index/introducing-gpt-5-2) | openai.com |
-| 2025-12-11 00:00 | [The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora](https://openai.com/index/disney-sora-agreement) | openai.com |
-| 2025-12-11 00:00 | [Update to GPT-5 System Card: GPT-5.2](https://openai.com/index/gpt-5-system-card-update-gpt-5-2) | openai.com |
+| 2026-01-12 22:28 | [TESOLLO uses own actuator in DG-5F-S humanoid robotic hand](https://www.therobotreport.com/tesollo-uses-own-actuator-dg-5f-s-humanoid-robotic-hand/) | www.therobotreport.com |
+| 2026-01-12 18:24 | [AGIBOT makes its U.S. debut with more than 5,100 robots shipped](https://www.therobotreport.com/agibot-makes-u-s-debut-with-more-than-5100-robots-shipped/) | www.therobotreport.com |
+| 2026-01-12 07:01 | [ARM Institute issues education and workforce development project call](https://www.therobotreport.com/arm-institute-issues-education-workforce-development-project-call/) | www.therobotreport.com |
+| 2026-01-12 05:00 | [Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring](https://arxiv.org/abs/2601.05256) | export.arxiv.org |
+| 2026-01-12 05:00 | [Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing](https://arxiv.org/abs/2601.05298) | export.arxiv.org |
+| 2026-01-12 05:00 | [Effects of personality steering on cooperative behavior in Large Language Model agents](https://arxiv.org/abs/2601.05302) | export.arxiv.org |
+| 2026-01-12 05:00 | [Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-Enhanced Knowledge Graph Embeddings](https://arxiv.org/abs/2601.05330) | export.arxiv.org |
+| 2026-01-12 05:00 | [The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models](https://arxiv.org/abs/2601.05376) | export.arxiv.org |
+| 2026-01-12 05:00 | [Conformity and Social Impact on AI Agents](https://arxiv.org/abs/2601.05384) | export.arxiv.org |
+| 2026-01-12 05:00 | [On the Effect of Cheating in Chess](https://arxiv.org/abs/2601.05386) | export.arxiv.org |
+| 2026-01-12 05:00 | [ART: Adaptive Reasoning Trees for Explainable Claim Verification](https://arxiv.org/abs/2601.05455) | export.arxiv.org |
+| 2026-01-12 05:00 | [PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop Question Answering](https://arxiv.org/abs/2601.05465) | export.arxiv.org |
+| 2026-01-12 05:00 | [MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urban Environment Change Analysis](https://arxiv.org/abs/2601.05483) | export.arxiv.org |
+| 2026-01-12 05:00 | [The Evaluation Gap in Medicine, AI and LLMs: Navigating Elusive Ground Truth & Uncertainty via a Probabilistic Paradigm](https://arxiv.org/abs/2601.05500) | export.arxiv.org |
+| 2026-01-12 05:00 | [Explainable AI: Learning from the Learners](https://arxiv.org/abs/2601.05525) | export.arxiv.org |
+| 2026-01-12 05:00 | [Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making](https://arxiv.org/abs/2601.05529) | export.arxiv.org |
+| 2026-01-12 05:00 | [WildSci: Advancing Scientific Reasoning from In-the-Wild Literature](https://arxiv.org/abs/2601.05567) | export.arxiv.org |
+| 2026-01-12 05:00 | [Crisis-Bench: Benchmarking Strategic Ambiguity and Reputation Management in Large Language Models](https://arxiv.org/abs/2601.05570) | export.arxiv.org |
+| 2026-01-12 05:00 | [Reinforcement Learning of Large Language Models for Interpretable Credit Card Fraud Detection](https://arxiv.org/abs/2601.05578) | export.arxiv.org |
+| 2026-01-12 05:00 | [A Causal Information-Flow Framework for Unbiased Learning-to-Rank](https://arxiv.org/abs/2601.05590) | export.arxiv.org |
+| 2026-01-12 05:00 | [Cumulative Path-Level Semantic Reasoning for Inductive Knowledge Graph Completion](https://arxiv.org/abs/2601.05629) | export.arxiv.org |
+| 2026-01-12 05:00 | [GenCtrl -- A Formal Controllability Toolkit for Generative Models](https://arxiv.org/abs/2601.05637) | export.arxiv.org |
+| 2026-01-12 05:00 | [HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation](https://arxiv.org/abs/2601.05656) | export.arxiv.org |
+| 2026-01-12 05:00 | [CHDP: Cooperative Hybrid Diffusion Policies for Reinforcement Learning in Parameterized Action Space](https://arxiv.org/abs/2601.05675) | export.arxiv.org |
+| 2026-01-12 05:00 | [Circular Reasoning: Understanding Self-Reinforcing Loops in Large Reasoning Models](https://arxiv.org/abs/2601.05693) | export.arxiv.org |
+| 2026-01-12 05:00 | [Logic-Parametric Neuro-Symbolic NLI: Controlling Logical Formalisms for Verifiable LLM Reasoning](https://arxiv.org/abs/2601.05705) | export.arxiv.org |
+| 2026-01-12 05:00 | [Overcoming Joint Intractability with Lossless Hierarchical Speculative Decoding](https://arxiv.org/abs/2601.05724) | export.arxiv.org |
+| 2026-01-12 05:00 | [PII-VisBench: Evaluating Personally Identifiable Information Safety in Vision Language Models Along a Continuum of Visibility](https://arxiv.org/abs/2601.05739) | export.arxiv.org |
+| 2026-01-12 05:00 | [DynaDebate: Breaking Homogeneity in Multi-Agent Debate with Dynamic Path Generation](https://arxiv.org/abs/2601.05746) | export.arxiv.org |
+| 2026-01-12 05:00 | [From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787) | export.arxiv.org |
+| 2026-01-12 05:00 | [StackPlanner: A Centralized Hierarchical Multi-Agent System with Task-Experience Memory Management](https://arxiv.org/abs/2601.05890) | export.arxiv.org |
+| 2026-01-12 05:00 | [TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents](https://arxiv.org/abs/2601.05899) | export.arxiv.org |
+| 2026-01-12 05:00 | [Open-Vocabulary 3D Instruction Ambiguity Detection](https://arxiv.org/abs/2601.05991) | export.arxiv.org |
+| 2026-01-12 05:00 | [EvoC2Rust: A Skeleton-guided Framework for Project-Level C-to-Rust Translation](https://arxiv.org/abs/2508.04295) | export.arxiv.org |
+| 2026-01-12 05:00 | [Towards Realistic Guarantees: A Probabilistic Certificate for SmoothLLM](https://arxiv.org/abs/2511.18721) | export.arxiv.org |
+| 2026-01-12 05:00 | [Automating Deception: Scalable Multi-Turn LLM Jailbreaks](https://arxiv.org/abs/2511.19517) | export.arxiv.org |
+| 2026-01-12 05:00 | [Tiny Recursive Models on ARC-AGI-1: Inductive Biases, Identity Conditioning, and Test-Time Compute](https://arxiv.org/abs/2512.11847) | export.arxiv.org |
+| 2026-01-12 05:00 | [SP-Rank: A Dataset for Ranked Preferences with Secondary Information](https://arxiv.org/abs/2601.05253) | export.arxiv.org |
+| 2026-01-12 05:00 | [KP-Agent: Keyword Pruning in Sponsored Search Advertising via LLM-Powered Contextual Bandits](https://arxiv.org/abs/2601.05257) | export.arxiv.org |
+| 2026-01-12 05:00 | [From Events to Trending: A Multi-Stage Hotspots Detection Method Based on Generative Query Indexing](https://arxiv.org/abs/2601.05258) | export.arxiv.org |
+| 2026-01-12 05:00 | [Quantifying Document Impact in RAG-LLMs](https://arxiv.org/abs/2601.05260) | export.arxiv.org |
+| 2026-01-12 05:00 | [LLM2IR: simple unsupervised contrastive learning makes long-context LLM great retriever](https://arxiv.org/abs/2601.05262) | export.arxiv.org |
+| 2026-01-12 05:00 | [Engineering the RAG Stack: A Comprehensive Review of the Architecture and Trust Frameworks for Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2601.05264) | export.arxiv.org |
+| 2026-01-12 05:00 | [Intent at a Glance: Gaze-Guided Robotic Manipulation via Foundation Models](https://arxiv.org/abs/2601.05336) | export.arxiv.org |
+| 2026-01-12 05:00 | [PRISM: Protocol Refinement through Intelligent Simulation Modeling](https://arxiv.org/abs/2601.05356) | export.arxiv.org |
+| 2026-01-12 05:00 | [Assembling Solar Panels by Dual Robot Arms Towards Full Autonomous Lunar Base Construction](https://arxiv.org/abs/2601.05491) | export.arxiv.org |
+| 2026-01-12 05:00 | [TOSC: Task-Oriented Shape Completion for Open-World Dexterous Grasp Generation from Partial Point Clouds](https://arxiv.org/abs/2601.05499) | export.arxiv.org |
+| 2026-01-12 05:00 | [Learning specifications for reactive synthesis with safety constraints](https://arxiv.org/abs/2601.05533) | export.arxiv.org |
+| 2026-01-12 05:00 | [EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium](https://arxiv.org/abs/2601.05653) | export.arxiv.org |
+| 2026-01-12 05:00 | [Motion Compensation for Real Time Ultrasound Scanning in Robotically Assisted Prostate Biopsy Procedures](https://arxiv.org/abs/2601.05661) | export.arxiv.org |
+| 2026-01-12 05:00 | [InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection](https://arxiv.org/abs/2601.05805) | export.arxiv.org |
+| 2026-01-12 05:00 | [Modular Autonomy with Conversational Interaction: An LLM-driven Framework for Decision Making in Autonomous Driving](https://arxiv.org/abs/2601.05806) | export.arxiv.org |
+| 2026-01-12 05:00 | [Intelligent Singularity Avoidance in UR10 Robotic Arm Path Planning Using Hybrid Fuzzy Logic and Reinforcement Learning](https://arxiv.org/abs/2601.05836) | export.arxiv.org |
+| 2026-01-12 05:00 | [Inverting Non-Injective Functions with Twin Neural Network Regression](https://arxiv.org/abs/2601.05378) | export.arxiv.org |
+| 2026-01-12 05:00 | [Mobile Robot Localization Using a Novel Whisker-Like Sensor](https://arxiv.org/abs/2601.05612) | export.arxiv.org |
+| 2026-01-12 05:00 | [FlyPose: Towards Robust Human Pose Estimation From Aerial Views](https://arxiv.org/abs/2601.05747) | export.arxiv.org |
+| 2026-01-12 05:00 | [SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810) | export.arxiv.org |
+| 2026-01-12 05:00 | [DexterCap: An Affordable and Automated System for Capturing Dexterous Hand-Object Manipulation](https://arxiv.org/abs/2601.05844) | export.arxiv.org |
+| 2026-01-12 05:00 | [Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals](https://arxiv.org/abs/2601.05848) | export.arxiv.org |
+| 2026-01-12 05:00 | [A Photorealistic Dataset and Vision-Based Algorithm for Anomaly Detection During Proximity Operations in Lunar Orbit](https://arxiv.org/abs/2409.20435) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -112,7 +112,7 @@
 
     
       The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
-| 3 | [login?return_to=%2Fsimstudioai%2Fsim" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:912559512,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fsimstudioai%2Fsim" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:912559512,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 3 | [login?return_to=%2Fruvnet%2Fclaude-flow" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fruvnet%2Fclaude-flow" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -123,12 +123,29 @@
 
 
       
-        simstudioai /
+        ruvnet /
 
-      sim  
+      claude-flow  
 
     
-      Open-source platform to build and deploy AI agent workflows. |
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks. |
+| 4 | [login?return_to=%2FOpenBMB%2FChatDev" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:683892956,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FOpenBMB%2FChatDev" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:683892956,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        OpenBMB /
+
+      ChatDev  
+
+    
+      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -171,36 +188,6 @@
 
     
       The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
-| 3 | [sponsors/OpenBB-finance](https://github.com/sponsors/OpenBB-finance) | Sponsor
-    
-  
-
-
-
-      
-            
-    
-
-    
-
-        
-          Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB  
-
-    
-      Financial data platform for analysts, quants and AI agents. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
