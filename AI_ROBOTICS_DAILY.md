@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-02-01 04:10 UTC）
+# AI & 机器人 技术热点日报（2026-02-02 04:02 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2026-02-01 13:35 | [What evolving robot standards mean for implementations of cobots](https://www.therobotreport.com/evolving-robot-standards-mean-cobots-implementations/) | www.therobotreport.com |
 | 2026-01-31 13:35 | [Top 10 robotics developments of January 2026](https://www.therobotreport.com/top-10-robotics-developments-of-january-2026/) | www.therobotreport.com |
 | 2026-01-30 19:55 | [First patient enrolls in clinical trial for Wandercraft Atalante X exoskeleton](https://www.therobotreport.com/first-patient-enrolls-clinical-trial-wandercraft-atalante-x-exoskeleton/) | www.therobotreport.com |
 | 2026-01-30 19:02 | [Ode to Very Small Devices](https://spectrum.ieee.org/poetry-for-engineers-ode) | spectrum.ieee.org |
@@ -35,7 +36,6 @@
 | 2026-01-27 17:00 | [Just ask anything: a seamless new Search experience](https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/) | blog.google |
 | 2026-01-27 15:44 | [Robotiq brings sense of touch to physical AI with fingertips for 2F grippers](https://www.therobotreport.com/robotiq-brings-sense-touch-physical-ai-fingertips-2f-grippers/) | www.therobotreport.com |
 | 2026-01-27 14:01 | [Big robot on campus: Starship finds 97% student approval rating](https://www.therobotreport.com/big-robot-campus-starship-finds-97-student-approval-rating/) | www.therobotreport.com |
-| 2026-01-27 14:00 | [Multiply Labs partners with AstraZeneca to automate cell therapy manufacturing](https://www.therobotreport.com/multiply-labs-partners-astrazeneca-automate-cell-therapy-manufacturing/) | www.therobotreport.com |
 | 2026-01-27 10:28 | [In our latest podcast, hear how the “Smoke Jumpers” team brings Gemini to billions of people.](https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/) | blog.google |
 | 2026-01-27 06:00 | [PVH reimagines the future of fashion with OpenAI](https://openai.com/index/pvh-future-of-fashion) | openai.com |
 | 2026-01-27 00:00 | [Introducing Prism](https://openai.com/index/introducing-prism) | openai.com |
@@ -78,71 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [sponsors/ThePrimeagen](https://github.com/sponsors/ThePrimeagen) | Sponsor
-    
-  
-
-
-
-      
-            
-    
-
-    
-
-        
-          Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        ThePrimeagen /
-
-      99  
-
-    
-      Neovim AI agent done right |
-| 2 | [login?return_to=%2Fmicrosoft%2Fagent-lightning" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1004147641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmicrosoft%2Fagent-lightning" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1004147641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        microsoft /
-
-      agent-lightning  
-
-    
-      The absolute trainer to light up AI agents. |
-| 3 | [login?return_to=%2FPaddlePaddle%2FPaddleOCR" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:262296122,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FPaddlePaddle%2FPaddleOCR" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:262296122,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        PaddlePaddle /
-
-      PaddleOCR  
-
-    
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
-| 4 | [sponsors/openclaw](https://github.com/sponsors/openclaw) | Sponsor
+| 1 | [sponsors/openclaw](https://github.com/sponsors/openclaw) | Sponsor
     
   
 
@@ -172,7 +108,20 @@
 
     
       Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
-| 5 | [login?return_to=%2Fcline%2Fcline" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:824874689,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcline%2Fcline" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:824874689,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [sponsors/ThePrimeagen](https://github.com/sponsors/ThePrimeagen) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
 
 
   
@@ -183,12 +132,106 @@
 
 
       
-        cline /
+        ThePrimeagen /
 
-      cline  
+      99  
 
     
-      Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. |
+      Neovim AI agent done right |
+| 3 | [sponsors/badlogic](https://github.com/sponsors/badlogic) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        badlogic /
+
+      pi-mono  
+
+    
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods |
+| 4 | [sponsors/thedotmack](https://github.com/sponsors/thedotmack) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        thedotmack /
+
+      claude-mem  
+
+    
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| 5 | [login?return_to=%2Fmicrosoft%2Fagent-lightning" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1004147641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmicrosoft%2Fagent-lightning" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1004147641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        microsoft /
+
+      agent-lightning  
+
+    
+      The absolute trainer to light up AI agents. |
+| 6 | [login?return_to=%2Famantus-ai%2Fvibetunnel" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1002552148,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Famantus-ai%2Fvibetunnel" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1002552148,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        amantus-ai /
+
+      vibetunnel  
+
+    
+      Turn any browser into your terminal &amp; command your agents on the go. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -274,7 +317,24 @@
 
     
       AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods |
-| 4 | [login?return_to=%2Fsupermemoryai%2Fsupermemory" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:764287615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fsupermemoryai%2Fsupermemory" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:764287615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 4 | [login?return_to=%2FNevaMind-AI%2FmemU" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1028070615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FNevaMind-AI%2FmemU" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1028070615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        NevaMind-AI /
+
+      memU  
+
+    
+      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). |
+| 5 | [login?return_to=%2Fsupermemoryai%2Fsupermemory" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:764287615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fsupermemoryai%2Fsupermemory" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:764287615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -291,6 +351,66 @@
 
     
       Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| 6 | [sponsors/ThePrimeagen](https://github.com/sponsors/ThePrimeagen) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        ThePrimeagen /
+
+      99  
+
+    
+      Neovim AI agent done right |
+| 7 | [sponsors/steipete](https://github.com/sponsors/steipete) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        steipete /
+
+      Peekaboo  
+
+    
+      Peekaboo is a macOS CLI &amp; optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
