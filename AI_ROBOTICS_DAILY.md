@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-02-15 04:02 UTC）
+# AI & 机器人 技术热点日报（2026-02-16 04:03 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2026-02-15 13:34 | [High-precision robots: What to do when absolute accuracy is poor?](https://www.therobotreport.com/high-precision-robots-what-to-do-when-absolute-accuracy-is-poor/) | www.therobotreport.com |
 | 2026-02-14 13:30 | [ServoBelt offers high-end performance for automotive gantry](https://www.therobotreport.com/servobelt-offers-high-end-performance-automotive-gantry/) | www.therobotreport.com |
 | 2026-02-14 00:21 | [Manifest 2026 recap](https://www.therobotreport.com/manifest-2026-recap/) | www.therobotreport.com |
 | 2026-02-13 22:03 | [Realbotix makes transition from novelty to embodied AI](https://www.therobotreport.com/realbotix-makes-transition-from-novelty-to-embodied-ai/) | www.therobotreport.com |
@@ -34,7 +35,6 @@
 | 2026-02-10 14:24 | [High-sensitivity torque sensors offer force feedback for small-payload cobots](https://www.therobotreport.com/high-sensitivity-torque-sensors-offer-force-feedback-for-small-payload-cobots/) | www.therobotreport.com |
 | 2026-02-10 14:00 | [Destro AI launches Agentic AI Brain for human-robot collaboration](https://www.therobotreport.com/destro-ai-launches-agentic-ai-brain-human-robot-collaboration/) | www.therobotreport.com |
 | 2026-02-10 02:30 | [Helping kids and teens learn and grow online on Safer Internet Day](https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/) | blog.google |
-| 2026-02-09 18:44 | [11 reasons robots struggle to scale in high-mix manufacturing](https://www.therobotreport.com/11-reasons-robots-struggle-to-scale-in-high-mix-manufacturing/) | www.therobotreport.com |
 | 2026-02-09 11:00 | [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) | openai.com |
 | 2026-02-09 11:00 | [Bringing ChatGPT to GenAI.mil](https://openai.com/index/bringing-chatgpt-to-genaimil) | openai.com |
 | 2026-02-06 17:00 | [Video Friday: Autonomous Robots Learn By Doing in This Factory](https://spectrum.ieee.org/autonomous-warehouse-robots) | spectrum.ieee.org |
@@ -45,8 +45,8 @@
 | 2026-02-05 11:00 | [GPT-5 lowers the cost of cell-free protein synthesis](https://openai.com/index/gpt-5-lowers-protein-synthesis-cost) | openai.com |
 | 2026-02-05 10:00 | [Introducing Trusted Access for Cyber](https://openai.com/index/trusted-access-for-cyber) | openai.com |
 | 2026-02-05 06:00 | [Introducing OpenAI Frontier](https://openai.com/index/introducing-openai-frontier) | openai.com |
-| 2026-02-05 00:00 | [Introducing GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex) | openai.com |
 | 2026-02-05 00:00 | [Navigating health questions with ChatGPT](https://openai.com/index/navigating-health-questions) | openai.com |
+| 2026-02-05 00:00 | [Introducing GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex) | openai.com |
 | 2026-02-05 00:00 | [GPT-5.3-Codex System Card](https://openai.com/index/gpt-5-3-codex-system-card) | openai.com |
 | 2026-02-04 16:55 | [The latest AI news we announced in January](https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/) | blog.google |
 | 2026-02-04 13:00 | [Unlocking the Codex harness: how we built the App Server](https://openai.com/index/unlocking-the-codex-harness) | openai.com |
@@ -61,8 +61,8 @@
 | 2026-01-29 17:00 | [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/) | blog.google |
 | 2026-01-29 15:00 | [Hear more about interactive world models in our latest podcast.](https://blog.google/innovation-and-ai/technology/ai/release-notes-podcast-project-genie/) | blog.google |
 | 2026-01-29 10:00 | [Inside OpenAI’s in-house data agent](https://openai.com/index/inside-our-in-house-data-agent) | openai.com |
-| 2026-01-29 00:00 | [Taisei Corporation shapes the next generation of talent with ChatGPT](https://openai.com/index/taisei) | openai.com |
 | 2026-01-29 00:00 | [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models) | openai.com |
+| 2026-01-29 00:00 | [Taisei Corporation shapes the next generation of talent with ChatGPT](https://openai.com/index/taisei) | openai.com |
 | 2026-01-28 01:00 | [The next chapter for AI in the EU](https://openai.com/index/the-next-chapter-for-ai-in-the-eu) | openai.com |
 | 2026-01-28 01:00 | [EMEA Youth & Wellbeing Grant](https://openai.com/index/emea-youth-and-wellbeing-grant) | openai.com |
 | 2026-01-28 00:00 | [Keeping your data safe when an AI agent clicks a link](https://openai.com/index/ai-agent-link-safety) | openai.com |
@@ -78,41 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Ftambo-ai%2Ftambo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:815634288,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ftambo-ai%2Ftambo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:815634288,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        tambo-ai /
-
-      tambo  
-
-    
-      Generative UI SDK for React |
-| 2 | [login?return_to=%2FSynkraAI%2Faios-core" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1113140733,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FSynkraAI%2Faios-core" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1113140733,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        SynkraAI /
-
-      aios-core  
-
-    
-      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
-| 3 | [login?return_to=%2Frowboatlabs%2Frowboat" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:916009087,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Frowboatlabs%2Frowboat" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:916009087,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2Frowboatlabs%2Frowboat" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:916009087,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Frowboatlabs%2Frowboat" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:916009087,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -129,7 +95,20 @@
 
     
       Open-source AI coworker, with memory |
-| 4 | [login?return_to=%2FZipstack%2Funstract" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:761150311,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FZipstack%2Funstract" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:761150311,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [sponsors/openclaw](https://github.com/sponsors/openclaw) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
 
 
   
@@ -140,13 +119,13 @@
 
 
       
-        Zipstack /
+        openclaw /
 
-      unstract  
+      openclaw  
 
     
-      No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents |
-| 5 | [login?return_to=%2Fletta-ai%2Fletta-code" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1082960574,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fletta-ai%2Fletta-code" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1082960574,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| 3 | [login?return_to=%2Fmoonshine-ai%2Fmoonshine" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:867866058,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmoonshine-ai%2Fmoonshine" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:867866058,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -157,12 +136,29 @@
 
 
       
-        letta-ai /
+        moonshine-ai /
 
-      letta-code  
+      moonshine  
 
     
-      The memory-first coding agent |
+      Fast and accurate automatic speech recognition (ASR) for edge devices |
+| 4 | [login?return_to=%2FSynkraAI%2Faios-core" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1113140733,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FSynkraAI%2Faios-core" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1113140733,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        SynkraAI /
+
+      aios-core  
+
+    
+      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -312,6 +308,36 @@
 
     
       A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| 7 | [sponsors/danielmiessler](https://github.com/sponsors/danielmiessler) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        danielmiessler /
+
+      Personal_AI_Infrastructure  
+
+    
+      Agentic AI Infrastructure for magnifying HUMAN capabilities. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
