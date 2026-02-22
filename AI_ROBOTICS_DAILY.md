@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-02-21 03:38 UTC）
+# AI & 机器人 技术热点日报（2026-02-22 03:57 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
+| 2026-02-21 14:00 | [Visual drone detection moves into critical infrastructure playbooks](https://www.therobotreport.com/visual-drone-detection-moves-into-critical-infrastructure-playbooks/) | www.therobotreport.com |
 | 2026-02-21 00:40 | [Ghost Robotics: Innovating for safety](https://www.therobotreport.com/ghost-robotics-innovating-for-safety/) | www.therobotreport.com |
 | 2026-02-20 18:19 | [NORD releases digital twin simulation platform for robotics developers](https://www.therobotreport.com/nord-releases-digital-twin-simulation-platform-robotics-development/) | www.therobotreport.com |
 | 2026-02-20 14:47 | [Amazon Robotics shuts down Blue Jay sortation project](https://www.therobotreport.com/amazon-robotics-shuts-down-blue-jay-sortation-project/) | www.therobotreport.com |
 | 2026-02-20 14:30 | [Our First Proof submissions](https://openai.com/index/first-proof-submissions) | openai.com |
-| 2026-02-20 05:00 | [AIdentifyAGE Ontology for Decision Support in Forensic Dental Age Assessment](https://arxiv.org/abs/2602.16714) | export.arxiv.org |
-| 2026-02-20 05:00 | [Retrieval Augmented (Knowledge Graph), and Large Language Model-Driven Design Structure Matrix (DSM) Generation of Cyber-Physical Systems](https://arxiv.org/abs/2602.16715) | export.arxiv.org |
-| 2026-02-20 05:00 | [Contextuality from Single-State Representations: An Information-Theoretic Principle for Adaptive Intelligence](https://arxiv.org/abs/2602.16716) | export.arxiv.org |
-| 2026-02-20 05:00 | [Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation](https://arxiv.org/abs/2602.16727) | export.arxiv.org |
-| 2026-02-20 05:00 | [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://arxiv.org/abs/2602.16763) | export.arxiv.org |
-| 2026-02-20 05:00 | [Simple Baselines are Competitive with Code Evolution](https://arxiv.org/abs/2602.16805) | export.arxiv.org |
-| 2026-02-20 05:00 | [Improved Upper Bounds for Slicing the Hypercube](https://arxiv.org/abs/2602.16807) | export.arxiv.org |
-| 2026-02-20 05:00 | [NeuDiff Agent: A Governed AI Workflow for Single-Crystal Neutron Crystallography](https://arxiv.org/abs/2602.16812) | export.arxiv.org |
-| 2026-02-20 05:00 | [Node Learning: A Framework for Adaptive, Decentralised and Collaborative Network Edge AI](https://arxiv.org/abs/2602.16814) | export.arxiv.org |
-| 2026-02-20 05:00 | [An order-oriented approach to scoring hesitant fuzzy elements](https://arxiv.org/abs/2602.16827) | export.arxiv.org |
-| 2026-02-20 05:00 | [IndicJR: A Judge-Free Benchmark of Jailbreak Robustness in South Asian Languages](https://arxiv.org/abs/2602.16832) | export.arxiv.org |
-| 2026-02-20 05:00 | [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://arxiv.org/abs/2602.16855) | export.arxiv.org |
-| 2026-02-20 05:00 | [OpenSage: Self-programming Agent Generation Engine](https://arxiv.org/abs/2602.16891) | export.arxiv.org |
-| 2026-02-20 05:00 | [AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](https://arxiv.org/abs/2602.16901) | export.arxiv.org |
-| 2026-02-20 05:00 | [LLM-WikiRace: Benchmarking Long-term Planning and Reasoning over Real-World Knowledge Graphs](https://arxiv.org/abs/2602.16902) | export.arxiv.org |
-| 2026-02-20 05:00 | [Narrow fine-tuning erodes safety alignment in vision-language agents](https://arxiv.org/abs/2602.16931) | export.arxiv.org |
-| 2026-02-20 05:00 | [DeepContext: Stateful Real-Time Detection of Multi-Turn Adversarial Intent Drift in LLMs](https://arxiv.org/abs/2602.16935) | export.arxiv.org |
-| 2026-02-20 05:00 | [SourceBench: Can AI Answers Reference Quality Web Sources?](https://arxiv.org/abs/2602.16942) | export.arxiv.org |
-| 2026-02-20 05:00 | [Mind the GAP: Text Safety Does Not Transfer to Tool-Call Safety in LLM Agents](https://arxiv.org/abs/2602.16943) | export.arxiv.org |
-| 2026-02-20 05:00 | [LLM4Cov: Execution-Aware Agentic Learning for High-coverage Testbench Generation](https://arxiv.org/abs/2602.16953) | export.arxiv.org |
-| 2026-02-20 05:00 | [Automating Agent Hijacking via Structural Template Injection](https://arxiv.org/abs/2602.16958) | export.arxiv.org |
-| 2026-02-20 05:00 | [HQFS: Hybrid Quantum Classical Financial Security with VQC Forecasting, QUBO Annealing, and Audit-Ready Post-Quantum Signing](https://arxiv.org/abs/2602.16976) | export.arxiv.org |
-| 2026-02-20 05:00 | [Fundamental Limits of Black-Box Safety Evaluation: Information-Theoretic and Computational Barriers from Latent Context Conditioning](https://arxiv.org/abs/2602.16984) | export.arxiv.org |
-| 2026-02-20 05:00 | [Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation](https://arxiv.org/abs/2602.16990) | export.arxiv.org |
-| 2026-02-20 05:00 | [Sonar-TS: Search-Then-Verify Natural Language Querying for Time Series Databases](https://arxiv.org/abs/2602.17001) | export.arxiv.org |
-| 2026-02-20 05:00 | [Cinder: A fast and fair matchmaking system](https://arxiv.org/abs/2602.17015) | export.arxiv.org |
-| 2026-02-20 05:00 | [M2F: Automated Formalization of Mathematical Literature at Scale](https://arxiv.org/abs/2602.17016) | export.arxiv.org |
-| 2026-02-20 05:00 | [Sales Research Agent and Sales Research Bench](https://arxiv.org/abs/2602.17017) | export.arxiv.org |
-| 2026-02-20 05:00 | [Phase-Aware Mixture of Experts for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.17038) | export.arxiv.org |
-| 2026-02-20 05:00 | [Dynamic System Instructions and Tool Exposure for Efficient Agentic LLMs](https://arxiv.org/abs/2602.17046) | export.arxiv.org |
-| 2026-02-20 05:00 | [IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents](https://arxiv.org/abs/2602.17049) | export.arxiv.org |
-| 2026-02-20 05:00 | [RFEval: Benchmarking Reasoning Faithfulness under Counterfactual Reasoning Intervention in Large Reasoning Models](https://arxiv.org/abs/2602.17053) | export.arxiv.org |
-| 2026-02-20 05:00 | [Retaining Suboptimal Actions to Follow Shifting Optima in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2602.17062) | export.arxiv.org |
-| 2026-02-20 05:00 | [Predictive Batch Scheduling: Accelerating Language Model Training Through Loss-Aware Sample Prioritization](https://arxiv.org/abs/2602.17066) | export.arxiv.org |
-| 2026-02-20 05:00 | [How AI Coding Agents Communicate: A Study of Pull Request Description Characteristics and Human Review Responses](https://arxiv.org/abs/2602.17084) | export.arxiv.org |
-| 2026-02-20 05:00 | [Agentic Wireless Communication for 6G: Intent-Aware and Continuously Evolving Physical-Layer Intelligence](https://arxiv.org/abs/2602.17096) | export.arxiv.org |
-| 2026-02-20 05:00 | [Toward Trustworthy Evaluation of Sustainability Rating Methodologies: A Human-AI Collaborative Framework for Benchmark Dataset Construction](https://arxiv.org/abs/2602.17106) | export.arxiv.org |
-| 2026-02-20 05:00 | [Owen-based Semantics and Hierarchy-Aware Explanation (O-Shap)](https://arxiv.org/abs/2602.17107) | export.arxiv.org |
-| 2026-02-20 05:00 | [Instructor-Aligned Knowledge Graphs for Personalized Learning](https://arxiv.org/abs/2602.17111) | export.arxiv.org |
-| 2026-02-20 05:00 | [Epistemology of Generative AI: The Geometry of Knowing](https://arxiv.org/abs/2602.17116) | export.arxiv.org |
-| 2026-02-20 05:00 | [ICP-Based Pallet Tracking for Unloading on Inclined Surfaces by Autonomous Forklifts](https://arxiv.org/abs/2602.16744) | export.arxiv.org |
-| 2026-02-20 05:00 | [Smooth trajectory generation and hybrid B-splines-Quaternions based tool path interpolation for a 3T1R parallel kinematic milling robot](https://arxiv.org/abs/2602.16758) | export.arxiv.org |
-| 2026-02-20 05:00 | [RRT$^\eta$: Sampling-based Motion Planning and Control from STL Specifications using Arithmetic-Geometric Mean Robustness](https://arxiv.org/abs/2602.16825) | export.arxiv.org |
-| 2026-02-20 05:00 | [Sound of Touch: Active Acoustic Tactile Sensing via String Vibrations](https://arxiv.org/abs/2602.16846) | export.arxiv.org |
-| 2026-02-20 05:00 | ["Hello, I'm Delivering. Let Me Pass By": Navigating Public Pathways with Walk-along with Robots in Crowded City Streets](https://arxiv.org/abs/2602.16861) | export.arxiv.org |
-| 2026-02-20 05:00 | [SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation](https://arxiv.org/abs/2602.16863) | export.arxiv.org |
-| 2026-02-20 05:00 | [Boreas Road Trip: A Multi-Sensor Autonomous Driving Dataset on Challenging Roads](https://arxiv.org/abs/2602.16870) | export.arxiv.org |
-| 2026-02-20 05:00 | [MALLVI: a multi agent framework for integrated generalized robotics manipulation](https://arxiv.org/abs/2602.16898) | export.arxiv.org |
-| 2026-02-20 05:00 | [SparTa: Sparse Graphical Task Models from a Handful of Demonstrations](https://arxiv.org/abs/2602.16911) | export.arxiv.org |
-| 2026-02-20 05:00 | [Benchmarking the Effects of Object Pose Estimation and Reconstruction on Robotic Grasping Success](https://arxiv.org/abs/2602.17101) | export.arxiv.org |
-| 2026-02-20 05:00 | [Grasp Synthesis Matching From Rigid To Soft Robot Grippers Using Conditional Flow Matching](https://arxiv.org/abs/2602.17110) | export.arxiv.org |
-| 2026-02-20 05:00 | [Physical Human-Robot Interaction for Grasping in Augmented Reality via Rigid-Soft Robot Synergy](https://arxiv.org/abs/2602.17128) | export.arxiv.org |
-| 2026-02-20 05:00 | [Geometric Inverse Flight Dynamics on SO(3) and Application to Tethered Fixed-Wing Aircraft](https://arxiv.org/abs/2602.17166) | export.arxiv.org |
-| 2026-02-20 05:00 | [Nonlinear Predictive Control of the Continuum and Hybrid Dynamics of a Suspended Deformable Cable for Aerial Pick and Place](https://arxiv.org/abs/2602.17199) | export.arxiv.org |
-| 2026-02-20 05:00 | [Multi-session Localization and Mapping Exploiting Topological Information](https://arxiv.org/abs/2602.17226) | export.arxiv.org |
-| 2026-02-20 05:00 | [FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment](https://arxiv.org/abs/2602.17259) | export.arxiv.org |
+| 2026-02-19 14:00 | [Toyota Motor Manufacturing Canada to deploy Agility Robotics’ Digit humanoids](https://www.therobotreport.com/toyota-motor-manufacturing-canada-deploys-agility-robotics-digit-humanoids/) | www.therobotreport.com |
+| 2026-02-19 13:13 | [NVIDIA adds Cosmos Policy to its world foundation models](https://www.therobotreport.com/nvidia-adds-cosmos-policy-world-foundation-models/) | www.therobotreport.com |
+| 2026-02-19 10:00 | [Advancing independent research on AI alignment](https://openai.com/index/advancing-independent-research-ai-alignment) | openai.com |
+| 2026-02-19 04:30 | [“No technology has me dreaming bigger than AI”](https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/) | blog.google |
+| 2026-02-19 04:30 | [AI Impact Summit 2026](https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/) | blog.google |
+| 2026-02-18 21:00 | [Introducing OpenAI for India](https://openai.com/index/openai-for-india) | openai.com |
+| 2026-02-18 20:55 | [Ottonomy builds Ottumn.AI platform to orchestrate robots, drones, and smart infrastructure](https://www.therobotreport.com/ottonomy-builds-ottumn-ai-platform-to-orchestrate-robots-drones-and-smart-infrastructure/) | www.therobotreport.com |
+| 2026-02-18 18:08 | [igus launches new RBTX online shopping experience for robotics developers](https://www.therobotreport.com/igus-launches-new-rbtx-online-shopping-experience-robotics-developers/) | www.therobotreport.com |
+| 2026-02-18 16:34 | [Mitsubishi Electric follows digital-first strategy for advanced air mobility](https://www.therobotreport.com/mitsubishi-electric-follows-digital-first-strategy-for-drone-management/) | www.therobotreport.com |
+| 2026-02-18 16:00 | [A new way to express yourself: Gemini can now create music](https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/) | blog.google |
+| 2026-02-18 15:00 | [Tech Is Taking Over Olympic Curling](https://spectrum.ieee.org/olympics-curling-robot-ai) | spectrum.ieee.org |
+| 2026-02-18 10:30 | [AI Impact Summit 2026: How we’re partnering to make AI work for everyone](https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/) | blog.google |
+| 2026-02-17 23:54 | [Medtronic earns FDA clearance for Stealth AXiS spinal surgery system](https://www.therobotreport.com/medtronic-earns-fda-clearance-for-stealth-axis-spinal-surgery-system/) | www.therobotreport.com |
+| 2026-02-17 22:30 | [Our 2026 Responsible AI Progress Report](https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/) | blog.google |
+| 2026-02-17 22:20 | [IFR releases position paper on AI in robotics](https://www.therobotreport.com/ifr-releases-position-paper-ai-robotics/) | www.therobotreport.com |
+| 2026-02-17 18:31 | [ARM Institute opens project call for military supply chain technology](https://www.therobotreport.com/arm-institute-opens-project-call-for-military-supply-chain-technology/) | www.therobotreport.com |
+| 2026-02-16 15:05 | [How motor design enables different types of robots](https://www.therobotreport.com/how-motor-design-enables-different-types-of-robots/) | www.therobotreport.com |
+| 2026-02-16 13:30 | [The keys to designing safe and shared cobot workspaces](https://www.therobotreport.com/keys-designing-safe-shared-cobot-workspaces/) | www.therobotreport.com |
+| 2026-02-15 13:34 | [High-precision robots: What to do when absolute accuracy is poor?](https://www.therobotreport.com/high-precision-robots-what-to-do-when-absolute-accuracy-is-poor/) | www.therobotreport.com |
+| 2026-02-13 16:30 | [Video Friday: Robot Collective Stays Alive Even When Parts Die](https://spectrum.ieee.org/video-friday-robot-collective) | spectrum.ieee.org |
+| 2026-02-13 11:00 | [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics) | openai.com |
+| 2026-02-13 10:00 | [Introducing Lockdown Mode and Elevated Risk labels in ChatGPT](https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt) | openai.com |
+| 2026-02-13 09:00 | [Scaling social science research](https://openai.com/index/scaling-social-science-research) | openai.com |
+| 2026-02-13 09:00 | [Beyond rate limits: scaling access to Codex and Sora](https://openai.com/index/beyond-rate-limits) | openai.com |
+| 2026-02-12 16:13 | [Gemini 3 Deep Think: Advancing science, research and engineering](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/) | blog.google |
+| 2026-02-12 10:00 | [Introducing GPT-5.3-Codex-Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark) | openai.com |
+| 2026-02-11 09:00 | [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering) | openai.com |
+| 2026-02-10 17:00 | [9 fun questions to try asking Google Photos](https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/) | blog.google |
+| 2026-02-10 02:30 | [Helping kids and teens learn and grow online on Safer Internet Day](https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/) | blog.google |
+| 2026-02-09 11:00 | [Bringing ChatGPT to GenAI.mil](https://openai.com/index/bringing-chatgpt-to-genaimil) | openai.com |
+| 2026-02-09 11:00 | [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) | openai.com |
+| 2026-02-06 17:00 | [Video Friday: Autonomous Robots Learn By Doing in This Factory](https://spectrum.ieee.org/autonomous-warehouse-robots) | spectrum.ieee.org |
+| 2026-02-06 10:00 | [Making AI work for everyone, everywhere: our approach to localization](https://openai.com/index/our-approach-to-localization) | openai.com |
+| 2026-02-05 17:00 | [Natively Adaptive Interfaces: A new framework for AI accessibility](https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/) | blog.google |
+| 2026-02-05 16:00 | [How Google Cloud is helping Team USA elevate their tricks with AI](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/) | blog.google |
+| 2026-02-05 14:30 | [Watch our new Gemini ad ahead of football’s biggest weekend](https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/) | blog.google |
+| 2026-02-05 11:00 | [GPT-5 lowers the cost of cell-free protein synthesis](https://openai.com/index/gpt-5-lowers-protein-synthesis-cost) | openai.com |
+| 2026-02-05 10:00 | [Introducing Trusted Access for Cyber](https://openai.com/index/trusted-access-for-cyber) | openai.com |
+| 2026-02-05 06:00 | [Introducing OpenAI Frontier](https://openai.com/index/introducing-openai-frontier) | openai.com |
+| 2026-02-05 00:00 | [GPT-5.3-Codex System Card](https://openai.com/index/gpt-5-3-codex-system-card) | openai.com |
+| 2026-02-05 00:00 | [Navigating health questions with ChatGPT](https://openai.com/index/navigating-health-questions) | openai.com |
+| 2026-02-05 00:00 | [Introducing GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex) | openai.com |
+| 2026-02-04 16:55 | [The latest AI news we announced in January](https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/) | blog.google |
+| 2026-02-04 13:00 | [Unlocking the Codex harness: how we built the App Server](https://openai.com/index/unlocking-the-codex-harness) | openai.com |
+| 2026-02-04 00:00 | [VfL Wolfsburg turns ChatGPT into a club-wide capability](https://openai.com/index/vfl-wolfsburg) | openai.com |
+| 2026-02-03 00:00 | [The Sora feed philosophy](https://openai.com/index/sora-feed-philosophy) | openai.com |
+| 2026-02-02 18:00 | [How we’re helping preserve the genetic information of endangered species with AI](https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/) | blog.google |
+| 2026-02-02 17:00 | [Advancing AI benchmarking with Game Arena](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/) | blog.google |
+| 2026-02-02 06:00 | [Snowflake and OpenAI partner to bring frontier intelligence to enterprise data](https://openai.com/index/snowflake-partnership) | openai.com |
+| 2026-02-02 00:00 | [Introducing the Codex app](https://openai.com/index/introducing-the-codex-app) | openai.com |
+| 2026-01-30 19:02 | [Ode to Very Small Devices](https://spectrum.ieee.org/poetry-for-engineers-ode) | spectrum.ieee.org |
+| 2026-01-30 18:30 | [Video Friday: Multitasking Robots Smoothly Do the Things Together](https://spectrum.ieee.org/multitasking-robot) | spectrum.ieee.org |
+| 2026-01-29 17:00 | [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/) | blog.google |
+| 2026-01-29 15:00 | [Hear more about interactive world models in our latest podcast.](https://blog.google/innovation-and-ai/technology/ai/release-notes-podcast-project-genie/) | blog.google |
+| 2026-01-29 10:00 | [Inside OpenAI’s in-house data agent](https://openai.com/index/inside-our-in-house-data-agent) | openai.com |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -95,7 +95,7 @@
 
     
       ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
-| 2 | [login?return_to=%2FPostHog%2Fposthog" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:235901813,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FPostHog%2Fposthog" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:235901813,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fggml-org%2Fggml" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:538180525,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fggml-org%2Fggml" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:538180525,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -106,13 +106,13 @@
 
 
       
-        PostHog /
+        ggml-org /
 
-      posthog  
+      ggml  
 
     
-      🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
-| 3 | [login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      Tensor library for machine learning |
+| 3 | [login?return_to=%2FRichardAtCT%2Fclaude-code-telegram" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:997485797,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FRichardAtCT%2Fclaude-code-telegram" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:997485797,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -123,13 +123,13 @@
 
 
       
-        google-research /
+        RichardAtCT /
 
-      timesfm  
+      claude-code-telegram  
 
     
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
-| 4 | [login?return_to=%2Fdatabricks-solutions%2Fai-dev-kit" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1117894769,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fdatabricks-solutions%2Fai-dev-kit" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1117894769,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence. |
+| 4 | [login?return_to=%2Fcloudflare%2Fagents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:924394244,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcloudflare%2Fagents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:924394244,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -140,29 +140,12 @@
 
 
       
-        databricks-solutions /
+        cloudflare /
 
-      ai-dev-kit  
-
-    
-      Databricks Toolkit for Coding Agents provided by Field Engineering |
-| 5 | [login?return_to=%2FComposioHQ%2Fcomposio" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:762304524,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FComposioHQ%2Fcomposio" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:762304524,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        ComposioHQ /
-
-      composio  
+      agents  
 
     
-      Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. |
+      Build and deploy AI Agents on Cloudflare |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -171,24 +154,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Frowboatlabs%2Frowboat" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:916009087,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Frowboatlabs%2Frowboat" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:916009087,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        rowboatlabs /
-
-      rowboat  
-
-    
-      Open-source AI coworker, with memory |
-| 2 | [login?return_to=%2FSynkraAI%2Faios-core" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1113140733,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FSynkraAI%2Faios-core" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1113140733,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2FSynkraAI%2Faios-core" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1113140733,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FSynkraAI%2Faios-core" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1113140733,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -205,20 +171,7 @@
 
     
       Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
-| 3 | [sponsors/badlogic](https://github.com/sponsors/badlogic) | Sponsor
-    
-  
-
-
-
-      
-            
-    
-
-    
-
-        
-          Star
+| 2 | [login?return_to=%2Frowboatlabs%2Frowboat" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:916009087,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Frowboatlabs%2Frowboat" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:916009087,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -229,12 +182,29 @@
 
 
       
-        badlogic /
+        rowboatlabs /
 
-      pi-mono  
+      rowboat  
 
     
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods |
+      Open-source AI coworker, with memory |
+| 3 | [login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        google-research /
+
+      timesfm  
+
+    
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
