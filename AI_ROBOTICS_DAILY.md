@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-03-09 03:56 UTC）
+# AI & 机器人 技术热点日报（2026-03-10 03:40 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
-| 2026-03-07 14:00 | [Humanoid developer Agility Robotics rebrands](https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/) | www.therobotreport.com |
-| 2026-03-06 23:34 | [Plug-and-Play AI: Transforming robotics with modular skills](https://www.therobotreport.com/plug-and-play-ai-transforming-robotics-with-modular-skills/) | www.therobotreport.com |
-| 2026-03-06 20:06 | [Simbe Tally shelf-scanning robot achieves UL 3300 certification](https://www.therobotreport.com/simbe-tally-shelf-scanning-robot-achieves-ul-3300-certification/) | www.therobotreport.com |
-| 2026-03-06 18:00 | [How our open-source AI model SpeciesNet is helping to promote wildlife conservation](https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/) | blog.google |
-| 2026-03-06 16:00 | [Video Friday: A Robot Hand With Artificial Muscles and Tendons](https://spectrum.ieee.org/video-friday-robot-hand-artificial-muscles) | spectrum.ieee.org |
-| 2026-03-06 10:00 | [How Descript enables multilingual video dubbing at scale](https://openai.com/index/descript) | openai.com |
-| 2026-03-06 10:00 | [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview) | openai.com |
-| 2026-03-06 07:00 | [How Balyasny Asset Management built an AI research engine for investing](https://openai.com/index/balyasny-asset-management) | openai.com |
-| 2026-03-05 22:49 | [Vicarious Surgical faces NYSE delisting again](https://www.therobotreport.com/vicarious-surgical-faces-nyse-delisting-again/) | www.therobotreport.com |
-| 2026-03-05 21:58 | [11 women shaping the future of robotics](https://www.therobotreport.com/11-women-shaping-the-future-of-robotics/) | www.therobotreport.com |
-| 2026-03-05 20:37 | [Tesollo and Techman Robot unveil robot for high-mix, low-volume production](https://www.therobotreport.com/tesollo-techman-robot-unveil-robot-high-mix-low-volume-production/) | www.therobotreport.com |
-| 2026-03-05 19:29 | [Dexterity unveils Foresight world model for truck loading](https://www.therobotreport.com/dexterity-unveils-foresight-world-model-for-truck-loading/) | www.therobotreport.com |
-| 2026-03-05 18:00 | [Ask a Techspert: How does AI understand my visual searches?](https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/) | blog.google |
-| 2026-03-05 16:30 | [The latest AI news we announced in February](https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/) | blog.google |
-| 2026-03-05 10:00 | [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card) | openai.com |
-| 2026-03-05 10:00 | [Reasoning models struggle to control their chains of thought, and that’s good](https://openai.com/index/reasoning-models-chain-of-thought-controllability) | openai.com |
-| 2026-03-05 10:00 | [Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4) | openai.com |
-| 2026-03-05 09:00 | [Ensuring AI use in education leads to opportunity](https://openai.com/index/ai-education-opportunity) | openai.com |
-| 2026-03-05 00:00 | [Introducing the Adoption news channel](https://openai.com/index/introducing-the-adoption-news-channel) | openai.com |
-| 2026-03-05 00:00 | [Introducing ChatGPT for Excel and new financial data integrations](https://openai.com/index/chatgpt-for-excel) | openai.com |
-| 2026-03-05 00:00 | [The five AI value models driving business reinvention](https://openai.com/index/the-five-ai-value-models-driving-business-reinvention) | openai.com |
-| 2026-03-04 21:34 | [MassRobotics resident startups surpass $2B in funding](https://www.therobotreport.com/massrobotics-resident-startups-surpass-2b-in-funding/) | www.therobotreport.com |
-| 2026-03-04 20:33 | [AW 2026 features Korea humanoid debuts as industry seeks digital transformation](https://www.therobotreport.com/aw-2026-features-korea-humanoid-debuts-industry-seeks-digital-transformation/) | www.therobotreport.com |
-| 2026-03-04 19:43 | [Noble Machines exits stealth with Moby humanoid](https://www.therobotreport.com/noble-machines-exits-stealth-with-moby-humanoid/) | www.therobotreport.com |
-| 2026-03-04 17:00 | [Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.](https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/) | blog.google |
-| 2026-03-04 10:00 | [Extending single-minus amplitudes to gravitons](https://openai.com/index/extending-single-minus-amplitudes-to-gravitons) | openai.com |
-| 2026-03-04 01:55 | [Waymo robotaxi fails to stop for school bus in Austin](https://www.therobotreport.com/waymo-robotaxi-fails-to-stop-for-school-bus-in-austin-texas/) | www.therobotreport.com |
-| 2026-03-04 00:00 | [How Axios uses AI to help deliver high-impact local journalism](https://openai.com/index/axios-allison-murphy) | openai.com |
-| 2026-03-04 00:00 | [Understanding AI and learning outcomes](https://openai.com/index/understanding-ai-and-learning-outcomes) | openai.com |
-| 2026-03-03 20:48 | [HEBI wins NASA SBIR to build space robot actuators](https://www.therobotreport.com/hebi-wins-nasa-sbir-to-build-space-robot-actuators/) | www.therobotreport.com |
-| 2026-03-03 17:00 | [Create new worlds in Project Genie with these 4 tips](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/) | blog.google |
-| 2026-03-03 16:34 | [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/) | blog.google |
-| 2026-03-03 10:00 | [GPT-5.3 Instant System Card](https://openai.com/index/gpt-5-3-instant-system-card) | openai.com |
-| 2026-03-03 10:00 | [GPT-5.3 Instant: Smoother, more useful everyday conversations](https://openai.com/index/gpt-5-3-instant) | openai.com |
-| 2026-03-02 22:00 | [NORD adds 112 frame size to IE5+ synchronous motor line](https://www.therobotreport.com/nord-adds-112-frame-size-to-ie5-synchronous-motor-line/) | www.therobotreport.com |
-| 2026-03-02 21:38 | [Intuitive buys European surgical robot distributors](https://www.therobotreport.com/intuitive-buys-european-surgical-robot-distributors/) | www.therobotreport.com |
-| 2026-03-02 19:19 | [6 lessons I learned watching a robotics startup die from the inside](https://www.therobotreport.com/6-lessons-learned-watching-a-robotics-startup-die-from-the-inside/) | www.therobotreport.com |
-| 2026-03-02 12:00 | [What Military Drones Can Teach Self-Driving Cars](https://spectrum.ieee.org/military-drones-self-driving-cars) | spectrum.ieee.org |
-| 2026-02-28 12:30 | [Our agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war) | openai.com |
-| 2026-02-27 18:00 | [Video Friday: Robot Dogs Haul Produce From the Field](https://spectrum.ieee.org/quadruped-farming-robots) | spectrum.ieee.org |
-| 2026-02-27 05:30 | [OpenAI and Amazon announce strategic partnership](https://openai.com/index/amazon-partnership) | openai.com |
-| 2026-02-27 05:30 | [Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock](https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock) | openai.com |
-| 2026-02-27 05:30 | [Joint Statement from OpenAI and Microsoft](https://openai.com/index/continuing-microsoft-partnership) | openai.com |
-| 2026-02-27 05:30 | [Scaling AI for everyone](https://openai.com/index/scaling-ai-for-everyone) | openai.com |
-| 2026-02-27 00:00 | [An update on our mental health-related work](https://openai.com/index/update-on-mental-health-related-work) | openai.com |
-| 2026-02-26 18:55 | [Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.](https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/) | blog.google |
-| 2026-02-26 18:00 | [Get more context and understand translations more deeply with new AI-powered updates in Translate.](https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/) | blog.google |
-| 2026-02-26 16:00 | [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/) | blog.google |
-| 2026-02-26 16:00 | [Build with Nano Banana 2, our best image generation and editing model](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/) | blog.google |
-| 2026-02-26 10:00 | [Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting](https://openai.com/index/pacific-northwest-national-laboratory) | openai.com |
-| 2026-02-26 06:00 | [OpenAI Codex and Figma launch seamless code-to-design experience](https://openai.com/index/figma-partnership) | openai.com |
-| 2026-02-25 18:00 | [A more intelligent Android on Samsung Galaxy S26](https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/) | blog.google |
-| 2026-02-25 18:00 | [See the whole picture and find the look with Circle to Search](https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/) | blog.google |
-| 2026-02-25 17:00 | [Ask a Techspert: What’s a world model?](https://blog.google/company-news/inside-google/googlers/ask-a-techspert/what-is-a-world-model-project-genie/) | blog.google |
-| 2026-02-25 15:00 | [Perseverance Smashes Autonomous Driving Record on Mars](https://spectrum.ieee.org/perseverance-mars-rover-autonomous-driving) | spectrum.ieee.org |
-| 2026-02-25 00:00 | [Disrupting malicious uses of AI / February 2026](https://openai.com/index/disrupting-malicious-ai-uses) | openai.com |
-| 2026-02-24 13:40 | [Arvind KC appointed Chief People Officer](https://openai.com/index/arvind-kc-chief-people-officer) | openai.com |
-| 2026-02-23 11:00 | [Why we no longer evaluate SWE-bench Verified](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified) | openai.com |
-| 2026-02-23 05:30 | [OpenAI announces Frontier Alliance Partners](https://openai.com/index/frontier-alliance-partners) | openai.com |
-| 2026-02-20 18:00 | [Video Friday: Humanoid Robots Celebrate Spring](https://spectrum.ieee.org/robot-martial-arts) | spectrum.ieee.org |
+| 2026-03-09 20:20 | [PlusAI launches its upgraded autonomous driver for freight operations](https://www.therobotreport.com/plusai-launches-its-upgraded-autonomous-driver-for-freight-operations/) | www.therobotreport.com |
+| 2026-03-09 17:22 | [ABB boosts RobotStudio with NVIDIA Omniverse libraries](https://www.therobotreport.com/abb-boosts-robotstudio-with-nvidia-omniverse-libraries/) | www.therobotreport.com |
+| 2026-03-09 17:20 | [OpenAI robotics head resigns over Pentagon deal](https://www.therobotreport.com/openai-robotics-head-resigns-over-pentagon-deal/) | www.therobotreport.com |
+| 2026-03-09 10:00 | [OpenAI to acquire Promptfoo](https://openai.com/index/openai-to-acquire-promptfoo) | openai.com |
+| 2026-03-09 04:00 | [RoboLayout: Differentiable 3D Scene Generation for Embodied Agents](https://arxiv.org/abs/2603.05522) | export.arxiv.org |
+| 2026-03-09 04:00 | [Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum](https://arxiv.org/abs/2603.05614) | export.arxiv.org |
+| 2026-03-09 04:00 | [Reasoning Models Struggle to Control their Chains of Thought](https://arxiv.org/abs/2603.05706) | export.arxiv.org |
+| 2026-03-09 04:00 | [Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery](https://arxiv.org/abs/2603.05860) | export.arxiv.org |
+| 2026-03-09 04:00 | [The World Won't Stay Still: Programmable Evolution for Agent Benchmarks](https://arxiv.org/abs/2603.05910) | export.arxiv.org |
+| 2026-03-09 04:00 | [DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality](https://arxiv.org/abs/2603.05912) | export.arxiv.org |
+| 2026-03-09 04:00 | [An Interactive Multi-Agent System for Evaluation of New Product Concepts](https://arxiv.org/abs/2603.05980) | export.arxiv.org |
+| 2026-03-09 04:00 | [Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation](https://arxiv.org/abs/2603.06064) | export.arxiv.org |
+| 2026-03-09 04:00 | [Aggregative Semantics for Quantitative Bipolar Argumentation Frameworks](https://arxiv.org/abs/2603.06067) | export.arxiv.org |
+| 2026-03-09 04:00 | [Offline Materials Optimization with CliqueFlowmer](https://arxiv.org/abs/2603.06082) | export.arxiv.org |
+| 2026-03-09 04:00 | [Conversational Demand Response: Bidirectional Aggregator-Prosumer Coordination through Agentic AI](https://arxiv.org/abs/2603.06217) | export.arxiv.org |
+| 2026-03-09 04:00 | [Artificial Intelligence for Climate Adaptation: Reinforcement Learning for Climate Change-Resilient Transport](https://arxiv.org/abs/2603.06278) | export.arxiv.org |
+| 2026-03-09 04:00 | [The EpisTwin: A Knowledge Graph-Grounded Neuro-Symbolic Architecture for Personal AI](https://arxiv.org/abs/2603.06290) | export.arxiv.org |
+| 2026-03-09 04:00 | [SAHOO: Safeguarded Alignment for High-Order Optimization Objectives in Recursive Self-Improvement](https://arxiv.org/abs/2603.06333) | export.arxiv.org |
+| 2026-03-09 04:00 | [Talk Freely, Execute Strictly: Schema-Gated Agentic AI for Flexible and Reproducible Scientific Workflows](https://arxiv.org/abs/2603.06394) | export.arxiv.org |
+| 2026-03-09 04:00 | [Boosting deep Reinforcement Learning using pretraining with Logical Options](https://arxiv.org/abs/2603.06565) | export.arxiv.org |
+| 2026-03-09 04:00 | [Can LLM Aid in Solving Constraints with Inductive Definitions?](https://arxiv.org/abs/2603.03668) | export.arxiv.org |
+| 2026-03-09 04:00 | [Exploring Human-in-the-Loop Themes in AI Application Development: An Empirical Thematic Analysis](https://arxiv.org/abs/2603.05510) | export.arxiv.org |
+| 2026-03-09 04:00 | [An Embodied Companion for Visual Storytelling](https://arxiv.org/abs/2603.05511) | export.arxiv.org |
+| 2026-03-09 04:00 | [From Toil to Thought: Designing for Strategic Exploration and Responsible AI in Systematic Literature Reviews](https://arxiv.org/abs/2603.05514) | export.arxiv.org |
+| 2026-03-09 04:00 | [Traversal-as-Policy: Log-Distilled Gated Behavior Trees as Externalized, Verifiable Policies for Safe, Robust, and Efficient Agents](https://arxiv.org/abs/2603.05517) | export.arxiv.org |
+| 2026-03-09 04:00 | [Molecular Representations for AI in Chemistry and Materials Science: An NLP Perspective](https://arxiv.org/abs/2603.05525) | export.arxiv.org |
+| 2026-03-09 04:00 | [Omni-C: Compressing Heterogeneous Modalities into a Single Dense Encoder](https://arxiv.org/abs/2603.05528) | export.arxiv.org |
+| 2026-03-09 04:00 | [Towards Neural Graph Data Management](https://arxiv.org/abs/2603.05529) | export.arxiv.org |
+| 2026-03-09 04:00 | [On the Reliability of AI Methods in Drug Discovery: Evaluation of Boltz-2 for Structure and Binding Affinity Prediction](https://arxiv.org/abs/2603.05532) | export.arxiv.org |
+| 2026-03-09 04:00 | [JAWS: Enhancing Long-term Rollout of Neural Operators via Spatially-Adaptive Jacobian Regularization](https://arxiv.org/abs/2603.05538) | export.arxiv.org |
+| 2026-03-09 04:00 | [VDCook:DIY video data cook your MLLMs](https://arxiv.org/abs/2603.05539) | export.arxiv.org |
+| 2026-03-09 04:00 | [Human-Data Interaction, Exploration, and Visualization in the AI Era: Challenges and Opportunities](https://arxiv.org/abs/2603.05542) | export.arxiv.org |
+| 2026-03-09 04:00 | [EigenData: A Self-Evolving Multi-Agent Platform for Function-Calling Data Synthesis, Auditing, and Repair](https://arxiv.org/abs/2603.05553) | export.arxiv.org |
+| 2026-03-09 04:00 | [Towards Efficient and Stable Ocean State Forecasting: A Continuous-Time Koopman Approach](https://arxiv.org/abs/2603.05560) | export.arxiv.org |
+| 2026-03-09 04:00 | [Model Change for Description Logic Concepts](https://arxiv.org/abs/2603.05562) | export.arxiv.org |
+| 2026-03-09 04:00 | [When AI Levels the Playing Field: Skill Homogenization, Asset Concentration, and Two Regimes of Inequality](https://arxiv.org/abs/2603.05565) | export.arxiv.org |
+| 2026-03-09 04:00 | [CBR-to-SQL: Rethinking Retrieval-based Text-to-SQL using Case-based Reasoning in the Healthcare Domain](https://arxiv.org/abs/2603.05569) | export.arxiv.org |
+| 2026-03-09 04:00 | [PRISM: Personalized Refinement of Imitation Skills for Manipulation via Human Instructions](https://arxiv.org/abs/2603.05574) | export.arxiv.org |
+| 2026-03-09 04:00 | [Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent](https://arxiv.org/abs/2603.05578) | export.arxiv.org |
+| 2026-03-09 04:00 | [Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility](https://arxiv.org/abs/2603.05581) | export.arxiv.org |
+| 2026-03-09 04:00 | [On the Value of Tokeniser Pretraining in Physics Foundation Models](https://arxiv.org/abs/2603.05598) | export.arxiv.org |
+| 2026-03-09 04:00 | [DreamCAD: Scaling Multi-modal CAD Generation using Differentiable Parametric Surfaces](https://arxiv.org/abs/2603.05607) | export.arxiv.org |
+| 2026-03-09 04:00 | [RACAS: Controlling Diverse Robots With a Single Agentic System](https://arxiv.org/abs/2603.05621) | export.arxiv.org |
+| 2026-03-09 04:00 | [Adversarial Batch Representation Augmentation for Batch Correction in High-Content Cellular Screening](https://arxiv.org/abs/2603.05622) | export.arxiv.org |
+| 2026-03-09 04:00 | [ProFocus: Proactive Perception and Focused Reasoning in Vision-and-Language Navigation](https://arxiv.org/abs/2603.05530) | export.arxiv.org |
+| 2026-03-09 04:00 | [Digital-Twin Losses for Lane-Compliant Trajectory Prediction at Urban Intersections](https://arxiv.org/abs/2603.05546) | export.arxiv.org |
+| 2026-03-09 04:00 | [TEGA: A Tactile-Enhanced Grasping Assistant for Assistive Robotics via Sensor Fusion and Closed-Loop Haptic Feedback](https://arxiv.org/abs/2603.05552) | export.arxiv.org |
+| 2026-03-09 04:00 | [Task Parameter Extrapolation via Learning Inverse Tasks from Forward Demonstrations](https://arxiv.org/abs/2603.05576) | export.arxiv.org |
+| 2026-03-09 04:00 | [Control Lyapunov Functions for Underactuated Soft Robots](https://arxiv.org/abs/2603.05638) | export.arxiv.org |
+| 2026-03-09 04:00 | [RFM-HRI : A Multimodal Dataset of Medical Robot Failure, User Reaction and Recovery Preferences for Item Retrieval Tasks](https://arxiv.org/abs/2603.05641) | export.arxiv.org |
+| 2026-03-09 04:00 | [Relational Semantic Reasoning on 3D Scene Graphs for Open World Interactive Object Search](https://arxiv.org/abs/2603.05642) | export.arxiv.org |
+| 2026-03-09 04:00 | [TransMASK: Masked State Representation through Learned Transformation](https://arxiv.org/abs/2603.05670) | export.arxiv.org |
+| 2026-03-09 04:00 | [Contact-Grounded Policy: Dexterous Visuotactile Policy with Generative Contact Grounding](https://arxiv.org/abs/2603.05687) | export.arxiv.org |
+| 2026-03-09 04:00 | [Introducing the transitional autonomous vehicle lane-changing dataset: Empirical Experiments](https://arxiv.org/abs/2603.05716) | export.arxiv.org |
+| 2026-03-09 04:00 | [Environment-Aware Path Generation for Robotic Additive Manufacturing of Structures](https://arxiv.org/abs/2603.05748) | export.arxiv.org |
+| 2026-03-09 04:00 | [Vision-Language System using Open-Source LLMs for Gestures in Medical Interpreter Robots](https://arxiv.org/abs/2603.05751) | export.arxiv.org |
+| 2026-03-09 04:00 | [Safe-Night VLA: Seeing the Unseen via Thermal-Perceptive Vision-Language-Action Models for Safety-Critical Manipulation](https://arxiv.org/abs/2603.05754) | export.arxiv.org |
+| 2026-03-09 04:00 | [EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation](https://arxiv.org/abs/2603.05757) | export.arxiv.org |
+| 2026-03-09 04:00 | [Multi-Robot Trajectory Planning via Constrained Bayesian Optimization and Local Cost Map Learning with STL-Based Conflict Resolution](https://arxiv.org/abs/2603.05767) | export.arxiv.org |
+| 2026-03-09 04:00 | [Task-Level Decisions to Gait Level Control: A Hierarchical Policy Approach for Quadruped Navigation](https://arxiv.org/abs/2603.05783) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -125,41 +125,7 @@
 
     
       Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
-| 3 | [login?return_to=%2FEd1s0nZ%2FCyberStrikeAI" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1092279475,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FEd1s0nZ%2FCyberStrikeAI" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1092279475,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        Ed1s0nZ /
-
-      CyberStrikeAI  
-
-    
-      CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. |
-| 4 | [login?return_to=%2Fvirattt%2Fai-hedge-fund" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:896144595,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:896144595,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund  
-
-    
-      An AI Hedge Fund Team |
-| 5 | [login?return_to=%2Fpbakaus%2Fimpeccable" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1097346685,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fpbakaus%2Fimpeccable" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1097346685,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 3 | [login?return_to=%2Fpbakaus%2Fimpeccable" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1097346685,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fpbakaus%2Fimpeccable" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1097346685,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -176,6 +142,53 @@
 
     
       The design language that makes your AI harness better at design. |
+| 4 | [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents  
+
+    
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| 5 | [login?return_to=%2Fteng-lin%2Fnotebooklm-py" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1129786550,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fteng-lin%2Fnotebooklm-py" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1129786550,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        teng-lin /
+
+      notebooklm-py  
+
+    
+      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -201,24 +214,7 @@
 
     
       💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
-| 2 | [login?return_to=%2Falibaba%2FOpenSandbox" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1118085970,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Falibaba%2FOpenSandbox" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1118085970,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        alibaba /
-
-      OpenSandbox  
-
-    
-      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. |
-| 3 | [login?return_to=%2Fkoala73%2Fworldmonitor" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1130564872,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fkoala73%2Fworldmonitor" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1130564872,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fkoala73%2Fworldmonitor" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1130564872,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fkoala73%2Fworldmonitor" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1130564872,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -235,7 +231,7 @@
 
     
       Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
-| 4 | [login?return_to=%2Fagentscope-ai%2FReMe" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:849121458,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fagentscope-ai%2FReMe" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:849121458,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 3 | [login?return_to=%2Falibaba%2FOpenSandbox" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1118085970,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Falibaba%2FOpenSandbox" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1118085970,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -246,30 +242,13 @@
 
 
       
-        agentscope-ai /
+        alibaba /
 
-      ReMe  
-
-    
-      ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. |
-| 5 | [login?return_to=%2Fsuperset-sh%2Fsuperset" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1080370450,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fsuperset-sh%2Fsuperset" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1080370450,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        superset-sh /
-
-      superset  
+      OpenSandbox  
 
     
-      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine |
-| 6 | [login?return_to=%2FGoogleCloudPlatform%2Fgenerative-ai" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:636693030,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FGoogleCloudPlatform%2Fgenerative-ai" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:636693030,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. |
+| 4 | [login?return_to=%2FGoogleCloudPlatform%2Fgenerative-ai" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:636693030,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FGoogleCloudPlatform%2Fgenerative-ai" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:636693030,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -286,6 +265,23 @@
 
     
       Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI |
+| 5 | [login?return_to=%2Fteng-lin%2Fnotebooklm-py" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1129786550,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fteng-lin%2Fnotebooklm-py" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1129786550,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        teng-lin /
+
+      notebooklm-py  
+
+    
+      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
