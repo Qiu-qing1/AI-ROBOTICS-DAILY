@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-03-19 04:01 UTC）
+# AI & 机器人 技术热点日报（2026-03-20 03:53 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,13 @@
 
 |---|---|---|
 
+| 2026-03-19 23:35 | [Amazon acquires robotic doorstep delivery provider RIVR](https://www.therobotreport.com/amazon-acquires-robotic-doorstep-delivery-provider-rivr/) | www.therobotreport.com |
+| 2026-03-19 15:19 | [ElliQ earns Washington state Medicaid support for smart care](https://www.therobotreport.com/elliq-earns-washington-state-medicaid-support-smart-care/) | www.therobotreport.com |
+| 2026-03-19 15:00 | [KEWAZO raises funding to accelerate LIFTBOT deployment in heavy industry](https://www.therobotreport.com/kewazo-raises-funding-accelerate-liftbot-deployment-heavy-industry/) | www.therobotreport.com |
+| 2026-03-19 13:58 | [MISUMI partners with Oishii to supply Fictiv automation for vertical farms](https://www.therobotreport.com/misumi-partners-oishii-farm-corp-supply-fictiv-vertical-farm-automation/) | www.therobotreport.com |
+| 2026-03-19 12:38 | [Ottobot makes deliveries at remote mine village in Australia](https://www.therobotreport.com/ottonomy-launches-ottobot-delivery-robot-mine-village-australia/) | www.therobotreport.com |
+| 2026-03-19 10:00 | [Overcoming Core Engineering Barriers in Humanoid Robotics Development](https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/) | spectrum.ieee.org |
+| 2026-03-19 10:00 | [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment) | openai.com |
 | 2026-03-19 04:00 | [Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty](https://arxiv.org/abs/2603.17021) | export.arxiv.org |
 | 2026-03-19 04:00 | [Transformers are Bayesian Networks](https://arxiv.org/abs/2603.17063) | export.arxiv.org |
 | 2026-03-19 04:00 | [Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching](https://arxiv.org/abs/2603.17112) | export.arxiv.org |
@@ -63,13 +70,6 @@
 | 2026-03-19 04:00 | [Visual SLAM with DEM Anchoring for Lunar Surface Navigation](https://arxiv.org/abs/2603.17229) | export.arxiv.org |
 | 2026-03-19 04:00 | [Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge](https://arxiv.org/abs/2603.17232) | export.arxiv.org |
 | 2026-03-19 04:00 | [Neural Radiance Maps for Extraterrestrial Navigation and Path Planning](https://arxiv.org/abs/2603.17236) | export.arxiv.org |
-| 2026-03-19 04:00 | [ReSteer: Quantifying and Refining the Steerability of Multitask Robot Policies](https://arxiv.org/abs/2603.17300) | export.arxiv.org |
-| 2026-03-19 04:00 | [DexEXO: A Wearability-First Dexterous Exoskeleton for Operator-Agnostic Demonstration and Learning](https://arxiv.org/abs/2603.17323) | export.arxiv.org |
-| 2026-03-19 04:00 | [OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms](https://arxiv.org/abs/2603.17351) | export.arxiv.org |
-| 2026-03-19 04:00 | [Physics-informed Deep Mixture-of-Koopmans Vehicle Dynamics Model with Dual-branch Encoder for Distributed Electric-drive Trucks](https://arxiv.org/abs/2603.17416) | export.arxiv.org |
-| 2026-03-19 04:00 | [SafeLand: Safe Autonomous Landing in Unknown Environments with Bayesian Semantic Mapping](https://arxiv.org/abs/2603.17430) | export.arxiv.org |
-| 2026-03-19 04:00 | [FloorPlan-VLN: A New Paradigm for Floor Plan Guided Vision-Language Navigation](https://arxiv.org/abs/2603.17437) | export.arxiv.org |
-| 2026-03-19 04:00 | [P$^{3}$Nav: End-to-End Perception, Prediction and Planning for Vision-and-Language Navigation](https://arxiv.org/abs/2603.17459) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,7 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Fnewton-physics%2Fnewton" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:970467647,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fnewton-physics%2Fnewton" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:970467647,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2Fopendataloader-project%2Fopendataloader-pdf" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:982587624,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fopendataloader-project%2Fopendataloader-pdf" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:982587624,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -89,12 +89,12 @@
 
 
       
-        newton-physics /
+        opendataloader-project /
 
-      newton  
+      opendataloader-pdf  
 
     
-      An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
+      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 | 2 | [login?return_to=%2Flangchain-ai%2Fopen-swe" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:987975584,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Flangchain-ai%2Fopen-swe" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:987975584,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -112,6 +112,23 @@
 
     
       An Open-Source Asynchronous Coding Agent |
+| 3 | [login?return_to=%2Fnewton-physics%2Fnewton" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:970467647,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fnewton-physics%2Fnewton" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:970467647,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        newton-physics /
+
+      newton  
+
+    
+      An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -120,7 +137,24 @@
 
 |---:|---|---|
 
-| 1 | [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski) | Sponsor
+| 1 | [login?return_to=%2Flightpanda-io%2Fbrowser" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:598667202,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Flightpanda-io%2Fbrowser" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:598667202,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        lightpanda-io /
+
+      browser  
+
+    
+      Lightpanda: the headless browser designed for AI and automation |
+| 2 | [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski) | Sponsor
     
   
 
@@ -150,23 +184,6 @@
 
     
       A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
-| 2 | [login?return_to=%2Flightpanda-io%2Fbrowser" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:598667202,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Flightpanda-io%2Fbrowser" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:598667202,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        lightpanda-io /
-
-      browser  
-
-    
-      Lightpanda: the headless browser designed for AI and automation |
 | 3 | [login?return_to=%2Fvolcengine%2FOpenViking" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1128123594,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fvolcengine%2FOpenViking" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1128123594,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -218,7 +235,7 @@
 
     
       The design language that makes your AI harness better at design. |
-| 6 | [login?return_to=%2Fpromptfoo%2Fpromptfoo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633927609,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fpromptfoo%2Fpromptfoo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633927609,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 6 | [login?return_to=%2Flangchain-ai%2Fopen-swe" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:987975584,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Flangchain-ai%2Fopen-swe" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:987975584,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -229,12 +246,12 @@
 
 
       
-        promptfoo /
+        langchain-ai /
 
-      promptfoo  
+      open-swe  
 
     
-      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. |
+      An Open-Source Asynchronous Coding Agent |
 | 7 | [login?return_to=%2Flangchain-ai%2Fdeepagents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1027384981,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Flangchain-ai%2Fdeepagents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1027384981,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -252,6 +269,23 @@
 
     
       Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. |
+| 8 | [login?return_to=%2Fpromptfoo%2Fpromptfoo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633927609,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fpromptfoo%2Fpromptfoo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633927609,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        promptfoo /
+
+      promptfoo  
+
+    
+      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
