@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-04-04 03:56 UTC）
+# AI & 机器人 技术热点日报（2026-04-05 04:17 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
-| 2026-04-03 21:19 | [AES Maximo robot installs 100 megawatts of solar capacity](https://www.therobotreport.com/aes-maximo-robot-installs-100-megawatts-of-solar-capacity/) | www.therobotreport.com |
-| 2026-04-03 19:56 | [The future of RealSense 3D vision with Chris Matthieu](https://www.therobotreport.com/the-future-of-realsense-3d-vision-with-chris-matthieu/) | www.therobotreport.com |
 | 2026-04-03 16:30 | [Video Friday: Digit Learns to Dance—Virtually Overnight](https://spectrum.ieee.org/video-humanoid-dancing) | spectrum.ieee.org |
-| 2026-04-03 10:40 | [Generalist introduces GEN-1 general-purpose model for physical AI](https://www.therobotreport.com/generalist-introduces-gen-1-general-purpose-model-for-physical-ai/) | www.therobotreport.com |
-| 2026-04-03 04:00 | [How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study](https://arxiv.org/abs/2604.00005) | export.arxiv.org |
-| 2026-04-03 04:00 | [One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction](https://arxiv.org/abs/2604.00085) | export.arxiv.org |
-| 2026-04-03 04:00 | [Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents](https://arxiv.org/abs/2604.00137) | export.arxiv.org |
-| 2026-04-03 04:00 | [A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation](https://arxiv.org/abs/2604.00249) | export.arxiv.org |
-| 2026-04-03 04:00 | [Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education](https://arxiv.org/abs/2604.00281) | export.arxiv.org |
-| 2026-04-03 04:00 | [Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections](https://arxiv.org/abs/2604.00284) | export.arxiv.org |
-| 2026-04-03 04:00 | [Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry](https://arxiv.org/abs/2604.00319) | export.arxiv.org |
-| 2026-04-03 04:00 | [Signals: Trajectory Sampling and Triage for Agentic Interactions](https://arxiv.org/abs/2604.00356) | export.arxiv.org |
-| 2026-04-03 04:00 | [In harmony with gpt-oss](https://arxiv.org/abs/2604.00362) | export.arxiv.org |
-| 2026-04-03 04:00 | [Decision-Centric Design for LLM Systems](https://arxiv.org/abs/2604.00414) | export.arxiv.org |
-| 2026-04-03 04:00 | [Self-Routing: Parameter-Free Expert Routing from Hidden States](https://arxiv.org/abs/2604.00421) | export.arxiv.org |
-| 2026-04-03 04:00 | [Execution-Verified Reinforcement Learning for Optimization Modeling](https://arxiv.org/abs/2604.00442) | export.arxiv.org |
-| 2026-04-03 04:00 | [Towards Reliable Truth-Aligned Uncertainty Estimation in Large Language Models](https://arxiv.org/abs/2604.00445) | export.arxiv.org |
-| 2026-04-03 04:00 | [Logarithmic Scores, Power-Law Discoveries: Disentangling Measurement from Coverage in Agent-Based Evaluation](https://arxiv.org/abs/2604.00477) | export.arxiv.org |
-| 2026-04-03 04:00 | [The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents](https://arxiv.org/abs/2604.00478) | export.arxiv.org |
-| 2026-04-03 04:00 | [Adaptive Parallel Monte Carlo Tree Search for Efficient Test-time Compute Scaling](https://arxiv.org/abs/2604.00510) | export.arxiv.org |
-| 2026-04-03 04:00 | [Does Unification Come at a Cost? Uni-SafeBench: A Safety Benchmark for Unified Multimodal Large Models](https://arxiv.org/abs/2604.00547) | export.arxiv.org |
-| 2026-04-03 04:00 | [BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery](https://arxiv.org/abs/2604.00550) | export.arxiv.org |
-| 2026-04-03 04:00 | [Ontology-Constrained Neural Reasoning in Enterprise Agentic Systems: A Neurosymbolic Architecture for Domain-Grounded AI Agents](https://arxiv.org/abs/2604.00555) | export.arxiv.org |
-| 2026-04-03 04:00 | [Agent psychometrics: Task-level performance prediction in agentic coding benchmarks](https://arxiv.org/abs/2604.00594) | export.arxiv.org |
-| 2026-04-03 04:00 | [CircuitProbe: Predicting Reasoning Circuits in Transformers via Stability Zone Detection](https://arxiv.org/abs/2604.00716) | export.arxiv.org |
-| 2026-04-03 04:00 | [UK AISI Alignment Evaluation Case-Study](https://arxiv.org/abs/2604.00788) | export.arxiv.org |
-| 2026-04-03 04:00 | [RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning](https://arxiv.org/abs/2604.00790) | export.arxiv.org |
-| 2026-04-03 04:00 | [Preference Guided Iterated Pareto Referent Optimisation for Accessible Route Planning](https://arxiv.org/abs/2604.00795) | export.arxiv.org |
-| 2026-04-03 04:00 | [Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants](https://arxiv.org/abs/2604.00842) | export.arxiv.org |
-| 2026-04-03 04:00 | [Beyond Symbolic Solving: Multi Chain-of-Thought Voting for Geometric Reasoning in Large Language Models](https://arxiv.org/abs/2604.00890) | export.arxiv.org |
-| 2026-04-03 04:00 | [Experience as a Compass: Multi-agent RAG with Evolving Orchestration and Agent Prompts](https://arxiv.org/abs/2604.00901) | export.arxiv.org |
-| 2026-04-03 04:00 | [PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor](https://arxiv.org/abs/2604.00931) | export.arxiv.org |
-| 2026-04-03 04:00 | [Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory](https://arxiv.org/abs/2604.01007) | export.arxiv.org |
-| 2026-04-03 04:00 | [Adversarial Moral Stress Testing of Large Language Models](https://arxiv.org/abs/2604.01108) | export.arxiv.org |
-| 2026-04-03 04:00 | [Detecting Multi-Agent Collusion Through Multi-Agent Interpretability](https://arxiv.org/abs/2604.01151) | export.arxiv.org |
-| 2026-04-03 04:00 | [Therefore I am. I Think](https://arxiv.org/abs/2604.01202) | export.arxiv.org |
-| 2026-04-03 04:00 | [HippoCamp: Benchmarking Contextual Agents on Personal Computers](https://arxiv.org/abs/2604.01221) | export.arxiv.org |
-| 2026-04-03 04:00 | [Agentic AI -- Physicist Collaboration in Experimental Particle Physics: A Proof-of-Concept Measurement with LEP Open Data](https://arxiv.org/abs/2603.05735) | export.arxiv.org |
-| 2026-04-03 04:00 | [Two-Stage Optimizer-Aware Online Data Selection for Large Language Models](https://arxiv.org/abs/2604.00001) | export.arxiv.org |
-| 2026-04-03 04:00 | [Benchmark for Assessing Olfactory Perception of Large Language Models](https://arxiv.org/abs/2604.00002) | export.arxiv.org |
-| 2026-04-03 04:00 | [A Reliability Evaluation of Hybrid Deterministic-LLM Based Approaches for Academic Course Registration PDF Information Extraction](https://arxiv.org/abs/2604.00003) | export.arxiv.org |
-| 2026-04-03 04:00 | [LinearARD: Linear-Memory Attention Distillation for RoPE Restoration](https://arxiv.org/abs/2604.00004) | export.arxiv.org |
-| 2026-04-03 04:00 | [Dynin-Omni: Omnimodal Unified Large Diffusion Language Model](https://arxiv.org/abs/2604.00007) | export.arxiv.org |
-| 2026-04-03 04:00 | [How Trustworthy Are LLM-as-Judge Ratings for Interpretive Responses? Implications for Qualitative Research Workflows](https://arxiv.org/abs/2604.00008) | export.arxiv.org |
-| 2026-04-03 04:00 | [Simulating Realistic LiDAR Data Under Adverse Weather for Autonomous Vehicles: A Physics-Informed Learning Approach](https://arxiv.org/abs/2604.01254) | export.arxiv.org |
-| 2026-04-03 04:00 | [Bench2Drive-VL: Benchmarks for Closed-Loop Autonomous Driving with Vision-Language Models](https://arxiv.org/abs/2604.01259) | export.arxiv.org |
-| 2026-04-03 04:00 | [Open-loop POMDP Simplification and Safe Skipping of Replanning with Formal Performance Guarantees](https://arxiv.org/abs/2604.01352) | export.arxiv.org |
-| 2026-04-03 04:00 | [A soft and lightweight fabric-based pneumatic interface for multimodal fingertip tactile feedback](https://arxiv.org/abs/2604.01390) | export.arxiv.org |
-| 2026-04-03 04:00 | [Learning When to See and When to Feel: Adaptive Vision-Torque Fusion for Contact-Aware Manipulation](https://arxiv.org/abs/2604.01414) | export.arxiv.org |
-| 2026-04-03 04:00 | [Low-Burden LLM-Based Preference Learning: Personalizing Assistive Robots from Natural Language Feedback for Users with Paralysis](https://arxiv.org/abs/2604.01463) | export.arxiv.org |
-| 2026-04-03 04:00 | [Efficient Equivariant Transformer for Self-Driving Agent Modeling](https://arxiv.org/abs/2604.01466) | export.arxiv.org |
-| 2026-04-03 04:00 | [Distal-Stable Beam for Continuum Robots](https://arxiv.org/abs/2604.01490) | export.arxiv.org |
-| 2026-04-03 04:00 | [Robust Autonomous Control of a Magnetic Millirobot in In Vitro Cardiac Flow](https://arxiv.org/abs/2604.01523) | export.arxiv.org |
-| 2026-04-03 04:00 | [AnchorVLA: Anchored Diffusion for Efficient End-to-End Mobile Manipulation](https://arxiv.org/abs/2604.01567) | export.arxiv.org |
-| 2026-04-03 04:00 | [Boosting Vision-Language-Action Finetuning with Feasible Action Neighborhood Prior](https://arxiv.org/abs/2604.01570) | export.arxiv.org |
-| 2026-04-03 04:00 | [Smooth Feedback Motion Planning with Reduced Curvature](https://arxiv.org/abs/2604.01614) | export.arxiv.org |
-| 2026-04-03 04:00 | [AURA: Multimodal Shared Autonomy for Real-World Urban Navigation](https://arxiv.org/abs/2604.01659) | export.arxiv.org |
-| 2026-04-03 04:00 | [Bridging Large-Model Reasoning and Real-Time Control via Agentic Fast-Slow Planning](https://arxiv.org/abs/2604.01681) | export.arxiv.org |
-| 2026-04-03 04:00 | [A Graph Neural Network Approach for Solving the Ranked Assignment Problem in Multi-Object Tracking](https://arxiv.org/abs/2604.01696) | export.arxiv.org |
-| 2026-04-03 04:00 | [3-D Relative Localization for Multi-Robot Systems with Angle and Self-Displacement Measurements](https://arxiv.org/abs/2604.01703) | export.arxiv.org |
+| 2026-04-02 16:00 | [New ways to balance cost and reliability in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/) | blog.google |
+| 2026-04-02 16:00 | [Create, edit and share videos at no cost in Google Vids](https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/) | blog.google |
+| 2026-04-02 15:00 | [Gill Pratt Says Humanoid Robots’ Moment Is Finally Here](https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa) | spectrum.ieee.org |
+| 2026-04-02 14:00 | [Wi-Fi That Can Withstand a Nuclear Reactor](https://spectrum.ieee.org/robotics-in-nuclear-industry) | spectrum.ieee.org |
+| 2026-04-02 13:00 | [Scientists Build Living Robots With Nervous Systems](https://spectrum.ieee.org/neurobot-living-robot-nervous-system) | spectrum.ieee.org |
+| 2026-04-02 10:30 | [OpenAI acquires TBPN](https://openai.com/index/openai-acquires-tbpn) | openai.com |
+| 2026-04-02 10:00 | [Codex now offers more flexible pricing for teams](https://openai.com/index/codex-flexible-pricing-for-teams) | openai.com |
+| 2026-04-01 13:30 | [We’re creating a new satellite imagery map to help protect Brazil’s forests.](https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/) | blog.google |
+| 2026-04-01 13:00 | [The latest AI news we announced in March 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/) | blog.google |
+| 2026-04-01 02:00 | [Gradient Labs gives every bank customer an AI account manager](https://openai.com/index/gradient-labs) | openai.com |
+| 2026-03-31 16:00 | [Build with Veo 3.1 Lite, our most cost-effective video generation model](https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/) | blog.google |
+| 2026-03-31 13:00 | [Accelerating the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai) | openai.com |
+| 2026-03-29 22:15 | [Helping disaster response teams turn AI into action across Asia](https://openai.com/index/helping-disaster-response-teams-asia) | openai.com |
+| 2026-03-27 22:00 | [STADLER reshapes knowledge work at a 230-year-old company](https://openai.com/index/stadler) | openai.com |
+| 2026-03-27 16:30 | [Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold](https://spectrum.ieee.org/roadrunner-bipedal-robot) | spectrum.ieee.org |
+| 2026-03-26 17:00 | [Watch James Manyika talk AI and creativity with LL COOL J.](https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/) | blog.google |
+| 2026-03-26 16:00 | [Transform your headphones into a live personal translator on iOS.](https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/) | blog.google |
+| 2026-03-26 15:21 | [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/) | blog.google |
+| 2026-03-26 15:00 | [Search Live is expanding globally](https://blog.google/products-and-platforms/products/search/search-live-global-expansion/) | blog.google |
+| 2026-03-25 18:00 | [30 Years Ago, Robots Learned to Walk Without Falling](https://spectrum.ieee.org/honda-p2-robot-ieee-milestone) | spectrum.ieee.org |
+| 2026-03-25 16:00 | [Build with Lyria 3, our newest music generation model](https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/) | blog.google |
+| 2026-03-25 16:00 | [Lyria 3 Pro: Create longer tracks in more Google products](https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/) | blog.google |
+| 2026-03-25 10:00 | [Inside our approach to the Model Spec](https://openai.com/index/our-approach-to-the-model-spec) | openai.com |
+| 2026-03-25 00:00 | [Introducing the OpenAI Safety Bug Bounty program](https://openai.com/index/safety-bug-bounty) | openai.com |
+| 2026-03-24 13:00 | [The Coming Drone-War Inflection in Ukraine](https://spectrum.ieee.org/autonomous-drone-warfare) | spectrum.ieee.org |
+| 2026-03-24 11:00 | [Helping developers build safer AI experiences for teens](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard) | openai.com |
+| 2026-03-24 09:00 | [Update on the OpenAI Foundation](https://openai.com/index/update-on-the-openai-foundation) | openai.com |
+| 2026-03-24 09:00 | [Powering product discovery in ChatGPT](https://openai.com/index/powering-product-discovery-in-chatgpt) | openai.com |
+| 2026-03-23 00:00 | [Creating with Sora Safely](https://openai.com/index/creating-with-sora-safely) | openai.com |
+| 2026-03-21 16:30 | [Video Friday: Humanoid Learns Tennis Skills Playing Humans](https://spectrum.ieee.org/tennis-playing-robot) | spectrum.ieee.org |
+| 2026-03-19 10:00 | [Overcoming Core Engineering Barriers in Humanoid Robotics Development](https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/) | spectrum.ieee.org |
+| 2026-03-19 10:00 | [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment) | openai.com |
+| 2026-03-19 00:00 | [OpenAI to acquire Astral](https://openai.com/index/openai-to-acquire-astral) | openai.com |
+| 2026-03-17 16:00 | [Measuring progress toward AGI: A cognitive framework](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/) | blog.google |
+| 2026-03-17 16:00 | [Bringing the power of Personal Intelligence to more people](https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/) | blog.google |
+| 2026-03-17 16:00 | [Our latest investment in open source security for the AI era](https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/) | blog.google |
+| 2026-03-17 10:00 | [Introducing GPT-5.4 mini and nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano) | openai.com |
+| 2026-03-17 10:00 | [OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first](https://openai.com/index/japan-teen-safety-blueprint) | openai.com |
+| 2026-03-17 08:00 | [Broadening advanced AI education across Africa](https://blog.google/company-news/inside-google/around-the-globe/google-africa/ai-research-foundations/) | blog.google |
+| 2026-03-17 00:00 | [Equipping workers with insights about compensation](https://openai.com/index/equipping-workers-with-insights-about-compensation) | openai.com |
+| 2026-03-16 00:00 | [Why Codex Security Doesn’t Include a SAST Report](https://openai.com/index/why-codex-security-doesnt-include-sast) | openai.com |
+| 2026-03-13 16:00 | [Video Friday: These Robots Were Born to Run](https://spectrum.ieee.org/legged-modular-robot) | spectrum.ieee.org |
+| 2026-03-12 15:00 | [How AI is helping improve heart health in rural Australia](https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/) | blog.google |
+| 2026-03-12 10:00 | [Platform 37 and The AI Exchange: new spaces for AI innovation and discovery](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/platform-37-the-ai-exchange/) | blog.google |
+| 2026-03-11 13:00 | [Rakuten fixes issues twice as fast with Codex](https://openai.com/index/rakuten) | openai.com |
+| 2026-03-11 11:30 | [Designing AI agents to resist prompt injection](https://openai.com/index/designing-agents-to-resist-prompt-injection) | openai.com |
+| 2026-03-11 11:00 | [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment) | openai.com |
+| 2026-03-11 00:00 | [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair) | openai.com |
+| 2026-03-10 13:00 | [Gemini in Google Sheets just achieved state-of-the-art performance.](https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/) | blog.google |
+| 2026-03-10 11:00 | [Improving instruction hierarchy in frontier LLMs](https://openai.com/index/instruction-hierarchy-challenge) | openai.com |
+| 2026-03-10 10:00 | [New ways to learn math and science in ChatGPT](https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt) | openai.com |
+| 2026-03-09 10:00 | [OpenAI to acquire Promptfoo](https://openai.com/index/openai-to-acquire-promptfoo) | openai.com |
+| 2026-03-06 18:00 | [How our open-source AI model SpeciesNet is helping to promote wildlife conservation](https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/) | blog.google |
+| 2026-03-06 16:00 | [Video Friday: A Robot Hand With Artificial Muscles and Tendons](https://spectrum.ieee.org/video-friday-robot-hand-artificial-muscles) | spectrum.ieee.org |
+| 2026-03-06 10:00 | [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview) | openai.com |
+| 2026-03-06 07:00 | [How Balyasny Asset Management built an AI research engine for investing](https://openai.com/index/balyasny-asset-management) | openai.com |
+| 2026-03-06 00:00 | [How Descript engineers multilingual video dubbing at scale](https://openai.com/index/descript) | openai.com |
+| 2026-03-05 18:00 | [Ask a Techspert: How does AI understand my visual searches?](https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/) | blog.google |
+| 2026-03-05 16:30 | [The latest AI news we announced in February](https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/) | blog.google |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -95,7 +95,7 @@
 
     
       Open Source AI Platform - AI Chat with advanced features that works with every LLM |
-| 2 | [login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fblock%2Fgoose" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:846698999,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fblock%2Fgoose" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:846698999,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -106,26 +106,13 @@
 
 
       
-        google-research /
+        block /
 
-      timesfm  
-
-    
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
-| 3 | [sponsors/dmtrKovalenko](https://github.com/sponsors/dmtrKovalenko) | Sponsor
-    
-  
-
-
-
-      
-            
-    
+      goose  
 
     
-
-        
-          Star
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| 3 | [login?return_to=%2Fmicrosoft%2Fagent-framework" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:974445592,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmicrosoft%2Fagent-framework" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:974445592,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -136,12 +123,12 @@
 
 
       
-        dmtrKovalenko /
+        microsoft /
 
-      fff.nvim  
+      agent-framework  
 
     
-      The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS |
+      A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -184,41 +171,7 @@
 
     
       TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
-| 3 | [login?return_to=%2FSakanaAI%2FAI-Scientist-v2" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:962431643,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FSakanaAI%2FAI-Scientist-v2" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:962431643,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        SakanaAI /
-
-      AI-Scientist-v2  
-
-    
-      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
-| 4 | [login?return_to=%2Fmvanhorn%2Flast30days-skill" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1140843380,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmvanhorn%2Flast30days-skill" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1140843380,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill  
-
-    
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
-| 5 | [login?return_to=%2Fonyx-dot-app%2Fonyx" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633262635,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fonyx-dot-app%2Fonyx" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633262635,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 3 | [login?return_to=%2Fonyx-dot-app%2Fonyx" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633262635,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fonyx-dot-app%2Fonyx" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633262635,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -235,7 +188,7 @@
 
     
       Open Source AI Platform - AI Chat with advanced features that works with every LLM |
-| 6 | [sponsors/vas3k](https://github.com/sponsors/vas3k) | Sponsor
+| 4 | [sponsors/vas3k](https://github.com/sponsors/vas3k) | Sponsor
     
   
 
@@ -265,6 +218,23 @@
 
     
       Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories |
+| 5 | [login?return_to=%2FSakanaAI%2FAI-Scientist-v2" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:962431643,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FSakanaAI%2FAI-Scientist-v2" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:962431643,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        SakanaAI /
+
+      AI-Scientist-v2  
+
+    
+      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
