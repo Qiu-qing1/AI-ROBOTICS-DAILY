@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-04-11 04:00 UTC）
+# AI & 机器人 技术热点日报（2026-04-12 04:26 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,35 +10,36 @@
 
 |---|---|---|
 
+| 2026-04-11 12:30 | [Transforming asset management with physical AI](https://www.therobotreport.com/transforming-asset-management-with-physical-ai/) | www.therobotreport.com |
 | 2026-04-10 16:25 | [Robotic welding at 3x speed: Dextall’s blueprint for industrial-scale facade manufacturing](https://www.therobotreport.com/robotic-welding-3x-speed-dextalls-blueprint-industrial-scale-facade-manufacturing/) | www.therobotreport.com |
 | 2026-04-10 14:44 | [MassRobotics to promote ecosystem growth at 2026 Robotics Summit & Expo](https://www.therobotreport.com/massrobotics-to-show-and-promote-ecosystem-growth-at-the-2026-robotics-summit-expo/) | www.therobotreport.com |
 | 2026-04-10 14:30 | [AGIBOT unveils Genie Envisioner 2.0 to advance world models into scalable simulators for embodied AI](https://www.therobotreport.com/agibot-unveils-genie-envisioner-2-0-advance-world-models-scalable-simulators-embodied-ai/) | www.therobotreport.com |
 | 2026-04-10 12:58 | [SCSP launches National Security Commission on Robotics for Advanced Manufacturing](https://www.therobotreport.com/scsp-launches-national-security-commission-robotics-advanced-manufacturing/) | www.therobotreport.com |
-| 2026-04-10 00:00 | [Using custom GPTs](https://openai.com/academy/custom-gpts) | openai.com |
-| 2026-04-10 00:00 | [ChatGPT for customer success teams](https://openai.com/academy/customer-success) | openai.com |
-| 2026-04-10 00:00 | [Applications of AI at OpenAI](https://openai.com/academy/applications-of-ai) | openai.com |
-| 2026-04-10 00:00 | [Research with ChatGPT](https://openai.com/academy/search-and-deep-research) | openai.com |
-| 2026-04-10 00:00 | [Analyzing data with ChatGPT](https://openai.com/academy/data-analysis) | openai.com |
-| 2026-04-10 00:00 | [Financial services](https://openai.com/academy/financial-services) | openai.com |
-| 2026-04-10 00:00 | [Responsible and safe use of AI](https://openai.com/academy/responsible-and-safe-use) | openai.com |
+| 2026-04-10 00:00 | [Getting started with ChatGPT](https://openai.com/academy/getting-started) | openai.com |
+| 2026-04-10 00:00 | [Brainstorming with ChatGPT](https://openai.com/academy/brainstorming) | openai.com |
 | 2026-04-10 00:00 | [Writing with ChatGPT](https://openai.com/academy/writing) | openai.com |
 | 2026-04-10 00:00 | [ChatGPT for research](https://openai.com/academy/research) | openai.com |
-| 2026-04-10 00:00 | [Creating images with ChatGPT](https://openai.com/academy/image-generation) | openai.com |
-| 2026-04-10 00:00 | [Personalizing ChatGPT](https://openai.com/academy/personalization) | openai.com |
-| 2026-04-10 00:00 | [ChatGPT for finance teams](https://openai.com/academy/finance) | openai.com |
-| 2026-04-10 00:00 | [Getting started with ChatGPT](https://openai.com/academy/getting-started) | openai.com |
-| 2026-04-10 00:00 | [Working with files in ChatGPT](https://openai.com/academy/working-with-files) | openai.com |
-| 2026-04-10 00:00 | [ChatGPT for sales teams](https://openai.com/academy/sales) | openai.com |
+| 2026-04-10 00:00 | [Responsible and safe use of AI](https://openai.com/academy/responsible-and-safe-use) | openai.com |
 | 2026-04-10 00:00 | [Prompting fundamentals](https://openai.com/academy/prompting) | openai.com |
+| 2026-04-10 00:00 | [Research with ChatGPT](https://openai.com/academy/search-and-deep-research) | openai.com |
+| 2026-04-10 00:00 | [ChatGPT for customer success teams](https://openai.com/academy/customer-success) | openai.com |
 | 2026-04-10 00:00 | [ChatGPT for managers](https://openai.com/academy/managers) | openai.com |
 | 2026-04-10 00:00 | [Using projects in ChatGPT](https://openai.com/academy/projects) | openai.com |
-| 2026-04-10 00:00 | [ChatGPT for marketing teams](https://openai.com/academy/marketing) | openai.com |
-| 2026-04-10 00:00 | [Brainstorming with ChatGPT](https://openai.com/academy/brainstorming) | openai.com |
 | 2026-04-10 00:00 | [AI fundamentals](https://openai.com/academy/what-is-ai) | openai.com |
-| 2026-04-10 00:00 | [ChatGPT for operations teams](https://openai.com/academy/operations) | openai.com |
-| 2026-04-10 00:00 | [Healthcare](https://openai.com/academy/healthcare) | openai.com |
+| 2026-04-10 00:00 | [Financial services](https://openai.com/academy/financial-services) | openai.com |
+| 2026-04-10 00:00 | [ChatGPT for finance teams](https://openai.com/academy/finance) | openai.com |
+| 2026-04-10 00:00 | [Applications of AI at OpenAI](https://openai.com/academy/applications-of-ai) | openai.com |
+| 2026-04-10 00:00 | [ChatGPT for sales teams](https://openai.com/academy/sales) | openai.com |
+| 2026-04-10 00:00 | [Creating images with ChatGPT](https://openai.com/academy/image-generation) | openai.com |
 | 2026-04-10 00:00 | [Our response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise) | openai.com |
 | 2026-04-10 00:00 | [Using skills](https://openai.com/academy/skills) | openai.com |
+| 2026-04-10 00:00 | [Analyzing data with ChatGPT](https://openai.com/academy/data-analysis) | openai.com |
+| 2026-04-10 00:00 | [Personalizing ChatGPT](https://openai.com/academy/personalization) | openai.com |
+| 2026-04-10 00:00 | [Working with files in ChatGPT](https://openai.com/academy/working-with-files) | openai.com |
+| 2026-04-10 00:00 | [Using custom GPTs](https://openai.com/academy/custom-gpts) | openai.com |
+| 2026-04-10 00:00 | [ChatGPT for marketing teams](https://openai.com/academy/marketing) | openai.com |
+| 2026-04-10 00:00 | [ChatGPT for operations teams](https://openai.com/academy/operations) | openai.com |
+| 2026-04-10 00:00 | [Healthcare](https://openai.com/academy/healthcare) | openai.com |
 | 2026-04-09 23:50 | [Amazon CEO says robotics is key for faster delivery, lower costs](https://www.therobotreport.com/amazon-ceo-says-robotics-key-faster-delivery-lower-costs/) | www.therobotreport.com |
 | 2026-04-09 17:20 | [AGIBOT releases GO-2 foundation model for embodied AI](https://www.therobotreport.com/agibot-releases-go-2-foundation-model-embodied-ai/) | www.therobotreport.com |
 | 2026-04-09 15:06 | [GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at Mission Scale](https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/) | spectrum.ieee.org |
@@ -54,7 +55,6 @@
 | 2026-04-07 15:07 | [What Amazon saw in Fauna Robotics’ humanoid strategy](https://www.therobotreport.com/what-amazon-saw-in-fauna-robotics-humanoid-strategy/) | www.therobotreport.com |
 | 2026-04-07 14:30 | [AGIBOT WORLD 2026 dataset is open-source to accelerate embodied AI development](https://www.therobotreport.com/agibot-world-2026-dataset-open-source-accelerate-embodied-ai-development/) | www.therobotreport.com |
 | 2026-04-06 23:39 | [Tennibot launches Partner V2, its latest robotic tennis ball machine](https://www.therobotreport.com/tennibot-launches-partner-v2-latest-robotic-tennis-ball-machine/) | www.therobotreport.com |
-| 2026-04-06 17:21 | [Faraday Future’s Aegis quadruped passes compliance certification for U.S. sales](https://www.therobotreport.com/faraday-futures-aegis-quadruped-passes-compliance-certification-u-s-sales/) | www.therobotreport.com |
 | 2026-04-06 10:00 | [Announcing the OpenAI Safety Fellowship](https://openai.com/index/introducing-openai-safety-fellowship) | openai.com |
 | 2026-04-06 02:30 | [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age) | openai.com |
 | 2026-04-05 13:00 | [Studying Human Attitudes Towards Robots Through Experience](https://spectrum.ieee.org/boston-dynamics-spot-interaction) | spectrum.ieee.org |
@@ -95,7 +95,7 @@
 
     
       The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
-| 2 | [login?return_to=%2Frowboatlabs%2Frowboat" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:916009087,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Frowboatlabs%2Frowboat" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:916009087,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -106,12 +106,12 @@
 
 
       
-        rowboatlabs /
+        forrestchang /
 
-      rowboat  
+      andrej-karpathy-skills  
 
     
-      Open-source AI coworker, with memory |
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 | 3 | [login?return_to=%2Fmultica-ai%2Fmultica" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1133707766,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmultica-ai%2Fmultica" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1133707766,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -129,24 +129,7 @@
 
     
       The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
-| 4 | [login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        forrestchang /
-
-      andrej-karpathy-skills  
-
-    
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
-| 5 | [login?return_to=%2Fshiyu-coder%2FKronos" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1011567289,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fshiyu-coder%2FKronos" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1011567289,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 4 | [login?return_to=%2Fshiyu-coder%2FKronos" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1011567289,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fshiyu-coder%2FKronos" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1011567289,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -163,7 +146,7 @@
 
     
       Kronos: A Foundation Model for the Language of Financial Markets |
-| 6 | [login?return_to=%2Fopendataloader-project%2Fopendataloader-pdf" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:982587624,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fopendataloader-project%2Fopendataloader-pdf" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:982587624,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 5 | [login?return_to=%2Fopendataloader-project%2Fopendataloader-pdf" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:982587624,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fopendataloader-project%2Fopendataloader-pdf" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:982587624,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -205,8 +188,7 @@
 
     
       A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
-| 2 | [login?return_to=%2Fgoogle-ai-edge%2FLiteRT-LM" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:966386486,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle-ai-edge%2FLiteRT-LM" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:966386486,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | - |
-| 3 | [login?return_to=%2Fmultica-ai%2Fmultica" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1133707766,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmultica-ai%2Fmultica" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1133707766,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fmultica-ai%2Fmultica" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1133707766,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmultica-ai%2Fmultica" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1133707766,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -223,7 +205,7 @@
 
     
       The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
-| 4 | [login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 3 | [login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -240,7 +222,8 @@
 
     
       A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
-| 5 | [login?return_to=%2Fonyx-dot-app%2Fonyx" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633262635,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fonyx-dot-app%2Fonyx" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:633262635,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 4 | [login?return_to=%2Fgoogle-ai-edge%2FLiteRT-LM" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:966386486,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle-ai-edge%2FLiteRT-LM" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:966386486,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | - |
+| 5 | [login?return_to=%2Faaif-goose%2Fgoose" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:846698999,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Faaif-goose%2Fgoose" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:846698999,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -251,29 +234,12 @@
 
 
       
-        onyx-dot-app /
+        aaif-goose /
 
-      onyx  
-
-    
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM |
-| 6 | [login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        google-research /
-
-      timesfm  
+      goose  
 
     
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
