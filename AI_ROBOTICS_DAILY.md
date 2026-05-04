@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-05-03 04:56 UTC）
+# AI & 机器人 技术热点日报（2026-05-04 04:57 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,47 @@
 
 |---|---|---|
 
+| 2026-05-04 04:00 | [Dynamic-TD3: A Novel Algorithm for UAV Path Planning with Dynamic Obstacle Trajectory Prediction](https://arxiv.org/abs/2605.00059) | export.arxiv.org |
+| 2026-05-04 04:00 | [Do Open-Loop Metrics Predict Closed-Loop Driving? A Cross-Benchmark Correlation Study of NAVSIM and Bench2Drive](https://arxiv.org/abs/2605.00066) | export.arxiv.org |
+| 2026-05-04 04:00 | [Being-H0.7: A Latent World-Action Model from Egocentric Videos](https://arxiv.org/abs/2605.00078) | export.arxiv.org |
+| 2026-05-04 04:00 | [World Model for Robot Learning: A Comprehensive Survey](https://arxiv.org/abs/2605.00080) | export.arxiv.org |
+| 2026-05-04 04:00 | [Predictive Spatio-Temporal Scene Graphs for Semi-Static Scenes](https://arxiv.org/abs/2605.00121) | export.arxiv.org |
+| 2026-05-04 04:00 | [E$^2$DT: Efficient and Effective Decision Transformer with Experience-Aware Sampling for Robotic Manipulation](https://arxiv.org/abs/2605.00159) | export.arxiv.org |
+| 2026-05-04 04:00 | [Lucid-XR: An Extended-Reality Data Engine for Robotic Manipulation](https://arxiv.org/abs/2605.00244) | export.arxiv.org |
+| 2026-05-04 04:00 | [Task-Conditioned Uncertainty Costmaps for Legged Locomotion](https://arxiv.org/abs/2605.00261) | export.arxiv.org |
+| 2026-05-04 04:00 | [A Model-based Visual Contact Localization and Force Sensing System for Compliant Robotic Grippers](https://arxiv.org/abs/2605.00307) | export.arxiv.org |
+| 2026-05-04 04:00 | [Embodied Interpretability: Linking Causal Understanding to Generalization in Vision-Language-Action Models](https://arxiv.org/abs/2605.00321) | export.arxiv.org |
+| 2026-05-04 04:00 | [PrefMoE: Robust Preference Modeling with Mixture-of-Experts Reward Learning](https://arxiv.org/abs/2605.00384) | export.arxiv.org |
+| 2026-05-04 04:00 | [MiniVLA-Nav v1: A Multi-Scene Simulation Dataset for Language-Conditioned Robot Navigation](https://arxiv.org/abs/2605.00397) | export.arxiv.org |
+| 2026-05-04 04:00 | [Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies](https://arxiv.org/abs/2605.00416) | export.arxiv.org |
+| 2026-05-04 04:00 | [Stereo Multistage Spatial Attention for Real-Time Mobile Manipulation Under Visual Scale Variation and Disturbances](https://arxiv.org/abs/2605.00471) | export.arxiv.org |
+| 2026-05-04 04:00 | [MSACT: Multistage Spatial Alignment for Stable Low-Latency Fine Manipulation](https://arxiv.org/abs/2605.00475) | export.arxiv.org |
+| 2026-05-04 04:00 | [Recovering Hidden Reward in Diffusion-Based Policies](https://arxiv.org/abs/2605.00623) | export.arxiv.org |
+| 2026-05-04 04:00 | [Paired-CSLiDAR: Height-Stratified Registration for Cross-Source Aerial-Ground LiDAR Pose Refinement](https://arxiv.org/abs/2605.00634) | export.arxiv.org |
+| 2026-05-04 04:00 | [Affordance Agent Harness: Verification-Gated Skill Orchestration](https://arxiv.org/abs/2605.00663) | export.arxiv.org |
+| 2026-05-04 04:00 | [REALM: An RGB and Event Aligned Latent Manifold for Cross-Modal Perception](https://arxiv.org/abs/2605.00271) | export.arxiv.org |
+| 2026-05-04 04:00 | [An End-to-End Decision-Aware Multi-Scale Attention-Based Model for Explainable Autonomous Driving](https://arxiv.org/abs/2605.00291) | export.arxiv.org |
+| 2026-05-04 04:00 | [Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling](https://arxiv.org/abs/2605.00412) | export.arxiv.org |
+| 2026-05-04 04:00 | [Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2605.00438) | export.arxiv.org |
+| 2026-05-04 04:00 | [High-Speed Vision Improves Zero-Shot Semantic Understanding of Human Actions](https://arxiv.org/abs/2605.00496) | export.arxiv.org |
+| 2026-05-04 04:00 | [Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge](https://arxiv.org/abs/2605.00536) | export.arxiv.org |
+| 2026-05-04 04:00 | [Linking Behaviour and Perception to Evaluate Meaningful Human Control over Partially Automated Driving](https://arxiv.org/abs/2605.00556) | export.arxiv.org |
+| 2026-05-04 04:00 | [Robust Fusion of Object-Level V2X for Learned 3D Object Detection](https://arxiv.org/abs/2605.00595) | export.arxiv.org |
+| 2026-05-04 04:00 | [Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments](https://arxiv.org/abs/2504.11901) | export.arxiv.org |
+| 2026-05-04 04:00 | [VLAs are Confined yet Capable of Generalizing to Novel Instructions](https://arxiv.org/abs/2505.03500) | export.arxiv.org |
+| 2026-05-04 04:00 | [VLBiMan: Vision-Language Anchored One-Shot Demonstration Enables Generalizable Bimanual Robotic Manipulation](https://arxiv.org/abs/2509.21723) | export.arxiv.org |
+| 2026-05-04 04:00 | [Variable Elimination in Hybrid Factor Graphs for Discrete-Continuous Inference & Estimation](https://arxiv.org/abs/2601.00545) | export.arxiv.org |
+| 2026-05-04 04:00 | [Certifiable Factor Graph Optimization](https://arxiv.org/abs/2603.01267) | export.arxiv.org |
+| 2026-05-04 04:00 | [Energy-Efficient Multi-Robot Coverage Path Planning of Non-Convex Regions of Interests](https://arxiv.org/abs/2604.22189) | export.arxiv.org |
+| 2026-05-04 04:00 | [Sensitivity-Based Tube NMPC for Cooperative Aerial Structures Under Parametric Uncertainty](https://arxiv.org/abs/2604.25766) | export.arxiv.org |
+| 2026-05-04 04:00 | [STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation](https://arxiv.org/abs/2604.26848) | export.arxiv.org |
+| 2026-05-04 04:00 | [MotuBrain: An Advanced World Action Model for Robot Control](https://arxiv.org/abs/2604.27792) | export.arxiv.org |
+| 2026-05-04 04:00 | [GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment](https://arxiv.org/abs/2604.28111) | export.arxiv.org |
+| 2026-05-04 04:00 | [Value Explicit Pretraining for Learning Transferable Representations](https://arxiv.org/abs/2312.12339) | export.arxiv.org |
+| 2026-05-04 04:00 | [Disentangled Control of Multi-Agent Systems](https://arxiv.org/abs/2511.05900) | export.arxiv.org |
+| 2026-05-04 04:00 | [RL Token: Bootstrapping Online RL with Vision-Language-Action Models](https://arxiv.org/abs/2604.23073) | export.arxiv.org |
+| 2026-05-03 12:45 | [Why physical AI is the real manufacturing revolution](https://www.therobotreport.com/why-physical-ai-is-real-manufacturing-revolution/) | www.therobotreport.com |
+| 2026-05-03 12:00 | [Closing the latency gap: Why physical AI requires edge-first architectures](https://www.therobotreport.com/closing-latency-gap-why-physical-ai-requires-edge-first-architectures/) | www.therobotreport.com |
 | 2026-05-02 15:18 | [Phase stability regulator based on two dynamic parameters for autonomous mobile robots](https://www.therobotreport.com/phase-stability-regulator-based-two-dynamic-parameters-autonomous-mobile-robots/) | www.therobotreport.com |
 | 2026-05-02 12:35 | [FAULHABER designs DualGear for autonomous logistics systems](https://www.therobotreport.com/faulhaber-designs-dualgear-for-autonomous-logistics-systems/) | www.therobotreport.com |
 | 2026-05-01 23:05 | [The art of crossing the chasm: When is a startup ready for enterprise adoption?](https://www.therobotreport.com/art-crossing-chasm-when-startup-ready-enterprise-adoption/) | www.therobotreport.com |
@@ -29,47 +70,6 @@
 | 2026-04-29 12:00 | [GFT Technologies AI-powered robots move from inspection to action for automakers](https://www.therobotreport.com/gft-technologies-ai-powered-robots-move-from-inspection-action-automakers/) | www.therobotreport.com |
 | 2026-04-29 04:00 | [Cybersecurity in the Intelligence Age](https://openai.com/index/cybersecurity-in-the-intelligence-age) | openai.com |
 | 2026-04-28 22:58 | [Flex and Teradyne expand partnership to scale physical AI](https://www.therobotreport.com/flex-teradyne-expand-partnership-scale-physical-ai/) | www.therobotreport.com |
-| 2026-04-28 19:22 | [Apptronik’s new CPO hire a major step in right direction](https://www.therobotreport.com/apptroniks-new-cpo-chu-hire-major-step-right-direction/) | www.therobotreport.com |
-| 2026-04-28 16:00 | [Celebrating 20 years of Google Translate: Fun facts, tips and new features to try](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/) | blog.google |
-| 2026-04-28 13:05 | [Appetronix acquires Cibotica to automate restaurant kitchens](https://www.therobotreport.com/appetronix-acquires-cibotica-to-automate-restaurant-kitchens/) | www.therobotreport.com |
-| 2026-04-28 00:00 | [Our commitment to community safety](https://openai.com/index/our-commitment-to-community-safety) | openai.com |
-| 2026-04-28 00:00 | [OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws) | openai.com |
-| 2026-04-27 14:00 | [OpenAI available at FedRAMP Moderate](https://openai.com/index/openai-available-at-fedramp-moderate) | openai.com |
-| 2026-04-27 13:00 | [Join the new AI Agents Vibe Coding Course from Google and Kaggle](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/) | blog.google |
-| 2026-04-27 06:00 | [The next phase of the Microsoft OpenAI partnership](https://openai.com/index/next-phase-of-microsoft-partnership) | openai.com |
-| 2026-04-27 00:00 | [An open-source spec for orchestration: Symphony](https://openai.com/index/open-source-codex-orchestration-symphony) | openai.com |
-| 2026-04-27 00:00 | [Choco automates food distribution with AI agents](https://openai.com/index/choco) | openai.com |
-| 2026-04-26 16:00 | [Our principles](https://openai.com/index/our-principles) | openai.com |
-| 2026-04-24 19:00 | [8 Gemini tips for organizing your space (and life)](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/) | blog.google |
-| 2026-04-24 16:30 | [Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?](https://spectrum.ieee.org/video-friday-ping-pong-robot) | spectrum.ieee.org |
-| 2026-04-23 13:00 | [This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC](https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica) | spectrum.ieee.org |
-| 2026-04-23 12:00 | [Here’s how our TPUs power increasingly demanding AI workloads.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/) | blog.google |
-| 2026-04-23 11:00 | [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5) | openai.com |
-| 2026-04-23 11:00 | [GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card) | openai.com |
-| 2026-04-23 10:00 | [What is Codex?](https://openai.com/academy/what-is-codex) | openai.com |
-| 2026-04-23 10:00 | [How to get started with Codex](https://openai.com/academy/codex-how-to-start) | openai.com |
-| 2026-04-23 10:00 | [Codex settings](https://openai.com/academy/codex-settings) | openai.com |
-| 2026-04-23 10:00 | [Working with Codex](https://openai.com/academy/working-with-codex) | openai.com |
-| 2026-04-23 10:00 | [Plugins and skills](https://openai.com/academy/codex-plugins-and-skills) | openai.com |
-| 2026-04-23 10:00 | [Top 10 uses for Codex at work](https://openai.com/academy/top-10-use-cases-codex-for-work) | openai.com |
-| 2026-04-23 10:00 | [Automations](https://openai.com/academy/codex-automations) | openai.com |
-| 2026-04-23 09:00 | [Elevating Austria: Google invests in its first data center in the Alps.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/) | blog.google |
-| 2026-04-23 00:00 | [GPT-5.5 Bio Bug Bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty) | openai.com |
-| 2026-04-22 15:00 | [Making ChatGPT better for clinicians](https://openai.com/index/making-chatgpt-better-for-clinicians) | openai.com |
-| 2026-04-22 12:00 | [Proposed Chinese Robot Ban Is Latest U.S. Tech Sovereignty Move](https://spectrum.ieee.org/chinese-robots-us-ban) | spectrum.ieee.org |
-| 2026-04-22 12:00 | [We're launching two specialized TPUs for the agentic era.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/) | blog.google |
-| 2026-04-22 10:00 | [Workspace agents](https://openai.com/academy/workspace-agents) | openai.com |
-| 2026-04-22 10:00 | [Speeding up agentic workflows with WebSockets in the Responses API](https://openai.com/index/speeding-up-agentic-workflows-with-websockets) | openai.com |
-| 2026-04-22 10:00 | [Introducing workspace agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt) | openai.com |
-| 2026-04-22 00:00 | [Introducing OpenAI Privacy Filter](https://openai.com/index/introducing-openai-privacy-filter) | openai.com |
-| 2026-04-21 14:30 | [3 new ways Ads Advisor is making Google Ads safer and faster](https://blog.google/products/ads-commerce/ads-advisor-google-ads/) | blog.google |
-| 2026-04-21 12:00 | [Introducing ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0) | openai.com |
-| 2026-04-21 00:00 | [Scaling Codex to enterprises worldwide](https://openai.com/index/scaling-codex-to-enterprises-worldwide) | openai.com |
-| 2026-04-20 18:00 | [The USC Professor Who Pioneered Socially Assistive Robotics](https://spectrum.ieee.org/socially-assistive-robotics) | spectrum.ieee.org |
-| 2026-04-20 00:00 | [OpenAI helps Hyatt advance AI among colleagues](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise) | openai.com |
-| 2026-04-17 15:00 | [Video Friday: Digit Learns to Deadlift](https://spectrum.ieee.org/robot-learning) | spectrum.ieee.org |
-| 2026-04-17 14:00 | [7 ways to travel smarter this summer, with help from Google](https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/) | blog.google |
-| 2026-04-16 17:00 | [A new way to explore the web with AI Mode in Chrome](https://blog.google/products-and-platforms/products/search/ai-mode-chrome/) | blog.google |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,7 +78,24 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2FTauricResearch%2FTradingAgents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:909213664,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FTauricResearch%2FTradingAgents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:909213664,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        ruvnet /
+
+      ruflo  
+
+    
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| 2 | [login?return_to=%2FTauricResearch%2FTradingAgents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:909213664,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FTauricResearch%2FTradingAgents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:909213664,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -95,7 +112,7 @@
 
     
       TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 2 | [login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 3 | [login?return_to=%2FAIDC-AI%2FPixelle-Video" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1091534692,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FAIDC-AI%2FPixelle-Video" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1091534692,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -106,12 +123,12 @@
 
 
       
-        ruvnet /
+        AIDC-AI /
 
-      ruflo  
+      Pixelle-Video  
 
     
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+      🚀 AI 全自动短视频引擎 / AI Fully Automated Short Video Engine |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -137,7 +154,24 @@
 
     
       TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 2 | [login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        ruvnet /
+
+      ruflo  
+
+    
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| 3 | [login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -154,7 +188,7 @@
 
     
       A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
-| 3 | [login?return_to=%2FAIDC-AI%2FPixelle-Video" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1091534692,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FAIDC-AI%2FPixelle-Video" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1091534692,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 4 | [login?return_to=%2FAIDC-AI%2FPixelle-Video" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1091534692,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FAIDC-AI%2FPixelle-Video" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1091534692,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
