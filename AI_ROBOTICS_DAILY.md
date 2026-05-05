@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-05-04 04:57 UTC）
+# AI & 机器人 技术热点日报（2026-05-05 04:38 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
-| 2026-05-04 04:00 | [Dynamic-TD3: A Novel Algorithm for UAV Path Planning with Dynamic Obstacle Trajectory Prediction](https://arxiv.org/abs/2605.00059) | export.arxiv.org |
-| 2026-05-04 04:00 | [Do Open-Loop Metrics Predict Closed-Loop Driving? A Cross-Benchmark Correlation Study of NAVSIM and Bench2Drive](https://arxiv.org/abs/2605.00066) | export.arxiv.org |
-| 2026-05-04 04:00 | [Being-H0.7: A Latent World-Action Model from Egocentric Videos](https://arxiv.org/abs/2605.00078) | export.arxiv.org |
-| 2026-05-04 04:00 | [World Model for Robot Learning: A Comprehensive Survey](https://arxiv.org/abs/2605.00080) | export.arxiv.org |
-| 2026-05-04 04:00 | [Predictive Spatio-Temporal Scene Graphs for Semi-Static Scenes](https://arxiv.org/abs/2605.00121) | export.arxiv.org |
-| 2026-05-04 04:00 | [E$^2$DT: Efficient and Effective Decision Transformer with Experience-Aware Sampling for Robotic Manipulation](https://arxiv.org/abs/2605.00159) | export.arxiv.org |
-| 2026-05-04 04:00 | [Lucid-XR: An Extended-Reality Data Engine for Robotic Manipulation](https://arxiv.org/abs/2605.00244) | export.arxiv.org |
-| 2026-05-04 04:00 | [Task-Conditioned Uncertainty Costmaps for Legged Locomotion](https://arxiv.org/abs/2605.00261) | export.arxiv.org |
-| 2026-05-04 04:00 | [A Model-based Visual Contact Localization and Force Sensing System for Compliant Robotic Grippers](https://arxiv.org/abs/2605.00307) | export.arxiv.org |
-| 2026-05-04 04:00 | [Embodied Interpretability: Linking Causal Understanding to Generalization in Vision-Language-Action Models](https://arxiv.org/abs/2605.00321) | export.arxiv.org |
-| 2026-05-04 04:00 | [PrefMoE: Robust Preference Modeling with Mixture-of-Experts Reward Learning](https://arxiv.org/abs/2605.00384) | export.arxiv.org |
-| 2026-05-04 04:00 | [MiniVLA-Nav v1: A Multi-Scene Simulation Dataset for Language-Conditioned Robot Navigation](https://arxiv.org/abs/2605.00397) | export.arxiv.org |
-| 2026-05-04 04:00 | [Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies](https://arxiv.org/abs/2605.00416) | export.arxiv.org |
-| 2026-05-04 04:00 | [Stereo Multistage Spatial Attention for Real-Time Mobile Manipulation Under Visual Scale Variation and Disturbances](https://arxiv.org/abs/2605.00471) | export.arxiv.org |
-| 2026-05-04 04:00 | [MSACT: Multistage Spatial Alignment for Stable Low-Latency Fine Manipulation](https://arxiv.org/abs/2605.00475) | export.arxiv.org |
-| 2026-05-04 04:00 | [Recovering Hidden Reward in Diffusion-Based Policies](https://arxiv.org/abs/2605.00623) | export.arxiv.org |
-| 2026-05-04 04:00 | [Paired-CSLiDAR: Height-Stratified Registration for Cross-Source Aerial-Ground LiDAR Pose Refinement](https://arxiv.org/abs/2605.00634) | export.arxiv.org |
-| 2026-05-04 04:00 | [Affordance Agent Harness: Verification-Gated Skill Orchestration](https://arxiv.org/abs/2605.00663) | export.arxiv.org |
-| 2026-05-04 04:00 | [REALM: An RGB and Event Aligned Latent Manifold for Cross-Modal Perception](https://arxiv.org/abs/2605.00271) | export.arxiv.org |
-| 2026-05-04 04:00 | [An End-to-End Decision-Aware Multi-Scale Attention-Based Model for Explainable Autonomous Driving](https://arxiv.org/abs/2605.00291) | export.arxiv.org |
-| 2026-05-04 04:00 | [Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling](https://arxiv.org/abs/2605.00412) | export.arxiv.org |
-| 2026-05-04 04:00 | [Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2605.00438) | export.arxiv.org |
-| 2026-05-04 04:00 | [High-Speed Vision Improves Zero-Shot Semantic Understanding of Human Actions](https://arxiv.org/abs/2605.00496) | export.arxiv.org |
-| 2026-05-04 04:00 | [Tempus: A Temporally Scalable Resource-Invariant GEMM Streaming Framework for Versal AI Edge](https://arxiv.org/abs/2605.00536) | export.arxiv.org |
-| 2026-05-04 04:00 | [Linking Behaviour and Perception to Evaluate Meaningful Human Control over Partially Automated Driving](https://arxiv.org/abs/2605.00556) | export.arxiv.org |
-| 2026-05-04 04:00 | [Robust Fusion of Object-Level V2X for Learned 3D Object Detection](https://arxiv.org/abs/2605.00595) | export.arxiv.org |
-| 2026-05-04 04:00 | [Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments](https://arxiv.org/abs/2504.11901) | export.arxiv.org |
-| 2026-05-04 04:00 | [VLAs are Confined yet Capable of Generalizing to Novel Instructions](https://arxiv.org/abs/2505.03500) | export.arxiv.org |
-| 2026-05-04 04:00 | [VLBiMan: Vision-Language Anchored One-Shot Demonstration Enables Generalizable Bimanual Robotic Manipulation](https://arxiv.org/abs/2509.21723) | export.arxiv.org |
-| 2026-05-04 04:00 | [Variable Elimination in Hybrid Factor Graphs for Discrete-Continuous Inference & Estimation](https://arxiv.org/abs/2601.00545) | export.arxiv.org |
-| 2026-05-04 04:00 | [Certifiable Factor Graph Optimization](https://arxiv.org/abs/2603.01267) | export.arxiv.org |
-| 2026-05-04 04:00 | [Energy-Efficient Multi-Robot Coverage Path Planning of Non-Convex Regions of Interests](https://arxiv.org/abs/2604.22189) | export.arxiv.org |
-| 2026-05-04 04:00 | [Sensitivity-Based Tube NMPC for Cooperative Aerial Structures Under Parametric Uncertainty](https://arxiv.org/abs/2604.25766) | export.arxiv.org |
-| 2026-05-04 04:00 | [STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation](https://arxiv.org/abs/2604.26848) | export.arxiv.org |
-| 2026-05-04 04:00 | [MotuBrain: An Advanced World Action Model for Robot Control](https://arxiv.org/abs/2604.27792) | export.arxiv.org |
-| 2026-05-04 04:00 | [GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment](https://arxiv.org/abs/2604.28111) | export.arxiv.org |
-| 2026-05-04 04:00 | [Value Explicit Pretraining for Learning Transferable Representations](https://arxiv.org/abs/2312.12339) | export.arxiv.org |
-| 2026-05-04 04:00 | [Disentangled Control of Multi-Agent Systems](https://arxiv.org/abs/2511.05900) | export.arxiv.org |
-| 2026-05-04 04:00 | [RL Token: Bootstrapping Online RL with Vision-Language-Action Models](https://arxiv.org/abs/2604.23073) | export.arxiv.org |
-| 2026-05-03 12:45 | [Why physical AI is the real manufacturing revolution](https://www.therobotreport.com/why-physical-ai-is-real-manufacturing-revolution/) | www.therobotreport.com |
-| 2026-05-03 12:00 | [Closing the latency gap: Why physical AI requires edge-first architectures](https://www.therobotreport.com/closing-latency-gap-why-physical-ai-requires-edge-first-architectures/) | www.therobotreport.com |
-| 2026-05-02 15:18 | [Phase stability regulator based on two dynamic parameters for autonomous mobile robots](https://www.therobotreport.com/phase-stability-regulator-based-two-dynamic-parameters-autonomous-mobile-robots/) | www.therobotreport.com |
-| 2026-05-02 12:35 | [FAULHABER designs DualGear for autonomous logistics systems](https://www.therobotreport.com/faulhaber-designs-dualgear-for-autonomous-logistics-systems/) | www.therobotreport.com |
-| 2026-05-01 23:05 | [The art of crossing the chasm: When is a startup ready for enterprise adoption?](https://www.therobotreport.com/art-crossing-chasm-when-startup-ready-enterprise-adoption/) | www.therobotreport.com |
-| 2026-05-01 19:16 | [Top 10 robotics stories of April 2026](https://www.therobotreport.com/top-10-robotics-stories-april-2026/) | www.therobotreport.com |
-| 2026-05-01 16:30 | [Video Friday: Figure, 1X Ramp Up Humanoid Robot Production](https://spectrum.ieee.org/video-friday-humanoid-robot-production) | spectrum.ieee.org |
-| 2026-05-01 12:30 | [Why deformable materials are physical AI’s real manufacturing test](https://www.therobotreport.com/why-deformable-materials-are-physical-ai-real-manufacturing-test/) | www.therobotreport.com |
-| 2026-04-30 20:05 | [California lawmakers open the gate for autonomous trucks in the state](https://www.therobotreport.com/california-lawmakers-open-gate-autonomous-trucks-state/) | www.therobotreport.com |
-| 2026-04-30 18:24 | [Teradyne Robotics revenue rises at the start of 2026](https://www.therobotreport.com/teradyne-robotics-revenue-rises-start-2026/) | www.therobotreport.com |
-| 2026-04-30 14:00 | [Launchpad Build AI offers MLM to speed industrial automation design](https://www.therobotreport.com/launchpad-build-ai-offers-manufacturing-language-model-industrial-automation/) | www.therobotreport.com |
-| 2026-04-30 13:22 | [DAIMON Robotics Wants to Give Robot Hands a Sense of Touch](https://spectrum.ieee.org/daimon-robotics-physical-ai) | spectrum.ieee.org |
-| 2026-04-30 00:00 | [Introducing Advanced Account Security](https://openai.com/index/advanced-account-security) | openai.com |
-| 2026-04-29 21:33 | [XELA Robotics adds enhancements to uSkin sensor family ahead of Robotics Summit](https://www.therobotreport.com/xela-robotics-adds-2-enhancements-uskin-sensor-family-ahead-robotics-summit/) | www.therobotreport.com |
-| 2026-04-29 20:00 | [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from) | openai.com |
-| 2026-04-29 17:53 | [Schaeffler plans to deploy 1,000 Hexagon humanoids by 2032](https://www.therobotreport.com/schaeffler-plans-to-deploy-1000-hexagon-humanoids-2032/) | www.therobotreport.com |
-| 2026-04-29 15:00 | [Building the compute infrastructure for the Intelligence Age](https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age) | openai.com |
-| 2026-04-29 13:37 | [Project CETI deploys autonomous underwater gliders to better observe sperm whales](https://www.therobotreport.com/project-ceti-deploys-autonomous-underwater-gliders-better-observe-sperm-whales/) | www.therobotreport.com |
-| 2026-04-29 12:00 | [GFT Technologies AI-powered robots move from inspection to action for automakers](https://www.therobotreport.com/gft-technologies-ai-powered-robots-move-from-inspection-action-automakers/) | www.therobotreport.com |
-| 2026-04-29 04:00 | [Cybersecurity in the Intelligence Age](https://openai.com/index/cybersecurity-in-the-intelligence-age) | openai.com |
-| 2026-04-28 22:58 | [Flex and Teradyne expand partnership to scale physical AI](https://www.therobotreport.com/flex-teradyne-expand-partnership-scale-physical-ai/) | www.therobotreport.com |
+| 2026-05-05 04:00 | [TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data](https://arxiv.org/abs/2605.00060) | export.arxiv.org |
+| 2026-05-05 04:00 | [AgentReputation: A Decentralized Agentic AI Reputation Framework](https://arxiv.org/abs/2605.00073) | export.arxiv.org |
+| 2026-05-05 04:00 | [Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models](https://arxiv.org/abs/2605.00123) | export.arxiv.org |
+| 2026-05-05 04:00 | [Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents](https://arxiv.org/abs/2605.00136) | export.arxiv.org |
+| 2026-05-05 04:00 | [TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization](https://arxiv.org/abs/2605.00224) | export.arxiv.org |
+| 2026-05-05 04:00 | [ARMOR 2025: A Military-Aligned Benchmark for Evaluating Large Language Model Safety Beyond Civilian Contexts](https://arxiv.org/abs/2605.00245) | export.arxiv.org |
+| 2026-05-05 04:00 | [Causal Foundations of Collective Agency](https://arxiv.org/abs/2605.00248) | export.arxiv.org |
+| 2026-05-05 04:00 | [Agentic AI for Trip Planning Optimization Application](https://arxiv.org/abs/2605.00276) | export.arxiv.org |
+| 2026-05-05 04:00 | [Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference](https://arxiv.org/abs/2605.00300) | export.arxiv.org |
+| 2026-05-05 04:00 | [AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?](https://arxiv.org/abs/2605.00334) | export.arxiv.org |
+| 2026-05-05 04:00 | [Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling](https://arxiv.org/abs/2605.00412) | export.arxiv.org |
+| 2026-05-05 04:00 | [AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning](https://arxiv.org/abs/2605.00425) | export.arxiv.org |
+| 2026-05-05 04:00 | [Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2605.00438) | export.arxiv.org |
+| 2026-05-05 04:00 | [On the Role of Artificial Intelligence in Human-Machine Symbiosis](https://arxiv.org/abs/2605.00440) | export.arxiv.org |
+| 2026-05-05 04:00 | [Instance-Aware Parameter Configuration in Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem](https://arxiv.org/abs/2605.00572) | export.arxiv.org |
+| 2026-05-05 04:00 | [Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding](https://arxiv.org/abs/2605.00642) | export.arxiv.org |
+| 2026-05-05 04:00 | [To Call or Not to Call: A Framework to Assess and Optimize LLM Tool Calling](https://arxiv.org/abs/2605.00737) | export.arxiv.org |
+| 2026-05-05 04:00 | [Position: agentic AI orchestration should be Bayes-consistent](https://arxiv.org/abs/2605.00742) | export.arxiv.org |
+| 2026-05-05 04:00 | [Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation](https://arxiv.org/abs/2604.28031) | export.arxiv.org |
+| 2026-05-05 04:00 | [Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference](https://arxiv.org/abs/2605.00005) | export.arxiv.org |
+| 2026-05-05 04:00 | [Mean-Field Path-Integral Diffusion: From Samples to Interacting Agents](https://arxiv.org/abs/2605.00007) | export.arxiv.org |
+| 2026-05-05 04:00 | [FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources](https://arxiv.org/abs/2605.00011) | export.arxiv.org |
+| 2026-05-05 04:00 | [Exploring LLM biases to manipulate AI search overview](https://arxiv.org/abs/2605.00012) | export.arxiv.org |
+| 2026-05-05 04:00 | [TimeRFT: Stimulating Generalizable Time Series Forecasting for TSFMs via Reinforcement Finetuning](https://arxiv.org/abs/2605.00015) | export.arxiv.org |
+| 2026-05-05 04:00 | [AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-Angle Domain for AI-Native 6G](https://arxiv.org/abs/2605.00020) | export.arxiv.org |
+| 2026-05-05 04:00 | [Putting HUMANS first: Efficient LAM Evaluation with Human Preference Alignment](https://arxiv.org/abs/2605.00022) | export.arxiv.org |
+| 2026-05-05 04:00 | [Sure About That Line? Approaching Confidence-Based, Real-Time Line Assignment in Reading Gaze Data](https://arxiv.org/abs/2605.00033) | export.arxiv.org |
+| 2026-05-05 04:00 | [SiriusHelper: An LLM Agent-Based Operations Assistant for Big Data Platforms](https://arxiv.org/abs/2605.00043) | export.arxiv.org |
+| 2026-05-05 04:00 | [Ambient Persuasion in a Deployed AI Agent: Unauthorized Escalation Following Routine Non-Adversarial Content Exposure](https://arxiv.org/abs/2605.00055) | export.arxiv.org |
+| 2026-05-05 04:00 | [Smart Ensemble Learning Framework for Predicting Groundwater Heavy Metal Pollution](https://arxiv.org/abs/2605.00056) | export.arxiv.org |
+| 2026-05-05 04:00 | [Dynamic-TD3: A Novel Algorithm for UAV Path Planning with Dynamic Obstacle Trajectory Prediction](https://arxiv.org/abs/2605.00059) | export.arxiv.org |
+| 2026-05-05 04:00 | [A Survey of Reasoning-Intensive Retrieval: Progress and Challenges](https://arxiv.org/abs/2605.00063) | export.arxiv.org |
+| 2026-05-05 04:00 | [Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications](https://arxiv.org/abs/2605.00068) | export.arxiv.org |
+| 2026-05-05 04:00 | [Compliance-Aware Agentic Payments on Stablecoin Rails](https://arxiv.org/abs/2605.00071) | export.arxiv.org |
+| 2026-05-05 04:00 | [XekRung Technical Report](https://arxiv.org/abs/2605.00072) | export.arxiv.org |
+| 2026-05-05 04:00 | [CRC-Screen: Certified DNA-Synthesis Hazard Screening Under Taxonomic Shift](https://arxiv.org/abs/2605.00074) | export.arxiv.org |
+| 2026-05-05 04:00 | [Hyperspherical Forward-Forward with Prototypical Representations](https://arxiv.org/abs/2605.00082) | export.arxiv.org |
+| 2026-05-05 04:00 | [NorBERTo: A ModernBERT Model Trained for Portuguese with 331 Billion Tokens Corpus](https://arxiv.org/abs/2605.00086) | export.arxiv.org |
+| 2026-05-05 04:00 | [DeGenTWeb: A First Look at LLM-dominant Websites](https://arxiv.org/abs/2605.00087) | export.arxiv.org |
+| 2026-05-05 04:00 | [AIDA-ReID: Adaptive Intermediate Domain Adaptation for Generalizable and Source-Free Person Re-Identification](https://arxiv.org/abs/2605.00111) | export.arxiv.org |
+| 2026-05-05 04:00 | [LiDAR for Rehabilitation: A Comprehensive Survey of Applications, AI Techniques, and Future Directions](https://arxiv.org/abs/2605.00879) | export.arxiv.org |
+| 2026-05-05 04:00 | [ARIS: Agentic and Relationship Intelligence System for Social Robots](https://arxiv.org/abs/2605.00943) | export.arxiv.org |
+| 2026-05-05 04:00 | [Ablation Study of Multimodal Perception, Language Grounding, and Control for Human-Robot Interaction in an Object Detection and Grasping Task](https://arxiv.org/abs/2605.00963) | export.arxiv.org |
+| 2026-05-05 04:00 | [Value Functions for Temporal Logic: Optimal Policies and Safety Filters](https://arxiv.org/abs/2605.01051) | export.arxiv.org |
+| 2026-05-05 04:00 | [Online Safety Filter for Deformable Object Manipulation with Horizon Agnostic Neural Operators](https://arxiv.org/abs/2605.01069) | export.arxiv.org |
+| 2026-05-05 04:00 | [Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery](https://arxiv.org/abs/2605.01191) | export.arxiv.org |
+| 2026-05-05 04:00 | [VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model](https://arxiv.org/abs/2605.01194) | export.arxiv.org |
+| 2026-05-05 04:00 | [TAIL-Safe: Task-Agnostic Safety Monitoring for Imitation Learning Policies](https://arxiv.org/abs/2605.01195) | export.arxiv.org |
+| 2026-05-05 04:00 | [To Do or Not to Do: Ensuring the Safety of Visuomotor Policies Learned from Demonstrations](https://arxiv.org/abs/2605.01201) | export.arxiv.org |
+| 2026-05-05 04:00 | [Dynamics Aware Quadrupedal Locomotion via Intrinsic Dynamics Head](https://arxiv.org/abs/2605.01227) | export.arxiv.org |
+| 2026-05-05 04:00 | [A Principled Approach for Creating High-fidelity Synthetic Demonstrations for Imitation Learning](https://arxiv.org/abs/2605.01232) | export.arxiv.org |
+| 2026-05-05 04:00 | [Bi-Level Reinforcement Learning Control for an Underactuated Blimp via Center-of-Mass Reconfiguration](https://arxiv.org/abs/2605.01289) | export.arxiv.org |
+| 2026-05-05 04:00 | [Terrain Perception for Agricultural UAVs in Complex Farmland via Rotating mmWave Radar](https://arxiv.org/abs/2605.01340) | export.arxiv.org |
+| 2026-05-05 04:00 | [Assistance Without Interruption: A Benchmark and LLM-based Framework for Non-Intrusive Human-Robot Assistance](https://arxiv.org/abs/2605.01368) | export.arxiv.org |
+| 2026-05-05 04:00 | [ESARBench: A Benchmark for Agentic UAV Embodied Search and Rescue](https://arxiv.org/abs/2605.01371) | export.arxiv.org |
+| 2026-05-05 04:00 | [SixthSense: Task-Agnostic Proprioception-Only Whole-Body Wrench Estimation for Humanoids](https://arxiv.org/abs/2605.01427) | export.arxiv.org |
+| 2026-05-05 04:00 | [Evidence-Based Landing Site Selection and Vison-Based Landing for UAVs in Unstructured Environments](https://arxiv.org/abs/2605.01432) | export.arxiv.org |
+| 2026-05-05 04:00 | [High-Speed, Scalable Sensor Readout for Dexterous Robotic Hands via Shift-Register Multiplexing](https://arxiv.org/abs/2605.01434) | export.arxiv.org |
+| 2026-05-05 04:00 | [Decompose and Recompose: Reasoning New Skills from Existing Abilities for Cross-Task Robotic Manipulation](https://arxiv.org/abs/2605.01448) | export.arxiv.org |
+| 2026-05-05 04:00 | [LLM-Foraging: Large Language Models for Decentralized Swarm Robot Foraging](https://arxiv.org/abs/2605.01461) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -112,7 +112,20 @@
 
     
       TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 3 | [login?return_to=%2FAIDC-AI%2FPixelle-Video" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1091534692,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FAIDC-AI%2FPixelle-Video" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1091534692,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 3 | [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
 
 
   
@@ -123,12 +136,46 @@
 
 
       
-        AIDC-AI /
+        msitarzewski /
 
-      Pixelle-Video  
+      agency-agents  
 
     
-      🚀 AI 全自动短视频引擎 / AI Fully Automated Short Video Engine |
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| 4 | [login?return_to=%2Fvirattt%2Fdexter" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1076426995,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fvirattt%2Fdexter" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1076426995,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        virattt /
+
+      dexter  
+
+    
+      An autonomous agent for deep financial research |
+| 5 | [login?return_to=%2Ffspecii%2Face-step-ui" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1149314442,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ffspecii%2Face-step-ui" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1149314442,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        fspecii /
+
+      ace-step-ui  
+
+    
+      🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno! |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -171,24 +218,7 @@
 
     
       🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
-| 3 | [login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fforrestchang%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        forrestchang /
-
-      andrej-karpathy-skills  
-
-    
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
-| 4 | [login?return_to=%2FAIDC-AI%2FPixelle-Video" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1091534692,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FAIDC-AI%2FPixelle-Video" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1091534692,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 3 | [login?return_to=%2FAIDC-AI%2FPixelle-Video" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1091534692,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FAIDC-AI%2FPixelle-Video" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1091534692,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
