@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-05-16 04:50 UTC）
+# AI & 机器人 技术热点日报（2026-05-17 05:07 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,49 +10,13 @@
 
 |---|---|---|
 
-| 2026-05-16 04:00 | [GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration](https://arxiv.org/abs/2605.13848) | export.arxiv.org |
-| 2026-05-16 04:00 | [Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity](https://arxiv.org/abs/2605.13849) | export.arxiv.org |
-| 2026-05-16 04:00 | [A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology](https://arxiv.org/abs/2605.13850) | export.arxiv.org |
-| 2026-05-16 04:00 | [Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems](https://arxiv.org/abs/2605.13851) | export.arxiv.org |
-| 2026-05-16 04:00 | [PREPING: Building Agent Memory without Tasks](https://arxiv.org/abs/2605.13880) | export.arxiv.org |
-| 2026-05-16 04:00 | [PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts](https://arxiv.org/abs/2605.14002) | export.arxiv.org |
-| 2026-05-16 04:00 | [Conditional Attribute Estimation with Autoregressive Sequence Models](https://arxiv.org/abs/2605.14004) | export.arxiv.org |
-| 2026-05-16 04:00 | [Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents](https://arxiv.org/abs/2605.14033) | export.arxiv.org |
-| 2026-05-16 04:00 | [From Descriptive to Prescriptive: Uncover the Social Value Alignment of LLM-based Agents](https://arxiv.org/abs/2605.14034) | export.arxiv.org |
-| 2026-05-16 04:00 | [Enhanced and Efficient Reasoning in Large Learning Models](https://arxiv.org/abs/2605.14036) | export.arxiv.org |
-| 2026-05-16 04:00 | [Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use](https://arxiv.org/abs/2605.14038) | export.arxiv.org |
-| 2026-05-16 04:00 | [Network-Aware Bilinear Tokenization for Brain Functional Connectivity Representation Learning](https://arxiv.org/abs/2605.14048) | export.arxiv.org |
-| 2026-05-16 04:00 | [Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning](https://arxiv.org/abs/2605.14049) | export.arxiv.org |
-| 2026-05-16 04:00 | [SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks](https://arxiv.org/abs/2605.14051) | export.arxiv.org |
-| 2026-05-16 04:00 | [Bad Seeing or Bad Thinking? Rewarding Perception for Vision-Language Reasoning](https://arxiv.org/abs/2605.14054) | export.arxiv.org |
-| 2026-05-16 04:00 | [MathAtlas: A Benchmark for Autoformalization in the Wild](https://arxiv.org/abs/2605.14061) | export.arxiv.org |
-| 2026-05-16 04:00 | [Know When To Fold 'Em: Token-Efficient LLM Synthetic Data Generation via Multi-Stage In-Flight Rejection](https://arxiv.org/abs/2605.14062) | export.arxiv.org |
-| 2026-05-16 04:00 | [SkillFlow: Flow-Driven Recursive Skill Evolution for Agentic Orchestration](https://arxiv.org/abs/2605.14089) | export.arxiv.org |
-| 2026-05-16 04:00 | [ChromaFlow: A Negative Ablation Study of Orchestration Overhead in Tool-Augmented Agent Evaluation](https://arxiv.org/abs/2605.14102) | export.arxiv.org |
-| 2026-05-16 04:00 | [Modeling Bounded Rationality in Drug Shortage Pharmacists Using Attention-Guided Dynamic Decomposition](https://arxiv.org/abs/2605.14111) | export.arxiv.org |
-| 2026-05-16 04:00 | [ClawForge: Generating Executable Interactive Benchmarks for Command-Line Agents](https://arxiv.org/abs/2605.14133) | export.arxiv.org |
-| 2026-05-16 04:00 | [Distribution-Aware Algorithm Design with LLM Agents](https://arxiv.org/abs/2605.14141) | export.arxiv.org |
-| 2026-05-16 04:00 | [Agentic Systems as Boosting Weak Reasoning Models](https://arxiv.org/abs/2605.14163) | export.arxiv.org |
-| 2026-05-16 04:00 | [Unsteady Metrics and Benchmarking Cultures of AI Model Builders](https://arxiv.org/abs/2605.14164) | export.arxiv.org |
-| 2026-05-16 04:00 | [The Evaluation Trap: Benchmark Design as Theoretical Commitment](https://arxiv.org/abs/2605.14167) | export.arxiv.org |
-| 2026-05-16 04:00 | [Grounded Continuation: A Linear-Time Runtime Verifier for LLM Conversations](https://arxiv.org/abs/2605.14175) | export.arxiv.org |
-| 2026-05-16 04:00 | [SimPersona: Learning Discrete Buyer Personas from Raw Clickstreams for Grounded E-Commerce Agents](https://arxiv.org/abs/2605.14205) | export.arxiv.org |
-| 2026-05-16 04:00 | [ASH: Agents that Self-Hone via Embodied Learning](https://arxiv.org/abs/2605.14211) | export.arxiv.org |
-| 2026-05-16 04:00 | [MetaAgent-X : Breaking the Ceiling of Automatic Multi-Agent Systems via End-to-End Reinforcement Learning](https://arxiv.org/abs/2605.14212) | export.arxiv.org |
-| 2026-05-16 04:00 | [GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design](https://arxiv.org/abs/2605.14215) | export.arxiv.org |
-| 2026-05-16 04:00 | [Fusion-fission forecasts when AI will shift to undesirable behavior](https://arxiv.org/abs/2605.14218) | export.arxiv.org |
-| 2026-05-16 04:00 | [Good to Go: The LOOP Skill Engine That Hits 99% Success and Slashes Token Usage by 99% via One-Shot Recording and Deterministic Replay](https://arxiv.org/abs/2605.14237) | export.arxiv.org |
-| 2026-05-16 04:00 | [Hypergraph Enterprise Agentic Reasoner over Heterogeneous Business Systems](https://arxiv.org/abs/2605.14259) | export.arxiv.org |
-| 2026-05-16 04:00 | [Heuristic Pathologies and Further Variance Reduction via Uncertainty Propagation in the AIVAT Family of Techniques](https://arxiv.org/abs/2605.14261) | export.arxiv.org |
-| 2026-05-16 04:00 | [Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence](https://arxiv.org/abs/2605.14266) | export.arxiv.org |
-| 2026-05-16 04:00 | [Parallelizing Counterfactual Regret Minimization](https://arxiv.org/abs/2605.14277) | export.arxiv.org |
-| 2026-05-16 04:00 | [Precise Verification of Transformers through ReLU-Catalyzed Abstraction Refinement](https://arxiv.org/abs/2605.14294) | export.arxiv.org |
-| 2026-05-16 04:00 | [Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems](https://arxiv.org/abs/2605.14318) | export.arxiv.org |
-| 2026-05-16 04:00 | [Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows](https://arxiv.org/abs/2605.14322) | export.arxiv.org |
-| 2026-05-16 04:00 | [CrystalReasoner: Reasoning and RL for Property-Conditioned Crystal Structure Generation](https://arxiv.org/abs/2605.14344) | export.arxiv.org |
+| 2026-05-16 00:00 | [OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership) | openai.com |
 | 2026-05-15 17:00 | [Video Friday: Heavy Robotic Machinery Operates Itself](https://spectrum.ieee.org/video-friday-material-handling-robots) | spectrum.ieee.org |
-| 2026-05-15 00:00 | [A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt) | openai.com |
+| 2026-05-15 00:00 | [How business operations teams use Codex](https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex) | openai.com |
 | 2026-05-15 00:00 | [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) | openai.com |
+| 2026-05-15 00:00 | [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) | openai.com |
+| 2026-05-15 00:00 | [A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt) | openai.com |
+| 2026-05-15 00:00 | [How sales teams use Codex](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) | openai.com |
 | 2026-05-14 20:30 | [Sea's View on the Future of Agentic Software Development with Codex](https://openai.com/index/sea-david-chen) | openai.com |
 | 2026-05-14 13:00 | [Work with Codex from anywhere](https://openai.com/index/work-with-codex-from-anywhere) | openai.com |
 | 2026-05-14 00:00 | [Helping ChatGPT better recognize context in sensitive conversations](https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations) | openai.com |
@@ -60,8 +24,8 @@
 | 2026-05-13 00:00 | [Our response to the TanStack npm supply chain attack](https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack) | openai.com |
 | 2026-05-12 15:00 | [Hello Robot Sets the Standard for Practical, Safe Home Robots](https://spectrum.ieee.org/stretch-4-home-robot) | spectrum.ieee.org |
 | 2026-05-12 15:00 | [How finance teams use Codex](https://openai.com/academy/how-finance-teams-use-codex) | openai.com |
-| 2026-05-12 00:00 | [How NVIDIA engineers and researchers build with Codex](https://openai.com/index/nvidia) | openai.com |
 | 2026-05-12 00:00 | [AutoScout24 scales engineering with AI-powered workflows](https://openai.com/index/autoscout24) | openai.com |
+| 2026-05-12 00:00 | [How NVIDIA engineers and researchers build with Codex](https://openai.com/index/nvidia) | openai.com |
 | 2026-05-12 00:00 | [What Parameter Golf taught us about AI-assisted research](https://openai.com/index/what-parameter-golf-taught-us) | openai.com |
 | 2026-05-11 15:00 | [How ChatGPT adoption broadened in early 2026](https://openai.com/signals/research/2026q1-update) | openai.com |
 | 2026-05-11 10:00 | [OpenAI Campus Network: Student club interest form](https://openai.com/index/openai-campus-network-student-club-interest-form) | openai.com |
@@ -70,6 +34,42 @@
 | 2026-05-11 06:00 | [OpenAI launches DeployCo to help businesses build around intelligence](https://openai.com/index/openai-launches-the-deployment-company) | openai.com |
 | 2026-05-09 16:00 | [Video Friday: AI Gives Robot Hands Humanlike Dexterity](https://spectrum.ieee.org/video-friday-robotic-hand-dexterity) | spectrum.ieee.org |
 | 2026-05-08 15:00 | [See what happens when creative legends use AI to make ads for small businesses.](https://blog.google/company-news/inside-google/company-announcements/the-small-brief/) | blog.google |
+| 2026-05-08 12:30 | [Running Codex safely at OpenAI](https://openai.com/index/running-codex-safely) | openai.com |
+| 2026-05-07 15:00 | [Find out how AlphaEvolve has gone from research to solving real-life problems.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/) | blog.google |
+| 2026-05-07 13:00 | [Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber) | openai.com |
+| 2026-05-07 11:00 | [Parloa builds service agents customers want to talk to](https://openai.com/index/parloa) | openai.com |
+| 2026-05-07 10:00 | [Advancing voice intelligence with new models in the API](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api) | openai.com |
+| 2026-05-07 00:00 | [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) | openai.com |
+| 2026-05-07 00:00 | [Introducing Trusted Contact in ChatGPT](https://openai.com/index/introducing-trusted-contact-in-chatgpt) | openai.com |
+| 2026-05-07 00:00 | [Simplex rethinks software development with Codex](https://openai.com/index/simplex) | openai.com |
+| 2026-05-06 16:00 | [5 gardening tips you can try right in Search](https://blog.google/products-and-platforms/products/search/gardening-tips/) | blog.google |
+| 2026-05-06 08:00 | [How ChatGPT learns about the world while protecting privacy](https://openai.com/index/how-chatgpt-protects-privacy) | openai.com |
+| 2026-05-06 00:00 | [Introducing ChatGPT Futures: Class of 2026](https://openai.com/index/introducing-chatgpt-futures-class-of-2026) | openai.com |
+| 2026-05-06 00:00 | [How frontier firms are pulling ahead](https://openai.com/index/introducing-b2b-signals) | openai.com |
+| 2026-05-06 00:00 | [Singular Bank helps bankers move fast with ChatGPT and Codex](https://openai.com/index/singular-bank) | openai.com |
+| 2026-05-06 00:00 | [Uber uses OpenAI to help people earn smarter and book faster](https://openai.com/index/uber) | openai.com |
+| 2026-05-05 16:00 | [Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.](https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/) | blog.google |
+| 2026-05-05 10:00 | [Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)](https://openai.com/index/mrc-supercomputer-networking) | openai.com |
+| 2026-05-05 10:00 | [GPT-5.5 Instant: smarter, clearer, and more personalized](https://openai.com/index/gpt-5-5-instant) | openai.com |
+| 2026-05-05 10:00 | [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card) | openai.com |
+| 2026-05-05 00:00 | [Advancing youth safety and wellbeing in EMEA](https://openai.com/index/advancing-youth-safety-in-emea) | openai.com |
+| 2026-05-05 00:00 | [New ways to buy ChatGPT ads](https://openai.com/index/new-ways-to-buy-chatgpt-ads) | openai.com |
+| 2026-05-04 21:00 | [OpenAI and PwC collaborate to reimagine the office of the CFO](https://openai.com/index/openai-pwc-finance-collaboration) | openai.com |
+| 2026-05-04 17:30 | [iRobot Founder Wants to Put a Robotic Familiar Into Your Home](https://spectrum.ieee.org/familiar-machines-and-magic) | spectrum.ieee.org |
+| 2026-05-04 17:00 | [The latest AI news we announced in April 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/) | blog.google |
+| 2026-05-04 15:30 | [Reduce friction and latency for long-running jobs with Webhooks in Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/) | blog.google |
+| 2026-05-04 11:08 | [DAIMON Robotics Wants to Give Robot Hands a Sense of Touch](https://spectrum.ieee.org/daimon-robotics-physical-ai) | spectrum.ieee.org |
+| 2026-05-04 00:00 | [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale) | openai.com |
+| 2026-05-01 16:30 | [Video Friday: Figure, 1X Ramp Up Humanoid Robot Production](https://spectrum.ieee.org/video-friday-humanoid-robot-production) | spectrum.ieee.org |
+| 2026-04-30 00:00 | [Introducing Advanced Account Security](https://openai.com/index/advanced-account-security) | openai.com |
+| 2026-04-29 20:00 | [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from) | openai.com |
+| 2026-04-28 16:00 | [Celebrating 20 years of Google Translate: Fun facts, tips and new features to try](https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/) | blog.google |
+| 2026-04-27 13:00 | [Join the new AI Agents Vibe Coding Course from Google and Kaggle](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/) | blog.google |
+| 2026-04-24 19:00 | [8 Gemini tips for organizing your space (and life)](https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/) | blog.google |
+| 2026-04-24 16:30 | [Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?](https://spectrum.ieee.org/video-friday-ping-pong-robot) | spectrum.ieee.org |
+| 2026-04-23 13:00 | [This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC](https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica) | spectrum.ieee.org |
+| 2026-04-23 12:00 | [Here’s how our TPUs power increasingly demanding AI workloads.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/) | blog.google |
+| 2026-04-23 09:00 | [Elevating Austria: Google invests in its first data center in the Alps.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/) | blog.google |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,24 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Ftinyhumansai%2Fopenhuman" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1161163182,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ftinyhumansai%2Fopenhuman" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1161163182,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        tinyhumansai /
-
-      openhuman  
-
-    
-      Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| 2 | [login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1079456184,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1079456184,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1079456184,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1079456184,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -112,7 +95,7 @@
 
     
       A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
-| 3 | [login?return_to=%2FNVIDIA-AI-Blueprints%2Fvideo-search-and-summarization" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:876545970,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FNVIDIA-AI-Blueprints%2Fvideo-search-and-summarization" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:876545970,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2FAnil-matcha%2FOpen-Generative-AI" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:638513786,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FAnil-matcha%2FOpen-Generative-AI" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:638513786,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -123,12 +106,29 @@
 
 
       
-        NVIDIA-AI-Blueprints /
+        Anil-matcha /
 
-      video-search-and-summarization  
+      Open-Generative-AI  
 
     
-      Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications. |
+      Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
+| 3 | [login?return_to=%2Ftinyhumansai%2Fopenhuman" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1161163182,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ftinyhumansai%2Fopenhuman" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1161163182,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman  
+
+    
+      Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -235,23 +235,6 @@
 
     
       "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
-| 6 | [login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        addyosmani /
-
-      agent-skills  
-
-    
-      Production-grade engineering skills for AI coding agents. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
