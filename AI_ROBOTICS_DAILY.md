@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-05-30 05:08 UTC）
+# AI & 机器人 技术热点日报（2026-05-31 05:52 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2026-05-30 13:21 | [MISUMI Group invests $1B in Americas, global AI and digital manufacturing](https://www.therobotreport.com/misumi-group-invests-1b-americas-global-ai-digital-manufacturing/) | www.therobotreport.com |
 | 2026-05-29 19:00 | [Take our I/O 2026 quiz, vibe coded in Google AI Studio.](https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/) | blog.google |
 | 2026-05-29 17:30 | [9 demos of Gemini Omni and Gemini 3.5 in action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/) | blog.google |
 | 2026-05-29 17:00 | [Video Friday: Extreme Omnidirectional Robot](https://spectrum.ieee.org/video-friday-rabona-soccer) | spectrum.ieee.org |
@@ -24,14 +25,14 @@
 | 2026-05-28 14:12 | [The evolution of cobots in metal fabrication and construction](https://www.therobotreport.com/hirebotics-talks-evolution-cobots-metal-fabrication-construction/) | www.therobotreport.com |
 | 2026-05-28 12:00 | [Your guide to the last day of the 2026 Robotics Summit & Expo](https://www.therobotreport.com/your-guide-to-the-last-day-of-the-2026-robotics-summit-expo/) | www.therobotreport.com |
 | 2026-05-28 12:00 | [How Endava builds an agentic organization with Codex](https://openai.com/index/endava) | openai.com |
-| 2026-05-28 00:00 | [OpenAI’s Frontier Governance Framework](https://openai.com/index/openai-frontier-governance-framework) | openai.com |
 | 2026-05-28 00:00 | [MUFG aims to become AI-native with OpenAI](https://openai.com/index/mufg) | openai.com |
+| 2026-05-28 00:00 | [OpenAI’s Frontier Governance Framework](https://openai.com/index/openai-frontier-governance-framework) | openai.com |
 | 2026-05-27 12:00 | [A guide to Day 1 of the 2026 Robotics Summit & Expo](https://www.therobotreport.com/a-guide-to-day-1-of-the-2026-robotics-summit-expo/) | www.therobotreport.com |
 | 2026-05-27 11:43 | [Why robots still struggle to see the real world](https://www.therobotreport.com/why-robots-still-struggle-to-see-real-world-orbbec/) | www.therobotreport.com |
 | 2026-05-27 11:00 | [Cisco and OpenAI redefine enterprise engineering with Codex](https://openai.com/index/cisco) | openai.com |
 | 2026-05-27 07:00 | [Building self-improving tax agents with Codex](https://openai.com/index/building-self-improving-tax-agents-with-codex) | openai.com |
-| 2026-05-27 00:00 | [Election information and safeguards in 2026](https://openai.com/index/election-safeguards-2026) | openai.com |
 | 2026-05-27 00:00 | [Warp’s big bet on building open source with GPT-5.5](https://openai.com/index/warp) | openai.com |
+| 2026-05-27 00:00 | [Election information and safeguards in 2026](https://openai.com/index/election-safeguards-2026) | openai.com |
 | 2026-05-26 20:34 | [How humanoids learn to read the room](https://www.therobotreport.com/how-humanoids-learn-to-read-the-room-2/) | www.therobotreport.com |
 | 2026-05-26 20:34 | [GMSL and the growing ecosystem around robotic vision systems](https://www.therobotreport.com/gmsl-and-the-growing-ecosystem-around-robotic-vision-systems-2/) | www.therobotreport.com |
 | 2026-05-26 14:35 | [XELA Robotics to show tactile sensing at the 2026 Robotics Summit & Expo](https://www.therobotreport.com/xela-robotics-show-tactile-sensing-2026-robotics-summit-expo/) | www.therobotreport.com |
@@ -41,11 +42,10 @@
 | 2026-05-25 14:23 | [Simulation vs. digital twin: A strategic lens on virtual manufacturing](https://www.therobotreport.com/simulation-versus-digital-twin-strategic-lens-on-virtual-manufacturing/) | www.therobotreport.com |
 | 2026-05-25 00:00 | [OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership](https://openai.com/index/grupo-folha-grupo-uol-partnership) | openai.com |
 | 2026-05-24 12:25 | [Sortera uses physical AI to double capacity in a Tennessee sorting facility](https://www.therobotreport.com/sortera-uses-physical-ai-to-double-capacity-in-a-tennessee-sorting-facility/) | www.therobotreport.com |
-| 2026-05-23 12:30 | [The future of physical AI isn’t humanoid; it’s task-specific and cost-efficient](https://www.therobotreport.com/future-high-scale-robotics-isnt-humanoid-its-task-specific-cost-efficient-ai/) | www.therobotreport.com |
 | 2026-05-22 18:00 | [Catch up on the Dialogues stage at Google I/O 2026.](https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/) | blog.google |
 | 2026-05-22 16:00 | [Video Friday: Atlas Versus a Fridge](https://spectrum.ieee.org/video-friday-humanoid-robot-learning) | spectrum.ieee.org |
-| 2026-05-22 00:00 | [OpenAI named a Leader in enterprise coding agents by Gartner](https://openai.com/index/gartner-2026-agentic-coding-leader) | openai.com |
 | 2026-05-22 00:00 | [How Virgin Atlantic ships faster with Codex](https://openai.com/index/virgin-atlantic) | openai.com |
+| 2026-05-22 00:00 | [OpenAI named a Leader in enterprise coding agents by Gartner](https://openai.com/index/gartner-2026-agentic-coding-leader) | openai.com |
 | 2026-05-21 14:00 | [Open-Source Software Is Starting to Help Robots Think](https://spectrum.ieee.org/open-source-robot-ai-platforms) | spectrum.ieee.org |
 | 2026-05-21 12:00 | [AdventHealth advances whole-person care with OpenAI](https://openai.com/index/adventhealth) | openai.com |
 | 2026-05-21 10:00 | [The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces](https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces) | spectrum.ieee.org |
@@ -95,54 +95,7 @@
 
     
       利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| 2 | [login?return_to=%2Ftwentyhq%2Ftwenty" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:572984571,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ftwentyhq%2Ftwenty" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:572984571,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        twentyhq /
-
-      twenty  
-
-    
-      The open alternative to Salesforce, designed for AI. |
-| 3 | [sponsors/Leonxlnx](https://github.com/sponsors/Leonxlnx) | Sponsor
-    
-  
-
-
-
-      
-            
-    
-
-    
-
-        
-          Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        Leonxlnx /
-
-      taste-skill  
-
-    
-      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
-| 4 | [login?return_to=%2FCrosstalk-Solutions%2Fproject-nomad" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1007827531,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FCrosstalk-Solutions%2Fproject-nomad" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1007827531,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2FCrosstalk-Solutions%2Fproject-nomad" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1007827531,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FCrosstalk-Solutions%2Fproject-nomad" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1007827531,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -159,7 +112,7 @@
 
     
       Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
-| 5 | [login?return_to=%2Fhardikpandya%2Fstop-slop" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1132137660,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fhardikpandya%2Fstop-slop" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1132137660,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 3 | [login?return_to=%2FFareedKhan-dev%2Ftrain-llm-from-scratch" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:915520679,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FFareedKhan-dev%2Ftrain-llm-from-scratch" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:915520679,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -170,12 +123,29 @@
 
 
       
-        hardikpandya /
+        FareedKhan-dev /
 
-      stop-slop  
+      train-llm-from-scratch  
 
     
-      A skill file for removing AI tells from prose |
+      A straightforward method for training your LLM, from downloading data to generating text. |
+| 4 | [login?return_to=%2FOpenMOSS%2FMOSS-TTS" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1152193330,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FOpenMOSS%2FMOSS-TTS" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1152193330,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        OpenMOSS /
+
+      MOSS-TTS  
+
+    
+      MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -308,20 +278,7 @@
 
     
       Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
-| 6 | [sponsors/presenton](https://github.com/sponsors/presenton) | Sponsor
-    
-  
-
-
-
-      
-            
-    
-
-    
-
-        
-          Star
+| 6 | [login?return_to=%2Fmicrosoft%2Fagent-governance-toolkit" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1171111467,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmicrosoft%2Fagent-governance-toolkit" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1171111467,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -332,12 +289,12 @@
 
 
       
-        presenton /
+        microsoft /
 
-      presenton  
+      agent-governance-toolkit  
 
     
-      Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative) |
+      AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. |
 | 7 | [login?return_to=%2Fdograh-hq%2Fdograh" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1053292493,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fdograh-hq%2Fdograh" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1053292493,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -372,7 +329,7 @@
 
     
       ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
-| 9 | [login?return_to=%2Fmicrosoft%2Fagent-governance-toolkit" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1171111467,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmicrosoft%2Fagent-governance-toolkit" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1171111467,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 9 | [login?return_to=%2FChachamaru127%2Fclaude-code-harness" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1114903449,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FChachamaru127%2Fclaude-code-harness" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1114903449,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -383,12 +340,12 @@
 
 
       
-        microsoft /
+        Chachamaru127 /
 
-      agent-governance-toolkit  
+      claude-code-harness  
 
     
-      AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. |
+      Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
