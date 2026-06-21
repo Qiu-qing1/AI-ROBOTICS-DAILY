@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-06-20 05:51 UTC）
+# AI & 机器人 技术热点日报（2026-06-21 06:24 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,46 +10,7 @@
 
 |---|---|---|
 
-| 2026-06-20 04:00 | [Deontic Policies for Runtime Governance of Agentic AI Systems](https://arxiv.org/abs/2606.19464) | export.arxiv.org |
-| 2026-06-20 04:00 | [Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023](https://arxiv.org/abs/2606.19469) | export.arxiv.org |
-| 2026-06-20 04:00 | [Diffusion Language Models: An Experimental Analysis](https://arxiv.org/abs/2606.19475) | export.arxiv.org |
-| 2026-06-20 04:00 | [Hidden Anchors in Multi-Agent LLM Deliberation](https://arxiv.org/abs/2606.19494) | export.arxiv.org |
-| 2026-06-20 04:00 | [DeXposure-Claw: An Agentic System for DeFi Risk Supervision](https://arxiv.org/abs/2606.19501) | export.arxiv.org |
-| 2026-06-20 04:00 | [LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data](https://arxiv.org/abs/2606.19509) | export.arxiv.org |
-| 2026-06-20 04:00 | [REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk](https://arxiv.org/abs/2606.19522) | export.arxiv.org |
-| 2026-06-20 04:00 | [Emergent Alignment](https://arxiv.org/abs/2606.19527) | export.arxiv.org |
-| 2026-06-20 04:00 | [ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence](https://arxiv.org/abs/2606.19538) | export.arxiv.org |
-| 2026-06-20 04:00 | [Uncertainty Decomposition for Clarification Seeking in LLM Agents](https://arxiv.org/abs/2606.19559) | export.arxiv.org |
-| 2026-06-20 04:00 | [Analyzing the Narration Gap in LLM-Solver Loops](https://arxiv.org/abs/2606.19588) | export.arxiv.org |
-| 2026-06-20 04:00 | [Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why](https://arxiv.org/abs/2606.19602) | export.arxiv.org |
-| 2026-06-20 04:00 | [Which Pairs to Compare for LLM Post-Training?](https://arxiv.org/abs/2606.19607) | export.arxiv.org |
-| 2026-06-20 04:00 | [Toten: Knowledge-Based Ontological Tokenization Of Physical Quantities And Technical Notation In Brazilian Portuguese](https://arxiv.org/abs/2606.19626) | export.arxiv.org |
-| 2026-06-20 04:00 | [AI4SE and SE4AI Exploration: A Decade Looking Back and Forward](https://arxiv.org/abs/2606.19630) | export.arxiv.org |
-| 2026-06-20 04:00 | [BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation](https://arxiv.org/abs/2606.19651) | export.arxiv.org |
-| 2026-06-20 04:00 | [Denoising Implicit Feedback for Cold-start Recommendation](https://arxiv.org/abs/2606.19658) | export.arxiv.org |
-| 2026-06-20 04:00 | [Exit-and-Join Dynamics for Decentralized Coalition Formation](https://arxiv.org/abs/2606.19683) | export.arxiv.org |
-| 2026-06-20 04:00 | [Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents](https://arxiv.org/abs/2606.19704) | export.arxiv.org |
-| 2026-06-20 04:00 | [GLARE: A Natural Language Interface for Querying Global Explanations](https://arxiv.org/abs/2606.19735) | export.arxiv.org |
-| 2026-06-20 04:00 | [Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks](https://arxiv.org/abs/2606.19741) | export.arxiv.org |
-| 2026-06-20 04:00 | [A Comparative Study of Pretrained Transformer Models for Quranic ASR: Speech Representations, Label Formats, and Dataset Composition](https://arxiv.org/abs/2606.19747) | export.arxiv.org |
-| 2026-06-20 04:00 | [Benchmarking Agentic Review Systems](https://arxiv.org/abs/2606.19749) | export.arxiv.org |
-| 2026-06-20 04:00 | [Grounded Inference: Principles for Deterministically Encapsulated Generative Models](https://arxiv.org/abs/2606.19753) | export.arxiv.org |
-| 2026-06-20 04:00 | [Optimal Scheduling in a Question-Answering Forum of Knowledge Workers](https://arxiv.org/abs/2606.19759) | export.arxiv.org |
-| 2026-06-20 04:00 | [Beyond Entropy: Learning from Token-Level Distributional Deviations for LLM Reasoning](https://arxiv.org/abs/2606.19771) | export.arxiv.org |
-| 2026-06-20 04:00 | [AgentFinVQA: A Deployable Multi-Agent Pipeline for Auditable Financial Chart QA](https://arxiv.org/abs/2606.19782) | export.arxiv.org |
-| 2026-06-20 04:00 | [ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?](https://arxiv.org/abs/2606.19787) | export.arxiv.org |
-| 2026-06-20 04:00 | [CombEval: A Framework for Evaluating Combinatorial Counting in Large Language Models](https://arxiv.org/abs/2606.19788) | export.arxiv.org |
-| 2026-06-20 04:00 | [Think Again or Think Longer? Selective Verification for Budget-Aware Reasoning](https://arxiv.org/abs/2606.19808) | export.arxiv.org |
-| 2026-06-20 04:00 | [Human-on-the-Loop Orchestration for AI-Assisted Legal Discovery](https://arxiv.org/abs/2606.19812) | export.arxiv.org |
-| 2026-06-20 04:00 | [TelcoAgent: A Scalable 5G Multi-KPM Forecasting With 3GPP-Grounded Explainability](https://arxiv.org/abs/2606.19821) | export.arxiv.org |
-| 2026-06-20 04:00 | [A Systematic Evaluation of Black-Box Uncertainty Estimation Methods for Large Language Models](https://arxiv.org/abs/2606.19868) | export.arxiv.org |
-| 2026-06-20 04:00 | [MetaResearcher: Scaling Deep Research via Self-Reflective Reinforcement Learning in Adversarial Virtual Environments](https://arxiv.org/abs/2606.19893) | export.arxiv.org |
-| 2026-06-20 04:00 | [Multi-Agent Transactive Memory](https://arxiv.org/abs/2606.19911) | export.arxiv.org |
-| 2026-06-20 04:00 | [eCNNTO: A Highly Generalizable ConvNet for Accelerating Topology Optimization](https://arxiv.org/abs/2606.19921) | export.arxiv.org |
-| 2026-06-20 04:00 | [The Tao of Agency: Autotelic AI, Embedded Agency and Dissolution of the Self](https://arxiv.org/abs/2606.19924) | export.arxiv.org |
-| 2026-06-20 04:00 | [PhysDrift: Bridging the Embodiment Gap in Humanoid Co-Speech Motion Generation](https://arxiv.org/abs/2606.19935) | export.arxiv.org |
-| 2026-06-20 04:00 | [Advancing DialNav through Automatic Embodied Dialog Augmentation](https://arxiv.org/abs/2606.19948) | export.arxiv.org |
-| 2026-06-20 04:00 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) | export.arxiv.org |
+| 2026-06-20 14:00 | [Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics](https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/) | www.therobotreport.com |
 | 2026-06-19 15:00 | [Video Friday: Do Robots Even Need Legs?](https://spectrum.ieee.org/video-friday-agentic-ai-robot) | spectrum.ieee.org |
 | 2026-06-19 12:45 | [U.S. robotics industry saw double-digit growth in 2025, says IFR](https://www.therobotreport.com/u-s-robotics-industry-saw-double-digit-growth-in-2025-says-ifr/) | www.therobotreport.com |
 | 2026-06-19 12:30 | [Elmo releases new motion controller and servo drives for industrial applications](https://www.therobotreport.com/elmo-releases-new-motion-controller-servo-drives-industrial-applications/) | www.therobotreport.com |
@@ -70,6 +31,45 @@
 | 2026-06-17 10:00 | [A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction) | openai.com |
 | 2026-06-17 00:00 | [Introducing LifeSciBench](https://openai.com/index/introducing-life-sci-bench) | openai.com |
 | 2026-06-16 19:22 | [Pegasus Tech Ventures launches $60M fund for physical AI startups](https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/) | www.therobotreport.com |
+| 2026-06-16 13:59 | [Kawasaki Robotics to debut RL030N physical AI platform at Automate](https://www.therobotreport.com/kawasaki-robotics-debut-rl030n-physical-ai-platform-automate/) | www.therobotreport.com |
+| 2026-06-16 12:59 | [Genesis AI launches Eno general-purpose robot](https://www.therobotreport.com/genesis-ai-launches-eno-general-purpose-robot/) | www.therobotreport.com |
+| 2026-06-16 11:04 | [Built Robotics, Penn xLAB to develop physical AI for construction](https://www.therobotreport.com/xlab-and-built-robotics-partner-to-advance-construction/) | www.therobotreport.com |
+| 2026-06-16 00:00 | [Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation) | openai.com |
+| 2026-06-15 15:00 | [We’re strengthening our presence in Alabama through new investments and community support.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/) | blog.google |
+| 2026-06-14 17:00 | [Introducing the OpenAI Partner Network](https://openai.com/index/introducing-openai-partner-network) | openai.com |
+| 2026-06-13 13:00 | [Visual Language Models Train Robots to Read Human Emotions](https://spectrum.ieee.org/robot-emotions-visual-language-models) | spectrum.ieee.org |
+| 2026-06-12 18:00 | [Award-Winning Researcher Trains Robots to Make Educated Guesses](https://spectrum.ieee.org/researcher-trains-robots-to-guess) | spectrum.ieee.org |
+| 2026-06-12 17:00 | [Video Friday: Robotic Motion Discovery Reveals Unusual Behaviors](https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation) | spectrum.ieee.org |
+| 2026-06-12 10:00 | [New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work) | openai.com |
+| 2026-06-12 00:00 | [How Preply combines AI and human tutors to personalize learning](https://openai.com/index/preply) | openai.com |
+| 2026-06-11 20:00 | [Our new community investments in Virginia support local jobs and expand energy affordability.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/) | blog.google |
+| 2026-06-11 10:00 | [Defining Autonomy for Wellness Robots in Senior Care](https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/) | spectrum.ieee.org |
+| 2026-06-11 00:00 | [OpenAI to acquire Ona](https://openai.com/index/openai-to-acquire-ona) | openai.com |
+| 2026-06-11 00:00 | [BBVA puts AI at the core of banking with OpenAI](https://openai.com/index/bbva) | openai.com |
+| 2026-06-11 00:00 | [Supporting Europe’s work in ensuring a trustworthy AI ecosystem](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem) | openai.com |
+| 2026-06-11 00:00 | [How an astrophysicist uses Codex to help simulate black holes](https://openai.com/index/using-codex-to-simulate-black-holes) | openai.com |
+| 2026-06-10 20:00 | [Access OpenAI models and Codex through your Oracle cloud commitment](https://openai.com/index/openai-on-oracle-cloud) | openai.com |
+| 2026-06-10 12:00 | [PRC-linked influence operations are targeting AI debates in the US](https://openai.com/index/prc-linked-influence-operations-ai-debates) | openai.com |
+| 2026-06-10 00:00 | [From data to decisions: how LSEG is scaling trusted AI](https://openai.com/index/lseg) | openai.com |
+| 2026-06-09 12:51 | [Beyond Dexterity: Why Contact May Define the Next Era of Robotics](https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation) | spectrum.ieee.org |
+| 2026-06-09 12:00 | [How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science) | spectrum.ieee.org |
+| 2026-06-09 12:00 | [How engineers at Nextdoor use Codex to build without limits](https://openai.com/index/nextdoor) | openai.com |
+| 2026-06-09 10:00 | [What Codex unlocks for Notion](https://openai.com/index/notion) | openai.com |
+| 2026-06-09 00:00 | [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age) | openai.com |
+| 2026-06-08 14:00 | [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1) | openai.com |
+| 2026-06-08 01:30 | [Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan) | openai.com |
+| 2026-06-08 00:00 | [Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange) | openai.com |
+| 2026-06-05 15:30 | [Video Friday: Watch This Running Robot Not Fall Down Stairs](https://spectrum.ieee.org/video-friday-humanoid-robot-running) | spectrum.ieee.org |
+| 2026-06-05 14:45 | [The latest AI news we announced in May 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/) | blog.google |
+| 2026-06-04 12:00 | [How Endava is redesigning software delivery around AI agents](https://openai.com/index/endava-frontiers) | openai.com |
+| 2026-06-04 09:00 | [Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming) | openai.com |
+| 2026-06-04 00:00 | [Biodefense in the Intelligence Age](https://openai.com/index/biodefense-in-the-intelligence-age) | openai.com |
+| 2026-06-03 13:15 | [Introducing new capabilities to GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind) | openai.com |
+| 2026-06-03 13:00 | [5 ways Google Search can level up your thrift and vintage shopping](https://blog.google/products-and-platforms/products/search/thrifting-tips/) | blog.google |
+| 2026-06-03 12:00 | [How Wasmer used Codex to build a Node.js runtime for the edge](https://openai.com/index/wasmer) | openai.com |
+| 2026-06-03 10:00 | [OpenAI public policy agenda](https://openai.com/index/public-policy-agenda) | openai.com |
+| 2026-06-03 10:00 | [A blueprint for democratic governance of frontier AI](https://openai.com/index/frontier-safety-blueprint) | openai.com |
+| 2026-06-02 12:00 | [Travelers deploys AI-powered claims countrywide with OpenAI](https://openai.com/index/travelers) | openai.com |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,24 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        google-research /
-
-      timesfm  
-
-    
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
-| 2 | [login?return_to=%2Fpalmier-io%2Fpalmier-pro" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1203468533,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fpalmier-io%2Fpalmier-pro" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1203468533,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2Fpalmier-io%2Fpalmier-pro" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1203468533,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fpalmier-io%2Fpalmier-pro" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1203468533,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -112,7 +95,7 @@
 
     
       macOS video editor built for AI |
-| 3 | [login?return_to=%2Fkoala73%2Fworldmonitor" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1130564872,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fkoala73%2Fworldmonitor" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1130564872,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fcalesthio%2FOpenMontage" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1195360525,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcalesthio%2FOpenMontage" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1195360525,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -123,13 +106,13 @@
 
 
       
-        koala73 /
+        calesthio /
 
-      worldmonitor  
+      OpenMontage  
 
     
-      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
-| 4 | [login?return_to=%2Faishwaryanr%2Fawesome-generative-ai-guide" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:753750990,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Faishwaryanr%2Fawesome-generative-ai-guide" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:753750990,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
+| 3 | [login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -140,12 +123,29 @@
 
 
       
-        aishwaryanr /
+        google-research /
 
-      awesome-generative-ai-guide  
+      timesfm  
 
     
-      A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| 4 | [login?return_to=%2Ftwentyhq%2Ftwenty" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:572984571,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ftwentyhq%2Ftwenty" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:572984571,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        twentyhq /
+
+      twenty  
+
+    
+      The open alternative to Salesforce, designed for AI. |
 | 5 | [sponsors/chopratejas](https://github.com/sponsors/chopratejas) | Sponsor
     
   
@@ -176,7 +176,7 @@
 
     
       Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
-| 6 | [login?return_to=%2Fcalesthio%2FOpenMontage" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1195360525,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcalesthio%2FOpenMontage" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1195360525,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 6 | [login?return_to=%2Fjamiepine%2Fvoicebox" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1141782198,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fjamiepine%2Fvoicebox" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1141782198,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -187,12 +187,29 @@
 
 
       
-        calesthio /
+        jamiepine /
 
-      OpenMontage  
+      voicebox  
 
     
-      World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
+      The open-source AI voice studio. Clone, dictate, create. |
+| 7 | [login?return_to=%2Fowainlewis%2Fawesome-artificial-intelligence" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:29906842,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fowainlewis%2Fawesome-artificial-intelligence" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:29906842,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        owainlewis /
+
+      awesome-artificial-intelligence  
+
+    
+      A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -201,41 +218,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2FNVIDIA%2FSkillSpector" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1187630119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FNVIDIA%2FSkillSpector" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1187630119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        NVIDIA /
-
-      SkillSpector  
-
-    
-      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
-| 2 | [login?return_to=%2FPanniantong%2FAgent-Reach" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165277268,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FPanniantong%2FAgent-Reach" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165277268,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        Panniantong /
-
-      Agent-Reach  
-
-    
-      Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| 3 | [sponsors/chopratejas](https://github.com/sponsors/chopratejas) | Sponsor
+| 1 | [sponsors/chopratejas](https://github.com/sponsors/chopratejas) | Sponsor
     
   
 
@@ -265,6 +248,40 @@
 
     
       Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| 2 | [login?return_to=%2FPanniantong%2FAgent-Reach" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165277268,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FPanniantong%2FAgent-Reach" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165277268,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        Panniantong /
+
+      Agent-Reach  
+
+    
+      Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| 3 | [login?return_to=%2FNVIDIA%2FSkillSpector" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1187630119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FNVIDIA%2FSkillSpector" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1187630119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        NVIDIA /
+
+      SkillSpector  
+
+    
+      Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
 | 4 | [login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -282,7 +299,24 @@
 
     
       Production-grade engineering skills for AI coding agents. |
-| 5 | [login?return_to=%2FLMCache%2FLMCache" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:807305060,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FLMCache%2FLMCache" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:807305060,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 5 | [login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        google-research /
+
+      timesfm  
+
+    
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| 6 | [login?return_to=%2FLMCache%2FLMCache" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:807305060,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FLMCache%2FLMCache" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:807305060,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
