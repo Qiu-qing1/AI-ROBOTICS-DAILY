@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-07-05 05:35 UTC）
+# AI & 机器人 技术热点日报（2026-07-06 05:53 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2026-07-05 12:30 | [Humanoid says KinetIQ Ascend reinforcement learning approaches human-level dexterity](https://www.therobotreport.com/humanoid-announces-kinetiq-ascend-reinforcement-learning-approach/) | www.therobotreport.com |
 | 2026-07-04 12:30 | [Context is king: How Avride uses cloud VLMs as a safety net for delivery robots](https://www.therobotreport.com/how-avride-uses-cloud-vlms-safety-net-delivery-robots/) | www.therobotreport.com |
 | 2026-07-03 15:00 | [Video Friday: An Earthbound Mars Rover for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover) | spectrum.ieee.org |
 | 2026-07-03 13:01 | [Quarterhill discusses transport modernization as U.S. marks 70 years of federal highways](https://www.therobotreport.com/quarterhill-discusses-transport-modernization-u-s-marks-70-years-federal-highways/) | www.therobotreport.com |
@@ -33,7 +34,6 @@
 | 2026-06-29 22:29 | [Insights behind Kinisi’s acquisition by Bear Robotics](https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/) | www.therobotreport.com |
 | 2026-06-29 17:45 | [BMW Group deploys Figure 03 humanoid after tests with previous version](https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/) | www.therobotreport.com |
 | 2026-06-29 16:00 | [Ask an AI expert: What exactly is the full stack?](https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/) | blog.google |
-| 2026-06-29 15:41 | [MBody AI expands service robotics operations to eleven states and Canada](https://www.therobotreport.com/mbody-ai-expands-service-robotics-operations-eleven-states-canada/) | www.therobotreport.com |
 | 2026-06-29 07:00 | [Mapping Europe’s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu) | openai.com |
 | 2026-06-28 17:00 | [HP Inc. launches Frontier strategic partnership with OpenAI](https://openai.com/index/hp-frontier-partnership) | openai.com |
 | 2026-06-26 16:30 | [Video Friday: Give Robots a Hand](https://spectrum.ieee.org/video-friday-robot-grippers) | spectrum.ieee.org |
@@ -78,24 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Fusestrix%2Fstrix" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1032808806,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fusestrix%2Fstrix" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1032808806,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        usestrix /
-
-      strix  
-
-    
-      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
-| 2 | [sponsors/Zackriya-Solutions](https://github.com/sponsors/Zackriya-Solutions) | Sponsor
+| 1 | [sponsors/Zackriya-Solutions](https://github.com/sponsors/Zackriya-Solutions) | Sponsor
     
   
 
@@ -125,6 +108,36 @@
 
     
       Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. |
+| 2 | [sponsors/Leonxlnx](https://github.com/sponsors/Leonxlnx) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        Leonxlnx /
+
+      taste-skill  
+
+    
+      Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 | 3 | [login?return_to=%2Fharvard-edge%2Fcs249r_book" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:688164459,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fharvard-edge%2Fcs249r_book" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:688164459,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -142,7 +155,7 @@
 
     
       Machine Learning Systems |
-| 4 | [login?return_to=%2Fdotnet%2Fskills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1149257427,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fdotnet%2Fskills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1149257427,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 4 | [login?return_to=%2Fusestrix%2Fstrix" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1032808806,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fusestrix%2Fstrix" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1032808806,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -153,13 +166,43 @@
 
 
       
-        dotnet /
+        usestrix /
 
-      skills  
+      strix  
 
     
-      Repository for skills to assist AI coding agents with .NET and C# |
-| 5 | [sponsors/CoplayDev](https://github.com/sponsors/CoplayDev) | Sponsor
+      Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| 5 | [sponsors/coreyhaines31](https://github.com/sponsors/coreyhaines31) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        coreyhaines31 /
+
+      marketingskills  
+
+    
+      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| 6 | [sponsors/CoplayDev](https://github.com/sponsors/CoplayDev) | Sponsor
     
   
 
@@ -189,7 +232,7 @@
 
     
       Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity. |
-| 6 | [login?return_to=%2Fcrynta%2Fterax-ai" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1217291538,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcrynta%2Fterax-ai" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1217291538,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 7 | [login?return_to=%2Fdotnet%2Fskills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1149257427,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fdotnet%2Fskills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1149257427,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -200,12 +243,12 @@
 
 
       
-        crynta /
+        dotnet /
 
-      terax-ai  
+      skills  
 
     
-      Lightweight (7MB) Terminal-first AI-native dev workspace |
+      Repository for skills to assist AI coding agents with .NET and C# |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -248,24 +291,7 @@
 
     
       AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。/ AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis. |
-| 3 | [login?return_to=%2FRobbyant%2Flingbot-map" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1211752857,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FRobbyant%2Flingbot-map" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1211752857,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        Robbyant /
-
-      lingbot-map  
-
-    
-      A feed-forward 3D foundation model for reconstructing scenes from streaming data |
-| 4 | [sponsors/diegosouzapw](https://github.com/sponsors/diegosouzapw) | Sponsor
+| 3 | [sponsors/diegosouzapw](https://github.com/sponsors/diegosouzapw) | Sponsor
     
   
 
@@ -295,6 +321,23 @@
 
     
       Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. |
+| 4 | [login?return_to=%2FRobbyant%2Flingbot-map" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1211752857,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FRobbyant%2Flingbot-map" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1211752857,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        Robbyant /
+
+      lingbot-map  
+
+    
+      A feed-forward 3D foundation model for reconstructing scenes from streaming data |
 | 5 | [sponsors/logto-io](https://github.com/sponsors/logto-io) | Sponsor
     
   
@@ -325,7 +368,37 @@
 
     
       🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. |
-| 6 | [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski) | Sponsor
+| 6 | [sponsors/Zackriya-Solutions](https://github.com/sponsors/Zackriya-Solutions) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meetily  
+
+    
+      Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. |
+| 7 | [sponsors/msitarzewski](https://github.com/sponsors/msitarzewski) | Sponsor
     
   
 
@@ -355,7 +428,7 @@
 
     
       A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
-| 7 | [sponsors/calesthio](https://github.com/sponsors/calesthio) | Sponsor
+| 8 | [sponsors/calesthio](https://github.com/sponsors/calesthio) | Sponsor
     
   
 
@@ -385,7 +458,7 @@
 
     
       World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
-| 8 | [sponsors/JCodesMore](https://github.com/sponsors/JCodesMore) | Sponsor
+| 9 | [sponsors/JCodesMore](https://github.com/sponsors/JCodesMore) | Sponsor
     
   
 
@@ -415,7 +488,41 @@
 
     
       Clone any website with one command using AI coding agents |
-| 9 | [sponsors/topoteretes](https://github.com/sponsors/topoteretes) | Sponsor
+| 10 | [login?return_to=%2FZhuLinsen%2Fdaily_stock_analysis" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1131513930,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FZhuLinsen%2Fdaily_stock_analysis" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1131513930,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        ZhuLinsen /
+
+      daily_stock_analysis  
+
+    
+      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| 11 | [login?return_to=%2Fallenai%2Folmocr" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:858798469,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fallenai%2Folmocr" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:858798469,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        allenai /
+
+      olmocr  
+
+    
+      Toolkit for linearizing PDFs for LLM datasets/training |
+| 12 | [sponsors/topoteretes](https://github.com/sponsors/topoteretes) | Sponsor
     
   
 
@@ -445,58 +552,6 @@
 
     
       Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. |
-| 10 | [login?return_to=%2Finterviewstreet%2Fhiring-agent" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1028069336,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Finterviewstreet%2Fhiring-agent" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1028069336,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        interviewstreet /
-
-      hiring-agent  
-
-    
-      AI agent to evaluate and score resumes. |
-| 11 | [login?return_to=%2Fallenai%2Folmocr" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:858798469,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fallenai%2Folmocr" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:858798469,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        allenai /
-
-      olmocr  
-
-    
-      Toolkit for linearizing PDFs for LLM datasets/training |
-| 12 | [login?return_to=%2Fcraft-ai-agents%2Fcraft-agents-oss" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1137411798,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcraft-ai-agents%2Fcraft-agents-oss" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1137411798,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | - |
-| 13 | [login?return_to=%2FZhuLinsen%2Fdaily_stock_analysis" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1131513930,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FZhuLinsen%2Fdaily_stock_analysis" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1131513930,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        ZhuLinsen /
-
-      daily_stock_analysis  
-
-    
-      LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
