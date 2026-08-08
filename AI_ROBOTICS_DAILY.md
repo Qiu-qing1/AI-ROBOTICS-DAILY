@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-08-07 04:08 UTC）
+# AI & 机器人 技术热点日报（2026-08-08 03:07 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,13 @@
 
 |---|---|---|
 
+| 2026-08-07 22:01 | [Building robots that survive the warehouse](https://www.therobotreport.com/building-robots-that-survive-warehouse/) | www.therobotreport.com |
+| 2026-08-07 21:53 | [Tacta Systems takes aim at high-skilled manufacturing work with TactaBot](https://www.therobotreport.com/tacta-systems-takes-aim-high-skilled-manufacturing-work-tactabot/) | www.therobotreport.com |
+| 2026-08-07 19:57 | [Avatar Robotics raises seed round to address industrial labor constraints](https://www.therobotreport.com/avatar-robotics-raises-6-5-m-seed-round-address-industrial-labor-constraints/) | www.therobotreport.com |
+| 2026-08-07 16:00 | [Video Friday: Drones Go Heavy in DARPA Lift Challenge](https://spectrum.ieee.org/video-friday-heavy-lift-drone) | spectrum.ieee.org |
+| 2026-08-07 15:20 | [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) | openai.com |
+| 2026-08-07 14:00 | [See what 5 builders are making with Gemini Omni](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/) | blog.google |
+| 2026-08-07 09:00 | [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe) | openai.com |
 | 2026-08-07 04:00 | [Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services](https://arxiv.org/abs/2608.05159) | export.arxiv.org |
 | 2026-08-07 04:00 | [The Ignition Index: Measuring Global Workspace Dynamics in Language Models](https://arxiv.org/abs/2608.05160) | export.arxiv.org |
 | 2026-08-07 04:00 | [Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models](https://arxiv.org/abs/2608.05168) | export.arxiv.org |
@@ -63,13 +70,6 @@
 | 2026-08-07 04:00 | [JoyAI-RA 0.5: Scaling Robot Manipulation Learning via Dual Action Alignment](https://arxiv.org/abs/2608.05674) | export.arxiv.org |
 | 2026-08-07 04:00 | [Nonvisual Classification of Ground-Condition by Artificial Proprioception in an Amoeba-Inspired Autonomous Walking Robot](https://arxiv.org/abs/2608.05684) | export.arxiv.org |
 | 2026-08-07 04:00 | [Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots](https://arxiv.org/abs/2608.05715) | export.arxiv.org |
-| 2026-08-07 04:00 | [ATP: Anatomical Torque with Passivity-based Control Framework for Safe Upper-Limb Exoskeleton Assistance](https://arxiv.org/abs/2608.05723) | export.arxiv.org |
-| 2026-08-07 04:00 | [Near-sensor Computing for Rapid Visuotactile Perception](https://arxiv.org/abs/2608.05725) | export.arxiv.org |
-| 2026-08-07 04:00 | [In-Context VLA: Endowing Vision-Language-Action Models with Language via In-Context Post-Training and Agentic Tool Use](https://arxiv.org/abs/2608.05738) | export.arxiv.org |
-| 2026-08-07 04:00 | [Acoustic-driven millimetric helical robot: ultrasonic synergistic manipulation in confined fluidic environment](https://arxiv.org/abs/2608.05746) | export.arxiv.org |
-| 2026-08-07 04:00 | [XEWorld: Can Action-Conditioned World Models Generalize to Unseen Robot Embodiments?](https://arxiv.org/abs/2608.05799) | export.arxiv.org |
-| 2026-08-07 04:00 | [Coordinated Multi-Robot Disassembly for Makespan Optimization of Large-Scale Assemblies](https://arxiv.org/abs/2608.05830) | export.arxiv.org |
-| 2026-08-07 04:00 | [SkillMemo: Expert-guided Skill Memory Framework for Compositional Embodied Manipulation](https://arxiv.org/abs/2608.05970) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,7 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2FTencentCloud%2FTencentDB-Agent-Memory" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1203558071,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FTencentCloud%2FTencentDB-Agent-Memory" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1203558071,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2FPrimeIntellect-ai%2Fprime-agent" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1232493406,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FPrimeIntellect-ai%2Fprime-agent" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1232493406,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -89,12 +89,12 @@
 
 
       
-        TencentCloud /
+        PrimeIntellect-ai /
 
-      TencentDB-Agent-Memory  
+      prime-agent  
 
     
-      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
+      A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
 | 2 | [login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -112,41 +112,7 @@
 
     
       Production-grade engineering skills for AI coding agents. |
-| 3 | [login?return_to=%2Fhuangruiteng%2Floopx" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1255217938,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fhuangruiteng%2Floopx" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1255217938,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        huangruiteng /
-
-      loopx  
-
-    
-      Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. |
-| 4 | [login?return_to=%2FSignificant-Gravitas%2FAutoGPT" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:614765452,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FSignificant-Gravitas%2FAutoGPT" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:614765452,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        Significant-Gravitas /
-
-      AutoGPT  
-
-    
-      AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
-| 5 | [sponsors/tirth8205](https://github.com/sponsors/tirth8205) | Sponsor
+| 3 | [sponsors/semantica-agi](https://github.com/sponsors/semantica-agi) | Sponsor
     
   
 
@@ -170,13 +136,13 @@
 
 
       
-        tirth8205 /
+        semantica-agi /
 
-      code-review-graph  
+      semantica  
 
     
-      Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
-| 6 | [login?return_to=%2Fesengine%2FDeepSeek-Reasonix" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1216785679,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fesengine%2FDeepSeek-Reasonix" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1216785679,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      Graph-Native Infrastructure for Context and Accountable AI Systems |
+| 4 | [login?return_to=%2FSignificant-Gravitas%2FAutoGPT" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:614765452,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FSignificant-Gravitas%2FAutoGPT" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:614765452,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -187,12 +153,29 @@
 
 
       
-        esengine /
+        Significant-Gravitas /
 
-      DeepSeek-Reasonix  
+      AutoGPT  
 
     
-      DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+      AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
+| 5 | [login?return_to=%2Funclebob%2Fswarm-forge" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1213616615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Funclebob%2Fswarm-forge" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1213616615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        unclebob /
+
+      swarm-forge  
+
+    
+      A simple tool for coordinating several AI agents. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -286,6 +269,23 @@
 
     
       The open-source alternative to Claude Cowork (powered by opencode) |
+| 6 | [login?return_to=%2Funclebob%2Fswarm-forge" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1213616615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Funclebob%2Fswarm-forge" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1213616615,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        unclebob /
+
+      swarm-forge  
+
+    
+      A simple tool for coordinating several AI agents. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
