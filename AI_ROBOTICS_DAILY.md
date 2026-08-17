@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-08-16 02:39 UTC）
+# AI & 机器人 技术热点日报（2026-08-17 02:39 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,47 +10,8 @@
 
 |---|---|---|
 
+| 2026-08-16 12:30 | [How robotics is revolutionizing stroke rehabilitation](https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/) | www.therobotreport.com |
 | 2026-08-15 12:20 | [Why robots that can’t communicate naturally won’t be adopted](https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/) | www.therobotreport.com |
-| 2026-08-15 04:00 | [Position: Reasoning is a Learnable Rule-Based Process](https://arxiv.org/abs/2608.12325) | export.arxiv.org |
-| 2026-08-15 04:00 | [Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists](https://arxiv.org/abs/2608.12345) | export.arxiv.org |
-| 2026-08-15 04:00 | [Position: The Alignment Community is Unintentionally Building a Censor's Toolkit](https://arxiv.org/abs/2608.12346) | export.arxiv.org |
-| 2026-08-15 04:00 | [Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments](https://arxiv.org/abs/2608.12368) | export.arxiv.org |
-| 2026-08-15 04:00 | [Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing](https://arxiv.org/abs/2608.12371) | export.arxiv.org |
-| 2026-08-15 04:00 | [Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning](https://arxiv.org/abs/2608.12372) | export.arxiv.org |
-| 2026-08-15 04:00 | [Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese](https://arxiv.org/abs/2608.12373) | export.arxiv.org |
-| 2026-08-15 04:00 | [Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation](https://arxiv.org/abs/2608.12385) | export.arxiv.org |
-| 2026-08-15 04:00 | [Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization](https://arxiv.org/abs/2608.12389) | export.arxiv.org |
-| 2026-08-15 04:00 | [Research Assistant: AstraZeneca's Agentic System for R&D](https://arxiv.org/abs/2608.12395) | export.arxiv.org |
-| 2026-08-15 04:00 | [Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction](https://arxiv.org/abs/2608.12426) | export.arxiv.org |
-| 2026-08-15 04:00 | [MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents](https://arxiv.org/abs/2608.12428) | export.arxiv.org |
-| 2026-08-15 04:00 | [Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents](https://arxiv.org/abs/2608.12476) | export.arxiv.org |
-| 2026-08-15 04:00 | [$\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution](https://arxiv.org/abs/2608.12522) | export.arxiv.org |
-| 2026-08-15 04:00 | [CAS: A Causal Attribution Score for Local and Global Explainable Artificial Intelligence](https://arxiv.org/abs/2608.12555) | export.arxiv.org |
-| 2026-08-15 04:00 | [Trie Automata for Constrained Decoding over Large Finite Sets](https://arxiv.org/abs/2608.12574) | export.arxiv.org |
-| 2026-08-15 04:00 | [Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces](https://arxiv.org/abs/2608.12585) | export.arxiv.org |
-| 2026-08-15 04:00 | [Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting](https://arxiv.org/abs/2608.12590) | export.arxiv.org |
-| 2026-08-15 04:00 | [DiG-bench: Discovery in Games](https://arxiv.org/abs/2608.12593) | export.arxiv.org |
-| 2026-08-15 04:00 | [Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues](https://arxiv.org/abs/2608.12599) | export.arxiv.org |
-| 2026-08-15 04:00 | [@skills: Attention is all you have](https://arxiv.org/abs/2608.12610) | export.arxiv.org |
-| 2026-08-15 04:00 | [Jagged Judges: Epistemic Stability Under Silence, Pressure, and Persistence](https://arxiv.org/abs/2608.12645) | export.arxiv.org |
-| 2026-08-15 04:00 | [SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries](https://arxiv.org/abs/2608.12654) | export.arxiv.org |
-| 2026-08-15 04:00 | [General Probabilities of Causation with Causal Knowledge](https://arxiv.org/abs/2608.12657) | export.arxiv.org |
-| 2026-08-15 04:00 | [Designing AI Pipelines for Decision-Ready ITSM Intelligence](https://arxiv.org/abs/2608.12670) | export.arxiv.org |
-| 2026-08-15 04:00 | [On the Expressive Power of Transformers](https://arxiv.org/abs/2608.12671) | export.arxiv.org |
-| 2026-08-15 04:00 | [Lines and Ladders: A Context-Aware Multi-Agent Framework for Large-Scale Retail Price Taxonomy](https://arxiv.org/abs/2608.12674) | export.arxiv.org |
-| 2026-08-15 04:00 | [Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs](https://arxiv.org/abs/2608.12675) | export.arxiv.org |
-| 2026-08-15 04:00 | [The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis](https://arxiv.org/abs/2608.12677) | export.arxiv.org |
-| 2026-08-15 04:00 | [Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies](https://arxiv.org/abs/2608.12679) | export.arxiv.org |
-| 2026-08-15 04:00 | [Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence](https://arxiv.org/abs/2608.12743) | export.arxiv.org |
-| 2026-08-15 04:00 | [Correct Is Not Governed: Provenance Integrity in Agentic Workflows](https://arxiv.org/abs/2608.12761) | export.arxiv.org |
-| 2026-08-15 04:00 | [PROVE-RT: Generating Mechanized Theorem Prover Scripts for Real-Time Systems using LLMs](https://arxiv.org/abs/2608.12762) | export.arxiv.org |
-| 2026-08-15 04:00 | [ARAC: Benchmarking Auto-Research's Alignment and Completeness on End-to-End Researchs](https://arxiv.org/abs/2608.12788) | export.arxiv.org |
-| 2026-08-15 04:00 | [CABS+: Efficient and Scalable Model Merging via Conflict-Aware Sparsification and Adaptive Weight Allocation](https://arxiv.org/abs/2608.12842) | export.arxiv.org |
-| 2026-08-15 04:00 | [Beyond Retrieval: Query-Conditioned Reuse of Long-Horizon Agent Trajectories](https://arxiv.org/abs/2608.12847) | export.arxiv.org |
-| 2026-08-15 04:00 | [Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents](https://arxiv.org/abs/2608.12851) | export.arxiv.org |
-| 2026-08-15 04:00 | [AI and Consumer Rights in India Working Paper](https://arxiv.org/abs/2608.12863) | export.arxiv.org |
-| 2026-08-15 04:00 | [ReflectFact: Self-Reflective Agents for Improving Comprehension and Reasoning in Multi-Hop Fact Verification](https://arxiv.org/abs/2608.12877) | export.arxiv.org |
-| 2026-08-15 04:00 | [Predictive Memory Localization: Forecasting Selective Intervention Paths from Internal Signals](https://arxiv.org/abs/2608.12892) | export.arxiv.org |
 | 2026-08-14 22:14 | [How Protolabs turns CAD files into parts in under 24 hours](https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/) | www.therobotreport.com |
 | 2026-08-14 17:38 | [Neros Technologies raises $250M to deploy its defense drones by the end of 2026](https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026/) | www.therobotreport.com |
 | 2026-08-14 17:00 | [Video Friday: Lift Happens](https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge) | spectrum.ieee.org |
@@ -70,6 +31,45 @@
 | 2026-08-12 12:00 | [Celona launches Orion agentic wireless platform built for physical AI and robotics](https://www.therobotreport.com/celona-launches-orion-agentic-wireless-platform-built-for-physical-ai-robotics/) | www.therobotreport.com |
 | 2026-08-12 10:30 | [DAF Trucks to integrate Einride Driver to scale autonomous electric freight](https://www.therobotreport.com/daf-trucks-integrates-einride-driver-scale-autonomous-electric-freight/) | www.therobotreport.com |
 | 2026-08-12 06:00 | [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work) | openai.com |
+| 2026-08-12 00:00 | [How RingCentral builds AI-native work from engineering to ops](https://openai.com/index/ringcentral) | openai.com |
+| 2026-08-11 20:34 | [Defense drone developer Cambridge Aerospace raises $300M](https://www.therobotreport.com/defense-drone-developer-cambridge-aerospace-raises-300m/) | www.therobotreport.com |
+| 2026-08-11 17:00 | [AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/) | blog.google |
+| 2026-08-11 10:00 | [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) | openai.com |
+| 2026-08-11 10:00 | [Daybreak models are now available on AWS](https://openai.com/index/daybreak-models-are-now-available-on-aws) | openai.com |
+| 2026-08-10 18:01 | [Robot Recycler Salvages Parts From Broken Machines](https://spectrum.ieee.org/recycling-robot) | spectrum.ieee.org |
+| 2026-08-10 17:00 | [What building an AI-native finance function taught me](https://openai.com/index/building-an-ai-native-finance-function) | openai.com |
+| 2026-08-10 14:30 | [Evolve your marketing with new AI tools](https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/) | blog.google |
+| 2026-08-10 14:00 | [OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas) | openai.com |
+| 2026-08-10 12:00 | [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml) | openai.com |
+| 2026-08-10 10:00 | [Putting frontier cyber models in more trusted hands](https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands) | openai.com |
+| 2026-08-10 10:00 | [Expanding Daybreak as the Cyber Defense Window Narrows](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows) | openai.com |
+| 2026-08-10 00:00 | [Premium seats are coming to ChatGPT Business](https://openai.com/index/premium-seats-chatgpt-business) | openai.com |
+| 2026-08-10 00:00 | [Virgin Atlantic sharpens customer journeys with ChatGPT Work](https://openai.com/index/virgin-atlantic/chatgpt-work) | openai.com |
+| 2026-08-10 00:00 | [How Zapier transformed core marketing processes with ChatGPT Work](https://openai.com/index/zapier) | openai.com |
+| 2026-08-07 16:00 | [Video Friday: Drones Go Heavy in DARPA Lift Challenge](https://spectrum.ieee.org/video-friday-heavy-lift-drone) | spectrum.ieee.org |
+| 2026-08-07 15:20 | [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) | openai.com |
+| 2026-08-07 14:00 | [See what 5 builders are making with Gemini Omni](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/) | blog.google |
+| 2026-08-07 09:00 | [How HSP GRUPPE builds AI capabilities for tax advisory](https://openai.com/index/hsp-gruppe) | openai.com |
+| 2026-08-06 14:00 | [Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/) | blog.google |
+| 2026-08-06 10:00 | [Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt) | openai.com |
+| 2026-08-06 06:00 | [Working with the American Psychological Association on youth mental health and AI](https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai) | openai.com |
+| 2026-08-06 00:00 | [From asking to doing: How the world is putting ChatGPT to work](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work) | openai.com |
+| 2026-08-04 19:00 | [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models) | openai.com |
+| 2026-08-04 13:00 | [The latest AI news we announced in July 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/) | blog.google |
+| 2026-08-04 11:00 | [What Robotics Companies Think About the U.S. Foreign Robot Ban](https://spectrum.ieee.org/fcc-covered-list-mobile-robots) | spectrum.ieee.org |
+| 2026-08-04 00:00 | [New ways to learn and teach with ChatGPT Work and Codex](https://openai.com/index/learn-teach-chatgpt-work-codex) | openai.com |
+| 2026-08-03 22:00 | [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong) | openai.com |
+| 2026-08-03 16:05 | [Walden Robotics Partners With Toyota on Practical Humanoids](https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota) | spectrum.ieee.org |
+| 2026-08-03 15:00 | [Inside our 353,000-person vibe coding course](https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/) | blog.google |
+| 2026-08-03 07:00 | [How we built a realtime system for responsive voice AI in six months](https://openai.com/index/continuous-voice-interaction-with-gpt-live) | openai.com |
+| 2026-08-03 00:00 | [Circles powers telco personalization with OpenAI technology](https://openai.com/index/circles) | openai.com |
+| 2026-08-01 00:00 | [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics) | openai.com |
+| 2026-07-31 16:00 | [Video Friday: Meet Google DeepMind’s Gemini Robotics 2](https://spectrum.ieee.org/video-robot-gemini2-ai-robot) | spectrum.ieee.org |
+| 2026-07-31 15:00 | [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe) | openai.com |
+| 2026-07-31 15:00 | [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence) | openai.com |
+| 2026-07-31 07:00 | [Univé builds an AI-ready workforce](https://openai.com/index/unive) | openai.com |
+| 2026-07-31 00:00 | [Disrupting a Criminal Scam Operation](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation) | openai.com |
+| 2026-07-30 15:00 | [Introducing Gemini Robotics ER 2](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/) | blog.google |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,54 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Fcactus-compute%2Fneedle" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165361576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcactus-compute%2Fneedle" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165361576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        cactus-compute /
-
-      needle  
-
-    
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
-| 2 | [sponsors/altic-dev](https://github.com/sponsors/altic-dev) | Sponsor
-    
-  
-
-
-
-      
-            
-    
-
-    
-
-        
-          Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        altic-dev /
-
-      FluidVoice  
-
-    
-      Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp |
-| 3 | [sponsors/ToolJet](https://github.com/sponsors/ToolJet) | Sponsor
+| 1 | [sponsors/ToolJet](https://github.com/sponsors/ToolJet) | Sponsor
     
   
 
@@ -155,7 +108,7 @@
 
     
       ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 |
-| 4 | [login?return_to=%2Fcitrolabs%2Fego-lite" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1212503250,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcitrolabs%2Fego-lite" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1212503250,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fcactus-compute%2Fneedle" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165361576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcactus-compute%2Fneedle" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165361576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -166,12 +119,12 @@
 
 
       
-        citrolabs /
+        cactus-compute /
 
-      ego-lite  
+      needle  
 
     
-      The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
+      14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -244,7 +197,41 @@
 
     
       Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization. |
-| 4 | [sponsors/vitali87](https://github.com/sponsors/vitali87) | Sponsor
+| 4 | [login?return_to=%2Fcactus-compute%2Fneedle" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165361576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcactus-compute%2Fneedle" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165361576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        cactus-compute /
+
+      needle  
+
+    
+      14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
+| 5 | [login?return_to=%2Fmacro-inc%2Fmacro" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1092407718,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmacro-inc%2Fmacro" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1092407718,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        macro-inc /
+
+      macro  
+
+    
+      Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
+| 6 | [sponsors/vitali87](https://github.com/sponsors/vitali87) | Sponsor
     
   
 
@@ -274,40 +261,6 @@
 
     
       The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs |
-| 5 | [login?return_to=%2Fcactus-compute%2Fneedle" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165361576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcactus-compute%2Fneedle" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165361576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        cactus-compute /
-
-      needle  
-
-    
-      14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
-| 6 | [login?return_to=%2Fmacro-inc%2Fmacro" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1092407718,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmacro-inc%2Fmacro" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1092407718,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        macro-inc /
-
-      macro  
-
-    
-      Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
 | 7 | [sponsors/ToolJet](https://github.com/sponsors/ToolJet) | Sponsor
     
   
@@ -338,24 +291,7 @@
 
     
       ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 |
-| 8 | [login?return_to=%2FTencentCloud%2FTencentDB-Agent-Memory" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1203558071,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FTencentCloud%2FTencentDB-Agent-Memory" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1203558071,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        TencentCloud /
-
-      TencentDB-Agent-Memory  
-
-    
-      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
-| 9 | [login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 8 | [login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -372,6 +308,23 @@
 
     
       Production-grade engineering skills for AI coding agents. |
+| 9 | [login?return_to=%2FTencentCloud%2FTencentDB-Agent-Memory" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1203558071,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FTencentCloud%2FTencentDB-Agent-Memory" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1203558071,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        TencentCloud /
+
+      TencentDB-Agent-Memory  
+
+    
+      TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
