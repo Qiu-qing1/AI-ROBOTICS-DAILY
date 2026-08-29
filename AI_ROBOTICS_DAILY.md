@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-08-28 13:08 UTC）
+# AI & 机器人 技术热点日报（2026-08-29 08:04 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
-| 2026-08-28 04:00 | [EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction](https://arxiv.org/abs/2608.26107) | export.arxiv.org |
-| 2026-08-28 04:00 | [Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset](https://arxiv.org/abs/2608.26109) | export.arxiv.org |
-| 2026-08-28 04:00 | [Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap](https://arxiv.org/abs/2608.26111) | export.arxiv.org |
-| 2026-08-28 04:00 | [PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices](https://arxiv.org/abs/2608.26113) | export.arxiv.org |
-| 2026-08-28 04:00 | [CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering](https://arxiv.org/abs/2608.26114) | export.arxiv.org |
-| 2026-08-28 04:00 | [The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning](https://arxiv.org/abs/2608.26116) | export.arxiv.org |
-| 2026-08-28 04:00 | [The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting](https://arxiv.org/abs/2608.26134) | export.arxiv.org |
-| 2026-08-28 04:00 | [LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs](https://arxiv.org/abs/2608.26145) | export.arxiv.org |
-| 2026-08-28 04:00 | [Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse](https://arxiv.org/abs/2608.26149) | export.arxiv.org |
-| 2026-08-28 04:00 | [Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models](https://arxiv.org/abs/2608.26150) | export.arxiv.org |
-| 2026-08-28 04:00 | [Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration](https://arxiv.org/abs/2608.26151) | export.arxiv.org |
-| 2026-08-28 04:00 | [EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG](https://arxiv.org/abs/2608.26153) | export.arxiv.org |
-| 2026-08-28 04:00 | [Selection Bias Correction in Retail Intelligence](https://arxiv.org/abs/2608.26156) | export.arxiv.org |
-| 2026-08-28 04:00 | [GROUND: Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions](https://arxiv.org/abs/2608.26157) | export.arxiv.org |
-| 2026-08-28 04:00 | [SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum](https://arxiv.org/abs/2608.26160) | export.arxiv.org |
-| 2026-08-28 04:00 | [A Safety-Gated Multimodal AI Backend for Mental-Health Support: Hierarchical State Representation, Conservative Risk Fusion, and Controlled Generation in Anian](https://arxiv.org/abs/2608.26162) | export.arxiv.org |
-| 2026-08-28 04:00 | [A Task-Centric Ontology and Deterministic Domain Rules as a Verifiable Core for AI-Assisted Chemistry Problem Solving](https://arxiv.org/abs/2608.26164) | export.arxiv.org |
-| 2026-08-28 04:00 | [Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript](https://arxiv.org/abs/2608.26167) | export.arxiv.org |
-| 2026-08-28 04:00 | [Knowledge Cards: Structured Knowledge for AI Systems](https://arxiv.org/abs/2608.26176) | export.arxiv.org |
-| 2026-08-28 04:00 | [AI Revealed Preferences](https://arxiv.org/abs/2608.26178) | export.arxiv.org |
-| 2026-08-28 04:00 | [Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI](https://arxiv.org/abs/2608.26182) | export.arxiv.org |
-| 2026-08-28 04:00 | [TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education](https://arxiv.org/abs/2608.26184) | export.arxiv.org |
-| 2026-08-28 04:00 | [Can You Say This for Me? Speaking Up by Proxy in Co-Located Discussion](https://arxiv.org/abs/2608.26185) | export.arxiv.org |
-| 2026-08-28 04:00 | [Is Your Neighborhood Safe? Place-based Stigma in Large Language Models' Urban Safety Judgments](https://arxiv.org/abs/2608.26188) | export.arxiv.org |
-| 2026-08-28 04:00 | [Invocation-Level Reliability of Tool-Using Agents](https://arxiv.org/abs/2608.26189) | export.arxiv.org |
-| 2026-08-28 04:00 | [Predicting Consequences and Reinforcing Navigation Policies with Latent World Models](https://arxiv.org/abs/2608.26190) | export.arxiv.org |
-| 2026-08-28 04:00 | [Structured Evidence Routing for Incident Risk Prediction from Multimodal Longitudinal EHRs](https://arxiv.org/abs/2608.26191) | export.arxiv.org |
-| 2026-08-28 04:00 | [AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes](https://arxiv.org/abs/2608.26193) | export.arxiv.org |
-| 2026-08-28 04:00 | [Agentic AI for operating scientific instruments for nanoscale characterization](https://arxiv.org/abs/2608.26198) | export.arxiv.org |
-| 2026-08-28 04:00 | [Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling](https://arxiv.org/abs/2608.26199) | export.arxiv.org |
-| 2026-08-28 04:00 | [GameWAM: A World Action Model for Video Games](https://arxiv.org/abs/2608.26200) | export.arxiv.org |
-| 2026-08-28 04:00 | [Same Model, Different Harness: Different Coding-Agent Results](https://arxiv.org/abs/2608.26218) | export.arxiv.org |
-| 2026-08-28 04:00 | [Agent Mesh: Reliability Primitives for Non-Idempotent Agent Delegation - Identity Adequacy and Evidence Adequacy](https://arxiv.org/abs/2608.26225) | export.arxiv.org |
-| 2026-08-28 04:00 | [LLM Agents for Time-Series: A Survey](https://arxiv.org/abs/2608.26226) | export.arxiv.org |
-| 2026-08-28 04:00 | [The Reasoning Tax: Token Economics of LLM Reasoning Across Task Types and Deployment Contexts](https://arxiv.org/abs/2608.26235) | export.arxiv.org |
-| 2026-08-28 04:00 | [6.5% of the Neuro-Symbolic Literature Can Be Reproduced from Its Published Artifacts, a Six-Stage Audit Framework and First Instantiation](https://arxiv.org/abs/2608.26236) | export.arxiv.org |
-| 2026-08-28 04:00 | [SKILL.state: Scalable Long-Horizon Agent Skills](https://arxiv.org/abs/2608.26263) | export.arxiv.org |
-| 2026-08-28 04:00 | [Assessing mentalization in humans and large language models](https://arxiv.org/abs/2608.26291) | export.arxiv.org |
-| 2026-08-28 04:00 | [Approved Too Late: Verdict Staleness in LLM-Guarded Self-Adaptive Systems](https://arxiv.org/abs/2608.26306) | export.arxiv.org |
-| 2026-08-28 04:00 | [FaithSieve: Fine-Grained Evaluation of Math Proofs with Faithful Formal Evidence](https://arxiv.org/abs/2608.26310) | export.arxiv.org |
-| 2026-08-28 04:00 | [WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression](https://arxiv.org/abs/2608.26239) | export.arxiv.org |
-| 2026-08-28 04:00 | [Constraint-Aware Physics-Informed Neural Networks for Static Shape Estimation of Co-Manipulative Continuum Robots](https://arxiv.org/abs/2608.26273) | export.arxiv.org |
-| 2026-08-28 04:00 | [Dispersive Forward Tree Search for Optimal Control: Coverage, Complexity, and Computation](https://arxiv.org/abs/2608.26314) | export.arxiv.org |
-| 2026-08-28 04:00 | [Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots](https://arxiv.org/abs/2608.26383) | export.arxiv.org |
-| 2026-08-28 04:00 | [RTNav: Towards Real-Time Zero-Shot Object Navigation](https://arxiv.org/abs/2608.26496) | export.arxiv.org |
-| 2026-08-28 04:00 | [Closing the Loop on the Poppy Humanoid: Bipedal Locomotion with Linear-Quadratic Control and Learned Cost Functions](https://arxiv.org/abs/2608.26505) | export.arxiv.org |
-| 2026-08-28 04:00 | [Memory Anchors for Continual Robot Learning](https://arxiv.org/abs/2608.26545) | export.arxiv.org |
-| 2026-08-28 04:00 | [TrapVLA: Trapping Vision-Language-Action Models in Configured Failure Modes](https://arxiv.org/abs/2608.26578) | export.arxiv.org |
-| 2026-08-28 04:00 | [SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion](https://arxiv.org/abs/2608.26583) | export.arxiv.org |
-| 2026-08-28 04:00 | [Relaxation-Aware Multimodal Sensing of Soft Gripper Driven by Structure-Perception-Learning](https://arxiv.org/abs/2608.26622) | export.arxiv.org |
-| 2026-08-28 04:00 | [FLARE: A Failure-Aware Framework for Autonomous Correction and Recovery in Visual-Language Robotic Manipulation](https://arxiv.org/abs/2608.26645) | export.arxiv.org |
-| 2026-08-28 04:00 | [Beyond the Proving Ground: Independent Public-Road Testing of Assisted Lane Change Systems using LiDAR](https://arxiv.org/abs/2608.26669) | export.arxiv.org |
-| 2026-08-28 04:00 | [PredVLA: A Sub-Million-Parameter Predictive-Coding Policy for Robot Manipulation](https://arxiv.org/abs/2608.26673) | export.arxiv.org |
-| 2026-08-28 04:00 | [Residual Deep Reinforcement Learning-Based Computed Torque Control for a Cable-Driven Lower-Limb Rehabilitation Robot under Disturbances and Parametric Uncertainties](https://arxiv.org/abs/2608.26739) | export.arxiv.org |
-| 2026-08-28 04:00 | [MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics](https://arxiv.org/abs/2608.26766) | export.arxiv.org |
-| 2026-08-28 04:00 | [Online Joint Calibration of Steering Offset and Planar LiDAR Extrinsics for Wheeled Mobile Robots](https://arxiv.org/abs/2608.26789) | export.arxiv.org |
-| 2026-08-28 04:00 | [Rapid On-Robot Learning for Dynamic Manipulation Skills: Robot Juggling](https://arxiv.org/abs/2608.26800) | export.arxiv.org |
-| 2026-08-28 04:00 | [CLIPPER: Replayable Shortlisted Optimization for Repeated Spatial Coverage Planning](https://arxiv.org/abs/2608.26819) | export.arxiv.org |
-| 2026-08-28 04:00 | [TemporalFlow-VLA: Learning Physically Grounded Execution History for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2608.26821) | export.arxiv.org |
-| 2026-08-28 04:00 | [Active Surface-Driven Reconfigurable Gripper: Robust Grasping and Sequential Manipulation of Thin Objects](https://arxiv.org/abs/2608.26883) | export.arxiv.org |
+| 2026-08-29 04:00 | [EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction](https://arxiv.org/abs/2608.26107) | export.arxiv.org |
+| 2026-08-29 04:00 | [Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset](https://arxiv.org/abs/2608.26109) | export.arxiv.org |
+| 2026-08-29 04:00 | [Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap](https://arxiv.org/abs/2608.26111) | export.arxiv.org |
+| 2026-08-29 04:00 | [PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices](https://arxiv.org/abs/2608.26113) | export.arxiv.org |
+| 2026-08-29 04:00 | [CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering](https://arxiv.org/abs/2608.26114) | export.arxiv.org |
+| 2026-08-29 04:00 | [The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning](https://arxiv.org/abs/2608.26116) | export.arxiv.org |
+| 2026-08-29 04:00 | [The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting](https://arxiv.org/abs/2608.26134) | export.arxiv.org |
+| 2026-08-29 04:00 | [LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs](https://arxiv.org/abs/2608.26145) | export.arxiv.org |
+| 2026-08-29 04:00 | [Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse](https://arxiv.org/abs/2608.26149) | export.arxiv.org |
+| 2026-08-29 04:00 | [Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models](https://arxiv.org/abs/2608.26150) | export.arxiv.org |
+| 2026-08-29 04:00 | [Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration](https://arxiv.org/abs/2608.26151) | export.arxiv.org |
+| 2026-08-29 04:00 | [EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG](https://arxiv.org/abs/2608.26153) | export.arxiv.org |
+| 2026-08-29 04:00 | [Selection Bias Correction in Retail Intelligence](https://arxiv.org/abs/2608.26156) | export.arxiv.org |
+| 2026-08-29 04:00 | [GROUND: Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions](https://arxiv.org/abs/2608.26157) | export.arxiv.org |
+| 2026-08-29 04:00 | [SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum](https://arxiv.org/abs/2608.26160) | export.arxiv.org |
+| 2026-08-29 04:00 | [A Safety-Gated Multimodal AI Backend for Mental-Health Support: Hierarchical State Representation, Conservative Risk Fusion, and Controlled Generation in Anian](https://arxiv.org/abs/2608.26162) | export.arxiv.org |
+| 2026-08-29 04:00 | [A Task-Centric Ontology and Deterministic Domain Rules as a Verifiable Core for AI-Assisted Chemistry Problem Solving](https://arxiv.org/abs/2608.26164) | export.arxiv.org |
+| 2026-08-29 04:00 | [Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript](https://arxiv.org/abs/2608.26167) | export.arxiv.org |
+| 2026-08-29 04:00 | [Knowledge Cards: Structured Knowledge for AI Systems](https://arxiv.org/abs/2608.26176) | export.arxiv.org |
+| 2026-08-29 04:00 | [AI Revealed Preferences](https://arxiv.org/abs/2608.26178) | export.arxiv.org |
+| 2026-08-29 04:00 | [Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI](https://arxiv.org/abs/2608.26182) | export.arxiv.org |
+| 2026-08-29 04:00 | [TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education](https://arxiv.org/abs/2608.26184) | export.arxiv.org |
+| 2026-08-29 04:00 | [Can You Say This for Me? Speaking Up by Proxy in Co-Located Discussion](https://arxiv.org/abs/2608.26185) | export.arxiv.org |
+| 2026-08-29 04:00 | [Is Your Neighborhood Safe? Place-based Stigma in Large Language Models' Urban Safety Judgments](https://arxiv.org/abs/2608.26188) | export.arxiv.org |
+| 2026-08-29 04:00 | [Invocation-Level Reliability of Tool-Using Agents](https://arxiv.org/abs/2608.26189) | export.arxiv.org |
+| 2026-08-29 04:00 | [Predicting Consequences and Reinforcing Navigation Policies with Latent World Models](https://arxiv.org/abs/2608.26190) | export.arxiv.org |
+| 2026-08-29 04:00 | [Structured Evidence Routing for Incident Risk Prediction from Multimodal Longitudinal EHRs](https://arxiv.org/abs/2608.26191) | export.arxiv.org |
+| 2026-08-29 04:00 | [AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes](https://arxiv.org/abs/2608.26193) | export.arxiv.org |
+| 2026-08-29 04:00 | [Agentic AI for operating scientific instruments for nanoscale characterization](https://arxiv.org/abs/2608.26198) | export.arxiv.org |
+| 2026-08-29 04:00 | [Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling](https://arxiv.org/abs/2608.26199) | export.arxiv.org |
+| 2026-08-29 04:00 | [GameWAM: A World Action Model for Video Games](https://arxiv.org/abs/2608.26200) | export.arxiv.org |
+| 2026-08-29 04:00 | [Same Model, Different Harness: Different Coding-Agent Results](https://arxiv.org/abs/2608.26218) | export.arxiv.org |
+| 2026-08-29 04:00 | [Agent Mesh: Reliability Primitives for Non-Idempotent Agent Delegation - Identity Adequacy and Evidence Adequacy](https://arxiv.org/abs/2608.26225) | export.arxiv.org |
+| 2026-08-29 04:00 | [LLM Agents for Time-Series: A Survey](https://arxiv.org/abs/2608.26226) | export.arxiv.org |
+| 2026-08-29 04:00 | [The Reasoning Tax: Token Economics of LLM Reasoning Across Task Types and Deployment Contexts](https://arxiv.org/abs/2608.26235) | export.arxiv.org |
+| 2026-08-29 04:00 | [6.5% of the Neuro-Symbolic Literature Can Be Reproduced from Its Published Artifacts, a Six-Stage Audit Framework and First Instantiation](https://arxiv.org/abs/2608.26236) | export.arxiv.org |
+| 2026-08-29 04:00 | [SKILL.state: Scalable Long-Horizon Agent Skills](https://arxiv.org/abs/2608.26263) | export.arxiv.org |
+| 2026-08-29 04:00 | [Assessing mentalization in humans and large language models](https://arxiv.org/abs/2608.26291) | export.arxiv.org |
+| 2026-08-29 04:00 | [Approved Too Late: Verdict Staleness in LLM-Guarded Self-Adaptive Systems](https://arxiv.org/abs/2608.26306) | export.arxiv.org |
+| 2026-08-29 04:00 | [FaithSieve: Fine-Grained Evaluation of Math Proofs with Faithful Formal Evidence](https://arxiv.org/abs/2608.26310) | export.arxiv.org |
+| 2026-08-28 23:25 | [From teach and repeat to SelfPath AI: The next robotics leap](https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/) | www.therobotreport.com |
+| 2026-08-28 21:06 | [Deere faces headwinds in Q3 update and announces Reservoir R&D partnership](https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership/) | www.therobotreport.com |
+| 2026-08-28 17:36 | [EXL acquires physical AI model developer iMerit](https://www.therobotreport.com/exl-acquires-physical-ai-model-developer-imerit/) | www.therobotreport.com |
+| 2026-08-28 16:00 | [Video Friday: Meet Microduck](https://spectrum.ieee.org/video-friday-microduck-robot) | spectrum.ieee.org |
+| 2026-08-28 13:29 | [How Locus is getting a grasp on one of robotics biggest challenges: manipulation](https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/) | www.therobotreport.com |
+| 2026-08-28 06:00 | [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex) | openai.com |
+| 2026-08-28 02:00 | [Supporting Thailand’s next generation of AI startups](https://openai.com/index/supporting-next-generation-ai-startups-thailand) | openai.com |
+| 2026-08-27 20:31 | [Teradyne Robotics ramps up fight against cobot copycats](https://www.therobotreport.com/teradyne-robotics-sues-another-chinese-cobot-maker/) | www.therobotreport.com |
+| 2026-08-27 18:12 | [NSF to invest $90M into three new technology centers, including one focused on robotics](https://www.therobotreport.com/nsf-invests-90m-three-new-technology-centers-including-one-focused-robotics/) | www.therobotreport.com |
+| 2026-08-27 16:00 | [3 new ways to plan and book travel in Search](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/) | blog.google |
+| 2026-08-27 13:27 | [Carbon Robotics partners with iMerit to power instant in-field AI customization](https://www.therobotreport.com/carbon-robotics-partners-with-imerit-to-power-instant-in-field-ai-customization/) | www.therobotreport.com |
+| 2026-08-27 09:00 | [Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training) | openai.com |
+| 2026-08-27 03:00 | [Expanding OpenAI’s presence in Brazil](https://openai.com/index/expanding-our-presence-in-brazil) | openai.com |
+| 2026-08-26 16:59 | [Gatik brings in $200M to continue expanding autonomous trucking operations](https://www.therobotreport.com/gatik-brings-in-200m-to-continue-expanding-autonomous-trucking-operations/) | www.therobotreport.com |
+| 2026-08-26 15:04 | [IDS Imaging adds Nion ToF sensor to its portfolio of 3D cameras](https://www.therobotreport.com/ids-imaging-adds-nion-tof-camera-portfolio-3d-cameras/) | www.therobotreport.com |
+| 2026-08-26 13:51 | [Bedrock Robotics’ first operator-free excavator deployments take off](https://www.therobotreport.com/bedrock-robotics-first-operator-free-excavator-deployments-take-off/) | www.therobotreport.com |
+| 2026-08-26 10:00 | [Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops) | openai.com |
+| 2026-08-26 10:00 | [Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts) | openai.com |
+| 2026-08-26 00:00 | [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead) | openai.com |
+| 2026-08-26 00:00 | [How loveholidays is making everyone a builder with Codex](https://openai.com/index/loveholidays) | openai.com |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
