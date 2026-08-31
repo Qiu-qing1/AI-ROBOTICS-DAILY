@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-08-30 07:02 UTC）
+# AI & 机器人 技术热点日报（2026-08-31 07:17 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,47 @@
 
 |---|---|---|
 
+| 2026-08-31 04:00 | [Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics](https://arxiv.org/abs/2608.27497) | export.arxiv.org |
+| 2026-08-31 04:00 | [Remote Human and Robot Interaction for Greenhouse Gardening Using Virtual Reality](https://arxiv.org/abs/2608.27545) | export.arxiv.org |
+| 2026-08-31 04:00 | [Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models](https://arxiv.org/abs/2608.27550) | export.arxiv.org |
+| 2026-08-31 04:00 | [PHR-VLA: Planning Horizon Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2608.27609) | export.arxiv.org |
+| 2026-08-31 04:00 | [One year in a forest: Analyzing the challenges of autonomous navigation in subarctic environments](https://arxiv.org/abs/2608.27628) | export.arxiv.org |
+| 2026-08-31 04:00 | [Distributed Model-Based Diffusion: Finite Horizon Contraction under Bounded Delay](https://arxiv.org/abs/2608.27685) | export.arxiv.org |
+| 2026-08-31 04:00 | [Coordinated Motion Planning for Multi-Arm Systems via Iterative LQ Games](https://arxiv.org/abs/2608.27726) | export.arxiv.org |
+| 2026-08-31 04:00 | [CAVE-NAV: VLM-Based Autonomous 3D Navigation in Underwater Cave Environments](https://arxiv.org/abs/2608.27793) | export.arxiv.org |
+| 2026-08-31 04:00 | [Plan Along the Way: Event-Triggered Foundation-Model Planning for TAMP Execution in Partially Observable Manipulation](https://arxiv.org/abs/2608.28075) | export.arxiv.org |
+| 2026-08-31 04:00 | [Stay Seated: Learning Omnidirectional Humanoid Locomotion on a Passive Mobile Chair with Casters](https://arxiv.org/abs/2608.28090) | export.arxiv.org |
+| 2026-08-31 04:00 | [DeicticVLA: Unifying Instruction Modes Based on Language and Deictic Gestures in a Single VLA](https://arxiv.org/abs/2608.28108) | export.arxiv.org |
+| 2026-08-31 04:00 | [Contact-Guided Exploration for Non-Prehensile Locomanipulation with Multi-Critic RL](https://arxiv.org/abs/2608.28140) | export.arxiv.org |
+| 2026-08-31 04:00 | [From Small Talk to Rapport: Exploring Robot Self-Disclosure in Collaborative Tasks](https://arxiv.org/abs/2608.28154) | export.arxiv.org |
+| 2026-08-31 04:00 | [Picking Bins Empty: A Hierarchical Hybrid Approach with Online Self-Learning of Grasp Points for Reliable Industrial Bin-Picking](https://arxiv.org/abs/2608.28175) | export.arxiv.org |
+| 2026-08-31 04:00 | [PAMoR: Parameterized Affective Motion Generation in Real Time for Humanoid Robots](https://arxiv.org/abs/2608.28213) | export.arxiv.org |
+| 2026-08-31 04:00 | [Probabilistic Multi-Robot Gas Source Localization with Uncalibrated Sensors: A Distributed Estimation Approach](https://arxiv.org/abs/2608.28214) | export.arxiv.org |
+| 2026-08-31 04:00 | [Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring](https://arxiv.org/abs/2608.28246) | export.arxiv.org |
+| 2026-08-31 04:00 | [CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning](https://arxiv.org/abs/2608.28266) | export.arxiv.org |
+| 2026-08-31 04:00 | [Spatial-Semantic Reasoning using Large Language Models for Efficient UAV Search Operations](https://arxiv.org/abs/2608.28270) | export.arxiv.org |
+| 2026-08-31 04:00 | [STEGNav: Spatio-Temporal Event Graph Reasoning for Multimodal Lifelong Object Navigation](https://arxiv.org/abs/2608.28279) | export.arxiv.org |
+| 2026-08-31 04:00 | [MaCoPlanner: LLM-Assisted Manual-Compiled Task Planning with Proactive Safety Verification for Robotic Industrial Panel Operation](https://arxiv.org/abs/2608.28300) | export.arxiv.org |
+| 2026-08-31 04:00 | [PanelShield: Verifiable Closed-Loop Safe Planning for Robotic Industrial Panel Operation](https://arxiv.org/abs/2608.28305) | export.arxiv.org |
+| 2026-08-31 04:00 | [Cooperative Risk-Aware Exploration in Heterogeneous Multi-Robot Systems Using Algorithmic Altruism](https://arxiv.org/abs/2608.28409) | export.arxiv.org |
+| 2026-08-31 04:00 | [Linear Temporal Logic Translation via Human-Inspired Self-Constrained Reasoning for Robot Task Specification](https://arxiv.org/abs/2608.28435) | export.arxiv.org |
+| 2026-08-31 04:00 | [ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos](https://arxiv.org/abs/2608.28570) | export.arxiv.org |
+| 2026-08-31 04:00 | [Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning](https://arxiv.org/abs/2608.28578) | export.arxiv.org |
+| 2026-08-31 04:00 | [CARDINAL Predicts Cardiovascular Risk From Non-contrast Cardiac CT](https://arxiv.org/abs/2608.27690) | export.arxiv.org |
+| 2026-08-31 04:00 | [LUCID: An Agentic AI Framework on Digital-Twin in the Loop for QoS-Guaranteeing Robotic Control](https://arxiv.org/abs/2608.28437) | export.arxiv.org |
+| 2026-08-31 04:00 | [AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction](https://arxiv.org/abs/2608.28491) | export.arxiv.org |
+| 2026-08-31 04:00 | [When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI](https://arxiv.org/abs/2608.28518) | export.arxiv.org |
+| 2026-08-31 04:00 | [SIMPNet: Spatial-Informed Motion Planning Network](https://arxiv.org/abs/2408.12831) | export.arxiv.org |
+| 2026-08-31 04:00 | [Receding Fixed-Horizon Optimization for Near-Time-Optimal Trajectory Planning and Control](https://arxiv.org/abs/2503.11072) | export.arxiv.org |
+| 2026-08-31 04:00 | [Differentiable Dynamics and Fast Simulation of Continuous Elastic Robotic Fish](https://arxiv.org/abs/2509.16145) | export.arxiv.org |
+| 2026-08-31 04:00 | [SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models](https://arxiv.org/abs/2602.04208) | export.arxiv.org |
+| 2026-08-31 04:00 | [FlowCorrect: Efficient Interactive Correction of Generative Flow Policies for Robotic Manipulation](https://arxiv.org/abs/2602.22056) | export.arxiv.org |
+| 2026-08-31 04:00 | [From Dialogue to Execution: Mixture-of-Agents Assisted Interactive Planning for Behavior Tree-Based Long-Horizon Robot Execution](https://arxiv.org/abs/2603.01113) | export.arxiv.org |
+| 2026-08-31 04:00 | [Energy-Efficient Collaborative Transport of Tether-Suspended Payloads via Rotating Equilibrium](https://arxiv.org/abs/2603.06955) | export.arxiv.org |
+| 2026-08-31 04:00 | [Benefits of Low-Cost Bio-Inspiration in the Age of Overparametrization](https://arxiv.org/abs/2604.20365) | export.arxiv.org |
+| 2026-08-31 04:00 | [Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2608.04633) | export.arxiv.org |
+| 2026-08-31 04:00 | [Action- and Language-Conditioned Video Assessment for Embodied Control](https://arxiv.org/abs/2608.08273) | export.arxiv.org |
+| 2026-08-30 12:45 | [The edge AI wall: Why embodied AI requires new mathematics](https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics/) | www.therobotreport.com |
 | 2026-08-29 12:25 | [The differences between decentralized and centralized power in swarm robotics](https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/) | www.therobotreport.com |
 | 2026-08-28 23:25 | [From teach and repeat to SelfPath AI: The next robotics leap](https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/) | www.therobotreport.com |
 | 2026-08-28 21:06 | [Deere faces headwinds in Q3 update and announces Reservoir R&D partnership](https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership/) | www.therobotreport.com |
@@ -29,47 +70,6 @@
 | 2026-08-26 13:51 | [Bedrock Robotics’ first operator-free excavator deployments take off](https://www.therobotreport.com/bedrock-robotics-first-operator-free-excavator-deployments-take-off/) | www.therobotreport.com |
 | 2026-08-26 10:00 | [Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops) | openai.com |
 | 2026-08-26 10:00 | [Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts) | openai.com |
-| 2026-08-26 00:00 | [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead) | openai.com |
-| 2026-08-26 00:00 | [How loveholidays is making everyone a builder with Codex](https://openai.com/index/loveholidays) | openai.com |
-| 2026-08-25 17:41 | [Early bird pricing for RoboBusiness 2026 ends August 31](https://www.therobotreport.com/early-bird-pricing-for-robobusiness-2026-ends-august-31/) | www.therobotreport.com |
-| 2026-08-25 16:00 | [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/) | blog.google |
-| 2026-08-25 15:11 | [Humans in the loop are still needed for robotaxi fleet safety, says Guident](https://www.therobotreport.com/humans-loop-are-still-needed-robotaxi-fleet-safety-says-guident/) | www.therobotreport.com |
-| 2026-08-25 15:00 | [Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA](https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/) | www.therobotreport.com |
-| 2026-08-25 10:00 | [AI Companion Robots Are Closing the Human Connection in Modern Homes](https://spectrum.ieee.org/ollobot-ai-companion-robot) | spectrum.ieee.org |
-| 2026-08-25 07:05 | [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence) | openai.com |
-| 2026-08-25 07:00 | [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results) | openai.com |
-| 2026-08-25 00:00 | [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia) | openai.com |
-| 2026-08-25 00:00 | [Introducing the Admin plugin for ChatGPT Work and Codex](https://openai.com/index/introducing-admin-plugin) | openai.com |
-| 2026-08-24 22:53 | [The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn](https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/) | www.therobotreport.com |
-| 2026-08-24 12:00 | [Advancing price-performance for developers with GPT‑5.6 in Kiro](https://openai.com/index/gpt-5-6-in-kiro) | openai.com |
-| 2026-08-21 16:00 | [Video Friday: Do We Need Superhuman Humanoid Robots?](https://spectrum.ieee.org/video-friday-unitree-superhuman) | spectrum.ieee.org |
-| 2026-08-21 16:00 | [What does “full-stack” AI actually mean?](https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/) | blog.google |
-| 2026-08-20 07:00 | [Introducing Intelligence Age](https://openai.com/index/introducing-intelligence-age) | openai.com |
-| 2026-08-20 07:00 | [Introducing Intelligence Age](https://openai.com/index/introducing-ai-futures) | openai.com |
-| 2026-08-20 00:00 | [Stampli cuts launch hours by 68% using ChatGPT Work](https://openai.com/index/stampli) | openai.com |
-| 2026-08-19 19:00 | [5 new ways to level up your learning with Search](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/) | blog.google |
-| 2026-08-19 19:00 | [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models) | openai.com |
-| 2026-08-19 07:00 | [Replit expands access to software creation with GPT-5.6 Luna](https://openai.com/index/replit) | openai.com |
-| 2026-08-18 22:00 | [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe) | openai.com |
-| 2026-08-18 19:00 | [Strengthening democratic oversight in national security](https://openai.com/index/strengthening-democratic-oversight-in-national-security) | openai.com |
-| 2026-08-18 13:00 | [Drones With Claws Perch on Arctic Icebergs](https://spectrum.ieee.org/arctic-iceberg-drones) | spectrum.ieee.org |
-| 2026-08-18 11:00 | [Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai) | openai.com |
-| 2026-08-18 11:00 | [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities) | openai.com |
-| 2026-08-18 11:00 | [Introducing ChatGPT for Teens: Built for learning, backed by protections](https://openai.com/index/chatgpt-for-teens) | openai.com |
-| 2026-08-18 07:00 | [Asana cleared 5 years of engineering work in 2 weeks with Codex](https://openai.com/index/asana) | openai.com |
-| 2026-08-18 00:00 | [How NVIDIA scales expertise with ChatGPT Work](https://openai.com/index/nvidia/chatgpt-work) | openai.com |
-| 2026-08-17 15:33 | [Is Shipyard Welding the Right First Job for Humanoid Robots?](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding) | spectrum.ieee.org |
-| 2026-08-17 08:00 | [Get closer to the game with Gemini and Pixel](https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/) | blog.google |
-| 2026-08-17 05:30 | [The Defender’s Window](https://openai.com/index/the-defenders-window) | openai.com |
-| 2026-08-17 05:00 | [OpenAI joins PORTS-Pike project](https://openai.com/index/openai-joins-ports-pike-project) | openai.com |
-| 2026-08-17 03:15 | [New policy ideas for the Intelligence Age](https://openai.com/index/new-policy-ideas-for-the-intelligence-age) | openai.com |
-| 2026-08-14 17:00 | [Video Friday: Lift Happens](https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge) | spectrum.ieee.org |
-| 2026-08-13 16:45 | [Bring your spreadsheet data to life with Sheets canvas](https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/) | blog.google |
-| 2026-08-13 13:30 | [Omni experts share what excites them most about the model.](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/) | blog.google |
-| 2026-08-13 11:00 | [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6) | openai.com |
-| 2026-08-13 10:00 | [Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed](https://openai.com/index/previewing-ultrafast) | openai.com |
-| 2026-08-13 09:00 | [OpenAI appoints Dali Rajic as Chief Revenue Officer](https://openai.com/index/dali-rajic-chief-revenue-officer) | openai.com |
-| 2026-08-12 06:00 | [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work) | openai.com |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -95,41 +95,7 @@
 
     
       Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
-| 2 | [login?return_to=%2FJetBrains%2Fgo-modern-guidelines" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1103108740,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FJetBrains%2Fgo-modern-guidelines" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1103108740,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        JetBrains /
-
-      go-modern-guidelines  
-
-    
-      Help AI coding agents write modern Go |
-| 3 | [login?return_to=%2FComposioHQ%2Fawesome-claude-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1078079172,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FComposioHQ%2Fawesome-claude-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1078079172,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-claude-skills  
-
-    
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
-| 4 | [sponsors/calesthio](https://github.com/sponsors/calesthio) | Sponsor
+| 2 | [sponsors/unclecode](https://github.com/sponsors/unclecode) | Sponsor
     
   
 
@@ -153,13 +119,13 @@
 
 
       
-        calesthio /
+        unclecode /
 
-      OpenMontage  
+      crawl4ai  
 
     
-      World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
-| 5 | [login?return_to=%2FOsmantic%2FODS" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1153579168,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FOsmantic%2FODS" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1153579168,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
+| 3 | [login?return_to=%2Fmvanhorn%2Flast30days-skill" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1140843380,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmvanhorn%2Flast30days-skill" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1140843380,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -170,13 +136,13 @@
 
 
       
-        Osmantic /
+        mvanhorn /
 
-      ODS  
+      last30days-skill  
 
     
-      Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. |
-| 6 | [login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| 4 | [login?return_to=%2Fpollen-robotics%2Fmicroduck_rl" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1111189673,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fpollen-robotics%2Fmicroduck_rl" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1111189673,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -187,12 +153,46 @@
 
 
       
-        addyosmani /
+        pollen-robotics /
 
-      agent-skills  
+      microduck_rl  
 
     
-      Production-grade engineering skills for AI coding agents. |
+      RL training environments for Microduck (mjlab) |
+| 5 | [login?return_to=%2Ftashfeenahmed%2Ffreellmapi" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1217040185,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ftashfeenahmed%2Ffreellmapi" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1217040185,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi  
+
+    
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. |
+| 6 | [login?return_to=%2Flivekit%2Fagents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:707441527,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Flivekit%2Fagents" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:707441527,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        livekit /
+
+      agents  
+
+    
+      A framework for building realtime voice AI agents 🤖🎙️📹 |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -218,7 +218,24 @@
 
     
       Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. |
-| 2 | [sponsors/MadsLorentzen](https://github.com/sponsors/MadsLorentzen) | Sponsor
+| 2 | [login?return_to=%2Ftashfeenahmed%2Ffreellmapi" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1217040185,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ftashfeenahmed%2Ffreellmapi" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1217040185,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        tashfeenahmed /
+
+      freellmapi  
+
+    
+      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. |
+| 3 | [sponsors/MadsLorentzen](https://github.com/sponsors/MadsLorentzen) | Sponsor
     
   
 
@@ -248,23 +265,6 @@
 
     
       The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
-| 3 | [login?return_to=%2Ftashfeenahmed%2Ffreellmapi" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1217040185,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ftashfeenahmed%2Ffreellmapi" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1217040185,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        tashfeenahmed /
-
-      freellmapi  
-
-    
-      7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. |
 | 4 | [sponsors/rohitg00](https://github.com/sponsors/rohitg00) | Sponsor
     
   
@@ -295,24 +295,7 @@
 
     
       Learn it. Build it. Ship it for others. |
-| 5 | [login?return_to=%2Ftinyhumansai%2Fopenhuman" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1161163182,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ftinyhumansai%2Fopenhuman" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1161163182,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        tinyhumansai /
-
-      openhuman  
-
-    
-      Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. |
-| 6 | [login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1079456184,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1079456184,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+| 5 | [login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1079456184,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1079456184,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -329,6 +312,23 @@
 
     
       Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
+| 6 | [login?return_to=%2Ftinyhumansai%2Fopenhuman" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1161163182,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Ftinyhumansai%2Fopenhuman" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1161163182,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        tinyhumansai /
+
+      openhuman  
+
+    
+      Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
