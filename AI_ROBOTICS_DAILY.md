@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-09-05 06:03 UTC）
+# AI & 机器人 技术热点日报（2026-09-06 06:16 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,8 +10,12 @@
 
 |---|---|---|
 
+| 2026-09-05 14:22 | [ARM Institute gets $90M for 10 projects to modernize military manufacturing](https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing/) | www.therobotreport.com |
+| 2026-09-05 13:00 | [Cyborg Roaches Can Stab You With Needles](https://spectrum.ieee.org/cyborg-rescue-roach) | spectrum.ieee.org |
+| 2026-09-05 12:30 | [Enovis to acquire surgical tech provider eCential Robotics for $180M](https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/) | www.therobotreport.com |
 | 2026-09-04 18:09 | [How FPGAs become the gatekeepers of physical AI security](https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security/) | www.therobotreport.com |
 | 2026-09-04 16:33 | [Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar](https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/) | www.therobotreport.com |
+| 2026-09-04 16:00 | [Video Friday: Digit Redecorates](https://spectrum.ieee.org/video-friday-agility-robotics-digit) | spectrum.ieee.org |
 | 2026-09-04 14:32 | [Lyte raises $165M to help robots better sense their surroundings](https://www.therobotreport.com/lyte-raises-165m-help-robots-better-sense-their-surroundings/) | www.therobotreport.com |
 | 2026-09-04 14:15 | [Robot.com partners with Sodexo to roll out more sidewalk delivery robots](https://www.therobotreport.com/robot-com-partners-sodexo-rolls-out-more-sidewalk-delivery-robots/) | www.therobotreport.com |
 | 2026-09-03 18:53 | [Medtronic invests $700M in surgical partner Cornerstone Robotics](https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics/) | www.therobotreport.com |
@@ -35,10 +39,8 @@
 | 2026-09-01 18:56 | [Top 10 robotics stories of August 2026](https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/) | www.therobotreport.com |
 | 2026-09-01 17:00 | [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows) | openai.com |
 | 2026-09-01 16:48 | [Learn how physical AI is being used to do real work at RoboBusiness](https://www.therobotreport.com/learn-how-physical-ai-is-being-used-to-do-real-work-at-robobusiness/) | www.therobotreport.com |
-| 2026-09-01 16:00 | [Visko launches Orbis live model and closes pre-seed funding round](https://www.therobotreport.com/visko-launches-orbis-live-model-closes-pre-seed-funding-round/) | www.therobotreport.com |
 | 2026-09-01 16:00 | [Ask a Scientist: How do researchers use AI to predict a cyclone?](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/) | blog.google |
 | 2026-09-01 16:00 | [Try Google Pics: Easy image creation and editing in Google Workspace](https://blog.google/products-and-platforms/products/workspace/google-pics/) | blog.google |
-| 2026-09-01 13:56 | [The Missing Layer in Robot Safety Assurance](https://www.therobotreport.com/the-missing-layer-in-robot-safety-assurance/) | www.therobotreport.com |
 | 2026-09-01 13:00 | [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra) | openai.com |
 | 2026-09-01 12:00 | [Healthcare organizations can now connect EHR and additional industry data to ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources) | openai.com |
 | 2026-09-01 01:00 | [How law firm Gilbert + Tobin governs and scales AI with OpenAI](https://openai.com/index/gilbert-tobin) | openai.com |
@@ -68,8 +70,6 @@
 | 2026-08-20 00:00 | [Stampli cuts launch hours by 68% using ChatGPT Work](https://openai.com/index/stampli) | openai.com |
 | 2026-08-19 19:00 | [5 new ways to level up your learning with Search](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/) | blog.google |
 | 2026-08-19 19:00 | [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models) | openai.com |
-| 2026-08-19 07:00 | [Replit expands access to software creation with GPT-5.6 Luna](https://openai.com/index/replit) | openai.com |
-| 2026-08-18 22:00 | [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe) | openai.com |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -108,7 +108,24 @@
 
     
       Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 2 | [login?return_to=%2Fblader%2Fhumanizer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1136666433,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fblader%2Fhumanizer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1136666433,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        ruvnet /
+
+      ruflo  
+
+    
+      🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
+| 3 | [login?return_to=%2Fblader%2Fhumanizer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1136666433,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fblader%2Fhumanizer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1136666433,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -125,7 +142,7 @@
 
     
       Agent skill that removes signs of AI-generated writing from text |
-| 3 | [login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 4 | [login?return_to=%2FWorldFlowAI%2Feverything-claude-code" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1140551365,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FWorldFlowAI%2Feverything-claude-code" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1140551365,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -136,29 +153,12 @@
 
 
       
-        google-research /
+        WorldFlowAI /
 
-      timesfm  
-
-    
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
-| 4 | [login?return_to=%2Fradixark%2Fmiles" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1072725553,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fradixark%2Fmiles" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1072725553,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        radixark /
-
-      miles  
+      everything-claude-code  
 
     
-      Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime. |
+      Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
