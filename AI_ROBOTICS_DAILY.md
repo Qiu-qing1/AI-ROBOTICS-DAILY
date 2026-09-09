@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-09-08 06:13 UTC）
+# AI & 机器人 技术热点日报（2026-09-09 06:20 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,17 @@
 
 |---|---|---|
 
+| 2026-09-08 20:39 | [Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics](https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/) | www.therobotreport.com |
+| 2026-09-08 19:03 | [AI can’t outrun a humanoid’s hardware](https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/) | www.therobotreport.com |
+| 2026-09-08 17:00 | [How GPT-5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments) | openai.com |
+| 2026-09-08 16:05 | [Why vision AI is the safety backbone of the automated job site](https://www.therobotreport.com/why-vision-ai-is-safety-backbone-of-automated-job-site/) | www.therobotreport.com |
+| 2026-09-08 14:00 | [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) | blog.google |
+| 2026-09-08 13:00 | [The Work Now Within Reach](https://openai.com/index/the-work-now-within-reach) | openai.com |
+| 2026-09-08 11:30 | [Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5) | openai.com |
+| 2026-09-08 10:00 | [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution) | openai.com |
+| 2026-09-08 09:00 | [Funding grants for new research into AI and teen development](https://openai.com/index/teen-development-research-grants) | openai.com |
+| 2026-09-08 00:00 | [OpenAI expands initiatives to support journalism from classrooms to newsrooms](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms) | openai.com |
+| 2026-09-08 00:00 | [1Password increases engineering productivity 21% with Codex](https://openai.com/index/1password) | openai.com |
 | 2026-09-07 14:00 | [Inbolt to discuss physical AI’s deployment problem at RoboBusiness](https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness/) | www.therobotreport.com |
 | 2026-09-07 13:17 | [Agility Robotics reports $1.8M revenue ahead of humanoid SPAC](https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/) | www.therobotreport.com |
 | 2026-09-07 13:00 | [This Robot Will Draw Your Blood Now](https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta) | spectrum.ieee.org |
@@ -29,16 +40,13 @@
 | 2026-09-04 14:32 | [Lyte raises $165M to help robots better sense their surroundings](https://www.therobotreport.com/lyte-raises-165m-help-robots-better-sense-their-surroundings/) | www.therobotreport.com |
 | 2026-09-04 14:15 | [Robot.com partners with Sodexo to roll out more sidewalk delivery robots](https://www.therobotreport.com/robot-com-partners-sodexo-rolls-out-more-sidewalk-delivery-robots/) | www.therobotreport.com |
 | 2026-09-03 18:53 | [Medtronic invests $700M in surgical partner Cornerstone Robotics](https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics/) | www.therobotreport.com |
-| 2026-09-03 17:44 | [JAKA hits Teradyne Robotics back over patent dispute](https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute/) | www.therobotreport.com |
-| 2026-09-03 15:28 | [NVIDIA plans to acquire Hugging Face and keep AI development platform open](https://www.therobotreport.com/nvidia-to-acquire-hugging-face-and-keep-ai-develpment-platform-open/) | www.therobotreport.com |
 | 2026-09-03 15:00 | [Introducing WeatherNext 3, our most advanced and accurate global weather AI model](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/) | blog.google |
 | 2026-09-03 13:15 | [Daybreak for Frontline Defenders: $1B to protect essential services](https://openai.com/index/daybreak-for-frontline-defenders) | openai.com |
 | 2026-09-03 12:18 | [Protecting Dynamic Industrial Robot Cable Carriers](https://spectrum.ieee.org/industrial-robot-cable-carrier-protection) | spectrum.ieee.org |
 | 2026-09-03 12:00 | [The Best Way to Explore Lunar Craters Is a Giant Robot Ball](https://spectrum.ieee.org/moon-ball-robot) | spectrum.ieee.org |
-| 2026-09-03 12:00 | [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra) | openai.com |
 | 2026-09-03 12:00 | [Playco cut manual fixes 50% prototyping games with GPT-6 Astra](https://openai.com/index/playco-game-prototyping-with-astra) | openai.com |
+| 2026-09-03 12:00 | [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra) | openai.com |
 | 2026-09-03 11:00 | [GPT-6 Astra: A new generation of intelligence](https://openai.com/index/gpt-6-astra) | openai.com |
-| 2026-09-03 10:00 | [PlusAI to take autonomous trucking public via a SPAC deal](https://www.therobotreport.com/plusai-takes-autonomous-trucking-public-via-spac-deal/) | www.therobotreport.com |
 | 2026-09-03 00:00 | [Safety overview: GPT-6 Astra](https://openai.com/index/safety-overview-gpt-6-astra) | openai.com |
 | 2026-09-02 15:40 | [Proactive cyber defense for governments and enterprises](https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/) | blog.google |
 | 2026-09-02 12:00 | [ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT](https://openai.com/index/atv-big-air-tour) | openai.com |
@@ -58,18 +66,10 @@
 | 2026-08-27 16:00 | [3 new ways to plan and book travel in Search](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/) | blog.google |
 | 2026-08-27 09:00 | [Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training) | openai.com |
 | 2026-08-27 03:00 | [Expanding OpenAI’s presence in Brazil](https://openai.com/index/expanding-our-presence-in-brazil) | openai.com |
-| 2026-08-26 10:00 | [Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops) | openai.com |
 | 2026-08-26 10:00 | [Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts) | openai.com |
+| 2026-08-26 10:00 | [Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops) | openai.com |
 | 2026-08-26 00:00 | [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead) | openai.com |
 | 2026-08-26 00:00 | [How loveholidays is making everyone a builder with Codex](https://openai.com/index/loveholidays) | openai.com |
-| 2026-08-25 16:00 | [5 ways to upgrade your home decor with Google Search](https://blog.google/products-and-platforms/products/search/home-decor-tips/) | blog.google |
-| 2026-08-25 10:00 | [AI Companion Robots Are Closing the Human Connection in Modern Homes](https://spectrum.ieee.org/ollobot-ai-companion-robot) | spectrum.ieee.org |
-| 2026-08-25 07:05 | [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence) | openai.com |
-| 2026-08-25 07:00 | [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results) | openai.com |
-| 2026-08-25 00:00 | [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia) | openai.com |
-| 2026-08-25 00:00 | [Introducing the Admin plugin for ChatGPT Work and Codex](https://openai.com/index/introducing-admin-plugin) | openai.com |
-| 2026-08-24 12:00 | [Advancing price-performance for developers with GPT‑5.6 in Kiro](https://openai.com/index/gpt-5-6-in-kiro) | openai.com |
-| 2026-08-21 16:00 | [Video Friday: Do We Need Superhuman Humanoid Robots?](https://spectrum.ieee.org/video-friday-unitree-superhuman) | spectrum.ieee.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,7 +78,71 @@
 
 |---:|---|---|
 
-| 1 | [sponsors/mksglu](https://github.com/sponsors/mksglu) | Sponsor
+| 1 | [sponsors/coreyhaines31](https://github.com/sponsors/coreyhaines31) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        coreyhaines31 /
+
+      marketingskills  
+
+    
+      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| 2 | [login?return_to=%2Fmultica-ai%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fmultica-ai%2Fandrej-karpathy-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142983825,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        multica-ai /
+
+      andrej-karpathy-skills  
+
+    
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| 3 | [login?return_to=%2Fjo-inc%2Fcamofox-browser" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142274728,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fjo-inc%2Fcamofox-browser" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142274728,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        jo-inc /
+
+      camofox-browser  
+
+    
+      Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
+| 4 | [sponsors/mksglu](https://github.com/sponsors/mksglu) | Sponsor
     
   
 
@@ -108,7 +172,7 @@
 
     
       Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
-| 2 | [login?return_to=%2Fjo-inc%2Fcamofox-browser" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142274728,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fjo-inc%2Fcamofox-browser" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1142274728,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 5 | [login?return_to=%2FThe-Swarm-Corporation%2FAutoHedge" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:901529145,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FThe-Swarm-Corporation%2FAutoHedge" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:901529145,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -119,12 +183,67 @@
 
 
       
-        jo-inc /
+        The-Swarm-Corporation /
 
-      camofox-browser  
+      AutoHedge  
 
     
-      Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
+      Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. |
+
+
+## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
+
+| # | 仓库 | 简介 |
+
+|---:|---|---|
+
+| 1 | [sponsors/DietrichGebert](https://github.com/sponsors/DietrichGebert) | Sponsor
+    
+  
+
+
+
+      
+            
+    
+
+    
+
+        
+          Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        DietrichGebert /
+
+      ponytail  
+
+    
+      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 2 | [login?return_to=%2Fblader%2Fhumanizer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1136666433,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fblader%2Fhumanizer" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1136666433,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        blader /
+
+      humanizer  
+
+    
+      Agent skill that removes signs of AI-generated writing from text |
 | 3 | [sponsors/coreyhaines31](https://github.com/sponsors/coreyhaines31) | Sponsor
     
   
@@ -155,117 +274,7 @@
 
     
       Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
-| 4 | [login?return_to=%2FThe-Swarm-Corporation%2FAutoHedge" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:901529145,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FThe-Swarm-Corporation%2FAutoHedge" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:901529145,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        The-Swarm-Corporation /
-
-      AutoHedge  
-
-    
-      Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. |
-| 5 | [login?return_to=%2Flightpanda-io%2Fbrowser" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:598667202,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Flightpanda-io%2Fbrowser" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:598667202,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        lightpanda-io /
-
-      browser  
-
-    
-      Lightpanda: the headless browser designed for AI and automation |
-| 6 | [login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        ruvnet /
-
-      ruflo  
-
-    
-      🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
-
-
-## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
-
-| # | 仓库 | 简介 |
-
-|---:|---|---|
-
-| 1 | [login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        google-research /
-
-      timesfm  
-
-    
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
-| 2 | [login?return_to=%2Fjingyaogong%2Fminimind" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:834369920,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fjingyaogong%2Fminimind" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:834369920,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        jingyaogong /
-
-      minimind  
-
-    
-      🧠 Train a 64M-parameter LLM from scratch in just 2h! |
-| 3 | [login?return_to=%2Fpollen-robotics%2Fmicroduck_rl" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1111189673,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fpollen-robotics%2Fmicroduck_rl" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1111189673,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        pollen-robotics /
-
-      microduck_rl  
-
-    
-      RL training environments for Microduck (mjlab) |
-| 4 | [sponsors/DietrichGebert](https://github.com/sponsors/DietrichGebert) | Sponsor
+| 4 | [sponsors/mksglu](https://github.com/sponsors/mksglu) | Sponsor
     
   
 
@@ -289,13 +298,13 @@
 
 
       
-        DietrichGebert /
+        mksglu /
 
-      ponytail  
+      context-mode  
 
     
-      Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 5 | [login?return_to=%2Fzubair-trabzada%2Fgeo-seo-claude" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1160693255,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fzubair-trabzada%2Fgeo-seo-claude" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1160693255,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| 5 | [login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -306,13 +315,13 @@
 
 
       
-        zubair-trabzada /
+        ruvnet /
 
-      geo-seo-claude  
+      ruflo  
 
     
-      GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community |
-| 6 | [login?return_to=%2Fadvaitpaliwal%2Ffeynman" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1186559664,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fadvaitpaliwal%2Ffeynman" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1186559664,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+      🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
+| 6 | [login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fgoogle-research%2Ftimesfm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:793784055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -323,12 +332,12 @@
 
 
       
-        advaitpaliwal /
+        google-research /
 
-      feynman  
+      timesfm  
 
     
-      The open source AI research agent. |
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
