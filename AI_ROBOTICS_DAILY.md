@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-09-20 06:39 UTC）
+# AI & 机器人 技术热点日报（2026-09-21 06:45 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,66 +10,66 @@
 
 |---|---|---|
 
-| 2026-09-19 12:40 | [Hirebotics adds line tracking and linear rail capabilities to its cobots](https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/) | www.therobotreport.com |
-| 2026-09-18 18:57 | [The picks-and-shovels strategy behind the robotics boom](https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/) | www.therobotreport.com |
-| 2026-09-18 17:14 | [SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/) | www.therobotreport.com |
-| 2026-09-18 16:16 | [F-Prime Capital to give insights on the state of robotics investments at RoboBusiness](https://www.therobotreport.com/f-prime-capital-give-insights-state-robotics-investments-robobusiness/) | www.therobotreport.com |
-| 2026-09-18 16:01 | [Video Friday: Two Birotors Make a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor) | spectrum.ieee.org |
-| 2026-09-18 14:00 | [New experts join Google’s AI & Economy team](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/) | blog.google |
-| 2026-09-18 13:22 | [Neptune Medical earns FDA clearance for its Triton 1 robotic system](https://www.therobotreport.com/neptune-medical-earns-fda-clearance-triton-1-robotic-system/) | www.therobotreport.com |
-| 2026-09-18 13:07 | [Icarus Robotics flies ISS-bound robot in microgravity for the first time](https://www.therobotreport.com/icarus-robotics-flies-iss-bound-robot-in-microgravity-for-the-first-time/) | www.therobotreport.com |
-| 2026-09-18 13:00 | [Co-creating the future of fashion with Google](https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/) | blog.google |
-| 2026-09-18 12:00 | [Introducing the Australian Youth Safety Blueprint](https://openai.com/index/australian-youth-safety-blueprint) | openai.com |
-| 2026-09-17 20:00 | [Making global data easier to explore](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/) | blog.google |
-| 2026-09-17 18:34 | [Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors](https://www.therobotreport.com/designing-long-travel-axes-when-rack-and-pinion-outperforms-ball-screws-and-linear-motors/) | www.therobotreport.com |
-| 2026-09-17 16:18 | [Robotics investments reach $4.9B in August 2026](https://www.therobotreport.com/robotics-investments-reach-4-9b-in-august-2026/) | www.therobotreport.com |
-| 2026-09-17 12:30 | [Arm Total Design for Physical AI brings more than 80 developers together](https://www.therobotreport.com/arm-total-design-for-physical-ai-brings-more-than-80-developers-together/) | www.therobotreport.com |
-| 2026-09-17 12:00 | [How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic) | openai.com |
-| 2026-09-17 00:00 | [Introducing Astra for Law](https://openai.com/index/astra-for-law) | openai.com |
-| 2026-09-16 20:31 | [OLogic to share how robots can learn from human demonstrations at RoboBusiness](https://www.therobotreport.com/ologic-to-share-how-robots-can-learn-from-human-demonstrations-at-robobusiness/) | www.therobotreport.com |
-| 2026-09-16 17:45 | [The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5](https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/) | www.therobotreport.com |
-| 2026-09-16 17:00 | [Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework) | openai.com |
-| 2026-09-16 16:51 | [Rethinking Robot Safety in the Age of AI](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone) | spectrum.ieee.org |
-| 2026-09-16 16:00 | [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life) | openai.com |
-| 2026-09-16 13:00 | [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai) | openai.com |
-| 2026-09-16 12:00 | [Hex turns complex analysis into visual reports with GPT‑6 Astra](https://openai.com/index/hex-gpt-6-astra) | openai.com |
-| 2026-09-16 12:00 | [How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value) | openai.com |
-| 2026-09-16 09:00 | [How workers are unlocking new ways of working](https://openai.com/index/unlocking-new-ways-of-working) | openai.com |
-| 2026-09-15 16:00 | [AI for Societal Impact](https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/) | blog.google |
-| 2026-09-15 16:00 | [Building AI to accelerate science and improve lives](https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/) | blog.google |
-| 2026-09-15 16:00 | [AI for everyone in every language](https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/) | blog.google |
-| 2026-09-15 15:22 | [Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe](https://spectrum.ieee.org/humanoid-robot-safety) | spectrum.ieee.org |
-| 2026-09-15 13:00 | [New insights from Google’s AI & Economy ATLAS](https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/) | blog.google |
-| 2026-09-15 12:58 | [InOrbit.AI releases OpenRobOps ISO 21423 reference implementation](https://www.therobotreport.com/inorbit-ai-releases-openrobops-iso-21423-reference-implementation/) | www.therobotreport.com |
-| 2026-09-15 10:55 | [Agility’s Digit 5 humanoid has new legs, batteries, and safety upgrades](https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/) | www.therobotreport.com |
-| 2026-09-14 21:45 | [Why RaaS needs more than a subscription model](https://www.therobotreport.com/why-raas-needs-more-than-a-subscription-model/) | www.therobotreport.com |
-| 2026-09-14 21:01 | [Report covers advances in surgical robots, deploying warehouse automation in the real world](https://www.therobotreport.com/report-covers-surgical-robot-advances-deploying-warehouse-automation-real-world/) | www.therobotreport.com |
-| 2026-09-14 19:00 | [Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.](https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/) | blog.google |
-| 2026-09-14 16:00 | [DevFest is back](https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/) | blog.google |
-| 2026-09-14 12:00 | [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer) | openai.com |
-| 2026-09-14 00:00 | [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) | openai.com |
-| 2026-09-11 16:00 | [Cognition helps Devin test its own work with GPT‑6 Astra](https://openai.com/index/cognition-devin-testing-with-astra) | openai.com |
-| 2026-09-11 15:30 | [Video Friday: Humanoid Robot Takes On Monkey Bars](https://spectrum.ieee.org/video-friday-disaster-response-robots) | spectrum.ieee.org |
-| 2026-09-11 10:00 | [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one) | openai.com |
-| 2026-09-10 18:22 | [Robots Are Learning to Feel](https://spectrum.ieee.org/tactile-data-robots) | spectrum.ieee.org |
-| 2026-09-10 16:00 | [3 ways to prep for your next big race with Search](https://blog.google/products-and-platforms/products/search/running-race-training-tips/) | blog.google |
-| 2026-09-10 16:00 | [How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials) | openai.com |
-| 2026-09-10 15:00 | [Now everyone can put data to work](https://openai.com/index/put-data-to-work) | openai.com |
-| 2026-09-10 07:00 | [Introducing ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services) | openai.com |
-| 2026-09-10 07:00 | [Expanding AI access and cyber defense for federal, state, local, and tribal governments](https://openai.com/index/expanding-ai-access-us-government) | openai.com |
-| 2026-09-10 00:00 | [Build more natural voice experiences with GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api) | openai.com |
-| 2026-09-10 00:00 | [Introducing the Agents API](https://openai.com/index/introducing-the-agents-api) | openai.com |
-| 2026-09-09 17:00 | [Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board) | openai.com |
-| 2026-09-09 16:00 | [Recreating a 70-year love story frame by frame](https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/) | blog.google |
-| 2026-09-09 16:00 | [Get ready for the game with new football features in Search](https://blog.google/products-and-platforms/products/search/football-features-google-search/) | blog.google |
-| 2026-09-09 13:00 | [The AI policy window is open. We need to act.](https://openai.com/index/ai-policy-window) | openai.com |
-| 2026-09-09 11:00 | [GPT-6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work) | openai.com |
-| 2026-09-08 17:00 | [How GPT-5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments) | openai.com |
-| 2026-09-08 14:00 | [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) | blog.google |
-| 2026-09-08 13:00 | [The Work Now Within Reach](https://openai.com/index/the-work-now-within-reach) | openai.com |
-| 2026-09-08 11:30 | [Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5) | openai.com |
-| 2026-09-08 10:00 | [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution) | openai.com |
-| 2026-09-08 09:00 | [Funding grants for new research into AI and teen development](https://openai.com/index/teen-development-research-grants) | openai.com |
+| 2026-09-21 04:00 | [RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models](https://arxiv.org/abs/2609.20971) | export.arxiv.org |
+| 2026-09-21 04:00 | [Attention-Aware Routing: Coupling Routing and Attention in MoEs](https://arxiv.org/abs/2609.20974) | export.arxiv.org |
+| 2026-09-21 04:00 | [CaLR: Causal Latent Revision for Robust Diffusion Reasoning](https://arxiv.org/abs/2609.20981) | export.arxiv.org |
+| 2026-09-21 04:00 | [LoRA Enhanced Contrastive Learning with SAS Vision Transformers](https://arxiv.org/abs/2609.21061) | export.arxiv.org |
+| 2026-09-21 04:00 | [Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing](https://arxiv.org/abs/2609.21096) | export.arxiv.org |
+| 2026-09-21 04:00 | [Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models](https://arxiv.org/abs/2609.21113) | export.arxiv.org |
+| 2026-09-21 04:00 | [TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers](https://arxiv.org/abs/2609.21139) | export.arxiv.org |
+| 2026-09-21 04:00 | [Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake](https://arxiv.org/abs/2609.21149) | export.arxiv.org |
+| 2026-09-21 04:00 | [Can Agents Design Better Chips with a Higher Level Abstraction?](https://arxiv.org/abs/2609.21157) | export.arxiv.org |
+| 2026-09-21 04:00 | [SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity](https://arxiv.org/abs/2609.21165) | export.arxiv.org |
+| 2026-09-21 04:00 | [Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks](https://arxiv.org/abs/2609.21181) | export.arxiv.org |
+| 2026-09-21 04:00 | [AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture](https://arxiv.org/abs/2609.21192) | export.arxiv.org |
+| 2026-09-21 04:00 | [Information-Gain Rewards over Diversity-Pruned Tests: GT-Anchored Verifier Co-Training for Reliable Code Generation](https://arxiv.org/abs/2609.21208) | export.arxiv.org |
+| 2026-09-21 04:00 | [Ability-Residual Decoupled Modeling for Affective Cognitive Diagnosis](https://arxiv.org/abs/2609.21214) | export.arxiv.org |
+| 2026-09-21 04:00 | [A Fully Differentiable Neuro-Soft-Symbolic Framework for Perceptual Task Planning](https://arxiv.org/abs/2609.21221) | export.arxiv.org |
+| 2026-09-21 04:00 | [CogGym: Towards Large-Scale Comparative Evaluation of Human and Machine Cognition](https://arxiv.org/abs/2609.21259) | export.arxiv.org |
+| 2026-09-21 04:00 | [PlaceReasoner-Beta: Reasoning-Driven Macro Placement and Benchmarking](https://arxiv.org/abs/2609.21263) | export.arxiv.org |
+| 2026-09-21 04:00 | [Efficient Benchmarking in Production: A Study of an Evolving LLM Agent](https://arxiv.org/abs/2609.21267) | export.arxiv.org |
+| 2026-09-21 04:00 | [GameASG-Bench: Benchmarking Autonomous Software Generation for Game Development](https://arxiv.org/abs/2609.21293) | export.arxiv.org |
+| 2026-09-21 04:00 | [LEGIT: Credentialing Protocol for Trustworthy AI Agent Marketplaces](https://arxiv.org/abs/2609.21325) | export.arxiv.org |
+| 2026-09-21 04:00 | [Offline Multimodal Large Language Models for Decision Support in Air Operations](https://arxiv.org/abs/2609.21390) | export.arxiv.org |
+| 2026-09-21 04:00 | [DENSE: Distilling Agent Trajectories into Evidence-Grounded Shortcut Trees for Self-Refinement](https://arxiv.org/abs/2609.21423) | export.arxiv.org |
+| 2026-09-21 04:00 | [GVPO++: Group Variance Policy Optimization for LLM Post-Training and On-Policy Distillation](https://arxiv.org/abs/2609.21432) | export.arxiv.org |
+| 2026-09-21 04:00 | [Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving](https://arxiv.org/abs/2609.21470) | export.arxiv.org |
+| 2026-09-21 04:00 | [Driving on Registers, Reasoning on Risk: Risk-Aware Occupancy for Register-Based End-to-End Autonomous Driving](https://arxiv.org/abs/2609.21486) | export.arxiv.org |
+| 2026-09-21 04:00 | [LogicTrack: Auditing Reasoning Trajectories of Large Language Models with Formal Logic Solvers](https://arxiv.org/abs/2609.21492) | export.arxiv.org |
+| 2026-09-21 04:00 | [PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design](https://arxiv.org/abs/2609.21493) | export.arxiv.org |
+| 2026-09-21 04:00 | [The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models](https://arxiv.org/abs/2609.21509) | export.arxiv.org |
+| 2026-09-21 04:00 | [Learning-to-Optimize as the Missing Architectural Layer of AI-Native Networks](https://arxiv.org/abs/2609.21519) | export.arxiv.org |
+| 2026-09-21 04:00 | [Dual-Interest Sequential Product Recommendation With Multi-Granular SSM](https://arxiv.org/abs/2609.21548) | export.arxiv.org |
+| 2026-09-21 04:00 | [Beyond Accuracy: Centroid-Guided Contrastive Loss for Structured Fraudulent Job Posting Detection](https://arxiv.org/abs/2609.21599) | export.arxiv.org |
+| 2026-09-21 04:00 | [Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education](https://arxiv.org/abs/2609.21600) | export.arxiv.org |
+| 2026-09-21 04:00 | [Calibrating Teacher--Student Discrepancy for On-Policy Distillation](https://arxiv.org/abs/2609.21619) | export.arxiv.org |
+| 2026-09-21 04:00 | [One Prompt Does Not Fit All: Self-Meta-Evolve for Personalized Information Extraction](https://arxiv.org/abs/2609.21626) | export.arxiv.org |
+| 2026-09-21 04:00 | [Accelerating Dense LLMs via L0-regularized Mixture-of-Experts](https://arxiv.org/abs/2609.21672) | export.arxiv.org |
+| 2026-09-21 04:00 | [GUARD: Natural Forgetting in Large Reasoning Models via Guided Answer-Reasoning Distillation](https://arxiv.org/abs/2609.21677) | export.arxiv.org |
+| 2026-09-21 04:00 | [Listen Before You Speak: Response Planning from Listener Facial Reactions for Conversational Speech Generation](https://arxiv.org/abs/2609.21683) | export.arxiv.org |
+| 2026-09-21 04:00 | [World Modeling in Transformers](https://arxiv.org/abs/2609.21748) | export.arxiv.org |
+| 2026-09-21 04:00 | [ECG Mirage: Revealing and Mitigating the Underutilisation of ECGs in Vision-Language Models for Clinical Prediction](https://arxiv.org/abs/2609.21755) | export.arxiv.org |
+| 2026-09-21 04:00 | [LLM-Generated Feature Pools for Time Series Anomaly Detection](https://arxiv.org/abs/2609.21801) | export.arxiv.org |
+| 2026-09-21 04:00 | [WM-VS: Progress-Aligned World Models for Closed-Loop Visual Servoing](https://arxiv.org/abs/2609.20892) | export.arxiv.org |
+| 2026-09-21 04:00 | [AeRove: A Compact Bimodal Aerial-Terrestrial Drone with Rapid Bistable Reconfiguration for Close-Range Pipeline Inspection](https://arxiv.org/abs/2609.20965) | export.arxiv.org |
+| 2026-09-21 04:00 | [Shake to Learn: Dynamic Interrogation of Hidden Object Physics for Robotic Manipulation with Physical Reservoir Computing](https://arxiv.org/abs/2609.20970) | export.arxiv.org |
+| 2026-09-21 04:00 | [ForeTac-VLA: A Forecasting-Based Tactile-Vision-Language-Action Model for Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2609.20980) | export.arxiv.org |
+| 2026-09-21 04:00 | [PIVOT: Physically Informed Vision-Language Off-Road Traversability for Field Robot Navigation](https://arxiv.org/abs/2609.20983) | export.arxiv.org |
+| 2026-09-21 04:00 | [Do Spinning Radar Doppler Velocity Measurements Improve Vehicle Detection and Tracking?](https://arxiv.org/abs/2609.21000) | export.arxiv.org |
+| 2026-09-21 04:00 | [Project SCOUT: Interceptor Drone for Perimeter Defense](https://arxiv.org/abs/2609.21005) | export.arxiv.org |
+| 2026-09-21 04:00 | [SPARROW: Survival-POMCP for Adaptive Robot Routing, Observation, and Waiting](https://arxiv.org/abs/2609.21008) | export.arxiv.org |
+| 2026-09-21 04:00 | [Towards Effective Visual-Inertial SLAM with Passive-Only Sensors for Low-Cost Autonomous Underwater Vehicles](https://arxiv.org/abs/2609.21015) | export.arxiv.org |
+| 2026-09-21 04:00 | [Catch Me If You Can: Real-Time Feedback Denoising for Responsive VLAs](https://arxiv.org/abs/2609.21022) | export.arxiv.org |
+| 2026-09-21 04:00 | [Adapting Rigid-Body Dynamics Derivatives for Constraint Embedding Closed-Chain Models](https://arxiv.org/abs/2609.21024) | export.arxiv.org |
+| 2026-09-21 04:00 | [MAPLE-RF: Efficient Probabilistic RF Source Localization in Partially Explored Environments](https://arxiv.org/abs/2609.21026) | export.arxiv.org |
+| 2026-09-21 04:00 | [DEXTERA: From a Single Image to Deployable Dexterous Manipulation via Real-to-Sim-to-Real](https://arxiv.org/abs/2609.21045) | export.arxiv.org |
+| 2026-09-21 04:00 | [Constraint-Unified MPC for Over-Actuated Surface Vehicles with Post-Detection Fault Reconfiguration](https://arxiv.org/abs/2609.21046) | export.arxiv.org |
+| 2026-09-21 04:00 | [PlantShade: Predicting Plant Shadows for Lighting-Aware Robotic Agricultural Operation](https://arxiv.org/abs/2609.21059) | export.arxiv.org |
+| 2026-09-21 04:00 | [Design of Adaptive PID Controller Based On Asynchronous Advantage Actor Critic Learning Method for QuadCopter Control](https://arxiv.org/abs/2609.21082) | export.arxiv.org |
+| 2026-09-21 04:00 | [Dynamic Modeling and LQR Control of a Single Coaxial Drone with 2DOF Thrust Vectoring Mechanism](https://arxiv.org/abs/2609.21099) | export.arxiv.org |
+| 2026-09-21 04:00 | [Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks](https://arxiv.org/abs/2609.21100) | export.arxiv.org |
+| 2026-09-21 04:00 | [Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations](https://arxiv.org/abs/2609.21107) | export.arxiv.org |
+| 2026-09-21 04:00 | [Demonstration Synthesis from a Single Scan via Gaussian Splatting for Visuomotor Policy Learning](https://arxiv.org/abs/2609.21112) | export.arxiv.org |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -78,24 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        addyosmani /
-
-      agent-skills  
-
-    
-      Production-grade engineering skills for AI coding agents. |
-| 2 | [login?return_to=%2Fhiggsfield-ai%2Fhiggsfield" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:134999697,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fhiggsfield-ai%2Fhiggsfield" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:134999697,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 1 | [login?return_to=%2Fhiggsfield-ai%2Fhiggsfield" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:134999697,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fhiggsfield-ai%2Fhiggsfield" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:134999697,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -112,7 +95,7 @@
 
     
       Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters |
-| 3 | [login?return_to=%2Fdocling-project%2Fdocling" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:826168160,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fdocling-project%2Fdocling" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:826168160,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+| 2 | [login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Faddyosmani%2Fagent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1158722119,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
   
@@ -123,29 +106,12 @@
 
 
       
-        docling-project /
+        addyosmani /
 
-      docling  
-
-    
-      Get your documents ready for gen AI |
-| 4 | [login?return_to=%2Fcactus-compute%2Fneedle" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165361576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcactus-compute%2Fneedle" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1165361576,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        cactus-compute /
-
-      needle  
+      agent-skills  
 
     
-      Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers. |
+      Production-grade engineering skills for AI coding agents. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
@@ -316,7 +282,41 @@
 
     
       Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active |
-| 9 | [sponsors/supabase](https://github.com/sponsors/supabase) | Sponsor
+| 9 | [login?return_to=%2Fcline%2Fcline" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:824874689,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fcline%2Fcline" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:824874689,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        cline /
+
+      cline  
+
+    
+      Autonomous coding agent as an SDK, IDE extension, or CLI assistant. |
+| 10 | [login?return_to=%2Fpetergyang%2Fno-ai-slop" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1291783779,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fpetergyang%2Fno-ai-slop" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1291783779,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        petergyang /
+
+      no-ai-slop  
+
+    
+      Removes 20+ patterns of AI slop from any piece of writing. |
+| 11 | [sponsors/supabase](https://github.com/sponsors/supabase) | Sponsor
     
   
 
@@ -346,23 +346,6 @@
 
     
       The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. |
-| 10 | [login?return_to=%2Fhuggingface%2Ftransformers" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:155220641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fhuggingface%2Ftransformers" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:155220641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=weekly&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        huggingface /
-
-      transformers  
-
-    
-      🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. |
 
 
 _自动生成 · 配置与脚本见 `ai_robotics_daily.py`。_
