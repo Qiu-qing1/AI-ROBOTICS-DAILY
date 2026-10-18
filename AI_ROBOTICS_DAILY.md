@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-10-17 05:52 UTC）
+# AI & 机器人 技术热点日报（2026-10-18 06:19 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,12 +10,14 @@
 
 |---|---|---|
 
+| 2026-10-17 21:33 | [ADI explains the race to make AI physical](https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/) | www.therobotreport.com |
+| 2026-10-17 12:30 | [The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies](https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/) | www.therobotreport.com |
 | 2026-10-16 23:39 | [Why opportunity charging is winning as robot fleets scale](https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/) | www.therobotreport.com |
 | 2026-10-16 19:00 | [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai) | openai.com |
 | 2026-10-16 17:57 | [MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program](https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/) | www.therobotreport.com |
 | 2026-10-16 16:30 | [Video Friday: When Two Robots Become One](https://spectrum.ieee.org/video-friday-reconfigurable-robots) | spectrum.ieee.org |
-| 2026-10-16 00:00 | [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin) | openai.com |
 | 2026-10-16 00:00 | [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners) | openai.com |
+| 2026-10-16 00:00 | [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin) | openai.com |
 | 2026-10-15 19:00 | [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan) | openai.com |
 | 2026-10-15 16:54 | [Stryker invests $400M into CMR Surgical](https://www.therobotreport.com/stryker-invests-400m-into-cmr-surgical/) | www.therobotreport.com |
 | 2026-10-15 16:39 | [How ADI is helping robotics startups scale](https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale-2/) | www.therobotreport.com |
@@ -41,11 +43,9 @@
 | 2026-10-12 14:30 | [Closing the reality gap: Why real-time execution has become the new competitive advantage](https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage/) | www.therobotreport.com |
 | 2026-10-11 12:36 | [Will ‘boring’ robots win in the real world? Why robotic form should follow workflow](https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/) | www.therobotreport.com |
 | 2026-10-10 12:45 | [Why dexterity is physical AI’s real bottleneck](https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/) | www.therobotreport.com |
-| 2026-10-09 19:28 | [Why humanoid robot demos still fail the generalization test](https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/) | www.therobotreport.com |
-| 2026-10-09 16:59 | [Boston Dynamics gives more insight into its redesigned humanoid hand](https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/) | www.therobotreport.com |
 | 2026-10-09 15:30 | [Video Friday: Robot Decommissioning Takes a Fun Turn](https://spectrum.ieee.org/video-friday-reachy-mini-raps) | spectrum.ieee.org |
-| 2026-10-09 07:00 | [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos) | openai.com |
 | 2026-10-09 07:00 | [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent) | openai.com |
+| 2026-10-09 07:00 | [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos) | openai.com |
 | 2026-10-08 16:00 | [How Oracle turns days of work into minutes with ChatGPT and Codex](https://openai.com/index/oracle) | openai.com |
 | 2026-10-08 12:00 | [This Disembodied Hand Is All the Robot You Need](https://spectrum.ieee.org/walking-robotic-hand) | spectrum.ieee.org |
 | 2026-10-08 12:00 | [Pollo AI turns creative ideas into campaigns with OpenAI](https://openai.com/index/pollo-ai) | openai.com |
@@ -78,71 +78,7 @@
 
 |---:|---|---|
 
-| 1 | [login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1079456184,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1079456184,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        K-Dense-AI /
-
-      scientific-agent-skills  
-
-    
-      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
-| 2 | [sponsors/mksglu](https://github.com/sponsors/mksglu) | Sponsor
-    
-  
-
-
-
-      
-            
-    
-
-    
-
-        
-          Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        mksglu /
-
-      context-mode  
-
-    
-      Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
-| 3 | [login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
-
-
-  
-
-  
-    
-    
-
-
-      
-        ruvnet /
-
-      ruflo  
-
-    
-      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
-| 4 | [sponsors/MadsLorentzen](https://github.com/sponsors/MadsLorentzen) | Sponsor
+| 1 | [sponsors/MadsLorentzen](https://github.com/sponsors/MadsLorentzen) | Sponsor
     
   
 
@@ -172,6 +108,57 @@
 
     
       The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
+| 2 | [login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1079456184,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2FK-Dense-AI%2Fscientific-agent-skills" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1079456184,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        K-Dense-AI /
+
+      scientific-agent-skills  
+
+    
+      Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
+| 3 | [login?return_to=%2Fakitaonrails%2Fai-memory" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1246148135,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fakitaonrails%2Fai-memory" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1246148135,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        akitaonrails /
+
+      ai-memory  
+
+    
+      Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
+| 4 | [login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fruvnet%2Fruflo" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:995029641,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
+
+
+  
+
+  
+    
+    
+
+
+      
+        ruvnet /
+
+      ruflo  
+
+    
+      🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
 | 5 | [login?return_to=%2Fxerj-org%2Fxerj" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1284653133,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fxerj-org%2Fxerj" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1284653133,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
@@ -188,7 +175,7 @@
       xerj  
 
     
-      XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work. |
+      XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs. |
 
 
 ## ⭐ GitHub Trending（Weekly，AI/机器人过滤）
