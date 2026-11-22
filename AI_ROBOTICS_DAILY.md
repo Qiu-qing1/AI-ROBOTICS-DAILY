@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-11-21 08:33 UTC）
+# AI & 机器人 技术热点日报（2026-11-22 08:28 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,7 @@
 
 |---|---|---|
 
+| 2026-11-21 22:25 | [The manufacturing data gap holding back physical AI](https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/) | www.therobotreport.com |
 | 2026-11-21 00:55 | [Medtronic’s Hugo surgical robot ready for bigger operation](https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/) | www.therobotreport.com |
 | 2026-11-20 17:30 | [Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces](https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor) | spectrum.ieee.org |
 | 2026-11-20 17:04 | [MassRobotics launching marine robotics facility on Boston Harbor](https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/) | www.therobotreport.com |
@@ -69,7 +70,6 @@
 | 2026-11-14 13:00 | [Food robotics 2.0: why this time could be different](https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/) | www.therobotreport.com |
 | 2026-11-13 17:30 | [Video Friday: NASA PROMISEs a New Moon Rover](https://spectrum.ieee.org/video-friday-moon-rover-promise) | spectrum.ieee.org |
 | 2026-11-13 16:32 | [Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial](https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/) | www.therobotreport.com |
-| 2026-11-13 15:00 | [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet) | openai.com |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
@@ -158,7 +158,7 @@
       app-store-compliance  
 
     
-      Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents. |
+      Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents. |
 | 5 | [login?return_to=%2Fzhouxiaoka%2Fautoclip" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1015815983,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}](https://github.com/login?return_to=%2Fzhouxiaoka%2Fautoclip" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1015815983,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/trending?since=daily&quot;,&quot;user_id&quot;:null}}) | Star
 
 
