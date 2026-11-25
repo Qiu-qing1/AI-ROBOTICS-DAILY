@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-11-24 11:22 UTC）
+# AI & 机器人 技术热点日报（2026-11-25 10:07 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,6 +10,15 @@
 
 |---|---|---|
 
+| 2026-11-24 19:30 | [We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/) | blog.google |
+| 2026-11-24 18:03 | [Robotics Summit 2027 opens call for speakers](https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/) | www.therobotreport.com |
+| 2026-11-24 16:00 | [How Gemini is changing the game for Golden State's organization and fans.](https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/) | blog.google |
+| 2026-11-24 14:48 | [SoftBank acquires Marc Raibert’s Robotics and AI Institute](https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/) | www.therobotreport.com |
+| 2026-11-24 13:00 | [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) | openai.com |
+| 2026-11-24 11:00 | [Searching for distant planets with Astra](https://openai.com/index/searching-for-distant-planets-with-astra) | openai.com |
+| 2026-11-24 00:00 | [How Intentful uses dots to make more time for growth](https://openai.com/business/customer-stories/intentful-dots) | openai.com |
+| 2026-11-24 00:00 | [How iFood scales coding agents across 15,000 repositories](https://openai.com/business/customer-stories/ifood) | openai.com |
+| 2026-11-24 00:00 | [Clay helps sales teams win with Codex and ChatGPT](https://openai.com/business/customer-stories/clay-plugins-openai) | openai.com |
 | 2026-11-23 21:20 | [OpenAI and Cisco introduce Shirudo](https://openai.com/index/introducing-shirudo) | openai.com |
 | 2026-11-23 20:29 | [How does Orchard AI fit into John Deere’s technology portfolio?](https://www.therobotreport.com/how-does-orchard-ai-fit-into-john-deeres-technology-portfolio/) | www.therobotreport.com |
 | 2026-11-23 17:00 | [A more tailored Google Search that’s uniquely yours](https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/) | blog.google |
@@ -32,17 +41,17 @@
 | 2026-11-19 17:00 | [Walter Isaacson on curiosity and creativity in the AI age.](https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/) | blog.google |
 | 2026-11-19 08:00 | [How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast) | openai.com |
 | 2026-11-19 00:00 | [See PR scans in action](https://openai.com/business/learn/pr-scans-demo) | openai.com |
-| 2026-11-19 00:00 | [Get started with Daybreak Blue](https://openai.com/business/learn/daybreak-blue-onboarding-demo) | openai.com |
-| 2026-11-19 00:00 | [Explore the Codex Security Plugin](https://openai.com/business/learn/codex-security-plugin-demo) | openai.com |
 | 2026-11-19 00:00 | [Deploying Daybreak Red](https://openai.com/business/learn/deploying-daybreak-red) | openai.com |
+| 2026-11-19 00:00 | [Explore the Codex Security Plugin](https://openai.com/business/learn/codex-security-plugin-demo) | openai.com |
+| 2026-11-19 00:00 | [Get started with Daybreak Blue](https://openai.com/business/learn/daybreak-blue-onboarding-demo) | openai.com |
 | 2026-11-18 22:43 | [Humyn Labs raises $47M to collect real-world data for robotics](https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/) | www.therobotreport.com |
 | 2026-11-18 18:00 | [From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics](https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/) | www.therobotreport.com |
 | 2026-11-18 18:00 | [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/) | blog.google |
 | 2026-11-18 17:00 | [The Gemini app is now available on lower-memory Android devices.](https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/) | blog.google |
 | 2026-11-18 16:44 | [Rockwell Automation acquiring mobile robot maker AGILOX](https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/) | www.therobotreport.com |
 | 2026-11-18 10:00 | [The Silent Consensus](https://openai.com/index/the-silent-consensus) | openai.com |
-| 2026-11-18 08:00 | [Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier) | openai.com |
 | 2026-11-18 08:00 | [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life) | openai.com |
+| 2026-11-18 08:00 | [Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier) | openai.com |
 | 2026-11-18 08:00 | [Inside the Codex sandbox](https://openai.com/index/inside-the-codex-sandbox) | openai.com |
 | 2026-11-18 06:00 | [Managing frontier AI risk: From training to deployment](https://openai.com/index/managing-frontier-ai-risk) | openai.com |
 | 2026-11-18 00:00 | [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership) | openai.com |
@@ -52,24 +61,15 @@
 | 2026-11-17 19:58 | [Learn how AI is changing supply chain robotics](https://www.therobotreport.com/learn-how-ai-is-changing-supply-chain-robotics/) | www.therobotreport.com |
 | 2026-11-17 17:45 | [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol) | openai.com |
 | 2026-11-17 17:00 | [Put Gemini to work for you](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/) | blog.google |
-| 2026-11-17 14:49 | [Boston Dynamics’ Atlas humanoid lands first non-automotive trial](https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/) | www.therobotreport.com |
 | 2026-11-17 08:00 | [Introducing ChatGPT for Sales](https://openai.com/index/introducing-chatgpt-for-sales) | openai.com |
 | 2026-11-17 00:00 | [Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai) | openai.com |
-| 2026-11-17 00:00 | [Astra for Law leads in legal intelligence](https://openai.com/index/astra-law-6-2) | openai.com |
 | 2026-11-17 00:00 | [Introducing OpenAI for Chile](https://openai.com/index/introducing-openai-for-chile) | openai.com |
-| 2026-11-16 23:49 | [The hidden reason most robots fail on the factory floor](https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/) | www.therobotreport.com |
+| 2026-11-17 00:00 | [Astra for Law leads in legal intelligence](https://openai.com/index/astra-law-6-2) | openai.com |
 | 2026-11-16 17:00 | [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers) | openai.com |
 | 2026-11-16 17:00 | [Strengthening the fight against online child sexual abuse with new tools and support](https://openai.com/index/strengthening-online-child-safety) | openai.com |
 | 2026-11-16 14:00 | [Can Robots Bring Stroke Surgery to Remote Hospitals?](https://spectrum.ieee.org/telesurgery-stroke) | spectrum.ieee.org |
 | 2026-11-16 14:00 | [New Ask Maps features to help with holiday travel and prep](https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/) | blog.google |
 | 2026-11-16 12:00 | [Science at the Frontier: How scientists use ChatGPT](https://openai.com/index/science-at-the-frontier) | openai.com |
-| 2026-11-16 10:00 | [28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?](https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security) | spectrum.ieee.org |
-| 2026-11-16 09:30 | [How Revolut raises ambition without lowering the bar](https://openai.com/business/customer-stories/revolut) | openai.com |
-| 2026-11-16 09:00 | [LVMH’s Media Division announces strategic partnership with OpenAI](https://openai.com/index/lvmh-media-division-partnership) | openai.com |
-| 2026-11-16 08:00 | [Our first phase of embedded assessments](https://openai.com/index/our-first-phase-of-embedded-assessments) | openai.com |
-| 2026-11-16 06:00 | [More ways to move care forward with ChatGPT for Healthcare](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare) | openai.com |
-| 2026-11-16 06:00 | [Advancing computer-use agents for healthcare teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams) | openai.com |
-| 2026-11-16 00:00 | [The King’s Trust and OpenAI launch £1m partnership](https://openai.com/index/the-kings-trust-and-openai) | openai.com |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
