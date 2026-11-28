@@ -1,4 +1,4 @@
-# AI & 机器人 技术热点日报（2026-11-27 09:55 UTC）
+# AI & 机器人 技术热点日报（2026-11-28 09:09 UTC）
 
 
 > 来源包含：arXiv（cs.AI/cs.RO）、OpenAI/DeepMind/Google/Meta/NVIDIA、IEEE Spectrum Robotics、The Robot Report 等官方/媒体 RSS，以及按关键词/Topic 过滤的 GitHub Trending。
@@ -10,46 +10,7 @@
 
 |---|---|---|
 
-| 2026-11-27 05:00 | [Context Scaling: A New Frontier of AI Scaling](https://arxiv.org/abs/2611.33160) | export.arxiv.org |
-| 2026-11-27 05:00 | [Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection](https://arxiv.org/abs/2611.33161) | export.arxiv.org |
-| 2026-11-27 05:00 | [AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics](https://arxiv.org/abs/2611.33165) | export.arxiv.org |
-| 2026-11-27 05:00 | [General-Purpose Decision Models for AI Configuration Tuning](https://arxiv.org/abs/2611.33190) | export.arxiv.org |
-| 2026-11-27 05:00 | [What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning](https://arxiv.org/abs/2611.33263) | export.arxiv.org |
-| 2026-11-27 05:00 | [Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data](https://arxiv.org/abs/2611.33303) | export.arxiv.org |
-| 2026-11-27 05:00 | [The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation](https://arxiv.org/abs/2611.33304) | export.arxiv.org |
-| 2026-11-27 05:00 | [Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands](https://arxiv.org/abs/2611.33322) | export.arxiv.org |
-| 2026-11-27 05:00 | [Confidence scores for gated automation of large language models](https://arxiv.org/abs/2611.33394) | export.arxiv.org |
-| 2026-11-27 05:00 | [Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows](https://arxiv.org/abs/2611.33402) | export.arxiv.org |
-| 2026-11-27 05:00 | [Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition](https://arxiv.org/abs/2611.33411) | export.arxiv.org |
-| 2026-11-27 05:00 | [Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion](https://arxiv.org/abs/2611.33470) | export.arxiv.org |
-| 2026-11-27 05:00 | [CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation](https://arxiv.org/abs/2611.33497) | export.arxiv.org |
-| 2026-11-27 05:00 | [Learning to Reason in Real-Time](https://arxiv.org/abs/2611.33513) | export.arxiv.org |
-| 2026-11-27 05:00 | [PeerReveal: Learning to Generalize in AI Peer Review Detection](https://arxiv.org/abs/2611.33555) | export.arxiv.org |
-| 2026-11-27 05:00 | [FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation](https://arxiv.org/abs/2611.33563) | export.arxiv.org |
-| 2026-11-27 05:00 | [Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements](https://arxiv.org/abs/2611.33594) | export.arxiv.org |
-| 2026-11-27 05:00 | [Learning from Natural Images Untangles Number Sense](https://arxiv.org/abs/2611.33615) | export.arxiv.org |
-| 2026-11-27 05:00 | [Controllable CAD Generation and Interactive Editing of Fluid Rotors](https://arxiv.org/abs/2611.33617) | export.arxiv.org |
-| 2026-11-27 05:00 | [How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches](https://arxiv.org/abs/2611.33639) | export.arxiv.org |
-| 2026-11-27 05:00 | [SlicePlanner: Logic-Guided Agentic AI for Online QoS-Aware Network Slicing in Open RAN](https://arxiv.org/abs/2611.33664) | export.arxiv.org |
-| 2026-11-27 05:00 | [Interactive Proofs as a Unified Framework for Evaluating and Leveraging Verifiable Proof Generation by LLM Agents](https://arxiv.org/abs/2611.33676) | export.arxiv.org |
-| 2026-11-27 05:00 | [Faster and Better Query (FBQ): Learning Future-Position Probes from the First Generated Token](https://arxiv.org/abs/2611.33679) | export.arxiv.org |
-| 2026-11-27 05:00 | [EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning](https://arxiv.org/abs/2611.33706) | export.arxiv.org |
-| 2026-11-27 05:00 | [P-FedSkill: A Personalized Federated Skill Learning Framework under Task Heterogeneity](https://arxiv.org/abs/2611.33707) | export.arxiv.org |
-| 2026-11-27 05:00 | [PowerFix: Physics-Guided Iterative Repair for LLM-Assisted Power Converter Design](https://arxiv.org/abs/2611.33712) | export.arxiv.org |
-| 2026-11-27 05:00 | [KeyDeck: Multi-Paper-to-Slide Generation via Cross-Paper Synthesis and Reference-Guided Personalization](https://arxiv.org/abs/2611.33715) | export.arxiv.org |
-| 2026-11-27 05:00 | [Asset4D-Bench: Benchmarking Coding Agents for Editable 3D and 4D Reconstruction](https://arxiv.org/abs/2611.33728) | export.arxiv.org |
-| 2026-11-27 05:00 | [JOVE ICE: Intent Guided Cloud Edge Device Collaboration for AI Glasses](https://arxiv.org/abs/2611.33735) | export.arxiv.org |
-| 2026-11-27 05:00 | [WhatIf: Counterfactual World Models over Action-Grounded Causal Graphs for Robotic Manipulation](https://arxiv.org/abs/2611.33745) | export.arxiv.org |
-| 2026-11-27 05:00 | [REFORGE: LLM-Assisted RTL Bug Repair with Structured Context and Verification Feedback](https://arxiv.org/abs/2611.33748) | export.arxiv.org |
-| 2026-11-27 05:00 | [TransHarness: From Benchmark Overfitting to Transferable Harness Evolution](https://arxiv.org/abs/2611.33757) | export.arxiv.org |
-| 2026-11-27 05:00 | [Improving Building Energy Efficiency with an Indoor Environmental World Model and Counterfactual Adaptive Learning](https://arxiv.org/abs/2611.33764) | export.arxiv.org |
-| 2026-11-27 05:00 | [CHD-Bench: Diagnosing Congenital Heart Disease through Interactive Examination](https://arxiv.org/abs/2611.33775) | export.arxiv.org |
-| 2026-11-27 05:00 | [InterGenEHR$^+$: An Interactive Framework for Natural Language-Conditioned Generation of Longitudinal Patient Trajectories](https://arxiv.org/abs/2611.33788) | export.arxiv.org |
-| 2026-11-27 05:00 | [ExtractBench Pro: The Long Tail of Document Extraction](https://arxiv.org/abs/2611.33791) | export.arxiv.org |
-| 2026-11-27 05:00 | [Keep or Roll Back? Out-of-Loop Judges for Self-Improving VLA and End-to-End Embodied Policies](https://arxiv.org/abs/2611.33794) | export.arxiv.org |
-| 2026-11-27 05:00 | [Ensuring Deployment-Time Safety of Neural Network Controlled Systems via Localized Certificate Repair](https://arxiv.org/abs/2611.33813) | export.arxiv.org |
-| 2026-11-27 05:00 | [Spectral Optimal Transport for Dynamics-Aware Sign Language Generation](https://arxiv.org/abs/2611.33818) | export.arxiv.org |
-| 2026-11-27 05:00 | [RadOncGym: An Agent-Based Framework for Radiotherapy Dose-Mimicking Optimization](https://arxiv.org/abs/2611.33821) | export.arxiv.org |
+| 2026-11-27 13:56 | [GXO doubling down on robotics in 2027](https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/) | www.therobotreport.com |
 | 2026-11-25 18:24 | [How Vention is cutting factory programming from weeks to minutes](https://www.therobotreport.com/how-vention-is-cutting-factory-programming-from-weeks-to-minutes/) | www.therobotreport.com |
 | 2026-11-25 17:00 | [FCC should focus on robot security, not country of origin](https://www.therobotreport.com/fcc-should-focus-on-robot-security-not-country-of-origin/) | www.therobotreport.com |
 | 2026-11-25 15:00 | [How DARPA Challenged Teams to Bring Robots Into Disaster Triage](https://spectrum.ieee.org/darpa-triage-challenge-final-robots) | spectrum.ieee.org |
@@ -70,6 +31,45 @@
 | 2026-11-23 08:00 | [Connected intelligence for in-house legal](https://openai.com/business/learn/connected-intelligence-for-in-house-legal) | openai.com |
 | 2026-11-23 08:00 | [Richpanel helps companies automate 50% of support in 30 days](https://openai.com/business/customer-stories/richpanel-ai-customer-support) | openai.com |
 | 2026-11-22 00:00 | [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence) | openai.com |
+| 2026-11-21 22:25 | [The manufacturing data gap holding back physical AI](https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/) | www.therobotreport.com |
+| 2026-11-21 00:55 | [Medtronic’s Hugo surgical robot ready for bigger operation](https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/) | www.therobotreport.com |
+| 2026-11-20 17:30 | [Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces](https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor) | spectrum.ieee.org |
+| 2026-11-20 17:04 | [MassRobotics launching marine robotics facility on Boston Harbor](https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/) | www.therobotreport.com |
+| 2026-11-20 10:00 | [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation) | openai.com |
+| 2026-11-20 03:06 | [Robotics enters its post-Jensen Huang era](https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/) | www.therobotreport.com |
+| 2026-11-20 00:00 | [Hebbia sees improvements in financial research with GPT-6 Astra](https://openai.com/business/customer-stories/hebbia) | openai.com |
+| 2026-11-20 00:00 | [Can AI help scientists identify promising drug candidates?](https://openai.com/index/introducing-medchembench) | openai.com |
+| 2026-11-19 18:00 | [Introducing Tool Retrieval in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/) | blog.google |
+| 2026-11-19 17:01 | [What industrial drone deployments reveal about real-world autonomy challenges](https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/) | www.therobotreport.com |
+| 2026-11-19 17:00 | [Genie 4 is now available on the Gemini API.](https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/) | blog.google |
+| 2026-11-19 17:00 | [Walter Isaacson on curiosity and creativity in the AI age.](https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/) | blog.google |
+| 2026-11-19 08:00 | [How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast) | openai.com |
+| 2026-11-19 00:00 | [See PR scans in action](https://openai.com/business/learn/pr-scans-demo) | openai.com |
+| 2026-11-19 00:00 | [Deploying Daybreak Red](https://openai.com/business/learn/deploying-daybreak-red) | openai.com |
+| 2026-11-19 00:00 | [Explore the Codex Security Plugin](https://openai.com/business/learn/codex-security-plugin-demo) | openai.com |
+| 2026-11-19 00:00 | [Get started with Daybreak Blue](https://openai.com/business/learn/daybreak-blue-onboarding-demo) | openai.com |
+| 2026-11-18 22:43 | [Humyn Labs raises $47M to collect real-world data for robotics](https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/) | www.therobotreport.com |
+| 2026-11-18 18:00 | [From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics](https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/) | www.therobotreport.com |
+| 2026-11-18 18:00 | [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/) | blog.google |
+| 2026-11-18 17:00 | [The Gemini app is now available on lower-memory Android devices.](https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/) | blog.google |
+| 2026-11-18 10:00 | [The Silent Consensus](https://openai.com/index/the-silent-consensus) | openai.com |
+| 2026-11-18 08:00 | [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life) | openai.com |
+| 2026-11-18 08:00 | [Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier) | openai.com |
+| 2026-11-18 08:00 | [Inside the Codex sandbox](https://openai.com/index/inside-the-codex-sandbox) | openai.com |
+| 2026-11-18 06:00 | [Managing frontier AI risk: From training to deployment](https://openai.com/index/managing-frontier-ai-risk) | openai.com |
+| 2026-11-18 00:00 | [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership) | openai.com |
+| 2026-11-18 00:00 | [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models) | openai.com |
+| 2026-11-17 22:00 | [How genome mapping can help researchers better understand disease](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/) | blog.google |
+| 2026-11-17 17:45 | [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol) | openai.com |
+| 2026-11-17 17:00 | [Put Gemini to work for you](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/) | blog.google |
+| 2026-11-17 08:00 | [Introducing ChatGPT for Sales](https://openai.com/index/introducing-chatgpt-for-sales) | openai.com |
+| 2026-11-17 00:00 | [Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai) | openai.com |
+| 2026-11-17 00:00 | [Introducing OpenAI for Chile](https://openai.com/index/introducing-openai-for-chile) | openai.com |
+| 2026-11-17 00:00 | [Astra for Law leads in legal intelligence](https://openai.com/index/astra-law-6-2) | openai.com |
+| 2026-11-16 17:00 | [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers) | openai.com |
+| 2026-11-16 17:00 | [Strengthening the fight against online child sexual abuse with new tools and support](https://openai.com/index/strengthening-online-child-safety) | openai.com |
+| 2026-11-16 14:00 | [Can Robots Bring Stroke Surgery to Remote Hospitals?](https://spectrum.ieee.org/telesurgery-stroke) | spectrum.ieee.org |
+| 2026-11-16 14:00 | [New Ask Maps features to help with holiday travel and prep](https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/) | blog.google |
 
 
 ## ⭐ GitHub Trending（Daily，AI/机器人过滤）
